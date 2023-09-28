@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             28-09-2023 04:04
+BSW 5.4 station information file for EPN processing             28-09-2023 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -226,7 +226,7 @@ LCRA 18491M001        001  2018 06 22 00 00 00                       LCRA*      
 LDB2 14114M002        001  2005 10 25 10 00 00                       LDB2*                 ldb2_20230419.log
 LEIJ 14267M001        001  2001 07 03 12 00 00                       LEIJ*                 leij_20230419.log
 LEK6 10433M002        001  2011 06 15 00 00 00                       LEK6*                 lek6_20221109.log
-LEON 13475M001        001  2007 03 26 00 00 00                       LEON*                 leon_20230724.log
+LEON 13475M001        001  2007 03 26 00 00 00                       LEON*                 leon_20230928.log
 LERI 19159M003        001  2009 06 16 15 00 00                       LERI*                 leri_20230901.log
 LICC 15201M001        001  2020 01 08 00 00 00                       LICC*                 licc_20230329.log
 LIDA 14806M001        001  2011 09 01 00 00 00                       LIDA*                 lida_20220310.log
@@ -3291,7 +3291,8 @@ LEON 13475M001        001  2020 03 25 12 00 00  2021 04 07 00 00 00  LEICA GR25 
 LEON 13475M001        001  2021 04 07 00 00 00  2023 06 12 12 00 00  LEICA GR25                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0600          LEON00ESP  LEON00ESP               
 LEON 13475M001        001  2023 06 12 12 00 00  2023 06 21 12 01 00  LEICA GR25                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0600          LEON00ESP  LEON00ESP               
 LEON 13475M001        001  2023 06 21 12 01 00  2023 07 24 08 00 00  LEICA GR25                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0600          LEON00ESP  LEON00ESP               
-LEON 13475M001        001  2023 07 24 08 00 00                       LEICA GR25                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0600          LEON00ESP  LEON00ESP               
+LEON 13475M001        001  2023 07 24 08 00 00  2023 09 24 12 00 00  LEICA GR25                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0600          LEON00ESP  LEON00ESP               
+LEON 13475M001        001  2023 09 24 12 00 00                       LEICA GR50                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0600          LEON00ESP  LEON00ESP               
 LERI 19159M003        001  2009 06 16 15 00 00  2009 09 11 10 26 00  LEICA GRX1200+GNSS                          999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040          LERI00GBR  LERI00GBR               
 LERI 19159M003        001  2009 09 11 10 26 00  2011 04 20 08 31 00  LEICA GRX1200+GNSS                          999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040          LERI00GBR  LERI00GBR               
 LERI 19159M003        001  2011 04 20 08 31 00  2015 06 03 15 23 00  LEICA GRX1200+GNSS                          999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040          LERI00GBR  LERI00GBR               
