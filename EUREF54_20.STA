@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             04-10-2023 04:04
+BSW 5.4 station information file for EPN processing             04-10-2023 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -277,7 +277,7 @@ MNKW 14802M002        001  2010 02 01 00 00 00                       MNKW*      
 MNSK 14802M001        001  2002 02 07 08 20 00                       MNSK*                 mnsk_20220310.log
 MOGI 14807M001        001  2011 06 01 00 00 00                       MOGI*                 mogi_20220310.log
 MOP2 11507M002        001  2007 12 05 15 00 00                       MOP2*                 mop2_20230908.log
-MOPI 11507M001        001  1996 06 10 00 00 00                       MOPI*                 mopi_20191224.log
+MOPI 11507M001        001  1996 06 10 00 00 00                       MOPI*                 mopi_20231004.log
 MOPS 12791M001        001  2007 02 12 00 00 00                       MOPS*                 mops_20230711.log
 MORP 13299S001        001  1996 10 31 00 00 00                       MORP*                 morp_20200203.log
 MSEL 12711M008        001  1996 07 23 00 00 00                       MSEL*                 msel_20230622.log
@@ -3917,7 +3917,8 @@ MOPI 11507M001        001  2006 07 24 10 30 00  2010 06 22 08 30 00  TRIMBLE 400
 MOPI 11507M001        001  2010 06 22 08 30 00  2016 07 06 08 00 00  TRIMBLE 4000SSE                             999999  TRM14532.00     DOME                        999999    0.0000    0.0000    0.0870          MOPI00SVK  MOPI00SVK               
 MOPI 11507M001        001  2016 07 06 08 00 00  2019 12 20 10 00 00  TRIMBLE 4000SSE                             999999  TRM14532.00     DOME                        999999    0.0000    0.0000    0.0870          MOPI00SVK  MOPI00SVK               
 MOPI 11507M001        001  2019 12 20 10 00 00  2019 12 22 07 35 00  TRIMBLE NETR5                               999999  TRM14532.00     DOME                        999999    0.0000    0.0000    0.0870          MOPI00SVK  MOPI00SVK               
-MOPI 11507M001        001  2019 12 22 07 35 00                       TRIMBLE NETR5                               999999  TRM14532.00     DOME                        999999    0.0000    0.0000    0.0870          MOPI00SVK  MOPI00SVK               
+MOPI 11507M001        001  2019 12 22 07 35 00  2023 10 04 09 00 00  TRIMBLE NETR5                               999999  TRM14532.00     DOME                        999999    0.0000    0.0000    0.0870          MOPI00SVK  MOPI00SVK               
+MOPI 11507M001        001  2023 10 04 09 00 00                       TRIMBLE NETR9                               999999  TRM14532.00     DOME                        999999    0.0000    0.0000    0.0870          MOPI00SVK  MOPI00SVK               
 MOPS 12791M001        001  2007 02 12 00 00 00  2008 12 01 15 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0083          MOPS00ITA  MOPS00ITA               
 MOPS 12791M001        001  2008 12 01 15 00 00  2009 04 27 13 15 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0083          MOPS00ITA  MOPS00ITA               
 MOPS 12791M001        001  2009 04 27 13 15 00  2010 04 30 19 05 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0083          MOPS00ITA  MOPS00ITA               
