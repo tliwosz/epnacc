@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             11-10-2023 04:04
+BSW 5.4 station information file for EPN processing             11-10-2023 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -25,6 +25,7 @@ ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*      
 ARGI 10117M002        001  2008 09 25 00 00 00                       ARGI*                 argi_20221129.log
 ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*                 aris_20230831.log
 ARJ6 10428M002        001  2011 07 29 00 00 00                       ARJ6*                 arj6_20230119.log
+ASGA 25401M001        001  2021 07 27 08 00 00                       ASGA*                 asga_20230919.log
 ASIR 14668M001        001  2021 07 02 10 00 00                       ASIR*                 asir_20230607.log
 AUBG 10913M001        001  2012 10 10 00 00 00                       AUBG*                 aubg_20230324.log
 AUT1 12619M002        001  2005 03 29 00 00 00                       AUT1*                 aut1_20201009.log
@@ -226,7 +227,7 @@ LCRA 18491M001        001  2018 06 22 00 00 00                       LCRA*      
 LDB2 14114M002        001  2005 10 25 10 00 00                       LDB2*                 ldb2_20230419.log
 LEIJ 14267M001        001  2001 07 03 12 00 00                       LEIJ*                 leij_20230419.log
 LEK6 10433M002        001  2011 06 15 00 00 00                       LEK6*                 lek6_20221109.log
-LEON 13475M001        001  2007 03 26 00 00 00                       LEON*                 leon_20230928.log
+LEON 13475M001        001  2007 03 26 00 00 00                       LEON*                 leon_20231011.log
 LERI 19159M003        001  2009 06 16 15 00 00                       LERI*                 leri_20230901.log
 LICC 15201M001        001  2020 01 08 00 00 00                       LICC*                 licc_20230329.log
 LIDA 14806M001        001  2011 09 01 00 00 00                       LIDA*                 lida_20220310.log
@@ -690,6 +691,12 @@ ARJ6 10428M002        001  2018 10 22 11 00 00  2019 11 05 18 00 00  TRIMBLE NET
 ARJ6 10428M002        001  2019 11 05 18 00 00  2020 06 16 12 30 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
 ARJ6 10428M002        001  2020 06 16 12 30 00  2022 11 15 09 10 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
 ARJ6 10428M002        001  2022 11 15 09 10 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
+ASGA 25401M001        001  2021 07 27 08 00 00  2021 09 15 00 00 00  TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000                     Asgata, CY              
+ASGA 25401M001        001  2021 09 15 00 00 00  2022 07 07 00 00 00  TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000                     Asgata, CY              
+ASGA 25401M001        001  2022 07 07 00 00 00  2022 11 10 00 00 00  TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000                     Asgata, CY              
+ASGA 25401M001        001  2022 11 10 00 00 00  2023 01 21 00 00 00  TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000                     Asgata, CY              
+ASGA 25401M001        001  2023 01 21 00 00 00  2023 09 11 00 00 00  TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000                     Asgata, CY              
+ASGA 25401M001        001  2023 09 11 00 00 00                       TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000                     Asgata, CY              
 ASIR 14668M001        001  2021 07 02 10 00 00  2022 04 21 10 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ASIR00ITA  ASIR00ITA               
 ASIR 14668M001        001  2022 04 21 10 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ASIR00ITA  ASIR00ITA               
 AUBG 10913M001        001  2012 10 10 00 00 00  2013 04 22 11 20 00  LEICA GRX1200+GNSS                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          AUBG00DEU  AUBG00DEU               
