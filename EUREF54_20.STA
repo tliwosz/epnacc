@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             19-10-2023 04:04
+BSW 5.4 station information file for EPN processing             19-10-2023 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -489,7 +489,7 @@ WRLG 14201M024        001  2015 03 17 12 40 00                       WRLG*      
 WROC 12217M001        001  1996 11 28 00 00 00                       WROC*                 wroc_20210813.log
 WSRT 13506M005        001  1997 06 01 12 00 00                       WSRT*                 wsrt_20230417.log
 WTZA 14201M013        001  1997 11 25 00 00 00                       WTZA*                 wtza_20230509.log
-WTZR 14201M010        001  1995 02 09 00 00 00                       WTZR*                 wtzr_20230511.log
+WTZR 14201M010        001  1995 02 09 00 00 00                       WTZR*                 wtzr_20231019.log
 WTZS 14201M015        001  2005 07 27 15 00 00                       WTZS*                 wtzs_20230509.log
 WTZZ 14201M014        001  1999 02 01 12 00 00                       WTZZ*                 wtzz_20230509.log
 WUTH 81301M001        001  2020 09 04 15 30 00                       WUTH*                 wuth_20230830.log
@@ -497,7 +497,7 @@ YEBE 13420M001        001  1999 05 19 12 00 00                       YEBE*      
 YLDZ 20815M001        001  2012 07 17 10 00 00                       YLDZ*                 yldz_20220603.log
 ZADA 11905M001        001  2008 12 09 00 00 00                       ZADA*                 zada_20210415.log
 ZARA 13462M001        001  2006 04 25 00 00 00                       ZARA*                 zara_20230913.log
-ZECK 12351M001        001  1997 07 11 00 00 00                       ZECK*                 zeck_20230922.log
+ZECK 12351M001        001  1997 07 11 00 00 00                       ZECK*                 zeck_20231019.log
 ZIM2 14001M008        001  2007 11 08 16 00 00                       ZIM2*                 zim2_20230131.log
 ZIMM 14001M004        001  1993 05 01 00 00 00                       ZIMM*                 zimm_20230131.log
 ZOUF 12763M001        001  2002 06 19 00 00 00                       ZOUF*                 zouf_20230331.log
@@ -6545,7 +6545,8 @@ ZECK 12351M001        001  2011 08 18 12 00 00  2020 12 24 08 00 00  JAVAD TRE_G
 ZECK 12351M001        001  2020 12 24 08 00 00  2021 01 20 09 30 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   JVDM                        999999    0.0000    0.0000    0.0450          ZECK00RUS  ZECK00RUS               
 ZECK 12351M001        001  2021 01 20 09 30 00  2021 01 22 09 00 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   JVDM                        999999    0.0000    0.0000    0.0450          ZECK00RUS  ZECK00RUS               
 ZECK 12351M001        001  2021 01 22 09 00 00  2023 09 17 20 00 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   JVDM                        999999    0.0000    0.0000    0.0450          ZECK00RUS  ZECK00RUS               
-ZECK 12351M001        001  2023 09 17 20 00 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   JVDM                        999999    0.0000    0.0000    0.0450          ZECK00RUS  ZECK00RUS               
+ZECK 12351M001        001  2023 09 17 20 00 00  2023 10 19 12 30 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   JVDM                        999999    0.0000    0.0000    0.0450          ZECK00RUS  ZECK00RUS               
+ZECK 12351M001        001  2023 10 19 12 30 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   JVDM                        999999    0.0000    0.0000    0.0450          ZECK00RUS  ZECK00RUS               
 ZIM2 14001M008        001  2007 11 08 16 00 00  2008 02 07 14 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          ZIM200CHE  ZIM200CHE               
 ZIM2 14001M008        001  2008 02 07 14 00 00  2008 12 05 05 45 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          ZIM200CHE  ZIM200CHE               
 ZIM2 14001M008        001  2008 12 05 05 45 00  2009 05 12 07 30 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          ZIM200CHE  ZIM200CHE               
