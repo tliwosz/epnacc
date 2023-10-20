@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          20-10-2023 04:04
+Station information file for Bernese GNSS Software 5.2          20-10-2023 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -375,7 +375,7 @@ SCOA 10088M002        001  2005 12 14 12 00 00                       SCOA*      
 SCOR 43006M002        001  2004 09 12 00 00 00                       SCOR*                 scor_20230925.log
 SFER 13402M004        001  1995 12 18 00 00 00                       SFER*                 sfer_20230919.log
 SHOE 19197M001        001  2005 08 18 00 00 00                       SHOE*                 shoe_20230904.log
-SID0 12132M001        001  2008 04 01 00 00 00                       SID0*                 sid0_20230405.log
+SID0 12132M001        001  2008 04 01 00 00 00                       SID0*                 sid0_20231020.log
 SJDV 10090M001        001  1997 10 14 10 32 00  2022 05 31 09 16 00  SJDV*                 sjdv_20220603.log
 SKE0 10426M001        001  1993 08 01 00 00 00                       SKE0*                 ske0_20221206.log
 SKE8 10426M002        001  2011 07 08 00 00 00                       SKE8*                 ske8_20221129.log
