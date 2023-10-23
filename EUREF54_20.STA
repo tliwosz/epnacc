@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             23-10-2023 04:04
+BSW 5.4 station information file for EPN processing             23-10-2023 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -206,12 +206,13 @@ KIR0 10422M001        001  1993 08 01 00 00 00                       KIR0*      
 KIR8 10422M002        001  2011 08 12 00 00 00                       KIR8*                 kir8_20221207.log
 KIRU 10403M002        001  1993 07 08 00 00 00                       KIRU*                 kiru_20230417.log
 KIV2 10516M002        001  2014 01 29 12 00 00                       KIV2*                 kiv2_20221103.log
+KLAD 12126M001        001  2017 10 06 00 00 00                       KLAD*                 klad_20231023.log
 KLNK 14810M001        001  2012 05 18 07 04 00                       KLNK*                 klnk_20220310.log
 KLOP 14214M002        001  1997 03 19 00 00 00                       KLOP*                 klop_20231012.log
 KNJA 12113M001        001  2008 04 01 00 00 00                       KNJA*                 knja_20230207.log
 KOS1 13504M005        001  2013 06 18 12 20 00                       KOS1*                 kos1_20230417.log
 KOSG 13504M003        001  1994 06 13 00 00 00  2015 11 27 11 00 00  KOSG*                 kosg_20230417.log
-KRA1 12218M002        001  2010 01 01 00 00 00                       KRA1*                 kra1_20180129.log
+KRA1 12218M002        001  2010 01 01 00 00 00                       KRA1*                 kra1_20231023.log
 KRAW 12218M001        001  2003 01 01 00 00 00                       KRAW*                 kraw_20190420.log
 KRRS 15597M001        001  2009 09 03 00 00 00                       KRRS*                 krrs_20180321.log
 KRS1 20816M001        001  2008 09 27 00 00 00                       KRS1*                 krs1_20220826.log
@@ -229,6 +230,7 @@ LEIJ 14267M001        001  2001 07 03 12 00 00                       LEIJ*      
 LEK6 10433M002        001  2011 06 15 00 00 00                       LEK6*                 lek6_20221109.log
 LEON 13475M001        001  2007 03 26 00 00 00                       LEON*                 leon_20231011.log
 LERI 19159M003        001  2009 06 16 15 00 00                       LERI*                 leri_20230901.log
+LESK 12129M001        001  2017 09 07 09 54 00                       LESK*                 lesk_20231023.log
 LICC 15201M001        001  2020 01 08 00 00 00                       LICC*                 licc_20230329.log
 LIDA 14806M001        001  2011 09 01 00 00 00                       LIDA*                 lida_20220310.log
 LIGN 18496M001        001  2018 12 04 00 00 00                       LIGN*                 lign_20230607.log
@@ -337,6 +339,7 @@ POUS 11518M001        001  2003 10 20 12 00 00                       POUS*      
 POZE 11908M001        001  2008 12 09 00 00 00                       POZE*                 poze_20210415.log
 PPSH 81301M002        001  2020 09 04 15 30 00                       PPSH*                 ppsh_20231001.log
 PRAT 12760M001        001  1998 05 01 00 00 00                       PRAT*                 prat_20230710.log
+PRIJ 12131M001        001  2017 09 18 00 00 00                       PRIJ*                 prij_20231023.log
 PRYL 15502M001        001  2008 10 09 12 00 00                       PRYL*                 pryl_20220728.log
 PSTO 83401M001        001  2018 06 15 00 00 00                       PSTO*                 psto_20221020.log
 PSTV 14809M001        001  2015 10 01 07 00 00                       PSTV*                 pstv_20230906.log
@@ -3013,6 +3016,7 @@ KIV2 10516M002        001  2021 03 16 13 25 00  2021 11 19 06 59 00  JAVAD TRE_3
 KIV2 10516M002        001  2021 11 19 06 59 00  2022 08 22 11 20 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KIV200FIN  KIV200FIN               
 KIV2 10516M002        001  2022 08 22 11 20 00  2022 11 03 06 20 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KIV200FIN  KIV200FIN               
 KIV2 10516M002        001  2022 11 03 06 20 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KIV200FIN  KIV200FIN               
+KLAD 12126M001        001  2017 10 06 00 00 00                       TRIMBLE NETR9                               999999  TRM41249.00     TZGD                        999999    0.0000    0.0000    0.0000   133.0  KLAD00SRB  KLAD00SRB               
 KLNK 14810M001        001  2012 05 18 07 04 00  2018 08 21 08 06 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.3530          KLNK00BLR  KLNK00BLR               
 KLNK 14810M001        001  2018 08 21 08 06 00  2018 09 19 10 16 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.3530          KLNK00BLR  KLNK00BLR               
 KLNK 14810M001        001  2018 09 19 10 16 00  2020 04 16 09 34 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.3530          KLNK00BLR  KLNK00BLR               
@@ -3113,7 +3117,8 @@ KRA1 12218M002        001  2010 01 01 00 00 00  2013 03 04 00 00 00  TRIMBLE NET
 KRA1 12218M002        001  2013 03 04 00 00 00  2014 02 11 00 00 00  TRIMBLE NETR5                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          KRA100POL  KRA100POL               
 KRA1 12218M002        001  2014 02 11 00 00 00  2016 12 29 00 00 00  TRIMBLE NETR5                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          KRA100POL  KRA100POL               
 KRA1 12218M002        001  2016 12 29 00 00 00  2018 01 29 10 00 00  TRIMBLE NETR5                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          KRA100POL  KRA100POL               
-KRA1 12218M002        001  2018 01 29 10 00 00                       TRIMBLE NETR5                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          KRA100POL  KRA100POL               
+KRA1 12218M002        001  2018 01 29 10 00 00  2023 10 23 00 00 00  TRIMBLE NETR5                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          KRA100POL  KRA100POL               
+KRA1 12218M002        001  2023 10 23 00 00 00                       TRIMBLE ALLOY                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          KRA100POL  KRA100POL               
 KRAW 12218M001        001  2003 01 01 00 00 00  2004 10 29 15 00 00  ASHTECH UZ-12                               999999  ASH701945C_M    SNOW                        999999    0.0000    0.0000    0.0000   180.0  KRAW00POL  KRAW00POL               
 KRAW 12218M001        001  2004 10 29 15 00 00  2004 12 20 13 00 00  ASHTECH UZ-12                               999999  ASH701945C_M    SNOW                        999999    0.0000    0.0000    0.0000   180.0  KRAW00POL  KRAW00POL               
 KRAW 12218M001        001  2004 12 20 13 00 00  2019 04 20 14 00 00  ASHTECH UZ-12                               999999  ASH701945C_M    SNOW                        999999    0.0000    0.0000    0.0000   180.0  KRAW00POL  KRAW00POL               
@@ -3313,6 +3318,7 @@ LERI 19159M003        001  2022 03 03 13 10 00  2022 06 16 10 50 00  TRIMBLE ALL
 LERI 19159M003        001  2022 06 16 10 50 00  2023 04 13 15 45 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040          LERI00GBR  LERI00GBR               
 LERI 19159M003        001  2023 04 13 15 45 00  2023 09 01 13 55 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040          LERI00GBR  LERI00GBR               
 LERI 19159M003        001  2023 09 01 13 55 00                       TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040          LERI00GBR  LERI00GBR               
+LESK 12129M001        001  2017 09 07 09 54 00                       TRIMBLE NETR9                               999999  TRM41249.00     TZGD                        999999    0.0000    0.0000    0.0000   108.0  LESK00SRB  LESK00SRB               
 LICC 15201M001        001  2020 01 08 00 00 00                       CHC P5E                                     999999  CHCC220GR2      CHCD                        999999    0.0000    0.0000    0.1050          LICC00GBR  LICC00GBR               
 LIDA 14806M001        001  2011 09 01 00 00 00  2018 08 26 02 58 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2790          LIDA00BLR  LIDA00BLR               
 LIDA 14806M001        001  2018 08 26 02 58 00  2020 08 31 05 38 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2790          LIDA00BLR  LIDA00BLR               
@@ -4566,6 +4572,7 @@ PRAT 12760M001        001  2021 03 12 13 00 00  2021 07 05 17 00 00  LEICA GR10 
 PRAT 12760M001        001  2021 07 05 17 00 00  2022 09 13 15 00 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1050          PRAT00ITA  PRAT00ITA               
 PRAT 12760M001        001  2022 09 13 15 00 00  2023 07 10 11 30 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1050          PRAT00ITA  PRAT00ITA               
 PRAT 12760M001        001  2023 07 10 11 30 00                       LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1050          PRAT00ITA  PRAT00ITA               
+PRIJ 12131M001        001  2017 09 18 00 00 00                       TRIMBLE NETR9                               999999  TRM115000.00    TZGD                        999999    0.0000    0.0000    0.0000    84.0  PRIJ00SRB  PRIJ00SRB               
 PRYL 15502M001        001  2008 10 09 12 00 00  2008 11 18 15 15 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0063          PRYL00UKR  PRYL00UKR               
 PRYL 15502M001        001  2008 11 18 15 15 00  2011 08 01 13 58 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0063          PRYL00UKR  PRYL00UKR               
 PRYL 15502M001        001  2011 08 01 13 58 00  2012 11 08 13 20 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0063          PRYL00UKR  PRYL00UKR               
