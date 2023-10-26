@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          25-10-2023 14:04
+Station information file for Bernese GNSS Software 5.2          26-10-2023 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -139,7 +139,7 @@ FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*      
 FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func_20221109.log
 GAIA 13902M001        001  2000 01 02 14 35 00                       GAIA*                 gaia_20221109.log
 GALH 18490M001        001  2018 05 24 00 00 00                       GALH*                 galh_20230607.log
-GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp_20230906.log
+GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp_20230925.log
 GARI 19517M001        001  2009 04 01 00 00 00                       GARI*                 gari_20230421.log
 GDRS 15595M001        001  2014 11 28 10 55 00                       GDRS*                 gdrs_20181105.log
 GELL 10908M001        001  2007 11 07 14 00 00                       GELL*                 gell_20230420.log
@@ -153,7 +153,7 @@ GOPE 11502M002        001  1995 05 13 00 00 00                       GOPE*      
 GOR2 14115M002        001  2008 04 15 12 00 00                       GOR2*                 gor2_20230419.log
 GRAC 10002M010        001  1998 11 27 10 00 00                       GRAC*                 grac_20230215.log
 GRAS 10002M006        001  1995 02 22 00 00 00                       GRAS*                 gras_20230710.log
-GRAZ 11001M002        001  1992 06 12 12 00 00                       GRAZ*                 graz_20230421.log
+GRAZ 11001M002        001  1992 06 12 12 00 00                       GRAZ*                 graz_20230426.log
 GSR1 14501M001        001  2000 02 01 12 00 00                       GSR1*                 gsr1_20221122.log
 GUIP 10004M501        001  2002 10 18 00 00 00                       GUIP*                 guip_20230215.log
 GVNL 18546M002        001  2023 05 14 10 00 00                       GVNL*                 gvnl_20230928.log
