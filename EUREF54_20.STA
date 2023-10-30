@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             30-10-2023 04:04
+BSW 5.4 station information file for EPN processing             30-10-2023 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -125,7 +125,7 @@ ELBA 12721M002        001  2000 11 08 00 00 00                       ELBA*      
 ENAO 31902M005        001  2019 07 23 16 30 00                       ENAO*                 enao_20230203.log
 ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*                 enis_20201022.log
 ENTZ 10014M002        001  2004 12 01 12 00 00                       ENTZ*                 entz_20230215.log
-ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza_20220913.log
+ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza_20231030.log
 ESCO 13435M001        001  1999 04 21 00 00 00                       ESCO*                 esco_20231025.log
 EUSK 14258M003        001  1998 04 02 00 00 00                       EUSK*                 eusk_20230419.log
 EVPA 12344M001        001  2002 11 26 13 15 00  2014 04 01 00 00 00  EVPA*                 evpa_20220504.log
@@ -474,6 +474,7 @@ VARS 10322M002        001  1995 07 17 00 00 00                       VARS*      
 VEN1 19513M001        001  2009 05 15 00 00 00                       VEN1*                 ven1_20220913.log
 VENE 12741M001        001  1995 03 23 00 00 00  2007 07 29 00 00 00  VENE*                 vene_20220913.log
 VFCH 10046M001        001  2001 08 28 00 00 00                       VFCH*                 vfch_20230215.log
+VIGI 14684M001        001  2014 06 28 00 00 00                       VIGI*                 vigi_20230510.log
 VIGN 14605M001        001  2019 07 25 11 30 00                       VIGN*                 vign_20231025.log
 VIGO 13450M001        001  2001 09 12 00 00 00                       VIGO*                 vigo_20230913.log
 VIL0 10424M001        001  1993 08 01 00 00 00                       VIL0*                 vil0_20221206.log
@@ -6110,6 +6111,14 @@ VFCH 10046M001        001  2017 08 02 10 00 00  2018 08 27 13 00 00  LEICA GR25 
 VFCH 10046M001        001  2018 08 27 13 00 00  2019 03 13 15 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          VFCH00FRA  VFCH00FRA               
 VFCH 10046M001        001  2019 03 13 15 00 00  2022 01 31 15 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          VFCH00FRA  VFCH00FRA               
 VFCH 10046M001        001  2022 01 31 15 00 00                       LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          VFCH00FRA  VFCH00FRA               
+VIGI 14684M001        001  2014 06 28 00 00 00  2014 09 15 11 15 00  LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          VIGI00ITA  VIGI00ITA               
+VIGI 14684M001        001  2014 09 15 11 15 00  2014 11 04 14 00 00  LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          VIGI00ITA  VIGI00ITA               
+VIGI 14684M001        001  2014 11 04 14 00 00  2017 11 07 12 00 00  LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          VIGI00ITA  VIGI00ITA               
+VIGI 14684M001        001  2017 11 07 12 00 00  2018 07 25 10 40 00  LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          VIGI00ITA  VIGI00ITA               
+VIGI 14684M001        001  2018 07 25 10 40 00  2019 01 29 11 30 00  LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          VIGI00ITA  VIGI00ITA               
+VIGI 14684M001        001  2019 01 29 11 30 00  2019 06 07 08 30 00  LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          VIGI00ITA  VIGI00ITA               
+VIGI 14684M001        001  2019 06 07 08 30 00  2020 03 26 16 05 00  LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          VIGI00ITA  VIGI00ITA               
+VIGI 14684M001        001  2020 03 26 16 05 00                       LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          VIGI00ITA  VIGI00ITA               
 VIGN 14605M001        001  2019 07 25 11 30 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          VIGN00ITA  VIGN00ITA               
 VIGO 13450M001        001  2001 09 12 00 00 00  2007 03 23 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     TCWD                        999999    0.0000    0.0000    0.0000          VIGO00ESP  VIGO00ESP               
 VIGO 13450M001        001  2007 03 23 00 00 00  2008 03 26 09 01 00  TRIMBLE NETRS                               999999  TRM29659.00     TCWD                        999999    0.0000    0.0000    0.0000          VIGO00ESP  VIGO00ESP               
