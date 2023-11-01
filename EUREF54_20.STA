@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             01-11-2023 04:04
+BSW 5.4 station information file for EPN processing             01-11-2023 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -200,7 +200,7 @@ KAD6 10431M002        001  2011 06 15 00 00 00                       KAD6*      
 KARL 14216M001        001  1997 03 20 00 00 00                       KARL*                 karl_20230419.log
 KATO 12219S001        001  2003 01 30 00 00 00                       KATO*                 kato_20230831.log
 KDA2 14504M002        001  2016 01 02 10 00 00                       KDA2*                 kda2_20220617.log
-KELY 43005M002        001  1995 07 23 00 00 00                       KELY*                 kely_20231025.log
+KELY 43005M002        001  1995 07 23 00 00 00                       KELY*                 kely_20231101.log
 KEV2 10515M002        001  2014 01 29 12 00 00                       KEV2*                 kev2_20221103.log
 KHAR 12314M001        001  2002 11 25 13 00 00                       KHAR*                 khar_20171011.log
 KILP 10525M001        001  2014 01 29 12 00 00                       KILP*                 kilp_20221103.log
@@ -2894,13 +2894,13 @@ KDA2 14504M002        001  2019 07 17 08 41 00  2020 05 12 14 44 00  LEICA GR25 
 KDA2 14504M002        001  2020 05 12 14 44 00  2021 08 18 12 40 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0008    0.0005    0.0800     1.0  KDA200SVN  KDA200SVN               
 KDA2 14504M002        001  2021 08 18 12 40 00  2022 06 16 17 45 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0008    0.0005    0.0800     1.0  KDA200SVN  KDA200SVN               
 KDA2 14504M002        001  2022 06 16 17 45 00                       LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0008    0.0005    0.0800     1.0  KDA200SVN  KDA200SVN               
-KELY 43005M002        001  1995 07 23 00 00 00  1995 07 28 01 41 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
-KELY 43005M002        001  1995 07 28 01 41 00  1996 02 09 11 09 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
-KELY 43005M002        001  1996 02 09 11 09 00  1996 04 05 05 58 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
-KELY 43005M002        001  1996 04 05 05 58 00  1999 05 27 11 03 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
-KELY 43005M002        001  1999 05 27 11 03 00  1999 08 27 11 52 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
-KELY 43005M002        001  1999 08 27 11 52 00  2000 10 16 11 16 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
-KELY 43005M002        001  2000 10 16 11 16 00  2001 09 14 17 18 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
+KELY 43005M002        001  1995 07 23 00 00 00  1995 07 28 01 41 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0000          KELY00GRL  KELY00GRL               
+KELY 43005M002        001  1995 07 28 01 41 00  1996 02 09 11 09 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0000          KELY00GRL  KELY00GRL               
+KELY 43005M002        001  1996 02 09 11 09 00  1996 04 05 05 58 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0000          KELY00GRL  KELY00GRL               
+KELY 43005M002        001  1996 04 05 05 58 00  1999 05 27 11 03 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0000          KELY00GRL  KELY00GRL               
+KELY 43005M002        001  1999 05 27 11 03 00  1999 08 27 11 52 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0000          KELY00GRL  KELY00GRL               
+KELY 43005M002        001  1999 08 27 11 52 00  2000 10 16 11 16 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0000          KELY00GRL  KELY00GRL               
+KELY 43005M002        001  2000 10 16 11 16 00  2001 09 14 17 18 00  ROGUE SNR-8000                              999999  AOAD/M_T        DOME                        999999    0.0000    0.0000    0.0000          KELY00GRL  KELY00GRL               
 KELY 43005M002        001  2001 09 14 17 18 00  2010 06 08 13 30 00  ASHTECH Z-XII3                              999999  ASH701945C_M    NONE                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
 KELY 43005M002        001  2010 06 08 13 30 00  2017 12 07 00 00 00  ASHTECH UZ-12                               999999  ASH701945C_M    NONE                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
 KELY 43005M002        001  2017 12 07 00 00 00  2020 08 06 12 00 00  JAVAD TRE_3 DELTA                           999999  ASH701945C_M    NONE                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
