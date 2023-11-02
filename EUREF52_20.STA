@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          02-11-2023 04:04
+Station information file for Bernese GNSS Software 5.2          02-11-2023 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -43,7 +43,7 @@ BFST 15202M001        001  2019 05 15 15 00 00                       BFST*      
 BIRG 14613M001        001  2019 10 29 17 00 00                       BIRG*                 birg_20220913.log
 BISK 11520M001        001  2001 09 06 12 00 00                       BISK*                 bisk_20200219.log
 BME1 11209M002        001  2021 01 14 13 00 00                       BME1*                 bme1_20210506.log
-BOGE 12207M004        001  2018 09 27 12 00 00                       BOGE*                 boge_20210728.log
+BOGE 12207M004        001  2018 09 27 12 00 00                       BOGE*                 boge_20231102.log
 BOGI 12207M003        001  2001 10 01 00 00 00                       BOGI*                 bogi_20210505.log
 BOGO 12207M002        001  1996 06 08 00 00 00                       BOGO*                 bogo_20180123.log
 BOLG 12771M001        001  1999 05 14 00 00 00                       BOLG*                 bolg_20230628.log
