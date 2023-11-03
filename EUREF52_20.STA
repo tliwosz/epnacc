@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          03-11-2023 04:04
+Station information file for Bernese GNSS Software 5.2          03-11-2023 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -283,7 +283,7 @@ MNSK 14802M001        001  2002 02 07 08 20 00                       MNSK*      
 MOGI 14807M001        001  2011 06 01 00 00 00                       MOGI*                 mogi_20220310.log
 MOP2 11507M002        001  2007 12 05 15 00 00                       MOP2*                 mop2_20230908.log
 MOPI 11507M001        001  1996 06 10 00 00 00                       MOPI*                 mopi_20231004.log
-MOPS 12791M001        001  2007 02 12 00 00 00                       MOPS*                 mops_20230711.log
+MOPS 12791M001        001  2007 02 12 00 00 00                       MOPS*                 mops_20231103.log
 MORP 13299S001        001  1996 10 31 00 00 00                       MORP*                 morp_20200203.log
 MSEL 12711M008        001  1996 07 23 00 00 00                       MSEL*                 msel_20230622.log
 MUK2 15599M002        001  2008 08 18 13 00 00                       MUK2*                 muk2_20230412.log
@@ -3950,7 +3950,8 @@ MOPS 12791M001        001  2018 03 15 18 01 00  2019 02 19 11 30 00  LEICA GRX12
 MOPS 12791M001        001  2019 02 19 12 30 00  2021 04 01 13 00 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0583  MOPS00ITA               
 MOPS 12791M001        001  2021 04 01 13 30 00  2022 08 05 13 00 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0583  MOPS00ITA               
 MOPS 12791M001        001  2022 08 05 13 30 00  2023 07 11 11 30 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0583  MOPS00ITA               
-MOPS 12791M001        001  2023 07 11 11 30 00                       LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0583  MOPS00ITA               
+MOPS 12791M001        001  2023 07 11 11 30 00  2023 11 03 13 00 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0583  MOPS00ITA               
+MOPS 12791M001        001  2023 11 03 13 00 00                       LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0583  MOPS00ITA               
 MORP 13299S001        001  1996 10 31 00 00 00  1999 12 13 23 59 00  ROGUE SNR-12 RM                             999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0330  MORP00GBR               
 MORP 13299S001        001  2000 02 01 00 00 00  2002 04 15 00 00 00  ASHTECH Z-XII3                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0330  MORP00GBR               
 MORP 13299S001        001  2002 04 15 00 00 00  2002 05 20 14 00 00  ASHTECH Z-XII3                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0330  MORP00GBR               
