@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             12-11-2023 04:04
+BSW 5.4 station information file for EPN processing             12-11-2023 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -301,7 +301,7 @@ NSSP 12312M001        001  1997 10 10 00 00 00  2010 07 10 00 00 00  NSSP*      
 NYA1 10317M003        001  1997 06 01 00 00 00                       NYA1*                 nya1_20211127.log
 NYA2 10317M008        001  2000 03 13 07 00 00                       NYA2*                 nya2_20230216.log
 NYAL 10317M001        001  1993 01 01 00 00 00                       NYAL*                 nyal_20210927.log
-NYIR 11208M001        001  2002 09 20 00 00 00  2007 06 02 23 59 00  NYIR*                 nyir_20220622.log
+NYIR 11208M001        001  2002 09 20 00 00 00                       NYIR*                 nyir_20231112.log
 OBE2 14208M003        001  2001 07 28 00 00 00  2008 02 12 00 00 00  OBE2*                 obe2_20211028.log
 OBE4 14208M007        001  2012 09 28 12 00 00                       OBE4*                 obe4_20230510.log
 OBER 14208M001        001  1996 10 11 00 00 00  2001 07 28 00 00 00  OBER*                 ober_20211028.log
@@ -4139,7 +4139,8 @@ NYAL 10317M001        001  2021 09 24 09 37 00                       TRIMBLE NET
 NYIR 11208M001        001  2002 09 20 00 00 00  2004 07 02 00 00 00  TRIMBLE 4000SSE                             999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.0000          NYIR00HUN  NYIR00HUN               
 NYIR 11208M001        001  2004 07 02 00 00 00  2004 11 29 00 00 00  TRIMBLE 4000SSE                             999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.0000          NYIR00HUN  NYIR00HUN               
 NYIR 11208M001        001  2004 11 29 00 00 00  2006 11 05 00 00 00  TRIMBLE 4000SSE                             999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.0000          NYIR00HUN  NYIR00HUN               
-NYIR 11208M001        001  2006 11 05 00 00 00  2007 06 02 23 59 00  TRIMBLE 4000SSE                             999999  TRM14532.00     NONE                        999999    0.0000    0.0000    0.0000          NYIR00HUN  NYIR00HUN               
+NYIR 11208M001        001  2006 11 05 00 00 00  2023 09 05 00 00 00  TRIMBLE 4000SSE                             999999  TRM14532.00     NONE                        999999    0.0000    0.0000    0.0000          NYIR00HUN  NYIR00HUN               
+NYIR 11208M001        001  2023 09 05 00 00 00                       LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          NYIR00HUN  NYIR00HUN               
 OBE2 14208M003        001  2001 07 28 00 00 00  2003 04 11 12 00 00  AOA SNR-8000 ACT                            999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0460          OBE200DEU  OBE200DEU               
 OBE2 14208M003        001  2003 04 11 12 00 00  2008 02 12 00 00 00  AOA BENCHMARK ACT                           999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0460          OBE200DEU  OBE200DEU               
 OBE4 14208M007        001  2012 09 28 12 00 00  2013 01 08 08 31 00  JAVAD TRE_G3TH DELTA                        999999  JAV_RINGANT_G3T NONE                        999999    0.0000    0.0000    0.0700          OBE400DEU  OBE400DEU               
