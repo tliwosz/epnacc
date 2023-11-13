@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             12-11-2023 14:04
+BSW 5.4 station information file for EPN processing             13-11-2023 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -43,7 +43,7 @@ BFST 15202M001        001  2019 05 15 15 00 00                       BFST*      
 BIRG 14613M001        001  2019 10 29 17 00 00                       BIRG*                 birg_20220913.log
 BISK 11520M001        001  2001 09 06 12 00 00                       BISK*                 bisk_20200219.log
 BME1 11209M002        001  2021 01 14 13 00 00                       BME1*                 bme1_20210506.log
-BOGE 12207M004        001  2018 09 27 12 00 00                       BOGE*                 boge_20231102.log
+BOGE 12207M004        001  2018 09 27 12 00 00                       BOGE*                 boge_20231112.log
 BOGI 12207M003        001  2001 10 01 00 00 00                       BOGI*                 bogi_20210505.log
 BOGO 12207M002        001  1996 06 08 00 00 00                       BOGO*                 bogo_20180123.log
 BOLG 12771M001        001  1999 05 14 00 00 00                       BOLG*                 bolg_20230628.log
@@ -902,7 +902,8 @@ BISK 11520M001        001  2019 04 10 00 00 00                       TPS NETG3  
 BME1 11209M002        001  2021 01 14 13 00 00                       CHC P5E                                     999999  CHCC220GR2      CHCD                        999999    0.0000    0.0000    0.0000          BME100HUN  BME100HUN               
 BOGE 12207M004        001  2018 09 27 12 00 00  2019 03 13 10 11 00  LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          BOGE00POL  BOGE00POL               
 BOGE 12207M004        001  2019 03 13 10 11 00  2021 07 23 06 00 00  LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          BOGE00POL  BOGE00POL               
-BOGE 12207M004        001  2021 07 23 06 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          BOGE00POL  BOGE00POL               
+BOGE 12207M004        001  2021 07 23 06 00 00  2023 10 30 18 00 00  LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          BOGE00POL  BOGE00POL               
+BOGE 12207M004        001  2023 10 30 18 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          BOGE00POL  BOGE00POL               
 BOGI 12207M003        001  2001 10 01 00 00 00  2003 05 06 12 00 00  JPS EUROCARD                                999999  ASH701945C_M    SNOW                        999999    0.0000    0.0000    0.0534          BOGI00POL  BOGI00POL               
 BOGI 12207M003        001  2003 05 06 12 00 00  2003 08 08 12 00 00  JPS EUROCARD                                999999  ASH701945C_M    SNOW                        999999    0.0000    0.0000    0.0534          BOGI00POL  BOGI00POL               
 BOGI 12207M003        001  2003 08 08 12 00 00  2004 07 30 00 00 00  JPS EUROCARD                                999999  ASH701945C_M    SNOW                        999999    0.0000    0.0000    0.0534          BOGI00POL  BOGI00POL               
