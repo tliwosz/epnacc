@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             17-11-2023 04:04
+BSW 5.4 station information file for EPN processing             17-11-2023 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -443,7 +443,7 @@ TORN 10530M001        001  2014 01 02 12 00 00                       TORN*      
 TOUL 10003M004        001  1997 01 20 00 00 00  2001 01 03 00 00 00  TOUL*                 toul_20100113.log
 TRAB 20808M001        001  1999 12 08 00 00 00  2007 11 27 00 00 00  TRAB*                 trab_20230511.log
 TRDS 10331M001        001  1995 09 27 00 00 00                       TRDS*                 trds_20211127.log
-TREU 14672M001        001  2021 06 29 10 00 00                       TREU*                 treu_20220913.log
+TREU 14672M001        001  2021 06 29 10 00 00                       TREU*                 treu_20231117.log
 TRF2 11047M002        001  2008 01 30 11 00 00                       TRF2*                 trf2_20230614.log
 TRFB 11047M001        001  2004 04 16 12 00 00  2008 01 30 11 00 00  TRFB*                 trfb_20230427.log
 TRMI 14673M001        001  2021 10 13 14 00 00                       TRMI*                 trmi_20220913.log
@@ -5804,7 +5804,8 @@ TRDS 10331M001        001  2019 08 29 17 38 00  2019 10 31 17 20 00  TRIMBLE NET
 TRDS 10331M001        001  2019 10 31 17 20 00  2020 01 30 20 30 00  TRIMBLE NETR9                               999999  TRM55971.00     NONE                        999999    0.0180    0.0070    5.5460          TRDS00NOR  TRDS00NOR               
 TRDS 10331M001        001  2020 01 30 20 30 00  2021 11 25 17 41 00  TRIMBLE NETR9                               999999  TRM55971.00     NONE                        999999    0.0180    0.0070    5.5460          TRDS00NOR  TRDS00NOR               
 TRDS 10331M001        001  2021 11 25 17 41 00                       TRIMBLE NETR9                               999999  TRM55971.00     NONE                        999999    0.0180    0.0070    5.5460          TRDS00NOR  TRDS00NOR               
-TREU 14672M001        001  2021 06 29 10 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          TREU00ITA  TREU00ITA               
+TREU 14672M001        001  2021 06 29 10 00 00  2023 11 17 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          TREU00ITA  TREU00ITA               
+TREU 14672M001        001  2023 11 17 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          TREU00ITA  TREU00ITA               
 TRF2 11047M002        001  2008 01 30 11 00 00  2008 06 10 09 00 00  TPS E_GGD                                   999999  TPSCR3_GGD      OLGA                        999999    0.0000    0.0000    0.1650          TRF200AUT  TRF200AUT               
 TRF2 11047M002        001  2008 06 10 09 00 00  2008 11 10 09 30 00  LEICA SR520                                 999999  LEIAT504        OLGA                        999999    0.0000    0.0000    0.1650          TRF200AUT  TRF200AUT               
 TRF2 11047M002        001  2008 11 10 09 30 00  2010 05 26 12 15 00  TPS E_GGD                                   999999  TPSCR3_GGD      OLGA                        999999    0.0000    0.0000    0.1650          TRF200AUT  TRF200AUT               
