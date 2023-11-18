@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             17-11-2023 14:04
+BSW 5.4 station information file for EPN processing             18-11-2023 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -85,7 +85,7 @@ CEU1 13449M002        001  2007 05 25 00 00 00                       CEU1*      
 CEUT 13449M001        001  2001 08 24 00 00 00  2007 02 18 00 00 00  CEUT*                 ceut_20220907.log
 CFRM 11525M001        001  2005 10 20 00 00 00                       CFRM*                 cfrm_20220808.log
 CHIO 19194M001        001  2009 06 30 17 00 00                       CHIO*                 chio_20230406.log
-CHIZ 10020M001        001  2000 10 19 00 00 00                       CHIZ*                 chiz_20230525.log
+CHIZ 10020M001        001  2000 10 19 00 00 00                       CHIZ*                 chiz_20231117.log
 CIMO 14608M001        001  2019 09 19 09 30 00                       CIMO*                 cimo_20230725.log
 CLIB 11526M001        001  2005 07 25 00 00 00                       CLIB*                 clib_20220818.log
 CMEL 14609M001        001  2019 09 18 09 30 00                       CMEL*                 cmel_20190918.log
@@ -433,7 +433,7 @@ TLMF 10003M010        001  2002 06 18 00 00 00                       TLMF*      
 TLSE 10003M009        001  2001 01 04 00 00 00                       TLSE*                 tlse_20230608.log
 TLSG 10003M034        001  2014 02 12 00 00 00                       TLSG*                 tlsg_20221115.log
 TOIL 10605S001        001  2007 11 22 10 45 00                       TOIL*                 toil_20230726.log
-TOPP 14604M001        001  2019 07 23 10 00 00                       TOPP*                 topp_20231025.log
+TOPP 14604M001        001  2019 07 23 10 00 00                       TOPP*                 topp_20231117.log
 TOR1 17018M001        001  2015 01 15 00 00 00                       TOR1*                 tor1_20230606.log
 TOR2 10602M001        001  2011 07 27 13 00 00  2022 08 31 07 00 00  TOR2*                 tor2_20220831.log
 TOR3 10602M002        001  2022 10 07 09 00 00                       TOR3*                 tor3_20230726.log
@@ -486,7 +486,7 @@ VIRG 14628M001        001  2020 07 13 10 00 00                       VIRG*      
 VIS0 10423M001        001  1993 08 01 00 00 00                       VIS0*                 vis0_20221208.log
 VIS6 10423M002        001  2011 05 18 00 00 00                       VIS6*                 vis6_20221206.log
 VITR 14805M001        001  2010 07 12 00 00 00                       VITR*                 vitr_20220310.log
-VLFR 14610M001        001  2019 09 16 09 00 00                       VLFR*                 vlfr_20190916.log
+VLFR 14610M001        001  2019 09 16 09 00 00                       VLFR*                 vlfr_20231117.log
 VLIS 13538M001        001  2006 11 22 15 00 00                       VLIS*                 vlis_20230417.log
 VLN1 13626M002        001  2019 02 01 12 30 00                       VLN1*                 vln1_20230331.log
 VLNS 10801M001        001  1997 09 16 11 00 00                       VLNS*                 vlns_20200716.log
@@ -5716,7 +5716,8 @@ TOIL 10605S001        001  2022 01 31 09 30 00  2022 08 09 12 00 00  LEICA GR25 
 TOIL 10605S001        001  2022 08 09 12 00 00  2023 01 05 12 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOIL00EST  TOIL00EST               
 TOIL 10605S001        001  2023 01 05 12 00 00  2023 07 26 07 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOIL00EST  TOIL00EST               
 TOIL 10605S001        001  2023 07 26 07 00 00                       LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOIL00EST  TOIL00EST               
-TOPP 14604M001        001  2019 07 23 10 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          TOPP00ITA  TOPP00ITA               
+TOPP 14604M001        001  2019 07 23 10 00 00  2023 11 17 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          TOPP00ITA  TOPP00ITA               
+TOPP 14604M001        001  2023 11 17 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          TOPP00ITA  TOPP00ITA               
 TOR1 17018M001        001  2015 01 15 00 00 00  2019 02 12 00 00 00  SEPT ASTERX3                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          TOR100ESP  TOR100ESP               
 TOR1 17018M001        001  2019 02 12 00 00 00  2019 02 14 00 00 00  SEPT POLARX3E                               999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          TOR100ESP  TOR100ESP               
 TOR1 17018M001        001  2019 02 14 00 00 00  2022 03 29 00 00 00  SEPT POLARX3E                               999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          TOR100ESP  TOR100ESP               
@@ -6293,7 +6294,8 @@ VITR 14805M001        001  2021 11 03 09 33 00  2022 01 03 16 25 00  LEICA GR30 
 VITR 14805M001        001  2022 01 03 16 25 00  2022 03 01 00 52 00  LEICA GR30                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3250          VITR00BLR  VITR00BLR               
 VITR 14805M001        001  2022 03 01 00 52 00  2022 03 10 12 40 00  LEICA GR30                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3250          VITR00BLR  VITR00BLR               
 VITR 14805M001        001  2022 03 10 12 40 00                       LEICA GR30                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3250          VITR00BLR  VITR00BLR               
-VLFR 14610M001        001  2019 09 16 09 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          VLFR00ITA  VLFR00ITA               
+VLFR 14610M001        001  2019 09 16 09 00 00  2023 11 17 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          VLFR00ITA  VLFR00ITA               
+VLFR 14610M001        001  2023 11 17 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          VLFR00ITA  VLFR00ITA               
 VLIS 13538M001        001  2006 11 22 15 00 00  2007 09 14 05 27 00  TPS ODYSSEY_E                               999999  TRM29659.00     UNAV                        999999    0.0000    0.0000    0.0000          VLIS00NLD  VLIS00NLD               
 VLIS 13538M001        001  2007 09 14 05 27 00  2008 05 08 06 26 00  TPS ODYSSEY_E                               999999  TRM29659.00     UNAV                        999999    0.0000    0.0000    0.0000          VLIS00NLD  VLIS00NLD               
 VLIS 13538M001        001  2008 05 08 06 26 00  2008 10 24 09 45 00  TPS ODYSSEY_E                               999999  TRM29659.00     UNAV                        999999    0.0000    0.0000    0.0000          VLIS00NLD  VLIS00NLD               
