@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             21-11-2023 14:04
+BSW 5.4 station information file for EPN processing             22-11-2023 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -190,7 +190,7 @@ ISTA 20807M001        001  1999 12 11 00 00 00                       ISTA*      
 IZAN 31309M002        001  2008 05 16 00 00 00                       IZAN*                 izan_20230725.log
 IZMI 20817M001        001  2008 08 10 00 00 00                       IZMI*                 izmi_20221117.log
 IZRS 18115M002        001  2016 05 27 07 34 00  2022 03 01 07 00 00  IZRS*                 izrs_20220728.log
-JATE 14601M001        001  2019 07 18 12 30 00                       JATE*                 jate_20231025.log
+JATE 14601M001        001  2019 07 18 12 30 00                       JATE*                 jate_20231121.log
 JOE2 10512M002        001  2014 01 29 12 00 00                       JOE2*                 joe2_20221103.log
 JOEN 10512M001        001  1995 06 15 00 00 00                       JOEN*                 joen_20221103.log
 JON6 10430M002        001  2011 06 16 00 00 00                       JON6*                 jon6_20221115.log
@@ -2784,7 +2784,8 @@ IZMI 20817M001        001  2022 10 19 16 02 00                       TRIMBLE ALL
 IZRS 18115M002        001  2016 05 27 07 34 00  2016 09 29 00 00 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          IZRS00UKR  IZRS00UKR               
 IZRS 18115M002        001  2016 09 29 00 00 00  2018 11 02 10 40 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          IZRS00UKR  IZRS00UKR               
 IZRS 18115M002        001  2018 11 02 10 40 00  2022 03 01 07 00 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          IZRS00UKR  IZRS00UKR               
-JATE 14601M001        001  2019 07 18 12 30 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          JATE00ITA  JATE00ITA               
+JATE 14601M001        001  2019 07 18 12 30 00  2023 11 21 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          JATE00ITA  JATE00ITA               
+JATE 14601M001        001  2023 11 21 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          JATE00ITA  JATE00ITA               
 JOE2 10512M002        001  2014 01 29 12 00 00  2015 03 12 13 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          JOE200FIN  JOE200FIN               
 JOE2 10512M002        001  2015 03 12 13 00 00  2016 12 12 10 15 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          JOE200FIN  JOE200FIN               
 JOE2 10512M002        001  2016 12 12 10 15 00  2017 04 24 06 17 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          JOE200FIN  JOE200FIN               
