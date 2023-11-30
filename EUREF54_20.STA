@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             29-11-2023 14:04
+BSW 5.4 station information file for EPN processing             30-11-2023 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -431,7 +431,7 @@ TIT2 14278M002        001  2014 12 11 09 00 00                       TIT2*      
 TLL1 13630M002        001  2017 10 27 15 00 00                       TLL1*                 tll1_20230331.log
 TLLG 13630M001        001  2007 03 06 00 00 00  2019 01 03 00 00 00  TLLG*                 tllg_20230331.log
 TLMF 10003M010        001  2002 06 18 00 00 00                       TLMF*                 tlmf_20230215.log
-TLSE 10003M009        001  2001 01 04 00 00 00                       TLSE*                 tlse_20230608.log
+TLSE 10003M009        001  2001 01 04 00 00 00                       TLSE*                 tlse_20231129.log
 TLSG 10003M034        001  2014 02 12 00 00 00                       TLSG*                 tlsg_20221115.log
 TOIL 10605S001        001  2007 11 22 10 45 00                       TOIL*                 toil_20230726.log
 TOPP 14604M001        001  2019 07 23 10 00 00                       TOPP*                 topp_20231127.log
@@ -3122,16 +3122,16 @@ KLOP 14214M002        001  2021 08 20 04 15 00  2022 07 20 05 20 00  LEICA GR50 
 KLOP 14214M002        001  2022 07 20 05 20 00  2023 01 26 05 27 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0660          KLOP00DEU  KLOP00DEU               
 KLOP 14214M002        001  2023 01 26 05 27 00  2023 10 12 07 52 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0660          KLOP00DEU  KLOP00DEU               
 KLOP 14214M002        001  2023 10 12 07 52 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0660          KLOP00DEU  KLOP00DEU               
-KLSQ 43015M001        001  2014 06 02 00 00 00  2015 10 15 00 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567                     Kangerlussuaq, GL       
-KLSQ 43015M001        001  2015 10 15 00 00 00  2015 12 08 00 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567                     Kangerlussuaq, GL       
-KLSQ 43015M001        001  2015 12 08 00 00 00  2018 05 08 08 23 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567                     Kangerlussuaq, GL       
-KLSQ 43015M001        001  2018 05 08 08 23 00  2018 06 13 10 44 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567                     Kangerlussuaq, GL       
-KLSQ 43015M001        001  2018 06 13 10 44 00  2019 09 25 11 36 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567                     Kangerlussuaq, GL       
-KLSQ 43015M001        001  2019 09 25 11 36 00  2020 10 02 13 15 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567                     Kangerlussuaq, GL       
-KLSQ 43015M001        001  2020 10 02 13 15 00  2021 01 12 14 00 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567                     Kangerlussuaq, GL       
-KLSQ 43015M001        001  2021 01 12 14 00 00  2021 07 18 15 27 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567                     Kangerlussuaq, GL       
-KLSQ 43015M001        001  2021 07 18 15 27 00  2022 09 05 12 30 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567                     Kangerlussuaq, GL       
-KLSQ 43015M001        001  2022 09 05 12 30 00                       SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567                     Kangerlussuaq, GL       
+KLSQ 43015M001        001  2014 06 02 00 00 00  2015 10 15 00 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
+KLSQ 43015M001        001  2015 10 15 00 00 00  2015 12 08 00 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
+KLSQ 43015M001        001  2015 12 08 00 00 00  2018 05 08 08 23 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
+KLSQ 43015M001        001  2018 05 08 08 23 00  2018 06 13 10 44 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
+KLSQ 43015M001        001  2018 06 13 10 44 00  2019 09 25 11 36 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
+KLSQ 43015M001        001  2019 09 25 11 36 00  2020 10 02 13 15 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
+KLSQ 43015M001        001  2020 10 02 13 15 00  2021 01 12 14 00 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
+KLSQ 43015M001        001  2021 01 12 14 00 00  2021 07 18 15 27 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
+KLSQ 43015M001        001  2021 07 18 15 27 00  2022 09 05 12 30 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
+KLSQ 43015M001        001  2022 09 05 12 30 00                       SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
 KNJA 12113M001        001  2008 04 01 00 00 00  2010 03 04 00 00 00  TRIMBLE 4400                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          KNJA00SRB  KNJA00SRB               
 KNJA 12113M001        001  2010 03 04 00 00 00  2011 07 19 00 00 00  TRIMBLE 4400                                999999  TRM41249.00     TZGD                        999999    0.0000    0.0000    0.0000          KNJA00SRB  KNJA00SRB               
 KNJA 12113M001        001  2011 07 19 00 00 00  2017 09 08 10 19 00  TRIMBLE 5700                                999999  TRM41249.00     TZGD                        999999    0.0000    0.0000    0.0000   102.0  KNJA00SRB  KNJA00SRB               
@@ -5715,7 +5715,8 @@ TLSE 10003M009        001  2020 02 20 10 06 00  2020 05 18 07 05 00  TRIMBLE NET
 TLSE 10003M009        001  2020 05 18 07 05 00  2022 09 21 12 08 00  TRIMBLE NETR9                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    1.0530          TLSE00FRA  TLSE00FRA               
 TLSE 10003M009        001  2022 09 21 12 08 00  2023 03 09 14 33 00  TRIMBLE ALLOY                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    1.0530          TLSE00FRA  TLSE00FRA               
 TLSE 10003M009        001  2023 03 09 14 33 00  2023 05 30 09 10 00  TRIMBLE ALLOY                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    1.0530          TLSE00FRA  TLSE00FRA               
-TLSE 10003M009        001  2023 05 30 09 10 00                       TRIMBLE ALLOY                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    1.0530          TLSE00FRA  TLSE00FRA               
+TLSE 10003M009        001  2023 05 30 09 10 00  2023 11 29 13 37 00  TRIMBLE ALLOY                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    1.0530          TLSE00FRA  TLSE00FRA               
+TLSE 10003M009        001  2023 11 29 13 37 00                       TRIMBLE ALLOY                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    1.0530          TLSE00FRA  TLSE00FRA               
 TLSG 10003M034        001  2014 02 12 00 00 00  2015 06 08 12 15 00  SEPT POLARX4TR                              999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.4410          TLSG00FRA  TLSG00FRA               
 TLSG 10003M034        001  2015 06 08 12 15 00  2015 10 21 12 55 00  SEPT POLARX4TR                              999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.4410          TLSG00FRA  TLSG00FRA               
 TLSG 10003M034        001  2015 10 21 12 55 00  2016 07 04 15 45 00  SEPT POLARX4TR                              999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.4410          TLSG00FRA  TLSG00FRA               
