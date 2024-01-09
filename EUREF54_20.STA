@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             09-01-2024 04:04
+BSW 5.4 station information file for EPN processing             09-01-2024 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -114,7 +114,7 @@ DRES 14108M001        001  1997 10 24 00 00 00  2016 09 08 08 27 00  DRES*      
 DUB2 11901M002        001  2011 11 03 00 00 00                       DUB2*                 dub2_20210415.log
 DUBR 11901M001        001  2000 09 22 00 00 00  2012 10 24 00 00 00  DUBR*                 dubr_20120918.log
 DUTH 12621M001        001  2008 09 11 00 00 00                       DUTH*                 duth_20201009.log
-DVCN 11709M001        001  2021 03 23 11 50 00                       DVCN*                 dvcn_20230906.log
+DVCN 11709M001        001  2021 03 23 11 50 00                       DVCN*                 dvcn_20240109.log
 DYNG 12602M006        001  2011 05 12 09 03 00                       DYNG*                 dyng_20221130.log
 EBRE 13410M001        001  1994 05 23 00 00 00                       EBRE*                 ebre_20231113.log
 EDIN 13217S001        001  2000 03 16 00 00 00  2020 09 08 09 40 00  EDIN*                 edin_20230406.log
@@ -139,7 +139,7 @@ FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*      
 FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func_20221109.log
 GAIA 13902M001        001  2000 01 02 14 35 00                       GAIA*                 gaia_20221109.log
 GALH 18490M001        001  2018 05 24 00 00 00                       GALH*                 galh_20231122.log
-GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp_20230925.log
+GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp_20240109.log
 GARI 19517M001        001  2009 04 01 00 00 00                       GARI*                 gari_20230421.log
 GDRS 15595M001        001  2014 11 28 10 55 00                       GDRS*                 gdrs_20181105.log
 GELL 10908M001        001  2007 11 07 14 00 00                       GELL*                 gell_20230420.log
@@ -224,7 +224,7 @@ KUNZ 11524M001        001  2005 09 23 12 30 00                       KUNZ*      
 KURE 10604S001        001  2007 11 15 11 30 00                       KURE*                 kure_20230725.log
 KUU2 10517M002        001  2014 01 02 12 00 00                       KUU2*                 kuu2_20221103.log
 LAGO 13903M001        001  2000 01 02 14 35 00                       LAGO*                 lago_20221109.log
-LAMA 12209M001        001  1994 12 01 00 00 00                       LAMA*                 lama_20220315.log
+LAMA 12209M001        001  1994 12 01 00 00 00                       LAMA*                 lama_20240109.log
 LAMP 12706M002        001  1999 03 25 00 00 00                       LAMP*                 lamp_20231116.log
 LARM 12610M002        001  2011 01 15 00 00 00                       LARM*                 larm_20201009.log
 LCRA 18491M001        001  2018 06 22 00 00 00                       LCRA*                 lcra_20231128.log
@@ -282,7 +282,7 @@ MMET 14681M001        001  2004 05 24 00 00 00                       MMET*      
 MNKW 14802M002        001  2010 02 01 00 00 00                       MNKW*                 mnkw_20220801.log
 MNSK 14802M001        001  2002 02 07 08 20 00                       MNSK*                 mnsk_20220310.log
 MOGI 14807M001        001  2011 06 01 00 00 00                       MOGI*                 mogi_20220310.log
-MOP2 11507M002        001  2007 12 05 15 00 00                       MOP2*                 mop2_20230908.log
+MOP2 11507M002        001  2007 12 05 15 00 00                       MOP2*                 mop2_20240109.log
 MOPI 11507M001        001  1996 06 10 00 00 00                       MOPI*                 mopi_20231004.log
 MOPS 12791M001        001  2007 02 12 00 00 00                       MOPS*                 mops_20231103.log
 MORP 13299S001        001  1996 10 31 00 00 00                       MORP*                 morp_20200203.log
@@ -1819,7 +1819,8 @@ DVCN 11709M001        001  2022 05 16 08 18 00  2022 09 22 08 03 00  TRIMBLE ALL
 DVCN 11709M001        001  2022 09 22 08 03 00  2022 12 13 08 53 00  TRIMBLE ALLOY                               999999  TRM115000.00    NONE                        999999    0.0000    0.0000    0.2850          DVCN00SVK  DVCN00SVK               
 DVCN 11709M001        001  2022 12 13 08 53 00  2023 05 09 07 31 00  TRIMBLE ALLOY                               999999  TRM115000.00    NONE                        999999    0.0000    0.0000    0.2850          DVCN00SVK  DVCN00SVK               
 DVCN 11709M001        001  2023 05 09 07 31 00  2023 09 06 08 57 00  TRIMBLE ALLOY                               999999  TRM115000.00    NONE                        999999    0.0000    0.0000    0.2850          DVCN00SVK  DVCN00SVK               
-DVCN 11709M001        001  2023 09 06 08 57 00                       TRIMBLE ALLOY                               999999  TRM115000.00    NONE                        999999    0.0000    0.0000    0.2850          DVCN00SVK  DVCN00SVK               
+DVCN 11709M001        001  2023 09 06 08 57 00  2024 01 09 07 10 00  TRIMBLE ALLOY                               999999  TRM115000.00    NONE                        999999    0.0000    0.0000    0.2850          DVCN00SVK  DVCN00SVK               
+DVCN 11709M001        001  2024 01 09 07 10 00                       TRIMBLE ALLOY                               999999  TRM115000.00    NONE                        999999    0.0000    0.0000    0.2850          DVCN00SVK  DVCN00SVK               
 DYNG 12602M006        001  2011 05 12 09 03 00  2011 10 25 10 00 00  TRIMBLE NETR9                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    2.0180          DYNG00GRC  DYNG00GRC               
 DYNG 12602M006        001  2011 10 25 10 00 00  2012 06 08 15 15 00  TRIMBLE NETR9                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    2.0180          DYNG00GRC  DYNG00GRC               
 DYNG 12602M006        001  2012 06 08 15 15 00  2013 04 01 00 00 00  TRIMBLE NETR9                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    2.0180          DYNG00GRC  DYNG00GRC               
@@ -2176,7 +2177,8 @@ GANP 11515M001        001  2022 05 16 08 16 00  2022 09 22 07 55 00  TRIMBLE ALL
 GANP 11515M001        001  2022 09 22 07 55 00  2022 12 13 09 53 00  TRIMBLE ALLOY                               999999  TRM59800.00     SCIS                        999999    0.0000    0.0000    0.3830   311.0  GANP00SVK  GANP00SVK               
 GANP 11515M001        001  2022 12 13 09 53 00  2023 05 09 07 44 00  TRIMBLE ALLOY                               999999  TRM59800.00     SCIS                        999999    0.0000    0.0000    0.3830   311.0  GANP00SVK  GANP00SVK               
 GANP 11515M001        001  2023 05 09 07 44 00  2023 09 06 08 57 00  TRIMBLE ALLOY                               999999  TRM59800.00     SCIS                        999999    0.0000    0.0000    0.3830   311.0  GANP00SVK  GANP00SVK               
-GANP 11515M001        001  2023 09 06 08 57 00                       TRIMBLE ALLOY                               999999  TRM59800.00     SCIS                        999999    0.0000    0.0000    0.3830   311.0  GANP00SVK  GANP00SVK               
+GANP 11515M001        001  2023 09 06 08 57 00  2024 01 09 07 10 00  TRIMBLE ALLOY                               999999  TRM59800.00     SCIS                        999999    0.0000    0.0000    0.3830   311.0  GANP00SVK  GANP00SVK               
+GANP 11515M001        001  2024 01 09 07 10 00                       TRIMBLE ALLOY                               999999  TRM59800.00     SCIS                        999999    0.0000    0.0000    0.3830   311.0  GANP00SVK  GANP00SVK               
 GARI 19517M001        001  2009 04 01 00 00 00  2010 03 25 00 00 00  TPS NETG3                                   999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000    40.0  GARI00ITA  GARI00ITA               
 GARI 19517M001        001  2010 03 25 00 00 00  2015 09 29 15 00 00  TPS NETG3                                   999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000    40.0  GARI00ITA  GARI00ITA               
 GARI 19517M001        001  2015 09 29 15 00 00  2019 04 12 15 00 00  TPS NETG3                                   999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000    40.0  GARI00ITA  GARI00ITA               
@@ -3264,7 +3266,8 @@ LAMA 12209M001        001  2009 04 21 17 00 00  2010 05 04 06 00 00  LEICA GRX12
 LAMA 12209M001        001  2010 05 04 06 00 00  2011 02 09 08 30 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0600          LAMA00POL  LAMA00POL               
 LAMA 12209M001        001  2011 02 09 08 30 00  2018 08 17 14 00 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0600          LAMA00POL  LAMA00POL               
 LAMA 12209M001        001  2018 08 17 14 00 00  2022 02 17 13 00 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0600          LAMA00POL  LAMA00POL               
-LAMA 12209M001        001  2022 02 17 13 00 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0600          LAMA00POL  LAMA00POL               
+LAMA 12209M001        001  2022 02 17 13 00 00  2024 01 08 13 00 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0600          LAMA00POL  LAMA00POL               
+LAMA 12209M001        001  2024 01 08 13 00 00                       LEICA GR50                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0600          LAMA00POL  LAMA00POL               
 LAMP 12706M002        001  1999 03 25 00 00 00  2001 03 29 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          LAMP00ITA  LAMP00ITA               
 LAMP 12706M002        001  2001 03 29 00 00 00  2009 07 07 00 00 00  TRIMBLE 4700                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          LAMP00ITA  LAMP00ITA               
 LAMP 12706M002        001  2009 07 07 00 00 00  2010 02 17 00 00 00  TRIMBLE 4700                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          LAMP00ITA  LAMP00ITA               
@@ -3986,7 +3989,8 @@ MOP2 11507M002        001  2022 09 22 09 12 00  2022 12 13 08 59 00  TRIMBLE NET
 MOP2 11507M002        001  2022 12 13 08 59 00  2023 05 09 07 40 00  TRIMBLE NETR9                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0580          MOP200SVK  MOP200SVK               
 MOP2 11507M002        001  2023 05 09 07 40 00  2023 09 06 08 58 00  TRIMBLE NETR9                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0580          MOP200SVK  MOP200SVK               
 MOP2 11507M002        001  2023 09 06 08 58 00  2023 09 08 09 30 00  TRIMBLE NETR9                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0580          MOP200SVK  MOP200SVK               
-MOP2 11507M002        001  2023 09 08 09 30 00                       TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0580          MOP200SVK  MOP200SVK               
+MOP2 11507M002        001  2023 09 08 09 30 00  2024 01 09 06 49 00  TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0580          MOP200SVK  MOP200SVK               
+MOP2 11507M002        001  2024 01 09 06 49 00                       TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0580          MOP200SVK  MOP200SVK               
 MOPI 11507M001        001  1996 06 10 00 00 00  1997 02 02 10 00 00  TRIMBLE 4000SSI                             999999  TRM14532.00     NONE                        999999    0.0000    0.0000    0.0870          MOPI00SVK  MOPI00SVK               
 MOPI 11507M001        001  1997 02 02 10 00 00  1997 06 02 10 00 00  TRIMBLE 4000SSI                             999999  TRM14532.00     DOME                        999999    0.0000    0.0000    0.0870          MOPI00SVK  MOPI00SVK               
 MOPI 11507M001        001  1997 06 02 10 00 00  1997 06 17 08 30 00  TRIMBLE 4000SSI                             999999  TRM14532.00     NONE                        999999    0.0000    0.0000    0.0870          MOPI00SVK  MOPI00SVK               
