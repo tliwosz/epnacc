@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             18-01-2024 04:04
+BSW 5.4 station information file for EPN processing             18-01-2024 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -23,7 +23,7 @@ ANKR 20805M002        001  1995 06 21 00 00 00  2022 05 23 00 00 00  ANKR*      
 AQUI 12757M001        001  1999 06 11 00 00 00                       AQUI*                 aqui_20231127.log
 ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*                 ara2_20220617.log
 ARGI 10117M002        001  2008 09 25 00 00 00                       ARGI*                 argi_20221129.log
-ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*                 aris_20230831.log
+ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*                 aris_20240118.log
 ARJ6 10428M002        001  2011 07 29 00 00 00                       ARJ6*                 arj6_20240102.log
 ASGA 25401M001        001  2021 07 27 08 00 00                       ASGA*                 asga_20230919.log
 ASIR 14668M001        001  2021 07 02 10 00 00                       ASIR*                 asir_20231116.log
@@ -690,7 +690,8 @@ ARIS 19190M001        001  2021 02 05 00 00 00  2021 11 02 14 45 00  TRIMBLE ALL
 ARIS 19190M001        001  2021 11 02 14 45 00  2022 06 14 13 05 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804          ARIS00GBR  ARIS00GBR               
 ARIS 19190M001        001  2022 06 14 13 05 00  2023 04 03 10 35 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804          ARIS00GBR  ARIS00GBR               
 ARIS 19190M001        001  2023 04 03 10 35 00  2023 08 31 11 35 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804          ARIS00GBR  ARIS00GBR               
-ARIS 19190M001        001  2023 08 31 11 35 00                       TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804          ARIS00GBR  ARIS00GBR               
+ARIS 19190M001        001  2023 08 31 11 35 00  2024 01 18 11 55 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804          ARIS00GBR  ARIS00GBR               
+ARIS 19190M001        001  2024 01 18 11 55 00                       TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804          ARIS00GBR  ARIS00GBR               
 ARJ6 10428M002        001  2011 07 29 00 00 00  2011 11 29 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
 ARJ6 10428M002        001  2011 11 29 00 00 00  2012 04 05 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
 ARJ6 10428M002        001  2012 04 05 00 00 00  2013 12 05 15 50 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
