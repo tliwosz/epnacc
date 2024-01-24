@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             24-01-2024 04:04
+BSW 5.4 station information file for EPN processing             24-01-2024 14:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -468,7 +468,7 @@ VAA2 10511M002        001  2014 01 02 12 00 00                       VAA2*      
 VAAS 10511M001        001  1995 04 07 00 00 00                       VAAS*                 vaas_20221103.log
 VACO 11516M001        001  2004 10 20 12 00 00                       VACO*                 vaco_20200219.log
 VAE6 10443M002        001  2011 08 25 00 00 00                       VAE6*                 vae6_20221206.log
-VAIN 10736M001        001  2015 10 13 00 00 00                       VAIN*                 vain_20230207.log
+VAIN 10736M001        001  2015 10 13 00 00 00                       VAIN*                 vain_20240124.log
 VALA 13463M002        001  2007 10 30 00 00 00                       VALA*                 vala_20230801.log
 VALE 13439M001        001  1999 12 16 12 00 00                       VALE*                 vale_20230725.log
 VARD 10322M002        001  1995 07 17 00 00 00  2000 04 17 12 00 00  VARD*                 vard_20181203.log
@@ -6115,7 +6115,8 @@ VAIN 10736M001        001  2021 07 01 00 00 00  2021 11 02 00 00 00  LEICA GR30 
 VAIN 10736M001        001  2021 11 02 00 00 00  2022 01 17 00 00 00  LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          VAIN00LVA  VAIN00LVA               
 VAIN 10736M001        001  2022 01 17 00 00 00  2022 08 10 00 00 00  LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          VAIN00LVA  VAIN00LVA               
 VAIN 10736M001        001  2022 08 10 00 00 00  2023 01 19 00 00 00  LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          VAIN00LVA  VAIN00LVA               
-VAIN 10736M001        001  2023 01 19 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          VAIN00LVA  VAIN00LVA               
+VAIN 10736M001        001  2023 01 19 00 00 00  2024 01 16 00 00 00  LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          VAIN00LVA  VAIN00LVA               
+VAIN 10736M001        001  2024 01 16 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          VAIN00LVA  VAIN00LVA               
 VALA 13463M002        001  2007 10 30 00 00 00  2008 08 08 09 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0083          VALA00ESP  VALA00ESP               
 VALA 13463M002        001  2008 08 08 09 00 00  2009 04 24 07 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0083          VALA00ESP  VALA00ESP               
 VALA 13463M002        001  2009 04 24 07 00 00  2009 08 05 10 35 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0083          VALA00ESP  VALA00ESP               
