@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          05-02-2024 14:04
+Station information file for Bernese GNSS Software 5.2          06-02-2024 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -232,7 +232,7 @@ LDB2 14114M002        001  2005 10 25 10 00 00                       LDB2*      
 LEIJ 14267M001        001  2001 07 03 12 00 00                       LEIJ*                 leij_20230427.log
 LEK6 10433M002        001  2011 06 15 00 00 00                       LEK6*                 lek6_20221109.log
 LEON 13475M001        001  2007 03 26 00 00 00                       LEON*                 leon_20231011.log
-LERI 19159M003        001  2009 06 16 15 00 00                       LERI*                 leri_20230901.log
+LERI 19159M003        001  2009 06 16 15 00 00                       LERI*                 leri_20240205.log
 LESK 12129M001        001  2017 09 07 09 54 00                       LESK*                 lesk_20231031.log
 LICC 15201M001        001  2020 01 08 00 00 00                       LICC*                 licc_20230329.log
 LIDA 14806M001        001  2011 09 01 00 00 00                       LIDA*                 lida_20220310.log
@@ -3365,7 +3365,8 @@ LERI 19159M003        001  2020 03 19 13 10 00  2022 03 03 13 00 00  LEICA GRX12
 LERI 19159M003        001  2022 03 03 13 10 00  2022 06 16 10 45 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040  LERI00GBR               
 LERI 19159M003        001  2022 06 16 10 50 00  2023 04 13 15 30 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040  LERI00GBR               
 LERI 19159M003        001  2023 04 13 15 45 00  2023 09 01 13 45 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040  LERI00GBR               
-LERI 19159M003        001  2023 09 01 13 55 00                       TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040  LERI00GBR               
+LERI 19159M003        001  2023 09 01 13 55 00  2024 02 05 14 10 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040  LERI00GBR               
+LERI 19159M003        001  2024 02 05 14 20 00                       TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040  LERI00GBR               
 LESK 12129M001        001  2017 09 07 09 54 00                       TRIMBLE NETR9                               999999  TRM41249.00     TZGD                        999999    0.0000    0.0000    0.0000  LESK00SRB               
 LICC 15201M001        001  2020 01 08 00 00 00                       CHC P5E                                     999999  CHCC220GR2      CHCD                        999999    0.0000    0.0000    0.1050  LICC00GBR               
 LIDA 14806M001        001  2011 09 01 00 00 00  2018 08 07 09 05 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2790  LIDA00BLR               
