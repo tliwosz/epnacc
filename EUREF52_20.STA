@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          08-02-2024 14:04
+Station information file for Bernese GNSS Software 5.2          09-02-2024 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -157,7 +157,7 @@ GRAZ 11001M002        001  1992 06 12 12 00 00                       GRAZ*      
 GSR1 14501M001        001  2000 02 01 12 00 00                       GSR1*                 gsr1_20221122.log
 GUIP 10004M501        001  2002 10 18 00 00 00                       GUIP*                 guip_20230215.log
 GVNL 18546M002        001  2023 05 14 10 00 00                       GVNL*                 gvnl_20230928.log
-GWWL 12225M001        001  2007 12 10 00 00 00                       GWWL*                 gwwl_20230831.log
+GWWL 12225M001        001  2007 12 10 00 00 00                       GWWL*                 gwwl_20240208.log
 HAS6 10429M002        001  2011 06 15 00 00 00                       HAS6*                 has6_20221123.log
 HEL2 14264M002        001  2005 09 08 12 00 00                       HEL2*                 hel2_20230419.log
 HELG 14264M001        001  1999 11 09 00 00 00                       HELG*                 helg_20230419.log
@@ -2437,7 +2437,8 @@ GWWL 12225M001        001  2016 05 19 06 00 00  2018 08 28 12 00 00  TRIMBLE NET
 GWWL 12225M001        001  2018 08 28 13 00 00  2018 11 22 12 00 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  GWWL00POL               
 GWWL 12225M001        001  2018 11 22 12 05 00  2020 09 21 05 30 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  GWWL00POL               
 GWWL 12225M001        001  2020 09 21 06 00 00  2023 05 12 11 10 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  GWWL00POL               
-GWWL 12225M001        001  2023 05 12 11 15 00                       TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  GWWL00POL               
+GWWL 12225M001        001  2023 05 12 11 15 00  2024 02 06 12 00 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  GWWL00POL               
+GWWL 12225M001        001  2024 02 06 12 10 00                       TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  GWWL00POL               
 HAS6 10429M002        001  2011 06 15 00 00 00  2011 08 16 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  HAS600SWE               
 HAS6 10429M002        001  2011 08 16 00 00 00  2011 11 29 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  HAS600SWE               
 HAS6 10429M002        001  2011 11 29 00 00 00  2012 04 05 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  HAS600SWE               
