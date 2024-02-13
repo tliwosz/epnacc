@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             13-02-2024 04:04
+BSW 5.4 station information file for EPN processing             13-02-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -51,7 +51,7 @@ BOR1 12205M002        001  1994 01 10 00 00 00                       BOR1*      
 BORJ 14268M002        001  2005 06 09 10 00 00                       BORJ*                 borj_20230419.log
 BORK 14268M001        001  2000 09 29 00 00 00  2007 06 04 00 00 00  BORK*                 bork_20230601.log
 BORR 13480M001        001  2005 04 27 16 15 00                       BORR*                 borr_20210312.log
-BPDL 12223M001        001  2007 12 04 12 00 00                       BPDL*                 bpdl_20230831.log
+BPDL 12223M001        001  2007 12 04 12 00 00                       BPDL*                 bpdl_20240213.log
 BRMF 19686M002        001  2014 02 18 07 00 00                       BRMF*                 brmf_20230215.log
 BRMG 10918M001        001  2020 04 08 10 00 00                       BRMG*                 brmg_20230425.log
 BRON 19686M001        001  2013 01 05 09 00 00  2013 10 25 09 00 00  BRON*                 bron_20200423.log
@@ -491,7 +491,7 @@ VLFR 14610M001        001  2019 09 16 09 00 00                       VLFR*      
 VLIS 13538M001        001  2006 11 22 15 00 00                       VLIS*                 vlis_20230417.log
 VLN1 13626M002        001  2019 02 01 12 30 00                       VLN1*                 vln1_20230331.log
 VLNS 10801M001        001  1997 09 16 11 00 00                       VLNS*                 vlns_20200716.log
-VNRS 18101M001        001  2009 11 12 00 00 00                       VNRS*                 vnrs_20240202.log
+VNRS 18101M001        001  2009 11 12 00 00 00  2024 02 05 10 47 00  VNRS*                 vnrs_20240213.log
 VTRB 14606M001        001  2019 07 26 07 30 00                       VTRB*                 vtrb_20231128.log
 WARE 13114M001        001  1994 01 14 00 00 00                       WARE*                 ware_20230310.log
 WARN 14277M002        001  2003 02 11 12 00 00                       WARN*                 warn_20230703.log
@@ -1010,7 +1010,8 @@ BPDL 12223M001        001  2011 07 08 00 00 00  2019 02 28 13 30 00  TRIMBLE NET
 BPDL 12223M001        001  2019 02 28 13 30 00  2019 06 05 06 45 00  TRIMBLE NETR9                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000          BPDL00POL  BPDL00POL               
 BPDL 12223M001        001  2019 06 05 06 45 00  2020 09 21 06 00 00  TRIMBLE NETR9                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          BPDL00POL  BPDL00POL               
 BPDL 12223M001        001  2020 09 21 06 00 00  2023 05 12 11 10 00  TRIMBLE NETR9                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          BPDL00POL  BPDL00POL               
-BPDL 12223M001        001  2023 05 12 11 10 00                       TRIMBLE NETR9                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          BPDL00POL  BPDL00POL               
+BPDL 12223M001        001  2023 05 12 11 10 00  2024 02 13 10 05 00  TRIMBLE NETR9                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          BPDL00POL  BPDL00POL               
+BPDL 12223M001        001  2024 02 13 10 05 00                       TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          BPDL00POL  BPDL00POL               
 BRMF 19686M002        001  2014 02 18 07 00 00  2014 07 21 00 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          BRMF00FRA  BRMF00FRA               
 BRMF 19686M002        001  2014 07 21 00 00 00  2014 09 19 12 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          BRMF00FRA  BRMF00FRA               
 BRMF 19686M002        001  2014 09 19 12 00 00  2014 11 14 12 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          BRMF00FRA  BRMF00FRA               
@@ -6406,7 +6407,7 @@ VLNS 10801M001        001  2015 07 29 10 00 00                       LEICA GRX12
 VNRS 18101M001        001  2009 11 12 00 00 00  2012 04 18 13 01 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          VNRS00UKR  VNRS00UKR               
 VNRS 18101M001        001  2012 04 18 13 01 00  2016 09 30 08 58 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          VNRS00UKR  VNRS00UKR               
 VNRS 18101M001        001  2016 09 30 08 58 00  2018 10 01 11 54 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          VNRS00UKR  VNRS00UKR               
-VNRS 18101M001        001  2018 10 01 11 54 00                       NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          VNRS00UKR  VNRS00UKR               
+VNRS 18101M001        001  2018 10 01 11 54 00  2024 02 05 10 47 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          VNRS00UKR  VNRS00UKR               
 VTRB 14606M001        001  2019 07 26 07 30 00  2023 11 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          VTRB00ITA  VTRB00ITA               
 VTRB 14606M001        001  2023 11 28 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          VTRB00ITA  VTRB00ITA               
 WARE 13114M001        001  1994 01 14 00 00 00  1994 10 27 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.5050          WARE00BEL  WARE00BEL               
