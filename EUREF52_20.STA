@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          16-02-2024 04:04
+Station information file for Bernese GNSS Software 5.2          16-02-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -25,15 +25,15 @@ ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*      
 ARGI 10117M002        001  2008 09 25 00 00 00                       ARGI*                 argi_20221129.log
 ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*                 aris_20240118.log
 ARJ6 10428M002        001  2011 07 29 00 00 00                       ARJ6*                 arj6_20240102.log
-ASGA 25401M001        001  2021 07 27 08 00 00                       ASGA*                 asga_20240215.log
+ASGA 25401M001        001  2021 07 27 08 00 00                       ASGA*                 asga_20240216.log
 ASIR 14668M001        001  2021 07 02 10 00 00                       ASIR*                 asir_20231116.log
 AUBG 10913M001        001  2012 10 10 00 00 00                       AUBG*                 aubg_20240215.log
 AUT1 12619M002        001  2005 03 29 00 00 00                       AUT1*                 aut1_20201009.log
 AUTN 10080M001        001  2005 04 15 12 00 00                       AUTN*                 autn_20230215.log
 AXPV 10057M001        001  2002 09 17 00 00 00                       AXPV*                 axpv_20220823.log
-BACA 11405M001        001  2005 08 05 12 00 00                       BACA*                 baca_20230718.log
+BACA 11405M001        001  2005 08 05 12 00 00                       BACA*                 baca_20240216.log
 BADH 14288M001        001  2005 02 28 12 00 00                       BADH*                 badh_20230601.log
-BAIA 11406M001        001  2005 06 10 12 00 00                       BAIA*                 baia_20230718.log
+BAIA 11406M001        001  2005 06 10 12 00 00                       BAIA*                 baia_20240216.log
 BAUT 14102M001        001  2018 09 26 10 00 00                       BAUT*                 baut_20240215.log
 BBYS 11514M001        001  2001 04 01 06 00 00                       BBYS*                 bbys_20230906.log
 BCLN 13412M001        001  2012 01 31 12 00 00                       BCLN*                 bcln_20230720.log
@@ -92,7 +92,7 @@ CMEL 14609M001        001  2019 09 18 09 30 00                       CMEL*      
 CNIV 15501M001        001  2005 05 19 10 00 00                       CNIV*                 cniv_20220926.log
 COBA 13453M001        001  2004 04 12 00 00 00                       COBA*                 coba_20230725.log
 COMO 12761M001        001  2001 04 15 00 00 00                       COMO*                 como_20230825.log
-COST 11407M001        001  2004 08 28 12 00 00                       COST*                 cost_20230705.log
+COST 11407M001        001  2004 08 28 12 00 00                       COST*                 cost_20240216.log
 CPAR 11527M001        001  2005 01 11 00 00 00                       CPAR*                 cpar_20220818.log
 CRAK 11528M001        001  2005 04 19 00 00 00                       CRAK*                 crak_20220818.log
 CREI 10016M001        001  2003 07 07 00 00 00  2018 03 01 09 00 00  CREI*                 crei_20230724.log
@@ -102,7 +102,7 @@ CUGA 18494M001        001  2018 09 27 00 00 00                       CUGA*      
 DARE 13208S001        001  2000 04 10 00 00 00                       DARE*                 dare_20240118.log
 DELF 13502M004        001  1994 12 30 13 00 00                       DELF*                 delf_20230630.log
 DENT 13112M001        001  1994 01 06 00 00 00                       DENT*                 dent_20230626.log
-DEVA 11408M001        001  2005 05 21 12 00 00                       DEVA*                 deva_20230718.log
+DEVA 11408M001        001  2005 05 21 12 00 00                       DEVA*                 deva_20240216.log
 DGOR 12001M001        001  2019 04 03 00 00 00                       DGOR*                 dgor_20190930.log
 DIEP 14287M001        001  2004 12 15 10 00 00                       DIEP*                 diep_20230419.log
 DILL 14286M001        001  2004 12 01 12 00 00                       DILL*                 dill_20240215.log
