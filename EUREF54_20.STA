@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             19-02-2024 13:04
+BSW 5.4 station information file for EPN processing             20-02-2024 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -136,7 +136,7 @@ FLRS 31907M001        001  2008 04 09 17 00 00                       FLRS*      
 FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl_20201022.log
 FRA2 15538M002        001  2011 03 16 12 00 00                       FRA2*                 fra2_20230412.log
 FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*                 frne_20231120.log
-FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func_20221109.log
+FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func_20240219.log
 GAIA 13902M001        001  2000 01 02 14 35 00                       GAIA*                 gaia_20240215.log
 GALH 18490M001        001  2018 05 24 00 00 00                       GALH*                 galh_20231122.log
 GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp_20240109.log
@@ -223,7 +223,7 @@ KTVL 12337M003        001  2009 09 14 16 15 00                       KTVL*      
 KUNZ 11524M001        001  2005 09 23 12 30 00                       KUNZ*                 kunz_20200715.log
 KURE 10604S001        001  2007 11 15 11 30 00                       KURE*                 kure_20230725.log
 KUU2 10517M002        001  2014 01 02 12 00 00                       KUU2*                 kuu2_20221103.log
-LAGO 13903M001        001  2000 01 02 14 35 00                       LAGO*                 lago_20221109.log
+LAGO 13903M001        001  2000 01 02 14 35 00                       LAGO*                 lago_20240219.log
 LAMA 12209M001        001  1994 12 01 00 00 00                       LAMA*                 lama_20240109.log
 LAMP 12706M002        001  1999 03 25 00 00 00                       LAMP*                 lamp_20240111.log
 LARM 12610M002        001  2011 01 15 00 00 00                       LARM*                 larm_20201009.log
@@ -2127,7 +2127,8 @@ FUNC 13911S001        001  2020 05 23 00 00 00  2020 10 14 00 00 00  LEICA GRX12
 FUNC 13911S001        001  2020 10 14 00 00 00  2020 11 25 13 05 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          FUNC00PRT  FUNC00PRT               
 FUNC 13911S001        001  2020 11 25 13 05 00  2021 01 23 09 18 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          FUNC00PRT  FUNC00PRT               
 FUNC 13911S001        001  2021 01 23 09 18 00  2022 11 09 15 37 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          FUNC00PRT  FUNC00PRT               
-FUNC 13911S001        001  2022 11 09 15 37 00                       TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          FUNC00PRT  FUNC00PRT               
+FUNC 13911S001        001  2022 11 09 15 37 00  2024 02 19 14 43 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          FUNC00PRT  FUNC00PRT               
+FUNC 13911S001        001  2024 02 19 14 43 00                       TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          FUNC00PRT  FUNC00PRT               
 GAIA 13902M001        001  2000 01 02 14 35 00  2002 06 20 16 00 00  LEICA CRS1000                               999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000          GAIA00PRT  GAIA00PRT               
 GAIA 13902M001        001  2002 06 20 16 00 00  2002 07 25 16 00 00  LEICA CRS1000                               999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000          GAIA00PRT  GAIA00PRT               
 GAIA 13902M001        001  2002 07 25 16 00 00  2003 01 12 00 00 00  LEICA RS500                                 999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000          GAIA00PRT  GAIA00PRT               
@@ -3272,7 +3273,8 @@ LAGO 13903M001        001  2019 11 26 16 30 00  2020 05 13 15 05 00  TRIMBLE ALL
 LAGO 13903M001        001  2020 05 13 15 05 00  2020 10 01 12 37 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          LAGO00PRT  LAGO00PRT               
 LAGO 13903M001        001  2020 10 01 12 37 00  2021 01 26 18 39 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          LAGO00PRT  LAGO00PRT               
 LAGO 13903M001        001  2021 01 26 18 39 00  2022 11 09 15 24 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          LAGO00PRT  LAGO00PRT               
-LAGO 13903M001        001  2022 11 09 15 24 00                       TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          LAGO00PRT  LAGO00PRT               
+LAGO 13903M001        001  2022 11 09 15 24 00  2024 02 19 14 43 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          LAGO00PRT  LAGO00PRT               
+LAGO 13903M001        001  2024 02 19 14 43 00                       TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          LAGO00PRT  LAGO00PRT               
 LAMA 12209M001        001  1994 12 01 00 00 00  1996 04 17 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0610          LAMA00POL  LAMA00POL               
 LAMA 12209M001        001  1996 04 17 00 00 00  1996 07 23 00 00 00  ASHTECH Z-XII3                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0610          LAMA00POL  LAMA00POL               
 LAMA 12209M001        001  1996 07 23 00 00 00  1998 04 26 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0610          LAMA00POL  LAMA00POL               
