@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             26-02-2024 13:04
+BSW 5.4 station information file for EPN processing             27-02-2024 04:05
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -11,7 +11,7 @@ STATION NAME          FLG          FROM                   TO         OLD STATION
 ****************      ***  YYYY MM DD HH MM SS  YYYY MM DD HH MM SS  ********************  ************************
 ACOR 13434M001        001  1998 12 06 10 10 00                       ACOR*                 acor_20230724.log
 ADAR 19161M001        001  2009 03 04 12 00 00                       ADAR*                 adar_20230628.log
-AGRN 19584M002        001  2018 05 25 00 00 00                       AGRN*                 agrn_20231120.log
+AGRN 19584M002        001  2018 05 25 00 00 00                       AGRN*                 agrn_20240226.log
 AJAC 10077M005        001  2000 01 22 00 00 00                       AJAC*                 ajac_20211215.log
 ALAC 13433M001        001  1998 03 06 10 10 00                       ALAC*                 alac_20230724.log
 ALBA 13452M001        001  2002 06 20 00 00 00                       ALBA*                 alba_20230725.log
@@ -20,13 +20,13 @@ ALME 13437M001        001  1999 12 04 12 00 00                       ALME*      
 AMMN 22201M001        001  1999 06 15 00 00 00  2002 04 28 00 00 00  AMMN*                 ammn_20000407.log
 ANK2 20818M001        001  2019 06 28 09 56 00                       ANK2*                 ank2_20220218.log
 ANKR 20805M002        001  1995 06 21 00 00 00  2022 05 23 00 00 00  ANKR*                 ankr_20220826.log
-AQUI 12757M001        001  1999 06 11 00 00 00                       AQUI*                 aqui_20231127.log
+AQUI 12757M001        001  1999 06 11 00 00 00                       AQUI*                 aqui_20240226.log
 ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*                 ara2_20220617.log
 ARGI 10117M002        001  2008 09 25 00 00 00                       ARGI*                 argi_20221129.log
 ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*                 aris_20240118.log
 ARJ6 10428M002        001  2011 07 29 00 00 00                       ARJ6*                 arj6_20240102.log
 ASGA 25401M001        001  2021 07 27 08 00 00                       ASGA*                 asga_20240216.log
-ASIR 14668M001        001  2021 07 02 10 00 00                       ASIR*                 asir_20231116.log
+ASIR 14668M001        001  2021 07 02 10 00 00                       ASIR*                 asir_20240226.log
 AUBG 10913M001        001  2012 10 10 00 00 00                       AUBG*                 aubg_20240215.log
 AUT1 12619M002        001  2005 03 29 00 00 00                       AUT1*                 aut1_20201009.log
 AUTN 10080M001        001  2005 04 15 12 00 00                       AUTN*                 autn_20230215.log
@@ -322,7 +322,7 @@ OST6 10436M002        001  2011 07 08 00 00 00                       OST6*      
 OUL2 10519M002        001  2013 12 19 12 00 00                       OUL2*                 oul2_20230726.log
 OVE6 10437M002        001  2011 08 11 00 00 00                       OVE6*                 ove6_20221121.log
 PADO 12750S001        001  2001 11 21 13 00 00                       PADO*                 pado_20220902.log
-PALB 14603M001        001  2019 07 16 09 45 00                       PALB*                 palb_20240221.log
+PALB 14603M001        001  2019 07 16 09 45 00                       PALB*                 palb_20240226.log
 PASA 19351S001        001  2007 02 12 00 00 00                       PASA*                 pasa_20231031.log
 PAT0 12622M001        001  2009 01 26 14 10 00                       PAT0*                 pat0_20210329.log
 PDEL 31906M004        001  2000 01 16 14 35 00                       PDEL*                 pdel_20240219.log
@@ -563,7 +563,8 @@ ADAR 19161M001        001  2023 06 28 13 30 00                       SEPT POLARX
 AGRN 19584M002        001  2018 05 25 00 00 00  2018 07 26 10 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AGRN00ITA  AGRN00ITA               
 AGRN 19584M002        001  2018 07 26 10 00 00  2018 09 06 09 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AGRN00ITA  AGRN00ITA               
 AGRN 19584M002        001  2018 09 06 09 00 00  2023 11 20 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AGRN00ITA  AGRN00ITA               
-AGRN 19584M002        001  2023 11 20 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AGRN00ITA  AGRN00ITA               
+AGRN 19584M002        001  2023 11 20 00 00 00  2024 02 26 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AGRN00ITA  AGRN00ITA               
+AGRN 19584M002        001  2024 02 26 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AGRN00ITA  AGRN00ITA               
 AJAC 10077M005        001  2000 01 22 00 00 00  2008 11 26 00 00 00  ASHTECH Z-XII3                              999999  ASH700936A_M    NONE                        999999    0.0000    0.0000    0.0000          AJAC00FRA  AJAC00FRA               
 AJAC 10077M005        001  2008 11 26 00 00 00  2009 05 11 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          AJAC00FRA  AJAC00FRA               
 AJAC 10077M005        001  2009 05 11 00 00 00  2010 10 18 06 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          AJAC00FRA  AJAC00FRA               
@@ -662,7 +663,8 @@ AQUI 12757M001        001  2001 08 27 00 00 00  2015 08 03 12 15 00  TRIMBLE 470
 AQUI 12757M001        001  2015 08 03 12 15 00  2017 11 23 12 00 00  TRIMBLE 4700                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          AQUI00ITA  AQUI00ITA               
 AQUI 12757M001        001  2017 11 23 12 00 00  2018 07 25 14 30 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AQUI00ITA  AQUI00ITA               
 AQUI 12757M001        001  2018 07 25 14 30 00  2023 11 27 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AQUI00ITA  AQUI00ITA               
-AQUI 12757M001        001  2023 11 27 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AQUI00ITA  AQUI00ITA               
+AQUI 12757M001        001  2023 11 27 00 00 00  2024 02 26 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AQUI00ITA  AQUI00ITA               
+AQUI 12757M001        001  2024 02 26 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AQUI00ITA  AQUI00ITA               
 ARA2 14503M002        001  2015 11 16 12 00 00  2016 09 23 14 00 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0007   -0.0006    0.0800     1.0  ARA200SVN  ARA200SVN               
 ARA2 14503M002        001  2016 09 23 14 00 00  2018 04 26 09 11 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0007   -0.0006    0.0800     1.0  ARA200SVN  ARA200SVN               
 ARA2 14503M002        001  2018 04 26 09 11 00  2018 05 04 10 50 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0007   -0.0006    0.0800     1.0  ARA200SVN  ARA200SVN               
@@ -713,7 +715,8 @@ ASGA 25401M001        001  2023 01 21 00 00 00  2023 09 11 00 00 00  TRIMBLE ALL
 ASGA 25401M001        001  2023 09 11 00 00 00                       TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          ASGA00CYP  ASGA00CYP               
 ASIR 14668M001        001  2021 07 02 10 00 00  2022 04 21 10 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ASIR00ITA  ASIR00ITA               
 ASIR 14668M001        001  2022 04 21 10 00 00  2023 11 16 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ASIR00ITA  ASIR00ITA               
-ASIR 14668M001        001  2023 11 16 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ASIR00ITA  ASIR00ITA               
+ASIR 14668M001        001  2023 11 16 00 00 00  2024 02 26 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ASIR00ITA  ASIR00ITA               
+ASIR 14668M001        001  2024 02 26 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ASIR00ITA  ASIR00ITA               
 AUBG 10913M001        001  2012 10 10 00 00 00  2013 04 22 11 20 00  LEICA GRX1200+GNSS                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          AUBG00DEU  AUBG00DEU               
 AUBG 10913M001        001  2013 04 22 11 20 00  2014 06 04 07 45 00  LEICA GRX1200+GNSS                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          AUBG00DEU  AUBG00DEU               
 AUBG 10913M001        001  2014 06 04 07 45 00  2015 01 23 10 20 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          AUBG00DEU  AUBG00DEU               
@@ -4451,7 +4454,8 @@ PADO 12750S001        001  2020 11 23 09 35 00  2021 03 11 09 15 00  STONEX SC22
 PADO 12750S001        001  2021 03 11 09 15 00                       STONEX SC2200                               999999  STXSA1500       STXG                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
 PALB 14603M001        001  2019 07 16 09 45 00  2023 11 16 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          PALB00ITA  PALB00ITA               
 PALB 14603M001        001  2023 11 16 00 00 00  2024 02 21 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          PALB00ITA  PALB00ITA               
-PALB 14603M001        001  2024 02 21 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          PALB00ITA  PALB00ITA               
+PALB 14603M001        001  2024 02 21 00 00 00  2024 02 26 00 00 00  LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          PALB00ITA  PALB00ITA               
+PALB 14603M001        001  2024 02 26 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          PALB00ITA  PALB00ITA               
 PASA 19351S001        001  2007 02 12 00 00 00  2007 07 20 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000          PASA00ESP  PASA00ESP               
 PASA 19351S001        001  2007 07 20 00 00 00  2007 09 05 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000          PASA00ESP  PASA00ESP               
 PASA 19351S001        001  2007 09 05 00 00 00  2008 11 17 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          PASA00ESP  PASA00ESP               
