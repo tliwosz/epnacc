@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          08-03-2024 04:04
+Station information file for Bernese GNSS Software 5.2          08-03-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -392,7 +392,7 @@ SMLA 15503M001        001  2008 11 20 08 30 00                       SMLA*      
 SMNE 10001M007        001  2000 11 16 00 00 00  2022 03 01 10 00 00  SMNE*                 smne_20220301.log
 SNEC 11519M001        001  2001 10 23 12 00 00  2009 06 10 00 00 00  SNEC*                 snec_20100701.log
 SNEO 19135M002        001  2009 05 13 13 00 00                       SNEO*                 sneo_20230406.log
-SNIK 14661M001        001  2021 10 24 09 00 00                       SNIK*                 snik_20230503.log
+SNIK 14661M001        001  2021 10 24 09 00 00                       SNIK*                 snik_20240308.log
 SOD3 10513M002        001  2013 12 19 12 00 00                       SOD3*                 sod3_20230117.log
 SODA 10513M001        001  1994 08 15 00 00 00                       SODA*                 soda_20221103.log
 SOFI 11101M002        001  1997 05 19 10 00 00                       SOFI*                 sofi_20230608.log
