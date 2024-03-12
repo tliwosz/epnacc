@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             12-03-2024 04:04
+BSW 5.4 station information file for EPN processing             12-03-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -107,7 +107,7 @@ DGOR 12001M001        001  2019 04 03 00 00 00                       DGOR*      
 DIEP 14287M001        001  2004 12 15 10 00 00                       DIEP*                 diep_20230419.log
 DILL 14286M001        001  2004 12 01 12 00 00                       DILL*                 dill_20240215.log
 DLF1 13502M009        001  2011 04 15 10 00 00                       DLF1*                 dlf1_20230425.log
-DNMU 12369M001        001  2005 04 08 10 32 00                       DNMU*                 dnmu_20240122.log
+DNMU 12369M001        001  2005 04 08 10 32 00                       DNMU*                 dnmu_20240312.log
 DOUR 13113M001        001  1994 01 11 00 00 00                       DOUR*                 dour_20221109.log
 DRAG 20710S001        001  2000 02 07 00 00 00                       DRAG*                 drag_20210217.log
 DRES 14108M001        001  1997 10 24 00 00 00  2016 09 08 08 27 00  DRES*                 dres_20220905.log
@@ -190,7 +190,7 @@ ISTA 20807M001        001  1999 12 11 00 00 00                       ISTA*      
 IZAN 31309M002        001  2008 05 16 00 00 00                       IZAN*                 izan_20230725.log
 IZMI 20817M001        001  2008 08 10 00 00 00                       IZMI*                 izmi_20221117.log
 IZRS 18115M002        001  2016 05 27 07 34 00  2022 03 01 07 00 00  IZRS*                 izrs_20240202.log
-JATE 14601M001        001  2019 07 18 12 30 00                       JATE*                 jate_20240227.log
+JATE 14601M001        001  2019 07 18 12 30 00                       JATE*                 jate_20240312.log
 JOE2 10512M002        001  2014 01 29 12 00 00                       JOE2*                 joe2_20221103.log
 JOEN 10512M001        001  1995 06 15 00 00 00                       JOEN*                 joen_20221103.log
 JON6 10430M002        001  2011 06 16 00 00 00                       JON6*                 jon6_20221115.log
@@ -273,7 +273,7 @@ MET3 10503M010        001  2013 12 19 12 00 00                       MET3*      
 METG 10503M002        001  2012 07 03 00 00 00                       METG*                 metg_20221201.log
 METS 10503S011        001  1992 04 30 12 00 00                       METS*                 mets_20221103.log
 MIK3 10526M001        001  2013 12 19 12 00 00                       MIK3*                 mik3_20221103.log
-MIKL 12335M001        001  2002 04 20 00 00 00                       MIKL*                 mikl_20240122.log
+MIKL 12335M001        001  2002 04 20 00 00 00                       MIKL*                 mikl_20240312.log
 MILO 12758M001        001  2001 10 05 00 00 00  2012 03 22 00 00 00  MILO*                 milo_20220913.log
 MKRS 15599M001        001  2008 11 30 00 00 00                       MKRS*                 mkrs_20240202.log
 MLHD 13640M001        001  2020 11 06 12 30 00                       MLHD*                 mlhd_20230331.log
@@ -335,7 +335,7 @@ PINS 14808M001        001  2011 04 20 10 58 00                       PINS*      
 PLND 12111M001        001  2011 01 18 12 00 00  2023 08 30 12 00 00  PLND*                 plnd_20231225.log
 PLYM 13229S001        001  2002 01 23 00 00 00  2004 02 12 23 59 00  PLYM*                 plym_20230406.log
 PMTH 13229M001        001  2004 02 13 00 00 00                       PMTH*                 pmth_20230406.log
-POLV 12336M001        001  2001 04 26 16 45 00                       POLV*                 polv_20240122.log
+POLV 12336M001        001  2001 04 26 16 45 00                       POLV*                 polv_20240312.log
 POPI 14670M001        001  2021 07 01 10 00 00                       POPI*                 popi_20240301.log
 PORE 11907M001        001  2008 12 09 00 00 00                       PORE*                 pore_20210415.log
 POTS 14106M003        001  1994 10 28 00 00 00                       POTS*                 pots_20230117.log
@@ -344,7 +344,7 @@ POZE 11908M001        001  2008 12 09 00 00 00                       POZE*      
 PPSH 81301M002        001  2020 09 04 15 30 00                       PPSH*                 ppsh_20231001.log
 PRAT 12760M001        001  1998 05 01 00 00 00                       PRAT*                 prat_20231122.log
 PRIJ 12131M001        001  2017 09 18 00 00 00                       PRIJ*                 prij_20240112.log
-PRYL 15502M001        001  2008 10 09 12 00 00                       PRYL*                 pryl_20240122.log
+PRYL 15502M001        001  2008 10 09 12 00 00                       PRYL*                 pryl_20240312.log
 PSTO 83401M001        001  2018 06 15 00 00 00                       PSTO*                 psto_20221020.log
 PSTV 14809M001        001  2015 10 01 07 00 00                       PSTV*                 pstv_20230906.log
 PTBB 14234M001        001  2000 03 29 00 00 00                       PTBB*                 ptbb_20220905.log
@@ -388,7 +388,7 @@ SKE0 10426M001        001  1993 08 01 00 00 00                       SKE0*      
 SKE8 10426M002        001  2011 07 08 00 00 00                       SKE8*                 ske8_20221129.log
 SMI2 10114M002        001  2011 06 27 00 00 00  2022 08 10 08 00 00  SMI2*                 smi2_20221113.log
 SMID 10114M001        001  1998 11 18 00 00 00  2022 08 10 08 00 00  SMID*                 smid_20221113.log
-SMLA 15503M001        001  2008 11 20 08 30 00                       SMLA*                 smla_20240122.log
+SMLA 15503M001        001  2008 11 20 08 30 00                       SMLA*                 smla_20240312.log
 SMNE 10001M007        001  2000 11 16 00 00 00  2022 03 01 10 00 00  SMNE*                 smne_20220301.log
 SNEC 11519M001        001  2001 10 23 12 00 00  2009 06 10 00 00 00  SNEC*                 snec_20100701.log
 SNEO 19135M002        001  2009 05 13 13 00 00                       SNEO*                 sneo_20230406.log
@@ -1753,7 +1753,8 @@ DNMU 12369M001        001  2021 12 30 14 28 00  2021 12 30 14 32 00  LEICA GR10 
 DNMU 12369M001        001  2021 12 30 14 32 00  2022 09 26 08 41 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          DNMU00UKR  DNMU00UKR               
 DNMU 12369M001        001  2022 09 26 08 41 00  2022 10 28 11 18 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          DNMU00UKR  DNMU00UKR               
 DNMU 12369M001        001  2022 10 28 11 18 00  2024 01 22 09 47 00  LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          DNMU00UKR  DNMU00UKR               
-DNMU 12369M001        001  2024 01 22 09 47 00                       LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          DNMU00UKR  DNMU00UKR               
+DNMU 12369M001        001  2024 01 22 09 47 00  2024 03 11 13 01 00  LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          DNMU00UKR  DNMU00UKR               
+DNMU 12369M001        001  2024 03 11 13 01 00                       LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          DNMU00UKR  DNMU00UKR               
 DOUR 13113M001        001  1994 01 11 00 00 00  1994 06 29 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.7530          DOUR00BEL  DOUR00BEL               
 DOUR 13113M001        001  1994 06 29 00 00 00  1996 04 01 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.7530          DOUR00BEL  DOUR00BEL               
 DOUR 13113M001        001  1996 04 01 00 00 00  1999 05 19 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.7530          DOUR00BEL  DOUR00BEL               
@@ -3951,7 +3952,8 @@ MIKL 12335M001        001  2019 10 18 05 04 00  2020 09 24 08 16 00  LEICA GR10 
 MIKL 12335M001        001  2020 09 24 08 16 00  2021 12 09 18 37 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0237    45.0  MIKL00UKR  MIKL00UKR               
 MIKL 12335M001        001  2021 12 09 18 37 00  2022 09 15 13 32 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1008          MIKL00UKR  MIKL00UKR               
 MIKL 12335M001        001  2022 09 15 13 32 00  2024 01 19 13 30 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1008          MIKL00UKR  MIKL00UKR               
-MIKL 12335M001        001  2024 01 19 13 30 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1008          MIKL00UKR  MIKL00UKR               
+MIKL 12335M001        001  2024 01 19 13 30 00  2024 03 11 12 06 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1008          MIKL00UKR  MIKL00UKR               
+MIKL 12335M001        001  2024 03 11 12 06 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1008          MIKL00UKR  MIKL00UKR               
 MILO 12758M001        001  2001 10 05 00 00 00  2002 06 21 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          MILO00ITA  MILO00ITA               
 MILO 12758M001        001  2002 06 21 00 00 00  2012 03 22 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          MILO00ITA  MILO00ITA               
 MKRS 15599M001        001  2008 11 30 00 00 00  2011 10 25 08 39 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          MKRS00UKR  MKRS00UKR               
@@ -4633,7 +4635,8 @@ POLV 12336M001        001  2018 09 05 11 48 00  2019 11 25 10 10 00  LEICA GR10 
 POLV 12336M001        001  2019 11 25 10 10 00  2020 09 24 10 20 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0700          POLV00UKR  POLV00UKR               
 POLV 12336M001        001  2020 09 24 10 20 00  2021 11 30 14 36 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0700          POLV00UKR  POLV00UKR               
 POLV 12336M001        001  2021 11 30 14 36 00  2024 01 22 08 37 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0700          POLV00UKR  POLV00UKR               
-POLV 12336M001        001  2024 01 22 08 37 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0700          POLV00UKR  POLV00UKR               
+POLV 12336M001        001  2024 01 22 08 37 00  2024 03 11 12 20 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0700          POLV00UKR  POLV00UKR               
+POLV 12336M001        001  2024 03 11 12 20 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0700          POLV00UKR  POLV00UKR               
 POPI 14670M001        001  2021 07 01 10 00 00  2023 11 16 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          POPI00ITA  POPI00ITA               
 POPI 14670M001        001  2023 11 16 00 00 00  2024 03 01 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          POPI00ITA  POPI00ITA               
 POPI 14670M001        001  2024 03 01 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          POPI00ITA  POPI00ITA               
@@ -4734,7 +4737,8 @@ PRYL 15502M001        001  2020 07 01 07 49 00  2022 02 07 11 47 00  LEICA GR10 
 PRYL 15502M001        001  2022 02 07 11 47 00  2022 02 07 11 56 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0700          PRYL00UKR  PRYL00UKR               
 PRYL 15502M001        001  2022 02 07 11 56 00  2022 07 28 15 42 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0700          PRYL00UKR  PRYL00UKR               
 PRYL 15502M001        001  2022 07 28 15 42 00  2024 01 22 09 27 00  LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0700          PRYL00UKR  PRYL00UKR               
-PRYL 15502M001        001  2024 01 22 09 27 00                       LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0700          PRYL00UKR  PRYL00UKR               
+PRYL 15502M001        001  2024 01 22 09 27 00  2024 03 11 12 50 00  LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0700          PRYL00UKR  PRYL00UKR               
+PRYL 15502M001        001  2024 03 11 12 50 00                       LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0700          PRYL00UKR  PRYL00UKR               
 PSTO 83401M001        001  2018 06 15 00 00 00  2019 11 13 00 00 00  LEICA GX1230+GNSS                           999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          PSTO00PRT  PSTO00PRT               
 PSTO 83401M001        001  2019 11 13 00 00 00  2020 11 03 00 00 00  LEICA GX1230+GNSS                           999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          PSTO00PRT  PSTO00PRT               
 PSTO 83401M001        001  2020 11 03 00 00 00  2022 03 11 00 00 00  LEICA GRX1200+GNSS                          999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          PSTO00PRT  PSTO00PRT               
@@ -5266,7 +5270,8 @@ SMLA 15503M001        001  2010 11 30 08 00 00  2014 02 06 10 00 00  NOV OEMV3  
 SMLA 15503M001        001  2014 02 06 10 00 00  2015 05 05 08 30 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          SMLA00UKR  SMLA00UKR               
 SMLA 15503M001        001  2015 05 05 08 30 00  2021 12 13 17 43 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0016          SMLA00UKR  SMLA00UKR               
 SMLA 15503M001        001  2021 12 13 17 43 00  2024 01 22 07 48 00  LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0771          SMLA00UKR  SMLA00UKR               
-SMLA 15503M001        001  2024 01 22 07 48 00                       LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0771          SMLA00UKR  SMLA00UKR               
+SMLA 15503M001        001  2024 01 22 07 48 00  2024 03 11 11 54 00  LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0771          SMLA00UKR  SMLA00UKR               
+SMLA 15503M001        001  2024 03 11 11 54 00                       LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0771          SMLA00UKR  SMLA00UKR               
 SMNE 10001M007        001  2000 11 16 00 00 00  2007 02 26 00 00 00  LEICA CRS1000                               999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.1390          SMNE00FRA  SMNE00FRA               
 SMNE 10001M007        001  2007 02 26 00 00 00  2008 04 28 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.1390          SMNE00FRA  SMNE00FRA               
 SMNE 10001M007        001  2008 04 28 00 00 00  2009 03 11 09 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.1390          SMNE00FRA  SMNE00FRA               
