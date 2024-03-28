@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          28-03-2024 04:04
+Station information file for Bernese GNSS Software 5.2          28-03-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -278,7 +278,7 @@ MILO 12758M001        001  2001 10 05 00 00 00  2012 03 22 00 00 00  MILO*      
 MKRS 15599M001        001  2008 11 30 00 00 00                       MKRS*                 mkrs_20240202.log
 MLHD 13640M001        001  2020 11 06 12 30 00                       MLHD*                 mlhd_20230331.log
 MLVL 10092M001        001  2000 01 22 00 00 00                       MLVL*                 mlvl_20230215.log
-MMET 14681M001        001  2004 05 24 00 00 00                       MMET*                 mmet_20240301.log
+MMET 14681M001        001  2004 05 24 00 00 00                       MMET*                 mmet_20240328.log
 MNKW 14802M002        001  2010 02 01 00 00 00                       MNKW*                 mnkw_20220801.log
 MNSK 14802M001        001  2002 02 07 08 20 00                       MNSK*                 mnsk_20220310.log
 MOGI 14807M001        001  2011 06 01 00 00 00                       MOGI*                 mogi_20220310.log
@@ -3978,7 +3978,8 @@ MMET 14681M001        001  2017 10 19 10 15 00  2018 07 25 07 45 00  LEICA GR30 
 MMET 14681M001        001  2018 07 25 07 45 00  2019 06 04 07 40 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  MMET00ITA               
 MMET 14681M001        001  2019 06 04 07 40 00  2023 11 27 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  MMET00ITA               
 MMET 14681M001        001  2023 11 27 00 00 00  2024 03 01 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  MMET00ITA               
-MMET 14681M001        001  2024 03 01 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  MMET00ITA               
+MMET 14681M001        001  2024 03 01 00 00 00  2024 03 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  MMET00ITA               
+MMET 14681M001        001  2024 03 28 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000  MMET00ITA               
 MNKW 14802M002        001  2010 02 01 00 00 00  2018 08 06 07 41 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.2510  MNKW00BLR               
 MNKW 14802M002        001  2018 08 07 14 43 00  2018 08 21 14 00 00  LEICA GR10                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.2510  MNKW00BLR               
 MNKW 14802M002        001  2018 08 21 14 50 00  2019 07 17 14 00 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.2510  MNKW00BLR               
