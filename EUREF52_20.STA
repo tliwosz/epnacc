@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          29-03-2024 13:04
+Station information file for Bernese GNSS Software 5.2          30-03-2024 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -252,7 +252,7 @@ MAH1 13629M002        001  2021 11 29 12 30 00                       MAH1*      
 MALA 13443M001        001  2000 03 15 00 00 00                       MALA*                 mala_20230724.log
 MALL 13444M001        001  2000 05 12 12 00 00                       MALL*                 mall_20230725.log
 MAN2 10091M002        001  2008 01 23 00 00 00                       MAN2*                 man2_20220506.log
-MANS 10091M001        001  1998 04 21 00 00 00  2008 01 26 00 00 00  MANS*                 mans_20210212.log
+MANS 10091M001        001  1998 04 21 00 00 00  2008 01 26 00 00 00  MANS*                 mans_20240329.log
 MAR6 10405M002        001  1993 08 01 00 00 00                       MAR6*                 mar6_20221208.log
 MAR7 10405M003        001  2011 04 27 00 00 00                       MAR7*                 mar7_20221207.log
 MARJ 11517M001        001  2003 05 15 12 00 00  2015 09 06 00 00 00  MARJ*                 marj_20220512.log
