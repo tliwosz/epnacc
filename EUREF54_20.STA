@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             09-04-2024 04:04
+BSW 5.4 station information file for EPN processing             09-04-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -108,7 +108,7 @@ DIEP 14287M001        001  2004 12 15 10 00 00                       DIEP*      
 DILL 14286M001        001  2004 12 01 12 00 00                       DILL*                 dill_20240215.log
 DLF1 13502M009        001  2011 04 15 10 00 00                       DLF1*                 dlf1_20230425.log
 DNMU 12369M001        001  2005 04 08 10 32 00                       DNMU*                 dnmu_20240312.log
-DOUR 13113M001        001  1994 01 11 00 00 00                       DOUR*                 dour_20221109.log
+DOUR 13113M001        001  1994 01 11 00 00 00                       DOUR*                 dour_20240409.log
 DRAG 20710S001        001  2000 02 07 00 00 00                       DRAG*                 drag_20210217.log
 DRES 14108M001        001  1997 10 24 00 00 00  2016 09 08 08 27 00  DRES*                 dres_20220905.log
 DUB2 11901M002        001  2011 11 03 00 00 00                       DUB2*                 dub2_20240318.log
@@ -1778,7 +1778,8 @@ DOUR 13113M001        001  2017 04 04 09 00 00  2018 11 12 08 35 00  SEPT POLARX
 DOUR 13113M001        001  2018 11 12 08 35 00  2019 09 09 09 15 00  SEPT POLARX4                                999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.7619          DOUR00BEL  DOUR00BEL               
 DOUR 13113M001        001  2019 09 09 09 15 00  2021 02 01 12 00 00  SEPT POLARX4                                999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.7619          DOUR00BEL  DOUR00BEL               
 DOUR 13113M001        001  2021 02 01 12 00 00  2022 11 08 12 45 00  SEPT POLARX5                                999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.7619          DOUR00BEL  DOUR00BEL               
-DOUR 13113M001        001  2022 11 08 12 45 00                       SEPT POLARX5                                999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.7619          DOUR00BEL  DOUR00BEL               
+DOUR 13113M001        001  2022 11 08 12 45 00  2024 04 09 10 00 00  SEPT POLARX5                                999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.7619          DOUR00BEL  DOUR00BEL               
+DOUR 13113M001        001  2024 04 09 10 00 00                       SEPT POLARX5                                999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.7619          DOUR00BEL  DOUR00BEL               
 DRAG 20710S001        001  2000 02 07 00 00 00  2000 06 12 00 00 00  ASHTECH Z-XII3                              999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0000          DRAG00ISR  DRAG00ISR               
 DRAG 20710S001        001  2000 06 12 00 00 00  2000 06 22 00 00 00  ASHTECH Z-XII3                              999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0000          DRAG00ISR  DRAG00ISR               
 DRAG 20710S001        001  2000 06 22 00 00 00  2002 11 26 00 00 00  ASHTECH Z-XII3                              999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0000          DRAG00ISR  DRAG00ISR               
