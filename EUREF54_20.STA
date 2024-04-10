@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             10-04-2024 04:04
+BSW 5.4 station information file for EPN processing             10-04-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -346,7 +346,7 @@ PRAT 12760M001        001  1998 05 01 00 00 00                       PRAT*      
 PRIJ 12131M001        001  2017 09 18 00 00 00                       PRIJ*                 prij_20240112.log
 PRYL 15502M001        001  2008 10 09 12 00 00                       PRYL*                 pryl_20240312.log
 PSTO 83401M001        001  2018 06 15 00 00 00                       PSTO*                 psto_20221020.log
-PSTV 14809M001        001  2015 10 01 07 00 00                       PSTV*                 pstv_20230906.log
+PSTV 14809M001        001  2015 10 01 07 00 00                       PSTV*                 pstv_20240410.log
 PTBB 14234M001        001  2000 03 29 00 00 00                       PTBB*                 ptbb_20220905.log
 PULA 11903S001        001  2001 03 25 00 00 00  2003 02 09 00 00 00  PULA*                 pula_20020614.log
 PULK 12305M001        001  2002 04 22 00 00 00                       PULK*                 pulk_20230622.log
@@ -4771,7 +4771,8 @@ PSTV 14809M001        001  2021 10 21 12 00 00  2022 01 03 16 26 00  LEICA GR30 
 PSTV 14809M001        001  2022 01 03 16 26 00  2022 03 01 00 51 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.2800          PSTV00BLR  PSTV00BLR               
 PSTV 14809M001        001  2022 03 01 00 51 00  2022 03 10 12 40 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.2800          PSTV00BLR  PSTV00BLR               
 PSTV 14809M001        001  2022 03 10 12 40 00  2023 09 05 09 22 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.2800          PSTV00BLR  PSTV00BLR               
-PSTV 14809M001        001  2023 09 05 09 22 00                       LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.2800          PSTV00BLR  PSTV00BLR               
+PSTV 14809M001        001  2023 09 05 09 22 00  2024 04 10 07 43 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.2800          PSTV00BLR  PSTV00BLR               
+PSTV 14809M001        001  2024 04 10 07 43 00                       LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.2800          PSTV00BLR  PSTV00BLR               
 PTBB 14234M001        001  2000 03 29 00 00 00  2002 03 19 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0580          PTBB00DEU  PTBB00DEU               
 PTBB 14234M001        001  2002 03 19 00 00 00  2003 04 29 07 45 00  ASHTECH Z-XII3T                             999999  ASH700936E      SNOW                        999999    0.0000    0.0000    0.0562          PTBB00DEU  PTBB00DEU               
 PTBB 14234M001        001  2003 04 29 07 45 00  2006 07 25 08 35 00  ASHTECH Z-XII3T                             999999  ASH700936E      SNOW                        999999    0.0000    0.0000    0.0562          PTBB00DEU  PTBB00DEU               
