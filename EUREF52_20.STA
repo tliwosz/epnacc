@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          16-04-2024 13:04
+Station information file for Bernese GNSS Software 5.2          17-04-2024 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -342,7 +342,7 @@ POTS 14106M003        001  1994 10 28 00 00 00                       POTS*      
 POUS 11518M001        001  2003 10 20 12 00 00                       POUS*                 pous_20200219.log
 POZE 11908M001        001  2008 12 09 00 00 00                       POZE*                 poze_20240318.log
 PPSH 81301M002        001  2020 09 04 15 30 00                       PPSH*                 ppsh_20231001.log
-PRAT 12760M001        001  1998 05 01 00 00 00                       PRAT*                 prat_20231122.log
+PRAT 12760M001        001  1998 05 01 00 00 00                       PRAT*                 prat_20240416.log
 PRIJ 12131M001        001  2017 09 18 00 00 00                       PRIJ*                 prij_20240112.log
 PRYL 15502M001        001  2008 10 09 12 00 00                       PRYL*                 pryl_20240312.log
 PSTO 83401M001        001  2018 06 15 00 00 00                       PSTO*                 psto_20221020.log
@@ -4715,7 +4715,8 @@ PRAT 12760M001        001  2021 03 12 13 00 00  2021 07 05 08 00 00  LEICA GR10 
 PRAT 12760M001        001  2021 07 05 17 00 00  2022 09 13 14 00 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1050  PRAT00ITA               
 PRAT 12760M001        001  2022 09 13 15 00 00  2023 07 10 11 30 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1050  PRAT00ITA               
 PRAT 12760M001        001  2023 07 10 11 30 00  2023 11 22 10 30 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1050  PRAT00ITA               
-PRAT 12760M001        001  2023 11 22 10 30 00                       LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1050  PRAT00ITA               
+PRAT 12760M001        001  2023 11 22 10 30 00  2024 04 16 14 30 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1050  PRAT00ITA               
+PRAT 12760M001        001  2024 04 16 14 30 00                       LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1050  PRAT00ITA               
 PRIJ 12131M001        001  2017 09 18 00 00 00  2024 01 12 08 00 00  TRIMBLE NETR9                               999999  TRM115000.00    TZGD                        999999    0.0000    0.0000    0.0000  PRIJ00SRB               
 PRIJ 12131M001        001  2024 01 12 08 01 00                       TRIMBLE NETR9                               999999  TRM115000.00    TZGD                        999999    0.0000    0.0000    0.0000  PRIJ00SRB               
 PRYL 15502M001        001  2008 10 09 12 00 00  2008 11 18 15 15 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0063  PRYL00UKR               
