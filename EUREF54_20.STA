@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             22-04-2024 04:04
+BSW 5.4 station information file for EPN processing             22-04-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -243,7 +243,7 @@ LINZ 11033S001        001  2001 01 31 10 00 00                       LINZ*      
 LLIV 13436M001        001  1999 05 04 14 00 00                       LLIV*                 lliv_20231017.log
 LODZ 12226M001        001  2008 03 10 00 00 00                       LODZ*                 lodz_20240122.log
 LOV6 10434M002        001  2011 08 16 00 00 00                       LOV6*                 lov6_20221114.log
-LPAL 81701M001        001  2001 05 17 00 00 00                       LPAL*                 lpal_20230725.log
+LPAL 81701M001        001  2001 05 17 00 00 00                       LPAL*                 lpal_20240422.log
 LROC 10023M001        001  2001 11 23 00 00 00                       LROC*                 lroc_20230612.log
 M0SE 12772M001        001  2002 01 01 00 00 00                       M0SE*                 m0se_20231205.log
 MAD2 13407S012        001  1997 10 30 00 00 00                       MAD2*                 mad2_20130131.log
@@ -435,7 +435,7 @@ TLSE 10003M009        001  2001 01 04 00 00 00                       TLSE*      
 TLSG 10003M034        001  2014 02 12 00 00 00                       TLSG*                 tlsg_20221115.log
 TOIL 10605S001        001  2007 11 22 10 45 00                       TOIL*                 toil_20230726.log
 TOPP 14604M001        001  2019 07 23 10 00 00                       TOPP*                 topp_20240301.log
-TOR1 17018M001        001  2015 01 15 00 00 00                       TOR1*                 tor1_20230606.log
+TOR1 17018M001        001  2015 01 15 00 00 00                       TOR1*                 tor1_20240422.log
 TOR2 10602M001        001  2011 07 27 13 00 00  2022 08 31 07 00 00  TOR2*                 tor2_20220831.log
 TOR3 10602M002        001  2022 10 07 09 00 00                       TOR3*                 tor3_20230726.log
 TORA 10602S001        001  2007 11 08 12 00 00  2011 07 27 12 00 00  TORA*                 tora_20220810.log
@@ -3570,7 +3570,8 @@ LPAL 81701M001        001  2013 05 14 11 07 00  2022 04 05 12 00 00  LEICA GRX12
 LPAL 81701M001        001  2022 04 05 12 00 00  2022 04 05 12 01 00  LEICA GR50                                  999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          LPAL00ESP  LPAL00ESP               
 LPAL 81701M001        001  2022 04 05 12 01 00  2022 11 23 12 00 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0771          LPAL00ESP  LPAL00ESP               
 LPAL 81701M001        001  2022 11 23 12 00 00  2023 07 25 09 00 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0771          LPAL00ESP  LPAL00ESP               
-LPAL 81701M001        001  2023 07 25 09 00 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0771          LPAL00ESP  LPAL00ESP               
+LPAL 81701M001        001  2023 07 25 09 00 00  2024 04 22 08 02 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0771          LPAL00ESP  LPAL00ESP               
+LPAL 81701M001        001  2024 04 22 08 02 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0771          LPAL00ESP  LPAL00ESP               
 LROC 10023M001        001  2001 11 23 00 00 00  2004 03 01 14 05 00  ASHTECH UZ-12                               999999  ASH701945B_M    NONE                        999999    0.0000    0.0000    0.0000          LROC00FRA  LROC00FRA               
 LROC 10023M001        001  2004 03 01 14 05 00  2005 03 16 09 25 00  ASHTECH UZ-12                               999999  ASH701945B_M    NONE                        999999    0.0000    0.0000    0.0000          LROC00FRA  LROC00FRA               
 LROC 10023M001        001  2005 03 16 09 25 00  2015 06 25 15 00 00  ASHTECH UZ-12                               999999  ASH701945B_M    NONE                        999999    0.0000    0.0000    0.0000          LROC00FRA  LROC00FRA               
