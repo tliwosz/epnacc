@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          03-05-2024 04:04
+Station information file for Bernese GNSS Software 5.2          03-05-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -310,7 +310,7 @@ OBET 14208M004        001  2002 04 30 15 30 00  2005 05 09 00 00 00  OBET*      
 OLK2 10518M002        001  2014 01 29 12 00 00                       OLK2*                 olk2_20240417.log
 ONS1 10402M007        001  2012 01 28 00 00 00                       ONS1*                 ons1_20221207.log
 ONSA 10402M004        001  1993 07 01 00 00 00                       ONSA*                 onsa_20221208.log
-ORID 15601M001        001  2000 07 20 00 00 00                       ORID*                 orid_20230608.log
+ORID 15601M001        001  2000 07 20 00 00 00                       ORID*                 orid_20240430.log
 ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*                 oriv_20240417.log
 OROS 11207M001        001  2001 09 20 00 00 00                       OROS*                 oros_20221118.log
 ORTE 14602M001        001  2019 07 30 11 30 00                       ORTE*                 orte_20240301.log
@@ -4351,7 +4351,8 @@ ORID 15601M001        001  2013 10 17 09 30 00  2014 07 21 12 59 00  LEICA GRX12
 ORID 15601M001        001  2014 07 21 13 00 00  2020 02 18 11 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0640  ORID00MKD               
 ORID 15601M001        001  2020 02 18 11 05 00  2021 05 26 08 00 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0310  ORID00MKD               
 ORID 15601M001        001  2021 05 26 08 45 00  2021 11 30 12 15 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0310  ORID00MKD               
-ORID 15601M001        001  2021 11 30 12 25 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0310  ORID00MKD               
+ORID 15601M001        001  2021 11 30 12 25 00  2024 04 23 21 06 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0310  ORID00MKD               
+ORID 15601M001        001  2024 04 23 21 08 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0310  ORID00MKD               
 ORIV 10527M001        001  2014 01 02 12 00 00  2015 03 12 13 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  ORIV00FIN               
 ORIV 10527M001        001  2015 03 12 13 00 00  2016 12 12 12 30 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  ORIV00FIN               
 ORIV 10527M001        001  2016 12 12 12 35 00  2017 04 24 12 14 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  ORIV00FIN               
