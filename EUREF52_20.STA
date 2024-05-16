@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          15-05-2024 13:04
+Station information file for Bernese GNSS Software 5.2          16-05-2024 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -5578,7 +5578,8 @@ SUR4 10601M002        001  2021 10 28 11 20 00  2022 01 31 09 20 00  LEICA GR25 
 SUR4 10601M002        001  2022 01 31 09 20 00  2022 08 09 12 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000  SUR400EST               
 SUR4 10601M002        001  2022 08 09 12 00 00  2023 01 05 12 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000  SUR400EST               
 SUR4 10601M002        001  2023 01 05 12 00 00  2023 07 26 07 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000  SUR400EST               
-SUR4 10601M002        001  2024 05 15 10 30 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000  SUR400EST               
+SUR4 10601M002        001  2023 07 26 07 00 00  2024 05 15 06 45 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000  SUR400EST               
+SUR4 10601M002        001  2024 05 15 07 30 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000  SUR400EST               
 SUUR 10601M001        001  1998 09 27 00 00 00  1998 10 16 00 00 00  ASHTECH Z-XII3                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0000  SUUR00EST               
 SUUR 10601M001        001  1998 10 16 00 00 00  1999 08 18 00 00 00  ASHTECH Z-XII3                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0000  SUUR00EST               
 SUUR 10601M001        001  1999 08 18 00 00 00  1999 10 04 00 00 00  ASHTECH Z-XII3                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0000  SUUR00EST               
