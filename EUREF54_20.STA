@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             16-05-2024 04:04
+BSW 5.4 station information file for EPN processing             16-05-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -125,7 +125,7 @@ ELBA 12721M002        001  2000 11 08 00 00 00                       ELBA*      
 ENAO 31902M005        001  2019 07 23 16 30 00                       ENAO*                 enao_20230203.log
 ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*                 enis_20201022.log
 ENTZ 10014M002        001  2004 12 01 12 00 00                       ENTZ*                 entz_20230215.log
-ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza_20240228.log
+ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza_20240516.log
 ESCO 13435M001        001  1999 04 21 00 00 00                       ESCO*                 esco_20231025.log
 EUSK 14258M003        001  1998 04 02 00 00 00                       EUSK*                 eusk_20231113.log
 EVPA 12344M001        001  2002 11 26 13 15 00  2014 04 01 00 00 00  EVPA*                 evpa_20220504.log
@@ -2014,7 +2014,8 @@ ENTZ 10014M002        001  2019 03 13 15 00 00  2021 11 29 14 00 00  LEICA GR25 
 ENTZ 10014M002        001  2021 11 29 14 00 00                       LEICA GR50                                  999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          ENTZ00FRA  ENTZ00FRA               
 ENZA 14612M001        001  2019 09 17 09 30 00  2023 11 27 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ENZA00ITA  ENZA00ITA               
 ENZA 14612M001        001  2023 11 27 00 00 00  2024 02 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ENZA00ITA  ENZA00ITA               
-ENZA 14612M001        001  2024 02 28 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ENZA00ITA  ENZA00ITA               
+ENZA 14612M001        001  2024 02 28 00 00 00  2024 05 16 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ENZA00ITA  ENZA00ITA               
+ENZA 14612M001        001  2024 05 16 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          ENZA00ITA  ENZA00ITA               
 ESCO 13435M001        001  1999 04 21 00 00 00  2001 04 03 09 04 00  TRIMBLE 4000SSI                             999999  TRM29659.00     DOME                        999999    0.0000    0.0000    0.0540          ESCO00ESP  ESCO00ESP               
 ESCO 13435M001        001  2001 04 03 09 04 00  2001 06 19 13 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     DOME                        999999    0.0000    0.0000    0.0540          ESCO00ESP  ESCO00ESP               
 ESCO 13435M001        001  2001 06 19 13 00 00  2001 10 02 18 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     DOME                        999999    0.0000    0.0000    0.0540          ESCO00ESP  ESCO00ESP               
