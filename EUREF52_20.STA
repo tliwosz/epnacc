@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          24-05-2024 04:04
+Station information file for Bernese GNSS Software 5.2          24-05-2024 13:08
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -345,7 +345,7 @@ PPSH 81301M002        001  2020 09 04 15 30 00                       PPSH*      
 PRAT 12760M001        001  1998 05 01 00 00 00                       PRAT*                 prat_20240416.log
 PRIJ 12131M001        001  2017 09 18 00 00 00                       PRIJ*                 prij_20240112.log
 PRYL 15502M001        001  2008 10 09 12 00 00                       PRYL*                 pryl_20240312.log
-PSTO 83401M001        001  2018 06 15 00 00 00                       PSTO*                 psto_20221020.log
+PSTO 83401M001        001  2018 06 15 00 00 00                       PSTO*                 psto_20240524.log
 PSTV 14809M001        001  2015 10 01 07 00 00                       PSTV*                 pstv_20240410.log
 PTBB 14234M001        001  2000 03 29 00 00 00                       PTBB*                 ptbb_20220905.log
 PULA 11903S001        001  2001 03 25 00 00 00  2003 02 09 00 00 00  PULA*                 pula_20020614.log
@@ -4769,7 +4769,8 @@ PSTO 83401M001        001  2019 11 13 00 00 00  2020 11 02 00 00 00  LEICA GX123
 PSTO 83401M001        001  2020 11 03 00 00 00  2022 03 10 00 00 00  LEICA GRX1200+GNSS                          999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000  PSTO00PRT               
 PSTO 83401M001        001  2022 03 11 00 00 00  2022 09 13 00 00 00  LEICA GRX1200+GNSS                          999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000  PSTO00PRT               
 PSTO 83401M001        001  2022 09 13 00 00 00  2022 10 20 00 00 00  LEICA GRX1200+GNSS                          999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000  PSTO00PRT               
-PSTO 83401M001        001  2022 10 20 00 00 00                       LEICA GRX1200+GNSS                          999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000  PSTO00PRT               
+PSTO 83401M001        001  2022 10 20 00 00 00  2024 05 22 00 00 00  LEICA GRX1200+GNSS                          999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000  PSTO00PRT               
+PSTO 83401M001        001  2024 05 22 00 00 00                       LEICA GRX1200+GNSS                          999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000  PSTO00PRT               
 PSTV 14809M001        001  2015 10 01 07 00 00  2020 01 25 18 54 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.2800  PSTV00BLR               
 PSTV 14809M001        001  2020 02 28 20 00 00  2020 03 25 10 00 00  LEICA GRX1200+GNSS                          999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.2800  PSTV00BLR               
 PSTV 14809M001        001  2020 03 25 11 08 00  2020 08 31 05 40 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.2800  PSTV00BLR               
