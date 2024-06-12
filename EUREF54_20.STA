@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             11-06-2024 13:04
+BSW 5.4 station information file for EPN processing             12-06-2024 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -92,7 +92,7 @@ CMEL 14609M001        001  2019 09 18 09 30 00                       CMEL*      
 CNIV 15501M001        001  2005 05 19 10 00 00                       CNIV*                 cniv_20220926.log
 COBA 13453M001        001  2004 04 12 00 00 00                       COBA*                 coba_20240411.log
 COMO 12761M001        001  2001 04 15 00 00 00                       COMO*                 como_20240319.log
-COST 11407M001        001  2004 08 28 12 00 00                       COST*                 cost_20240216.log
+COST 11407M001        001  2004 08 28 12 00 00                       COST*                 cost_20240611.log
 CPAR 11527M001        001  2005 01 11 00 00 00                       CPAR*                 cpar_20220818.log
 CRAK 11528M001        001  2005 04 19 00 00 00                       CRAK*                 crak_20220818.log
 CREI 10016M001        001  2003 07 07 00 00 00  2018 03 01 09 00 00  CREI*                 crei_20230724.log
@@ -1519,7 +1519,8 @@ COST 11407M001        001  2019 04 24 07 40 00  2019 06 06 12 00 00  LEICA GRX12
 COST 11407M001        001  2019 06 06 12 00 00  2020 03 20 07 17 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0380          COST00ROU  COST00ROU               
 COST 11407M001        001  2020 03 20 07 17 00  2020 03 22 11 07 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0380          COST00ROU  COST00ROU               
 COST 11407M001        001  2020 03 22 11 07 00  2021 01 25 10 00 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0380          COST00ROU  COST00ROU               
-COST 11407M001        001  2021 01 25 10 00 00                       LEICA GRX1200+GNSS                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0380          COST00ROU  COST00ROU               
+COST 11407M001        001  2021 01 25 10 00 00  2024 06 11 12 09 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0380          COST00ROU  COST00ROU               
+COST 11407M001        001  2024 06 11 12 09 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0380          COST00ROU  COST00ROU               
 CPAR 11527M001        001  2005 01 11 00 00 00  2005 02 08 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0651          CPAR00CZE  CPAR00CZE               
 CPAR 11527M001        001  2005 02 08 00 00 00  2006 06 05 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0651          CPAR00CZE  CPAR00CZE               
 CPAR 11527M001        001  2006 06 05 00 00 00  2007 07 31 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0651          CPAR00CZE  CPAR00CZE               
