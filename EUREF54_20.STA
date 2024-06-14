@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             13-06-2024 13:04
+BSW 5.4 station information file for EPN processing             14-06-2024 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -93,7 +93,7 @@ CMEL 14609M001        001  2019 09 18 09 30 00                       CMEL*      
 CNIV 15501M001        001  2005 05 19 10 00 00                       CNIV*                 cniv_20220926.log
 COBA 13453M001        001  2004 04 12 00 00 00                       COBA*                 coba_20240411.log
 COMO 12761M001        001  2001 04 15 00 00 00                       COMO*                 como_20240319.log
-COST 11407M001        001  2004 08 28 12 00 00                       COST*                 cost_20240611.log
+COST 11407M001        001  2004 08 28 12 00 00                       COST*                 cost_20240613.log
 CPAR 11527M001        001  2005 01 11 00 00 00                       CPAR*                 cpar_20220818.log
 CRAK 11528M001        001  2005 04 19 00 00 00                       CRAK*                 crak_20220818.log
 CREI 10016M001        001  2003 07 07 00 00 00  2018 03 01 09 00 00  CREI*                 crei_20230724.log
