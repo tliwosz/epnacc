@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             14-06-2024 04:04
+BSW 5.4 station information file for EPN processing             14-06-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -266,7 +266,7 @@ MAT1 12734M009        001  2001 05 08 00 00 00                       MAT1*      
 MATE 12734M008        001  1991 04 16 00 00 00                       MATE*                 mate_20240228.log
 MATG 12734M010        001  2012 01 30 14 00 00                       MATG*                 matg_20240227.log
 MDEU 18899M002        001  2018 09 27 00 00 00                       MDEU*                 mdeu_20240304.log
-MDOR 10018M001        001  2002 09 23 12 00 00  2013 02 13 09 00 00  MDOR*                 mdor_20230724.log
+MDOR 10018M001        001  2002 09 23 12 00 00  2013 12 13 09 00 00  MDOR*                 mdor_20240614.log
 MDVJ 12309M005        001  2001 07 18 00 00 00                       MDVJ*                 mdvj_20190409.log
 MDVO 12309M002        001  1995 07 05 00 00 00  2003 05 11 00 00 00  MDVO*                 mdvo_20230417.log
 MEDI 12711M003        001  1995 07 28 00 00 00                       MEDI*                 medi_20240301.log
@@ -3886,7 +3886,7 @@ MDOR 10018M001        001  2009 02 02 00 00 00  2009 11 12 12 00 00  SEPT POLARX
 MDOR 10018M001        001  2009 11 12 12 00 00  2009 11 12 16 00 00  SEPT POLARX2E                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          MDOR00FRA  MDOR00FRA               
 MDOR 10018M001        001  2009 11 12 16 00 00  2011 03 24 07 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          MDOR00FRA  MDOR00FRA               
 MDOR 10018M001        001  2011 03 24 07 00 00  2011 08 29 05 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          MDOR00FRA  MDOR00FRA               
-MDOR 10018M001        001  2011 08 29 05 00 00  2013 02 13 09 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          MDOR00FRA  MDOR00FRA               
+MDOR 10018M001        001  2011 08 29 05 00 00  2013 12 13 09 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          MDOR00FRA  MDOR00FRA               
 MDVJ 12309M005        001  2001 07 18 00 00 00  2007 10 27 00 00 00  JPS LEGACY                                  999999  JPSREGANT_DD_E1 NONE                        999999    0.0000    0.0000    0.1660          MDVJ00RUS  MDVJ00RUS               
 MDVJ 12309M005        001  2007 10 27 00 00 00  2008 09 24 00 00 00  JPS LEGACY                                  999999  JPSREGANT_DD_E1 NONE                        999999    0.0000    0.0000    0.1660          MDVJ00RUS  MDVJ00RUS               
 MDVJ 12309M005        001  2008 09 24 00 00 00  2009 05 08 00 00 00  TPS NETG3                                   999999  JPSREGANT_DD_E1 NONE                        999999    0.0000    0.0000    0.1660          MDVJ00RUS  MDVJ00RUS               
