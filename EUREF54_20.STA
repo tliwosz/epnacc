@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             18-06-2024 04:04
+BSW 5.4 station information file for EPN processing             18-06-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -466,7 +466,7 @@ UNTR 12785M001        001  2006 03 19 15 40 00                       UNTR*      
 UPAD 12750M002        001  1997 01 12 00 00 00  2001 11 21 12 00 00  UPAD*                 upad_20120109.log
 USAL 19527M001        001  2010 02 24 00 00 00                       USAL*                 usal_20240301.log
 USDL 12229M001        001  2007 12 03 00 00 00                       USDL*                 usdl_20240122.log
-UZHL 12301M001        001  1999 02 05 00 00 00                       UZHL*                 uzhl_20171011.log
+UZHL 12301M001        001  1999 02 05 00 00 00                       UZHL*                 uzhl_20240618.log
 VAA2 10511M002        001  2014 01 02 12 00 00                       VAA2*                 vaa2_20240418.log
 VAAS 10511M001        001  1995 04 07 00 00 00                       VAAS*                 vaas_20240424.log
 VACO 11516M001        001  2004 10 20 12 00 00                       VACO*                 vaco_20200219.log
@@ -6235,7 +6235,9 @@ UZHL 12301M001        001  2006 12 14 11 00 00  2010 10 08 06 20 00  TRIMBLE 400
 UZHL 12301M001        001  2010 10 08 06 20 00  2010 12 20 11 40 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000   180.0  UZHL00UKR  UZHL00UKR               
 UZHL 12301M001        001  2010 12 20 11 40 00  2012 11 07 09 20 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000   -90.0  UZHL00UKR  UZHL00UKR               
 UZHL 12301M001        001  2012 11 07 09 20 00  2013 11 12 07 48 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000   -90.0  UZHL00UKR  UZHL00UKR               
-UZHL 12301M001        001  2013 11 12 07 48 00                       NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0063   180.0  UZHL00UKR  UZHL00UKR               
+UZHL 12301M001        001  2013 11 12 07 48 00  2022 05 24 00 00 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0063   180.0  UZHL00UKR  UZHL00UKR               
+UZHL 12301M001        001  2022 05 24 00 00 00  2024 06 13 09 20 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0063   180.0  UZHL00UKR  UZHL00UKR               
+UZHL 12301M001        001  2024 06 13 09 20 00                       NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0063   180.0  UZHL00UKR  UZHL00UKR               
 VAA2 10511M002        001  2014 01 02 12 00 00  2015 03 13 06 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          VAA200FIN  VAA200FIN               
 VAA2 10511M002        001  2015 03 13 06 00 00  2016 12 12 07 40 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          VAA200FIN  VAA200FIN               
 VAA2 10511M002        001  2016 12 12 07 40 00  2017 04 24 05 55 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          VAA200FIN  VAA200FIN               
