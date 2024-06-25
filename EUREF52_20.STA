@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          25-06-2024 04:04
+Station information file for Bernese GNSS Software 5.2          25-06-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -274,7 +274,7 @@ MELI 19379M001        001  2011 12 14 12 00 00                       MELI*      
 MERS 20814M001        001  2000 09 12 00 00 00                       MERS*                 mers_20220826.log
 MET3 10503M010        001  2013 12 19 12 00 00                       MET3*                 met3_20240417.log
 METG 10503M002        001  2012 07 03 00 00 00                       METG*                 metg_20221201.log
-METS 10503S011        001  1992 04 30 12 00 00                       METS*                 mets_20240418.log
+METS 10503S011        001  1992 04 30 12 00 00  2024 06 25 08 15 00  METS*                 mets_20240625.log
 MIK3 10526M001        001  2013 12 19 12 00 00                       MIK3*                 mik3_20240417.log
 MIKL 12335M001        001  2002 04 20 00 00 00                       MIKL*                 mikl_20240312.log
 MILO 12758M001        001  2001 10 05 00 00 00  2012 03 22 00 00 00  MILO*                 milo_20220913.log
@@ -3972,7 +3972,7 @@ METS 10503S011        001  2019 01 31 11 29 00  2019 10 25 09 56 00  JAVAD TRE_3
 METS 10503S011        001  2019 10 25 10 02 00  2021 11 19 13 39 00  JAVAD TRE_3 DELTA                           999999  ASH700936C_M    NONE                        999999    0.0000    0.0000    0.0000  METS00FIN               
 METS 10503S011        001  2021 11 19 13 45 00  2022 11 03 11 01 00  JAVAD TRE_3 DELTA                           999999  ASH700936C_M    NONE                        999999    0.0000    0.0000    0.0000  METS00FIN               
 METS 10503S011        001  2022 11 03 11 08 00  2024 04 18 07 12 00  JAVAD TRE_3 DELTA                           999999  ASH700936C_M    NONE                        999999    0.0000    0.0000    0.0000  METS00FIN               
-METS 10503S011        001  2024 04 18 07 15 00                       JAVAD TRE_3 DELTA                           999999  ASH700936C_M    NONE                        999999    0.0000    0.0000    0.0000  METS00FIN               
+METS 10503S011        001  2024 04 18 07 15 00  2024 06 25 08 15 00  JAVAD TRE_3 DELTA                           999999  ASH700936C_M    NONE                        999999    0.0000    0.0000    0.0000  METS00FIN               
 MIK3 10526M001        001  2013 12 19 12 00 00  2015 03 12 13 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  MIK300FIN               
 MIK3 10526M001        001  2015 03 12 13 00 00  2016 12 12 11 45 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  MIK300FIN               
 MIK3 10526M001        001  2016 12 12 11 50 00  2017 04 24 11 47 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  MIK300FIN               
