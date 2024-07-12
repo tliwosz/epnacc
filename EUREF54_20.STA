@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             11-07-2024 13:04
+BSW 5.4 station information file for EPN processing             12-07-2024 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -424,7 +424,7 @@ TARI 19350M001        001  2010 05 15 12 00 00  2019 05 30 00 00 00  TARI*      
 TARS 12773S001        001  2004 05 05 12 00 00  2005 04 13 00 00 00  TARS*                 tars_20050903.log
 TEOS 14671M001        001  2021 06 18 10 00 00                       TEOS*                 teos_20240301.log
 TER2 15541M002        001  2013 07 16 11 00 00                       TER2*                 ter2_20230413.log
-TERC 31909M001        001  2008 09 18 16 10 00                       TERC*                 terc_20240612.log
+TERC 31909M001        001  2008 09 18 16 10 00                       TERC*                 terc_20240711.log
 TERS 13534M001        001  1996 10 30 14 00 00                       TERS*                 ters_20230417.log
 TERU 13487M001        001  2008 03 06 00 00 00                       TERU*                 teru_20240607.log
 THU1 43001M001        001  1995 05 02 00 00 00  2003 01 12 00 00 00  THU1*                 thu1_19990813.log
@@ -5750,7 +5750,8 @@ TERC 31909M001        001  2011 01 20 15 00 00  2012 03 29 15 00 00  LEICA GRX12
 TERC 31909M001        001  2012 03 29 15 00 00  2013 12 16 23 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TERC00PRT  TERC00PRT               
 TERC 31909M001        001  2013 12 16 23 00 00  2014 08 01 23 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TERC00PRT  TERC00PRT               
 TERC 31909M001        001  2014 08 01 23 00 00  2019 04 04 23 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TERC00PRT  TERC00PRT               
-TERC 31909M001        001  2019 04 04 23 00 00                       LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TERC00PRT  TERC00PRT               
+TERC 31909M001        001  2019 04 04 23 00 00  2022 06 20 23 59 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TERC00PRT  TERC00PRT               
+TERC 31909M001        001  2022 06 20 23 59 00                       LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TERC00PRT  TERC00PRT               
 TERS 13534M001        001  1996 10 30 14 00 00  1999 07 13 14 35 00  ROGUE SNR-12 RM                             999999  AOAD/M_T        DUTD                        999999    0.0000    0.0000    0.0000          TERS00NLD  TERS00NLD               
 TERS 13534M001        001  1999 07 13 14 35 00  2000 04 27 10 50 00  ROGUE SNR-12 RM                             999999  AOAD/M_T        DUTD                        999999    0.0000    0.0000    0.0000          TERS00NLD  TERS00NLD               
 TERS 13534M001        001  2000 04 27 10 50 00  2002 11 20 14 54 00  TRIMBLE 4700                                999999  TRM29659.00     UNAV                        999999    0.0000    0.0000    0.0000          TERS00NLD  TERS00NLD               
