@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             12-07-2024 13:04
+BSW 5.4 station information file for EPN processing             13-07-2024 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -230,7 +230,7 @@ LAGO 13903M001        001  2000 01 02 14 35 00                       LAGO*      
 LAMA 12209M001        001  1994 12 01 00 00 00                       LAMA*                 lama_20240415.log
 LAMP 12706M002        001  1999 03 25 00 00 00                       LAMP*                 lamp_20240301.log
 LARM 12610M002        001  2011 01 15 00 00 00                       LARM*                 larm_20201009.log
-LCRA 18491M001        001  2018 06 22 00 00 00                       LCRA*                 lcra_20240301.log
+LCRA 18491M001        001  2018 06 22 00 00 00                       LCRA*                 lcra_20240712.log
 LDB2 14114M002        001  2005 10 25 10 00 00                       LDB2*                 ldb2_20240215.log
 LEIJ 14267M001        001  2001 07 03 12 00 00                       LEIJ*                 leij_20240710.log
 LEK6 10433M002        001  2011 06 15 00 00 00                       LEK6*                 lek6_20221109.log
@@ -3394,7 +3394,8 @@ LARM 12610M002        001  2018 03 15 16 10 00                       LEICA GRX12
 LCRA 18491M001        001  2018 06 22 00 00 00  2018 07 26 10 15 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          LCRA00ITA  LCRA00ITA               
 LCRA 18491M001        001  2018 07 26 10 15 00  2023 11 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          LCRA00ITA  LCRA00ITA               
 LCRA 18491M001        001  2023 11 28 00 00 00  2024 03 01 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          LCRA00ITA  LCRA00ITA               
-LCRA 18491M001        001  2024 03 01 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          LCRA00ITA  LCRA00ITA               
+LCRA 18491M001        001  2024 03 01 00 00 00  2024 07 12 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          LCRA00ITA  LCRA00ITA               
+LCRA 18491M001        001  2024 07 12 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          LCRA00ITA  LCRA00ITA               
 LDB2 14114M002        001  2005 10 25 10 00 00  2007 11 22 12 30 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0470          LDB200DEU  LDB200DEU               
 LDB2 14114M002        001  2007 11 22 12 30 00  2008 01 29 10 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0470          LDB200DEU  LDB200DEU               
 LDB2 14114M002        001  2008 01 29 10 00 00  2011 09 28 10 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0470          LDB200DEU  LDB200DEU               
