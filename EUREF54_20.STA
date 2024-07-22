@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             22-07-2024 04:04
+BSW 5.4 station information file for EPN processing             22-07-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -505,7 +505,7 @@ WSRT 13506M005        001  1997 06 01 12 00 00                       WSRT*      
 WTZA 14201M013        001  1997 11 25 00 00 00                       WTZA*                 wtza_20230509.log
 WTZR 14201M010        001  1995 02 09 00 00 00                       WTZR*                 wtzr_20231030.log
 WTZS 14201M015        001  2005 07 27 15 00 00                       WTZS*                 wtzs_20230509.log
-WTZZ 14201M014        001  1999 02 01 12 00 00                       WTZZ*                 wtzz_20230509.log
+WTZZ 14201M014        001  1999 02 01 12 00 00                       WTZZ*                 wtzz_20240722.log
 WUTH 81301M001        001  2020 09 04 15 30 00                       WUTH*                 wuth_20230830.log
 YEBE 13420M001        001  1999 05 19 12 00 00                       YEBE*                 yebe_20240318.log
 YLDZ 20815M001        001  2012 07 17 10 00 00                       YLDZ*                 yldz_20220603.log
