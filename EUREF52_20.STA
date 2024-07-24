@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          24-07-2024 04:04
+Station information file for Bernese GNSS Software 5.2          24-07-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -143,7 +143,7 @@ GAIA 13902M001        001  2000 01 02 14 35 00                       GAIA*      
 GALH 18490M001        001  2018 05 24 00 00 00                       GALH*                 galh_20240718.log
 GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp_20240111.log
 GARI 19517M001        001  2009 04 01 00 00 00                       GARI*                 gari_20230421.log
-GDRS 15595M001        001  2014 11 28 10 55 00                       GDRS*                 gdrs_20240202.log
+GDRS 15595M001        001  2014 11 28 10 55 00  2024 07 18 07 20 00  GDRS*                 gdrs_20240724.log
 GELL 10908M001        001  2007 11 07 14 00 00                       GELL*                 gell_20240215.log
 GENO 12712M002        001  1998 07 23 00 00 00                       GENO*                 geno_20240718.log
 GJML 12121M001        001  2010 01 15 12 43 00                       GJML*                 gjml_20230221.log
@@ -2258,7 +2258,7 @@ GARI 19517M001        001  2019 04 12 15 00 00  2021 02 19 10 00 00  TPS NETG3  
 GARI 19517M001        001  2021 02 19 10 00 00  2022 09 27 16 00 00  TPS NET-G5                                  999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000  GARI00ITA               
 GARI 19517M001        001  2022 09 27 16 00 00                       TPS NET-G5                                  999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000  GARI00ITA               
 GDRS 15595M001        001  2014 11 28 10 55 00  2018 11 02 10 24 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000  GDRS00UKR               
-GDRS 15595M001        001  2018 11 02 10 29 00                       NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000  GDRS00UKR               
+GDRS 15595M001        001  2018 11 02 10 29 00  2024 07 18 07 20 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000  GDRS00UKR               
 GELL 10908M001        001  2007 11 07 14 00 00  2008 01 30 06 30 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450  GELL00DEU               
 GELL 10908M001        001  2008 01 30 06 30 00  2013 05 15 12 50 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450  GELL00DEU               
 GELL 10908M001        001  2013 05 15 13 30 00  2014 07 29 08 00 00  LEICA GRX1200+GNSS                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450  GELL00DEU               
