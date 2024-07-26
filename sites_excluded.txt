@@ -2,3 +2,4 @@ ZPRS00UKR  2238-5  2241-4  Large position offset
 MNKW00BLR  2268-5  WWWW-D  Low data quality
 MNSK00BLR  2268-5  WWWW-D  Low data quality
 DRAG00ISR  2317-0  WWWW-D  Small number of observations
+JOZE00POL  2324-3  2324-5  Low quality of data
