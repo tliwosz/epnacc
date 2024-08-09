@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             08-08-2024 18:04
+BSW 5.4 station information file for EPN processing             09-08-2024 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -500,7 +500,7 @@ WARE 13114M001        001  1994 01 14 00 00 00                       WARE*      
 WARN 14277M002        001  2003 02 11 12 00 00                       WARN*                 warn_20240215.log
 WETT 14201M009        001  1994 06 07 00 00 00  1996 08 31 00 00 00  WETT*                 wett_20230511.log
 WRLG 14201M024        001  2015 03 17 12 40 00                       WRLG*                 wrlg_20230509.log
-WROC 12217M001        001  1996 11 28 00 00 00                       WROC*                 wroc_20240215.log
+WROC 12217M001        001  1996 11 28 00 00 00                       WROC*                 wroc_20240802.log
 WSRT 13506M005        001  1997 06 01 12 00 00                       WSRT*                 wsrt_20231207.log
 WTZA 14201M013        001  1997 11 25 00 00 00                       WTZA*                 wtza_20230509.log
 WTZR 14201M010        001  1995 02 09 00 00 00                       WTZR*                 wtzr_20231030.log
@@ -6725,7 +6725,8 @@ WROC 12217M001        001  2017 10 03 14 22 00  2018 07 06 09 40 00  LEICA GR50 
 WROC 12217M001        001  2018 07 06 09 40 00  2018 11 06 10 13 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          WROC00POL  WROC00POL               
 WROC 12217M001        001  2018 11 06 10 13 00  2021 08 13 10 54 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          WROC00POL  WROC00POL               
 WROC 12217M001        001  2021 08 13 10 54 00  2024 02 15 14 38 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          WROC00POL  WROC00POL               
-WROC 12217M001        001  2024 02 15 14 38 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          WROC00POL  WROC00POL               
+WROC 12217M001        001  2024 02 15 14 38 00  2024 08 02 13 21 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          WROC00POL  WROC00POL               
+WROC 12217M001        001  2024 08 02 13 21 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          WROC00POL  WROC00POL               
 WSRT 13506M005        001  1997 06 01 12 00 00  1998 03 17 15 09 00  ROGUE SNR-12 RM                             999999  AOAD/M_T        DUTD                        999999    0.0000    0.0000    0.3795          WSRT00NLD  WSRT00NLD               
 WSRT 13506M005        001  1998 03 17 15 09 00  1999 08 12 10 12 00  ROGUE SNR-12 RM                             999999  AOAD/M_T        DUTD                        999999    0.0000    0.0000    0.3888          WSRT00NLD  WSRT00NLD               
 WSRT 13506M005        001  1999 08 12 10 12 00  2000 01 05 14 46 00  ROGUE SNR-12 RM                             999999  AOAD/M_T        DUTD                        999999    0.0000    0.0000    0.3888          WSRT00NLD  WSRT00NLD               
