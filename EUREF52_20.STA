@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          12-08-2024 04:04
+Station information file for Bernese GNSS Software 5.2          12-08-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -23,7 +23,7 @@ ANK2 20818M001        001  2019 06 28 09 56 00                       ANK2*      
 ANKR 20805M002        001  1995 06 21 00 00 00  2022 05 23 00 00 00  ANKR*                 ankr_20220826.log
 AQUI 12757M001        001  1999 06 11 00 00 00                       AQUI*                 aqui_20240718.log
 ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*                 ara2_20220617.log
-ARGI 10117M002        001  2008 09 25 00 00 00                       ARGI*                 argi_20221129.log
+ARGI 10117M002        001  2008 09 25 00 00 00                       ARGI*                 argi_20240812.log
 ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*                 aris_20240118.log
 ARJ6 10428M002        001  2011 07 29 00 00 00                       ARJ6*                 arj6_20240102.log
 ASGA 25401M001        001  2021 07 27 08 00 00                       ASGA*                 asga_20240216.log
@@ -64,7 +64,7 @@ BSCN 10028M007        001  2001 10 16 00 00 00                       BSCN*      
 BSVZ 12718M004        001  2018 12 06 00 00 00                       BSVZ*                 bsvz_20240718.log
 BUCU 11401M001        001  1999 02 11 07 00 00                       BUCU*                 bucu_20240726.log
 BUDD 10101S001        001  2017 10 05 12 00 00                       BUDD*                 budd_20221113.log
-BUDP 10101M003        001  1999 01 06 00 00 00                       BUDP*                 budp_20221113.log
+BUDP 10101M003        001  1999 01 06 00 00 00                       BUDP*                 budp_20240812.log
 BUTE 11209M001        001  2003 02 28 09 00 00                       BUTE*                 bute_20240723.log
 BYDG 12224M001        001  2007 12 04 00 00 00                       BYDG*                 bydg_20240122.log
 BZR2 12751M003        001  2017 10 27 06 27 00                       BZR2*                 bzr2_20211119.log
