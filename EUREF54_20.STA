@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             16-08-2024 04:04
+BSW 5.4 station information file for EPN processing             16-08-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -268,7 +268,7 @@ MATG 12734M010        001  2012 01 30 14 00 00                       MATG*      
 MDEU 18899M002        001  2018 09 27 00 00 00                       MDEU*                 mdeu_20240718.log
 MDOR 10018M001        001  2002 09 23 12 00 00  2013 12 13 09 00 00  MDOR*                 mdor_20240614.log
 MDVJ 12309M005        001  2001 07 18 00 00 00                       MDVJ*                 mdvj_20190409.log
-MDVO 12309M002        001  1995 07 05 00 00 00  2003 05 11 00 00 00  MDVO*                 mdvo_20230417.log
+MDVO 12309M002        001  1995 07 05 00 00 00  2003 05 11 00 00 00  MDVO*                 mdvo_20240816.log
 MEDI 12711M003        001  1995 07 28 00 00 00                       MEDI*                 medi_20240718.log
 MELI 19379M001        001  2011 12 14 12 00 00                       MELI*                 meli_20240319.log
 MERS 20814M001        001  2000 09 12 00 00 00                       MERS*                 mers_20220826.log
