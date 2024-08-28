@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             28-08-2024 04:04
+BSW 5.4 station information file for EPN processing             28-08-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -128,7 +128,7 @@ ENAO 31902M005        001  2019 07 23 16 30 00                       ENAO*      
 ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*                 enis_20201022.log
 ENTZ 10014M002        001  2004 12 01 12 00 00                       ENTZ*                 entz_20240716.log
 ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza_20240718.log
-ESCO 13435M001        001  1999 04 21 00 00 00                       ESCO*                 esco_20231025.log
+ESCO 13435M001        001  1999 04 21 00 00 00                       ESCO*                 esco_20240828.log
 EUSK 14258M003        001  1998 04 02 00 00 00                       EUSK*                 eusk_20231113.log
 EVPA 12344M001        001  2002 11 26 13 15 00  2014 04 01 00 00 00  EVPA*                 evpa_20220504.log
 FATA 12773M001        001  2005 09 01 12 00 00  2006 04 19 00 00 00  FATA*                 fata_20050901.log
@@ -350,7 +350,7 @@ PRIJ 12131M001        001  2017 09 18 00 00 00                       PRIJ*      
 PRYL 15502M001        001  2008 10 09 12 00 00                       PRYL*                 pryl_20240312.log
 PSTO 83401M001        001  2018 06 15 00 00 00                       PSTO*                 psto_20240524.log
 PSTV 14809M001        001  2015 10 01 07 00 00                       PSTV*                 pstv_20240808.log
-PTBB 14234M001        001  2000 03 29 00 00 00                       PTBB*                 ptbb_20220905.log
+PTBB 14234M001        001  2000 03 29 00 00 00                       PTBB*                 ptbb_20240828.log
 PULA 11903S001        001  2001 03 25 00 00 00  2003 02 09 00 00 00  PULA*                 pula_20020614.log
 PULK 12305M001        001  2002 04 22 00 00 00                       PULK*                 pulk_20230622.log
 PUYV 10065M001        001  2004 08 26 12 00 00                       PUYV*                 puyv_20240716.log
@@ -403,7 +403,7 @@ SONS 13446M001        001  2000 12 15 00 00 00                       SONS*      
 SPRN 11227M001        001  2006 11 01 12 00 00                       SPRN*                 sprn_20220622.log
 SPT0 10425M001        001  1995 12 14 00 00 00                       SPT0*                 spt0_20221208.log
 SPT7 10425M002        001  2011 10 07 00 00 00                       SPT7*                 spt7_20221129.log
-SRJV 11801S001        001  1999 06 11 17 14 00                       SRJV*                 srjv_20211116.log
+SRJV 11801S001        001  1999 06 11 17 14 00                       SRJV*                 srjv_20240828.log
 STAS 10330M001        001  1995 05 22 00 00 00                       STAS*                 stas_20240307.log
 STAV 10330M001        001  1995 05 22 00 00 00  1999 08 21 00 00 00  STAV*                 stav_20200728.log
 STNB 83402M001        001  2018 06 15 00 00 00                       STNB*                 stnb_20240528.log
@@ -2075,7 +2075,8 @@ ESCO 13435M001        001  2017 07 05 17 01 00  2018 05 31 10 26 00  LEICA GR50 
 ESCO 13435M001        001  2018 05 31 10 26 00  2019 03 29 11 11 00  LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          ESCO00ESP  ESCO00ESP               
 ESCO 13435M001        001  2019 03 29 11 11 00  2022 12 14 11 40 00  LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          ESCO00ESP  ESCO00ESP               
 ESCO 13435M001        001  2022 12 14 11 40 00  2023 10 24 20 03 00  LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          ESCO00ESP  ESCO00ESP               
-ESCO 13435M001        001  2023 10 24 20 03 00                       LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          ESCO00ESP  ESCO00ESP               
+ESCO 13435M001        001  2023 10 24 20 03 00  2024 08 27 22 18 00  LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          ESCO00ESP  ESCO00ESP               
+ESCO 13435M001        001  2024 08 27 22 18 00                       LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          ESCO00ESP  ESCO00ESP               
 EUSK 14258M003        001  1998 04 02 00 00 00  1999 08 17 09 00 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  DOME                        999999    0.0000    0.0000    0.0550          EUSK00DEU  EUSK00DEU               
 EUSK 14258M003        001  1999 08 17 09 00 00  2001 05 09 07 30 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  DOME                        999999    0.0000    0.0000    0.0550          EUSK00DEU  EUSK00DEU               
 EUSK 14258M003        001  2001 05 09 07 30 00  2008 07 03 09 05 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0510          EUSK00DEU  EUSK00DEU               
@@ -4870,7 +4871,8 @@ PTBB 14234M001        001  2006 07 25 08 35 00  2006 11 13 13 15 00  SEPT POLARX
 PTBB 14234M001        001  2006 11 13 13 15 00  2019 03 26 14 00 00  ASHTECH Z-XII3T                             999999  ASH700936E      SNOW                        999999    0.0000    0.0000    0.0562          PTBB00DEU  PTBB00DEU               
 PTBB 14234M001        001  2019 03 26 14 00 00  2020 03 05 11 30 00  SEPT POLARX5TR                              999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0590          PTBB00DEU  PTBB00DEU               
 PTBB 14234M001        001  2020 03 05 11 30 00  2021 02 02 08 15 00  SEPT POLARX5TR                              999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0590          PTBB00DEU  PTBB00DEU               
-PTBB 14234M001        001  2021 02 02 08 15 00                       SEPT POLARX5TR                              999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0590          PTBB00DEU  PTBB00DEU               
+PTBB 14234M001        001  2021 02 02 08 15 00  2024 08 13 07 15 00  SEPT POLARX5TR                              999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0590          PTBB00DEU  PTBB00DEU               
+PTBB 14234M001        001  2024 08 13 07 15 00                       SEPT POLARX5TR                              999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0590          PTBB00DEU  PTBB00DEU               
 PULA 11903S001        001  2001 03 25 00 00 00  2002 06 13 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          PULA00HRV  PULA00HRV               
 PULA 11903S001        001  2002 06 13 00 00 00  2003 02 09 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          PULA00HRV  PULA00HRV               
 PULK 12305M001        001  2002 04 22 00 00 00  2004 06 25 00 00 00  TRIMBLE 4000SSE                             999999  TRM33429.20+GP  NONE                        999999    0.0000    0.0000    0.0000          PULK00RUS  PULK00RUS               
