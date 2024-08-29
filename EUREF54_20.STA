@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             29-08-2024 04:04
+BSW 5.4 station information file for EPN processing             29-08-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -455,7 +455,7 @@ TRO1 10302M006        001  1997 07 15 00 00 00                       TRO1*      
 TROM 10302M003        001  1990 01 01 00 00 00  2009 05 06 11 55 00  TROM*                 trom_20181203.log
 TRON 10331M001        001  1995 09 27 00 00 00  2000 04 25 13 45 00  TRON*                 tron_20181203.log
 TUBI 20806M001        001  1998 05 07 00 00 00                       TUBI*                 tubi_20190405.log
-TUBO 11503M001        001  2001 06 14 13 33 00                       TUBO*                 tubo_20220502.log
+TUBO 11503M001        001  2001 06 14 13 33 00                       TUBO*                 tubo_20240829.log
 TUC2 12617M003        001  2004 06 20 00 00 00                       TUC2*                 tuc2_20200717.log
 TUO2 10521M002        001  2013 12 19 12 00 00                       TUO2*                 tuo2_20240418.log
 UBEN 14663M001        001  2021 04 22 14 00 00                       UBEN*                 uben_20240718.log
