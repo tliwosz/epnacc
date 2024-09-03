@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             03-09-2024 13:04
+BSW 5.4 station information file for EPN processing             03-09-2024 18:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -54,7 +54,7 @@ BORK 14268M001        001  2000 09 29 00 00 00  2007 06 04 00 00 00  BORK*      
 BORR 13480M001        001  2005 04 27 16 15 00                       BORR*                 borr_20210312.log
 BPDL 12223M001        001  2007 12 04 12 00 00                       BPDL*                 bpdl_20240213.log
 BRMF 19686M002        001  2014 02 18 07 00 00                       BRMF*                 brmf_20240716.log
-BRMG 10918M001        001  2020 04 08 10 00 00                       BRMG*                 brmg_20240215.log
+BRMG 10918M001        001  2020 04 08 10 00 00                       BRMG*                 brmg_20240903.log
 BRON 19686M001        001  2013 01 05 09 00 00  2013 10 25 09 00 00  BRON*                 bron_20200423.log
 BRST 10004M004        001  1998 10 31 00 00 00                       BRST*                 brst_20240702.log
 BRTS 14804M001        001  2011 04 15 11 48 00                       BRTS*                 brts_20240808.log
@@ -506,7 +506,7 @@ WTZA 14201M013        001  1997 11 25 00 00 00                       WTZA*      
 WTZR 14201M010        001  1995 02 09 00 00 00                       WTZR*                 wtzr_20231030.log
 WTZS 14201M015        001  2005 07 27 15 00 00                       WTZS*                 wtzs_20230509.log
 WTZZ 14201M014        001  1999 02 01 12 00 00                       WTZZ*                 wtzz_20240722.log
-WUTH 81301M001        001  2020 09 04 15 30 00                       WUTH*                 wuth_20230830.log
+WUTH 81301M001        001  2020 09 04 15 30 00                       WUTH*                 wuth_20240903.log
 YEBE 13420M001        001  1999 05 19 12 00 00                       YEBE*                 yebe_20240318.log
 YLDZ 20815M001        001  2012 07 17 10 00 00                       YLDZ*                 yldz_20220603.log
 ZADA 11905M001        001  2008 12 09 00 00 00                       ZADA*                 zada_20240318.log
@@ -1059,7 +1059,8 @@ BRMG 10918M001        001  2020 11 05 08 45 00  2021 08 31 07 55 00  JAVAD TRE_3
 BRMG 10918M001        001  2021 08 31 07 55 00  2022 03 03 06 16 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BRMG00DEU  BRMG00DEU               
 BRMG 10918M001        001  2022 03 03 06 16 00  2023 02 08 09 27 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BRMG00DEU  BRMG00DEU               
 BRMG 10918M001        001  2023 02 08 09 27 00  2024 02 15 08 15 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BRMG00DEU  BRMG00DEU               
-BRMG 10918M001        001  2024 02 15 08 15 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BRMG00DEU  BRMG00DEU               
+BRMG 10918M001        001  2024 02 15 08 15 00  2024 09 03 13 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BRMG00DEU  BRMG00DEU               
+BRMG 10918M001        001  2024 09 03 13 00 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BRMG00DEU  BRMG00DEU               
 BRON 19686M001        001  2013 01 05 09 00 00  2013 06 06 12 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          BRON00FRA  BRON00FRA               
 BRON 19686M001        001  2013 06 06 12 00 00  2013 10 11 10 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          BRON00FRA  BRON00FRA               
 BRON 19686M001        001  2013 10 11 10 00 00  2013 10 25 09 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          BRON00FRA  BRON00FRA               
@@ -6875,7 +6876,8 @@ WTZZ 14201M014        001  2021 02 18 11 35 00  2021 06 02 14 50 00  JAVAD TRE_3
 WTZZ 14201M014        001  2021 06 02 14 50 00  2021 09 01 12 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2840          WTZZ00DEU  WTZZ00DEU               
 WTZZ 14201M014        001  2021 09 01 12 00 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2840          WTZZ00DEU  WTZZ00DEU               
 WUTH 81301M001        001  2020 09 04 15 30 00  2023 08 27 18 00 00  SEPT POLARX5S                               999999  SEPCHOKE_B3E6   SPKE                        999999    0.0000    0.0000    0.0910    15.0  WUTH00NOR  WUTH00NOR               
-WUTH 81301M001        001  2023 08 27 18 00 00                       SEPT POLARX5S                               999999  SEPCHOKE_B3E6   SPKE                        999999    0.0000    0.0000    0.0910    15.0  WUTH00NOR  WUTH00NOR               
+WUTH 81301M001        001  2023 08 27 18 00 00  2024 08 07 09 30 00  SEPT POLARX5S                               999999  SEPCHOKE_B3E6   SPKE                        999999    0.0000    0.0000    0.0910    15.0  WUTH00NOR  WUTH00NOR               
+WUTH 81301M001        001  2024 08 07 09 30 00                       SEPT POLARX5S                               999999  SEPCHOKE_B3E6   SPKE                        999999    0.0000    0.0000    0.0910    15.0  WUTH00NOR  WUTH00NOR               
 YEBE 13420M001        001  1999 05 19 12 00 00  1999 10 14 12 00 00  TRIMBLE 4000SSE                             999999  TRM14532.00     NONE                        999999    0.0000    0.0000    0.0000          YEBE00ESP  YEBE00ESP               
 YEBE 13420M001        001  1999 10 14 12 00 00  1999 11 18 12 00 00  TRIMBLE 4000SSE                             999999  TRM22020.00+GP  NONE                        999999    0.0000    0.0000    0.0000          YEBE00ESP  YEBE00ESP               
 YEBE 13420M001        001  1999 11 18 12 00 00  1999 11 18 18 00 00  TRIMBLE 4000SSE                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          YEBE00ESP  YEBE00ESP               
