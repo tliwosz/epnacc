@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          03-09-2024 04:04
+Station information file for Bernese GNSS Software 5.2          03-09-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -488,7 +488,7 @@ VILL 13406M001        001  1994 11 12 00 00 00                       VILL*      
 VIR2 10522M002        001  2014 01 02 12 00 00                       VIR2*                 vir2_20240418.log
 VIRG 14628M001        001  2020 07 13 10 00 00                       VIRG*                 virg_20240718.log
 VIS0 10423M001        001  1993 08 01 00 00 00                       VIS0*                 vis0_20221208.log
-VIS6 10423M002        001  2011 05 18 00 00 00                       VIS6*                 vis6_20221206.log
+VIS6 10423M002        001  2011 05 18 00 00 00                       VIS6*                 vis6_20240903.log
 VITR 14805M001        001  2010 07 12 00 00 00                       VITR*                 vitr_20240808.log
 VLFR 14610M001        001  2019 09 16 09 00 00                       VLFR*                 vlfr_20240718.log
 VLIS 13538M001        001  2006 11 22 15 00 00                       VLIS*                 vlis_20240319.log
@@ -6548,7 +6548,8 @@ VIS6 10423M002        001  2018 10 23 12 00 00  2019 11 05 18 00 00  TRIMBLE NET
 VIS6 10423M002        001  2019 11 05 18 00 00  2020 06 17 11 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  VIS600SWE               
 VIS6 10423M002        001  2020 06 17 11 00 00  2022 07 27 12 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  VIS600SWE               
 VIS6 10423M002        001  2022 07 27 12 00 00  2022 12 05 14 59 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  VIS600SWE               
-VIS6 10423M002        001  2022 12 05 15 00 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  VIS600SWE               
+VIS6 10423M002        001  2022 12 05 15 00 00  2024 09 03 07 59 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  VIS600SWE               
+VIS6 10423M002        001  2024 09 03 08 00 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030  VIS600SWE               
 VITR 14805M001        001  2010 07 12 00 00 00  2018 08 20 13 40 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3250  VITR00BLR               
 VITR 14805M001        001  2018 08 20 13 54 00  2019 11 11 20 04 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3250  VITR00BLR               
 VITR 14805M001        001  2019 11 12 05 01 00  2020 08 31 05 41 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3250  VITR00BLR               
