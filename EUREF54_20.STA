@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             05-09-2024 04:04
+BSW 5.4 station information file for EPN processing             05-09-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -43,7 +43,7 @@ BELL 13431M001        001  1997 05 13 00 00 00                       BELL*      
 BFST 15202M001        001  2019 05 15 15 00 00                       BFST*                 bfst_20201026.log
 BIRG 14613M001        001  2019 10 29 17 00 00                       BIRG*                 birg_20240718.log
 BISK 11520M001        001  2001 09 06 12 00 00                       BISK*                 bisk_20200219.log
-BME1 11209M002        001  2021 01 14 13 00 00                       BME1*                 bme1_20240723.log
+BME1 11209M002        001  2021 01 14 13 00 00                       BME1*                 bme1_20240905.log
 BOGE 12207M004        001  2018 09 27 12 00 00                       BOGE*                 boge_20231112.log
 BOGI 12207M003        001  2001 10 01 00 00 00                       BOGI*                 bogi_20210505.log
 BOGO 12207M002        001  1996 06 08 00 00 00                       BOGO*                 bogo_20180123.log
