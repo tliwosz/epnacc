@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             13-09-2024 04:04
+BSW 5.4 station information file for EPN processing             13-09-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -97,7 +97,7 @@ COST 11407M001        001  2004 08 28 12 00 00                       COST*      
 CPAR 11527M001        001  2005 01 11 00 00 00                       CPAR*                 cpar_20220818.log
 CRAK 11528M001        001  2005 04 19 00 00 00                       CRAK*                 crak_20220818.log
 CREI 10016M001        001  2003 07 07 00 00 00  2018 03 01 09 00 00  CREI*                 crei_20230724.log
-CREU 13432M001        001  1997 06 18 00 00 00                       CREU*                 creu_20240912.log
+CREU 13432M001        001  1997 06 18 00 00 00                       CREU*                 creu_20240913.log
 CTAB 11529M001        001  2005 01 14 00 00 00                       CTAB*                 ctab_20220818.log
 CUGA 18494M001        001  2018 09 27 00 00 00                       CUGA*                 cuga_20240718.log
 DARE 13208S001        001  2000 04 10 00 00 00                       DARE*                 dare_20240118.log
@@ -1621,8 +1621,8 @@ CREU 13432M001        001  2017 06 08 07 31 00  2018 05 31 12 49 00  LEICA GR50 
 CREU 13432M001        001  2018 05 31 12 49 00  2019 03 29 10 15 00  LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          CREU00ESP  CREU00ESP               
 CREU 13432M001        001  2019 03 29 10 15 00  2022 12 14 13 21 00  LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          CREU00ESP  CREU00ESP               
 CREU 13432M001        001  2022 12 14 13 21 00  2023 11 13 21 18 00  LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          CREU00ESP  CREU00ESP               
-CREU 13432M001        001  2023 11 13 21 18 00  2024 09 12 23 16 00  LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          CREU00ESP  CREU00ESP               
-CREU 13432M001        001  2024 09 12 23 16 00                       LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          CREU00ESP  CREU00ESP               
+CREU 13432M001        001  2023 11 13 21 18 00  2024 09 13 01 16 00  LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          CREU00ESP  CREU00ESP               
+CREU 13432M001        001  2024 09 13 01 16 00                       LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          CREU00ESP  CREU00ESP               
 CTAB 11529M001        001  2005 01 14 00 00 00  2005 08 04 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0688          CTAB00CZE  CTAB00CZE               
 CTAB 11529M001        001  2005 08 04 00 00 00  2006 08 05 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0688          CTAB00CZE  CTAB00CZE               
 CTAB 11529M001        001  2006 08 05 00 00 00  2007 07 31 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0688          CTAB00CZE  CTAB00CZE               
