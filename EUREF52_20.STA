@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          19-09-2024 13:04
+Station information file for Bernese GNSS Software 5.2          19-09-2024 18:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -483,7 +483,7 @@ VIGI 14684M001        001  2014 06 28 00 00 00                       VIGI*      
 VIGN 14605M001        001  2019 07 25 11 30 00                       VIGN*                 vign_20240718.log
 VIGO 13450M001        001  2001 09 12 00 00 00                       VIGO*                 vigo_20230913.log
 VIL0 10424M001        001  1993 08 01 00 00 00                       VIL0*                 vil0_20221206.log
-VIL6 10424M002        001  2011 07 20 00 00 00                       VIL6*                 vil6_20221117.log
+VIL6 10424M002        001  2011 07 20 00 00 00                       VIL6*                 vil6_20240919.log
 VILL 13406M001        001  1994 11 12 00 00 00                       VILL*                 vill_20220428.log
 VIR2 10522M002        001  2014 01 02 12 00 00                       VIR2*                 vir2_20240418.log
 VIRG 14628M001        001  2020 07 13 10 00 00                       VIRG*                 virg_20240718.log
@@ -6491,7 +6491,8 @@ VIL6 10424M002        001  2018 01 29 07 00 00  2018 10 23 13 00 00  TRIMBLE NET
 VIL6 10424M002        001  2018 10 23 13 00 00  2019 11 05 18 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  VIL600SWE               
 VIL6 10424M002        001  2019 11 05 18 00 00  2020 06 17 12 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  VIL600SWE               
 VIL6 10424M002        001  2020 06 17 12 00 00  2022 11 17 08 05 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  VIL600SWE               
-VIL6 10424M002        001  2022 11 17 08 05 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  VIL600SWE               
+VIL6 10424M002        001  2022 11 17 08 05 00  2024 09 19 00 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  VIL600SWE               
+VIL6 10424M002        001  2024 09 19 17 00 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030  VIL600SWE               
 VILL 13406M001        001  1994 11 12 00 00 00  1996 07 03 23 59 00  ROGUE SNR-8100                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0437  VILL00ESP               
 VILL 13406M001        001  1996 07 04 00 00 00  1999 07 29 13 00 00  ROGUE SNR-8100                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0437  VILL00ESP               
 VILL 13406M001        001  1999 07 29 13 00 00  2000 07 18 11 30 00  ROGUE SNR-8100                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0437  VILL00ESP               
