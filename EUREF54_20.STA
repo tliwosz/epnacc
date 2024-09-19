@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             19-09-2024 04:04
+BSW 5.4 station information file for EPN processing             19-09-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -129,7 +129,7 @@ ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*      
 ENTZ 10014M002        001  2004 12 01 12 00 00                       ENTZ*                 entz_20240716.log
 ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza_20240718.log
 ESCO 13435M001        001  1999 04 21 00 00 00                       ESCO*                 esco_20240902.log
-EUSK 14258M003        001  1998 04 02 00 00 00                       EUSK*                 eusk_20231113.log
+EUSK 14258M003        001  1998 04 02 00 00 00                       EUSK*                 eusk_20240919.log
 EVPA 12344M001        001  2002 11 26 13 15 00  2014 04 01 00 00 00  EVPA*                 evpa_20220504.log
 FATA 12773M001        001  2005 09 01 12 00 00  2006 04 19 00 00 00  FATA*                 fata_20050901.log
 FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*                 ffmj_20240215.log
@@ -2107,7 +2107,8 @@ EUSK 14258M003        001  2022 03 03 08 05 00  2022 03 31 09 32 00  LEICA GR50 
 EUSK 14258M003        001  2022 03 31 09 32 00  2022 09 05 11 17 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
 EUSK 14258M003        001  2022 09 05 11 17 00  2023 02 08 10 18 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
 EUSK 14258M003        001  2023 02 08 10 18 00  2023 11 13 09 43 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
-EUSK 14258M003        001  2023 11 13 09 43 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
+EUSK 14258M003        001  2023 11 13 09 43 00  2024 09 19 10 00 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
+EUSK 14258M003        001  2024 09 19 10 00 00                       SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
 EVPA 12344M001        001  2002 11 26 13 15 00  2009 06 30 06 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000   180.0  EVPA00UKR  EVPA00UKR               
 EVPA 12344M001        001  2009 06 30 06 00 00  2011 02 01 12 20 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000   180.0  EVPA00UKR  EVPA00UKR               
 EVPA 12344M001        001  2011 02 01 12 20 00  2014 04 01 00 00 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0040  -135.0  EVPA00UKR  EVPA00UKR               
