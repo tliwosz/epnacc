@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             25-09-2024 13:04
+BSW 5.4 station information file for EPN processing             25-09-2024 18:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -153,7 +153,7 @@ GOML 14803M001        001  2010 07 12 00 00 00                       GOML*      
 GOP6 11502M006        001  2011 12 21 00 00 00                       GOP6*                 gop6_20240827.log
 GOPE 11502M002        001  1995 05 13 00 00 00                       GOPE*                 gope_20240827.log
 GOR2 14115M002        001  2008 04 15 12 00 00                       GOR2*                 gor2_20240215.log
-GRAC 10002M010        001  1998 11 27 10 00 00                       GRAC*                 grac_20230215.log
+GRAC 10002M010        001  1998 11 27 10 00 00                       GRAC*                 grac_20240925.log
 GRAS 10002M006        001  1995 02 22 00 00 00                       GRAS*                 gras_20230713.log
 GRAZ 11001M002        001  1992 06 12 12 00 00                       GRAZ*                 graz_20240730.log
 GSR1 14501M001        001  2000 02 01 12 00 00                       GSR1*                 gsr1_20221122.log
@@ -2438,7 +2438,8 @@ GRAC 10002M010        001  2017 08 02 10 00 00  2018 08 27 13 00 00  LEICA GR25 
 GRAC 10002M010        001  2018 08 27 13 00 00  2019 03 13 15 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0500          GRAC00FRA  GRAC00FRA               
 GRAC 10002M010        001  2019 03 13 15 00 00  2021 06 15 15 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0500          GRAC00FRA  GRAC00FRA               
 GRAC 10002M010        001  2021 06 15 15 00 00  2022 02 11 11 00 00  LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0500          GRAC00FRA  GRAC00FRA               
-GRAC 10002M010        001  2022 02 11 11 00 00                       LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0500          GRAC00FRA  GRAC00FRA               
+GRAC 10002M010        001  2022 02 11 11 00 00  2024 09 25 15 30 00  LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0500          GRAC00FRA  GRAC00FRA               
+GRAC 10002M010        001  2024 09 25 15 30 00                       LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0500          GRAC00FRA  GRAC00FRA               
 GRAS 10002M006        001  1995 02 22 00 00 00  1996 10 03 00 00 00  ROGUE SNR-8100                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0350          GRAS00FRA  GRAS00FRA               
 GRAS 10002M006        001  1996 10 03 00 00 00  2003 04 23 00 00 00  ROGUE SNR-12 RM                             999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0350          GRAS00FRA  GRAS00FRA               
 GRAS 10002M006        001  2003 04 23 00 00 00  2004 01 26 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0350          GRAS00FRA  GRAS00FRA               
