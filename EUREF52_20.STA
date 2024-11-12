@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          12-11-2024 13:04
+Station information file for Bernese GNSS Software 5.2          12-11-2024 18:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -38,9 +38,9 @@ BAIA 11406M001        001  2005 06 10 12 00 00                       BAIA*      
 BAUT 14102M001        001  2018 09 26 10 00 00                       BAUT*                 baut_20240911.log
 BBYS 11514M001        001  2001 04 01 06 00 00                       BBYS*                 bbys_20240521.log
 BCLN 13412M001        001  2012 01 31 12 00 00                       BCLN*                 bcln_20230720.log
-BELF 13240M001        001  2000 11 07 00 00 00  2016 04 07 00 00 00  BELF*                 belf_20150701.log
+BELF 13240M001        001  2000 11 07 00 00 00  2016 04 07 00 00 00  BELF*                 belf_20241112.log
 BELL 13431M001        001  1997 05 13 00 00 00                       BELL*                 bell_20240909.log
-BFST 15202M001        001  2019 05 15 15 00 00                       BFST*                 bfst_20201026.log
+BFST 15202M001        001  2019 05 15 15 00 00                       BFST*                 bfst_20241112.log
 BIRG 14613M001        001  2019 10 29 17 00 00                       BIRG*                 birg_20240718.log
 BISK 11520M001        001  2001 09 06 12 00 00                       BISK*                 bisk_20200219.log
 BME1 11209M002        001  2021 01 14 13 00 00                       BME1*                 bme1_20240905.log
@@ -125,7 +125,7 @@ EIJS 13533M001        001  1996 08 27 14 30 00                       EIJS*      
 EKAR 12714M003        001  2018 12 07 00 00 00                       EKAR*                 ekar_20240718.log
 ELBA 12721M002        001  2000 11 08 00 00 00                       ELBA*                 elba_20240718.log
 ENAO 31902M005        001  2019 07 23 16 30 00                       ENAO*                 enao_20230203.log
-ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*                 enis_20201022.log
+ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*                 enis_20241112.log
 ENTZ 10014M002        001  2004 12 01 12 00 00                       ENTZ*                 entz_20240716.log
 ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza_20240718.log
 ESCO 13435M001        001  1999 04 21 00 00 00                       ESCO*                 esco_20240902.log
@@ -135,7 +135,7 @@ FATA 12773M001        001  2005 09 01 12 00 00  2006 04 19 00 00 00  FATA*      
 FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*                 ffmj_20240215.log
 FINS 10523M001        001  2014 11 13 12 00 00                       FINS*                 fins_20240417.log
 FLRS 31907M001        001  2008 04 09 17 00 00                       FLRS*                 flrs_20240219.log
-FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl_20201022.log
+FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl_20241112.log
 FRA2 15538M002        001  2011 03 16 12 00 00                       FRA2*                 fra2_20230412.log
 FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*                 frne_20240718.log
 FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func_20240219.log
