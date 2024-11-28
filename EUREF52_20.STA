@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          28-11-2024 04:04
+Station information file for Bernese GNSS Software 5.2          28-11-2024 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -89,7 +89,7 @@ CHIO 19194M001        001  2009 06 30 17 00 00                       CHIO*      
 CHIZ 10020M001        001  2000 10 19 00 00 00                       CHIZ*                 chiz_20240902.log
 CIMO 14608M001        001  2019 09 19 09 30 00                       CIMO*                 cimo_20240718.log
 CLIB 11526M001        001  2005 07 25 00 00 00                       CLIB*                 clib_20220818.log
-CMEL 14609M001        001  2019 09 18 09 30 00                       CMEL*                 cmel_20241127.log
+CMEL 14609M001        001  2019 09 18 09 30 00                       CMEL*                 cmel_20241128.log
 CNIV 15501M001        001  2005 05 19 10 00 00                       CNIV*                 cniv_20220926.log
 COBA 13453M001        001  2004 04 12 00 00 00                       COBA*                 coba_20240411.log
 COMO 12761M001        001  2001 04 15 00 00 00                       COMO*                 como_20240319.log
