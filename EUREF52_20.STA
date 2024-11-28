@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          28-11-2024 09:04
+Station information file for Bernese GNSS Software 5.2          28-11-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -127,7 +127,7 @@ ELBA 12721M002        001  2000 11 08 00 00 00                       ELBA*      
 ENAO 31902M005        001  2019 07 23 16 30 00                       ENAO*                 enao_20230203.log
 ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*                 enis_20241112.log
 ENTZ 10014M002        001  2004 12 01 12 00 00                       ENTZ*                 entz_20240716.log
-ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza_20240718.log
+ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza_20241128.log
 ESCO 13435M001        001  1999 04 21 00 00 00                       ESCO*                 esco_20240902.log
 EUSK 14258M003        001  1998 04 02 00 00 00                       EUSK*                 eusk_20240919.log
 EVPA 12344M001        001  2002 11 26 13 15 00  2014 04 01 00 00 00  EVPA*                 evpa_20220504.log
