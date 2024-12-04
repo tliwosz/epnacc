@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             04-12-2024 13:04
+BSW 5.4 station information file for EPN processing             04-12-2024 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -417,7 +417,7 @@ SUUR 10601M001        001  1998 09 27 00 00 00  2011 09 21 12 00 00  SUUR*      
 SVE6 10441M002        001  2011 07 08 00 00 00                       SVE6*                 sve600swe_20221206.log
 SVLL 18492M001        001  2018 06 04 00 00 00                       SVLL*                 svll00ita_20240718.log
 SVTL 12350M001        001  1996 03 14 00 00 00                       SVTL*                 svtl00rus_20191004.log
-SWAS 19193M001        001  2009 08 14 14 00 00                       SWAS*                 swas00gbr_20240216.log
+SWAS 19193M001        001  2009 08 14 14 00 00  2024 12 04 11 15 00  SWAS*                 swas00gbr_20241204.log
 SWKI 12228M001        001  2007 12 05 00 00 00                       SWKI*                 swki00pol_20240202.log
 TAR0 19350M002        001  2019 06 06 00 00 00                       TAR0*                 tar000esp_20231024.log
 TARI 19350M001        001  2010 05 15 12 00 00  2019 05 30 00 00 00  TARI*                 tari00esp_20220907.log
@@ -495,7 +495,7 @@ VLIS 13538M001        001  2006 11 22 15 00 00                       VLIS*      
 VLN1 13626M002        001  2019 02 01 12 30 00                       VLN1*                 vln100irl_20230331.log
 VLNS 10801M001        001  1997 09 16 11 00 00                       VLNS*                 vlns00ltu_20200716.log
 VNRS 18101M001        001  2009 11 12 00 00 00  2024 02 05 10 47 00  VNRS*                 vnrs00ukr_20240213.log
-VTRB 14606M001        001  2019 07 26 07 30 00                       VTRB*                 vtrb00ita_20240718.log
+VTRB 14606M001        001  2019 07 26 07 30 00                       VTRB*                 vtrb00ita_20241204.log
 WARE 13114M001        001  1994 01 14 00 00 00                       WARE*                 ware00bel_20230310.log
 WARN 14277M002        001  2003 02 11 12 00 00                       WARN*                 warn00deu_20240215.log
 WETT 14201M009        001  1994 06 07 00 00 00  1996 08 31 00 00 00  WETT*                 wett00deu_20230511.log
@@ -5764,7 +5764,7 @@ SWAS 19193M001        001  2020 10 07 15 35 00  2021 02 05 00 00 00  TRIMBLE ALL
 SWAS 19193M001        001  2021 02 05 00 00 00  2023 04 17 13 20 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1340          SWAS00GBR  SWAS00GBR               
 SWAS 19193M001        001  2023 04 17 13 20 00  2023 09 08 10 35 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1340          SWAS00GBR  SWAS00GBR               
 SWAS 19193M001        001  2023 09 08 10 35 00  2024 02 16 12 10 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1340          SWAS00GBR  SWAS00GBR               
-SWAS 19193M001        001  2024 02 16 12 10 00                       TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1340          SWAS00GBR  SWAS00GBR               
+SWAS 19193M001        001  2024 02 16 12 10 00  2024 12 04 11 15 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1340          SWAS00GBR  SWAS00GBR               
 SWKI 12228M001        001  2007 12 05 00 00 00  2008 06 26 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000          SWKI00POL  SWKI00POL               
 SWKI 12228M001        001  2008 06 26 00 00 00  2009 02 24 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000          SWKI00POL  SWKI00POL               
 SWKI 12228M001        001  2009 02 24 00 00 00  2011 07 08 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000          SWKI00POL  SWKI00POL               
