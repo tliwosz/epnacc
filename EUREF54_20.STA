@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             05-12-2024 09:04
+BSW 5.4 station information file for EPN processing             05-12-2024 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -278,7 +278,7 @@ METS 10503S011        001  1992 04 30 12 00 00  2024 06 25 08 15 00  METS*      
 MIK3 10526M001        001  2013 12 19 12 00 00                       MIK3*                 mik300fin_20240417.log
 MIKL 12335M001        001  2002 04 20 20 00 00                       MIKL*                 mikl00ukr_20240719.log
 MILO 12758M001        001  2001 10 05 00 00 00  2012 03 22 00 00 00  MILO*                 milo00ita_20240718.log
-MKRS 15599M001        001  2008 11 30 00 00 00                       MKRS*                 mkrs00ukr_20240202.log
+MKRS 15599M001        001  2008 11 30 00 00 00  2024 12 04 08 55 00  MKRS*                 mkrs00ukr_20241205.log
 MLHD 13640M001        001  2020 11 06 12 30 00                       MLHD*                 mlhd00irl_20230331.log
 MLVL 10092M001        001  2000 01 22 00 00 00                       MLVL*                 mlvl00fra_20240716.log
 MMET 14681M001        001  2004 05 24 00 00 00                       MMET*                 mmet00ita_20240718.log
@@ -324,7 +324,7 @@ OSLS 10307M001        001  1995 10 05 00 00 00                       OSLS*      
 OST6 10436M002        001  2011 07 08 00 00 00                       OST6*                 ost600swe_20241010.log
 OUL2 10519M002        001  2013 12 19 12 00 00                       OUL2*                 oul200fin_20240417.log
 OVE6 10437M002        001  2011 08 11 00 00 00                       OVE6*                 ove600swe_20221121.log
-PADO 12750S001        001  2001 11 21 13 00 00                       PADO*                 pado00ita_20220902.log
+PADO 12750S001        001  2001 11 21 13 00 00                       PADO*                 pado00ita_20241205.log
 PALB 14603M001        001  2019 07 16 09 45 00                       PALB*                 palb00ita_20240718.log
 PASA 19351S001        001  2007 02 12 00 00 00                       PASA*                 pasa00esp_20240418.log
 PAT0 12622M001        001  2009 01 26 14 10 00                       PAT0*                 pat000grc_20210329.log
@@ -4063,7 +4063,7 @@ MILO 12758M001        001  2001 10 05 00 00 00  2002 06 21 00 00 00  TRIMBLE 400
 MILO 12758M001        001  2002 06 21 00 00 00  2012 03 22 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          MILO00ITA  MILO00ITA               
 MKRS 15599M001        001  2008 11 30 00 00 00  2011 10 25 08 39 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          MKRS00UKR  MKRS00UKR               
 MKRS 15599M001        001  2011 10 25 08 39 00  2018 03 20 07 13 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          MKRS00UKR  MKRS00UKR               
-MKRS 15599M001        001  2018 03 20 07 13 00                       NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          MKRS00UKR  MKRS00UKR               
+MKRS 15599M001        001  2018 03 20 07 13 00  2024 12 04 08 55 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          MKRS00UKR  MKRS00UKR               
 MLHD 13640M001        001  2020 11 06 12 30 00  2022 02 01 00 00 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          MLHD00IRL  MLHD00IRL               
 MLHD 13640M001        001  2022 02 01 00 00 00  2022 12 13 21 00 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          MLHD00IRL  MLHD00IRL               
 MLHD 13640M001        001  2022 12 13 21 00 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          MLHD00IRL  MLHD00IRL               
@@ -4604,7 +4604,8 @@ PADO 12750S001        001  2019 05 07 08 00 00  2019 09 26 08 20 00  SEPT POLARX
 PADO 12750S001        001  2019 09 26 08 20 00  2020 02 20 10 13 00  SEPT POLARX5                                999999  SEPCHOKE_B3E6   SPKE                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
 PADO 12750S001        001  2020 02 20 10 13 00  2020 11 23 09 35 00  SEPT POLARX5                                999999  SEPCHOKE_B3E6   SPKE                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
 PADO 12750S001        001  2020 11 23 09 35 00  2021 03 11 09 15 00  STONEX SC2200                               999999  STXSA1500       STXG                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
-PADO 12750S001        001  2021 03 11 09 15 00                       STONEX SC2200                               999999  STXSA1500       STXG                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
+PADO 12750S001        001  2021 03 11 09 15 00  2024 12 05 08 15 00  STONEX SC2200                               999999  STXSA1500       STXG                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
+PADO 12750S001        001  2024 12 05 08 15 00                       STONEX SC2200                               999999  STXSA1500       STXG                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
 PALB 14603M001        001  2019 07 16 09 45 00  2023 11 16 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          PALB00ITA  PALB00ITA               
 PALB 14603M001        001  2023 11 16 00 00 00  2024 02 21 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          PALB00ITA  PALB00ITA               
 PALB 14603M001        001  2024 02 21 00 00 00  2024 02 26 00 00 00  LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          PALB00ITA  PALB00ITA               
