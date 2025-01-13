@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             13-01-2025 09:04
+BSW 5.4 station information file for EPN processing             13-01-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -357,7 +357,7 @@ PULK 12305M001        001  2002 04 22 00 00 00                       PULK*      
 PUYV 10065M001        001  2004 08 26 12 00 00                       PUYV*                 puyv00fra_20240716.log
 PYHA 10528M001        001  2014 08 22 12 00 00                       PYHA*                 pyha00fin_20240417.log
 PZA2 14506M002        001  2015 06 05 12 00 00                       PZA2*                 pza200svn_20220620.log
-QAQ1 43007M001        001  2001 10 15 00 00 00                       QAQ1*                 qaq100grl_20230110.log
+QAQ1 43007M001        001  2001 10 15 00 00 00                       QAQ1*                 qaq100grl_20250113.log
 RABT 35001M002        001  2000 05 17 00 00 00                       RABT*                 rabt00mar_20211021.log
 RAEG 31912M003        001  2015 05 15 00 00 00                       RAEG*                 raeg00prt_20240411.log
 RAH1 15811M001        001  2008 08 29 15 00 00                       RAH1*                 rah100ukr_20230412.log
