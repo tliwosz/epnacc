@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             15-01-2025 04:04
+BSW 5.4 station information file for EPN processing             15-01-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -67,7 +67,7 @@ BUDD 10101S001        001  2017 10 05 12 00 00                       BUDD*      
 BUDP 10101M003        001  1999 01 06 00 00 00                       BUDP*                 budp00dnk_20240812.log
 BUTE 11209M001        001  2003 02 28 09 00 00                       BUTE*                 bute00hun_20240723.log
 BYDG 12224M001        001  2007 12 04 00 00 00                       BYDG*                 bydg00pol_20240122.log
-BZR2 12751M003        001  2017 10 27 06 27 00                       BZR2*                 bzr200ita_20250113.log
+BZR2 12751M003        001  2017 10 27 06 27 00                       BZR2*                 bzr200ita_20250115.log
 BZRG 12751M001        001  1997 05 14 00 00 00  2020 07 31 19 00 00  BZRG*                 bzrg00ita_20211221.log
 CACE 13447M001        001  2000 12 05 12 00 00                       CACE*                 cace00esp_20230913.log
 CAEN 19994M001        001  2005 11 10 00 00 00  2021 12 15 10 00 00  CAEN*                 caen00fra_20220304.log
