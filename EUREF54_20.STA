@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             17-01-2025 09:04
+BSW 5.4 station information file for EPN processing             17-01-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -190,7 +190,7 @@ INVE 13221S001        001  2000 01 02 00 00 00  2009 01 20 09 20 00  INVE*      
 INVR 13221M001        001  2009 01 20 09 20 00                       INVR*                 invr00gbr_20230406.log
 IRBE 10726M001        001  1998 04 02 00 00 00                       IRBE*                 irbe00lva_20240826.log
 ISRN 14669M001        001  2021 05 05 10 00 00                       ISRN*                 isrn00ita_20240718.log
-ISTA 20807M001        001  1999 12 11 00 00 00                       ISTA*                 ista00tur_20230511.log
+ISTA 20807M001        001  1999 12 11 00 00 00                       ISTA*                 ista00tur_20250117.log
 IZAN 31309M002        001  2008 05 16 00 00 00                       IZAN*                 izan00esp_20240411.log
 IZMI 20817M001        001  2008 08 10 00 00 00                       IZMI*                 izmi00tur_20221117.log
 IZRS 18115M002        001  2016 05 27 07 34 00  2022 03 01 07 00 00  IZRS*                 izrs00ukr_20240202.log
@@ -399,7 +399,7 @@ SNEO 19135M002        001  2009 05 13 13 00 00                       SNEO*      
 SNIK 14661M001        001  2021 10 24 09 00 00                       SNIK*                 snik00ita_20240318.log
 SOD3 10513M002        001  2013 12 19 12 00 00                       SOD3*                 sod300fin_20240418.log
 SODA 10513M001        001  1994 08 15 00 00 00                       SODA*                 soda00fin_20240418.log
-SOFI 11101M002        001  1997 05 19 10 00 00                       SOFI*                 sofi00bgr_20230608.log
+SOFI 11101M002        001  1997 05 19 10 00 00                       SOFI*                 sofi00bgr_20250117.log
 SONS 13446M001        001  2000 12 15 00 00 00                       SONS*                 sons00esp_20240319.log
 SPRN 11227M001        001  2006 11 01 12 00 00                       SPRN*                 sprn00hun_20220622.log
 SPT0 10425M001        001  1995 12 14 00 00 00                       SPT0*                 spt000swe_20221208.log
@@ -2896,7 +2896,8 @@ ISTA 20807M001        001  2016 11 10 12 40 00  2017 02 07 10 50 00  LEICA GR25 
 ISTA 20807M001        001  2017 02 07 10 50 00  2017 05 04 11 16 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0610          ISTA00TUR  ISTA00TUR               
 ISTA 20807M001        001  2017 05 04 11 16 00  2018 12 02 18 20 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0610          ISTA00TUR  ISTA00TUR               
 ISTA 20807M001        001  2018 12 02 18 20 00  2021 05 26 08 05 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0610          ISTA00TUR  ISTA00TUR               
-ISTA 20807M001        001  2021 05 26 08 05 00                       LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0610          ISTA00TUR  ISTA00TUR               
+ISTA 20807M001        001  2021 05 26 08 05 00  2025 01 17 09 30 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0610          ISTA00TUR  ISTA00TUR               
+ISTA 20807M001        001  2025 01 17 09 30 00                       LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0610          ISTA00TUR  ISTA00TUR               
 IZAN 31309M002        001  2008 05 16 00 00 00  2009 01 21 09 23 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          IZAN00ESP  IZAN00ESP               
 IZAN 31309M002        001  2009 01 21 09 23 00  2009 04 23 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          IZAN00ESP  IZAN00ESP               
 IZAN 31309M002        001  2009 04 23 00 00 00  2010 02 15 12 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          IZAN00ESP  IZAN00ESP               
@@ -5524,7 +5525,8 @@ SOFI 11101M002        001  2014 06 12 13 30 00  2014 06 17 12 35 00  LEICA GRX12
 SOFI 11101M002        001  2014 06 17 12 35 00  2014 07 21 13 55 00  LEICA GRX1200GGPRO                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
 SOFI 11101M002        001  2014 07 21 13 55 00  2021 02 10 09 00 00  LEICA GRX1200GGPRO                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
 SOFI 11101M002        001  2021 02 10 09 00 00  2021 05 26 09 25 00  LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
-SOFI 11101M002        001  2021 05 26 09 25 00                       LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
+SOFI 11101M002        001  2021 05 26 09 25 00  2025 01 17 09 30 00  LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
+SOFI 11101M002        001  2025 01 17 09 30 00                       LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
 SONS 13446M001        001  2000 12 15 00 00 00  2008 07 15 10 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     TCWD                        999999    0.0000    0.0000    3.0440          SONS00ESP  SONS00ESP               
 SONS 13446M001        001  2008 07 15 10 00 00  2008 11 14 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    3.0440          SONS00ESP  SONS00ESP               
 SONS 13446M001        001  2008 11 14 00 00 00  2008 11 20 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    3.0440          SONS00ESP  SONS00ESP               
