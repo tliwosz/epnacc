@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             29-01-2025 09:04
+BSW 5.4 station information file for EPN processing             29-01-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -511,7 +511,6 @@ WTZS 14201M015        001  2005 07 27 15 00 00                       WTZS*      
 WTZZ 14201M014        001  1999 02 01 12 00 00                       WTZZ*                 wtzz00deu_20240722.log
 WUTH 81301M001        001  2020 09 04 15 30 00                       WUTH*                 wuth00nor_20240903.log
 YEBE 13420M001        001  1999 05 19 12 00 00                       YEBE*                 yebe00esp_20240318.log
-YLDZ 20815M001        001  2012 07 17 10 00 00                       YLDZ*                 yldz00tur_20220603.log
 ZADA 11905M001        001  2008 12 09 00 00 00                       ZADA*                 zada00hrv_20240318.log
 ZARA 13462M001        001  2006 04 25 00 00 00                       ZARA*                 zara00esp_20230913.log
 ZECK 12351M001        001  1997 07 11 00 00 00                       ZECK*                 zeck00rus_20231019.log
@@ -6957,10 +6956,6 @@ YEBE 13420M001        001  2022 08 03 12 00 00  2022 11 24 08 00 00  LEICA GR50 
 YEBE 13420M001        001  2022 11 24 08 00 00  2023 07 25 11 00 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0600          YEBE00ESP  YEBE00ESP               
 YEBE 13420M001        001  2023 07 25 11 00 00  2024 03 18 12 00 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0600          YEBE00ESP  YEBE00ESP               
 YEBE 13420M001        001  2024 03 18 12 00 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0600          YEBE00ESP  YEBE00ESP               
-YLDZ 20815M001        001  2012 07 17 10 00 00  2015 09 17 06 19 00  ASHTECH PF800                               999999  AERAT1675_120   SPKE                        999999    0.0000    0.0000    0.1390          YLDZ00TUR  YLDZ00TUR               
-YLDZ 20815M001        001  2015 09 17 06 19 00  2017 10 23 00 00 00  ASHTECH PF800                               999999  AERAT1675_120   SPKE                        999999    0.0000    0.0000    0.1390          YLDZ00TUR  YLDZ00TUR               
-YLDZ 20815M001        001  2017 10 23 00 00 00  2019 04 25 00 00 00  ASHTECH PF800                               999999  AERAT1675_120   SPKE                        999999    0.0000    0.0000    0.1390          YLDZ00TUR  YLDZ00TUR               
-YLDZ 20815M001        001  2019 04 25 00 00 00                       ASHTECH PF800                               999999  AERAT1675_120   SPKE                        999999    0.0000    0.0000    0.1390          YLDZ00TUR  YLDZ00TUR               
 ZADA 11905M001        001  2008 12 09 00 00 00  2012 02 21 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000          ZADA00HRV  ZADA00HRV               
 ZADA 11905M001        001  2012 02 21 00 00 00  2015 07 16 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000          ZADA00HRV  ZADA00HRV               
 ZADA 11905M001        001  2015 07 16 00 00 00  2017 01 23 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000          ZADA00HRV  ZADA00HRV               
