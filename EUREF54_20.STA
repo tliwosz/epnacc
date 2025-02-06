@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             06-02-2025 09:04
+BSW 5.4 station information file for EPN processing             06-02-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -64,7 +64,7 @@ BSCN 10028M007        001  2001 10 16 00 00 00                       BSCN*      
 BSVZ 12718M004        001  2018 12 06 00 00 00                       BSVZ*                 bsvz00ita_20240718.log
 BUCU 11401M001        001  1999 02 11 07 00 00                       BUCU*                 bucu00rou_20250124.log
 BUDD 10101S001        001  2017 10 05 12 00 00                       BUDD*                 budd00dnk_20221113.log
-BUDP 10101M003        001  1999 01 06 00 00 00                       BUDP*                 budp00dnk_20240812.log
+BUDP 10101M003        001  1999 01 06 00 00 00                       BUDP*                 budp00dnk_20250206.log
 BUTE 11209M001        001  2003 02 28 09 00 00                       BUTE*                 bute00hun_20240723.log
 BYDG 12224M001        001  2007 12 04 00 00 00                       BYDG*                 bydg00pol_20250117.log
 BZR2 12751M003        001  2017 10 27 06 27 00                       BZR2*                 bzr200ita_20250115.log
@@ -1217,7 +1217,8 @@ BUDP 10101M003        001  2015 06 24 09 45 00  2020 04 02 08 45 00  LEICA GRX12
 BUDP 10101M003        001  2020 04 02 08 45 00  2020 04 28 08 01 00  SEPT POLARX5                                999999  ASH701941.B     UNAV                        999999    0.0000    0.0000    0.0000          BUDP00DNK  BUDP00DNK               
 BUDP 10101M003        001  2020 04 28 08 01 00  2021 07 05 09 19 00  SEPT POLARX5                                999999  ASH701941.B     UNAV                        999999    0.0000    0.0000    0.0000          BUDP00DNK  BUDP00DNK               
 BUDP 10101M003        001  2021 07 05 09 19 00  2022 11 13 14 22 00  SEPT POLARX5                                999999  ASH701941.B     UNAV                        999999    0.0000    0.0000    0.0000          BUDP00DNK  BUDP00DNK               
-BUDP 10101M003        001  2022 11 13 14 22 00                       SEPT POLARX5                                999999  ASH701941.B     UNAV                        999999    0.0000    0.0000    0.0000          BUDP00DNK  BUDP00DNK               
+BUDP 10101M003        001  2022 11 13 14 22 00  2025 01 07 00 00 00  SEPT POLARX5                                999999  ASH701941.B     UNAV                        999999    0.0000    0.0000    0.0000          BUDP00DNK  BUDP00DNK               
+BUDP 10101M003        001  2025 01 07 00 00 00                       SEPT POLARX5                                999999  ASH701941.B     NONE                        999999    0.0000    0.0000    0.0000          BUDP00DNK  BUDP00DNK               
 BUTE 11209M001        001  2003 02 28 09 00 00  2003 11 15 09 00 00  TRIMBLE 4700                                999999  TRM33429.20+GP  TCWD                        999999    0.0000    0.0000    0.0000          BUTE00HUN  BUTE00HUN               
 BUTE 11209M001        001  2003 11 15 09 00 00  2004 05 08 09 00 00  TRIMBLE 4000SSI                             999999  TRM33429.20+GP  TCWD                        999999    0.0000    0.0000    0.0000          BUTE00HUN  BUTE00HUN               
 BUTE 11209M001        001  2004 05 08 09 00 00  2006 01 15 00 00 00  TRIMBLE 4700                                999999  TRM33429.20+GP  TCWD                        999999    0.0000    0.0000    0.0000          BUTE00HUN  BUTE00HUN               
