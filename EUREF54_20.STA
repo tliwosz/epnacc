@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             07-02-2025 09:04
+BSW 5.4 station information file for EPN processing             07-02-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -195,7 +195,7 @@ ISTA 20807M001        001  1999 12 11 00 00 00                       ISTA*      
 IZAN 31309M002        001  2008 05 16 00 00 00                       IZAN*                 izan00esp_20240411.log
 IZMI 20817M001        001  2008 08 10 00 00 00                       IZMI*                 izmi00tur_20250108.log
 IZRS 18115M002        001  2016 05 27 07 34 00  2022 03 01 07 00 00  IZRS*                 izrs00ukr_20240202.log
-JATE 14601M001        001  2019 07 18 12 30 00                       JATE*                 jate00ita_20240718.log
+JATE 14601M001        001  2019 07 18 12 30 00                       JATE*                 jate00ita_20250207.log
 JOE2 10512M002        001  2014 01 29 12 00 00                       JOE2*                 joe200fin_20240417.log
 JOEN 10512M001        001  1995 06 15 00 00 00                       JOEN*                 joen00fin_20240418.log
 JON6 10430M002        001  2011 06 16 00 00 00                       JON6*                 jon600swe_20221115.log
@@ -265,7 +265,7 @@ MARP 15556M001        001  2013 07 24 21 02 00                       MARP*      
 MARS 10073M008        001  1998 07 16 15 00 00                       MARS*                 mars00fra_20240717.log
 MAS1 31303M002        001  1994 04 11 00 00 00                       MAS1*                 mas100esp_20220428.log
 MAT1 12734M009        001  2001 05 08 00 00 00                       MAT1*                 mat100ita_20240718.log
-MATE 12734M008        001  1991 04 16 00 00 00                       MATE*                 mate00ita_20240718.log
+MATE 12734M008        001  1991 04 16 00 00 00                       MATE*                 mate00ita_20250207.log
 MATG 12734M010        001  2012 01 30 14 00 00                       MATG*                 matg00ita_20240718.log
 MDEU 18899M002        001  2018 09 27 00 00 00                       MDEU*                 mdeu00ita_20240718.log
 MDOR 10018M001        001  2002 09 23 12 00 00  2013 12 13 09 00 00  MDOR*                 mdor00fra_20241014.log
