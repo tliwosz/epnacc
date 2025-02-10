@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             10-02-2025 13:04
+BSW 5.4 station information file for EPN processing             10-02-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -19,7 +19,7 @@ ALCI 12371S001        001  2003 11 29 10 40 00  2014 07 12 07 00 00  ALCI*      
 ALKS 10731M002        001  2018 04 20 13 00 00                       ALKS*                 alks00lva_20240612.log
 ALME 13437M001        001  1999 12 04 12 00 00                       ALME*                 alme00esp_20230913.log
 AMMN 22201M001        001  1999 06 15 00 00 00  2002 04 28 00 00 00  AMMN*                 ammn00jor_20000407.log
-ANK2 20818M001        001  2019 06 28 09 56 00                       ANK2*                 ank200tur_20250108.log
+ANK2 20818M001        001  2019 06 28 09 56 00                       ANK2*                 ank200tur_20250210.log
 ANKR 20805M002        001  1995 06 21 00 00 00  2022 05 23 00 00 00  ANKR*                 ankr00tur_20220826.log
 AQUI 12757M001        001  1999 06 11 00 00 00                       AQUI*                 aqui00ita_20240718.log
 ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*                 ara200svn_20220617.log
@@ -193,7 +193,7 @@ IRBE 10726M001        001  1998 04 02 00 00 00                       IRBE*      
 ISRN 14669M001        001  2021 05 05 10 00 00                       ISRN*                 isrn00ita_20240718.log
 ISTA 20807M001        001  1999 12 11 00 00 00                       ISTA*                 ista00tur_20250117.log
 IZAN 31309M002        001  2008 05 16 00 00 00                       IZAN*                 izan00esp_20240411.log
-IZMI 20817M001        001  2008 08 10 00 00 00                       IZMI*                 izmi00tur_20250108.log
+IZMI 20817M001        001  2008 08 10 00 00 00                       IZMI*                 izmi00tur_20250210.log
 IZRS 18115M002        001  2016 05 27 07 34 00  2022 03 01 07 00 00  IZRS*                 izrs00ukr_20240202.log
 JATE 14601M001        001  2019 07 18 12 30 00                       JATE*                 jate00ita_20250207.log
 JOE2 10512M002        001  2014 01 29 12 00 00                       JOE2*                 joe200fin_20240417.log
@@ -2926,7 +2926,8 @@ IZAN 31309M002        001  2024 04 11 11 00 00                       LEICA GR50 
 IZMI 20817M001        001  2008 08 10 00 00 00  2018 10 17 11 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0870          IZMI00TUR  IZMI00TUR               
 IZMI 20817M001        001  2018 10 17 11 00 00  2022 10 19 16 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0870          IZMI00TUR  IZMI00TUR               
 IZMI 20817M001        001  2022 10 19 16 00 00  2022 10 19 16 02 00  TRIMBLE ALLOY                               999999  TRM115000.00    NONE                        999999    0.0000    0.0000    0.0870          IZMI00TUR  IZMI00TUR               
-IZMI 20817M001        001  2022 10 19 16 02 00                       TRIMBLE ALLOY                               999999  TRM115000.00    NONE                        999999    0.0000    0.0000    0.0870          IZMI00TUR  IZMI00TUR               
+IZMI 20817M001        001  2022 10 19 16 02 00  2025 02 01 06 00 00  TRIMBLE ALLOY                               999999  TRM115000.00    NONE                        999999    0.0000    0.0000    0.0870          IZMI00TUR  IZMI00TUR               
+IZMI 20817M001        001  2025 02 01 06 00 00                       TRIMBLE ALLOY                               999999  TRM115000.00    NONE                        999999    0.0000    0.0000    0.0870          IZMI00TUR  IZMI00TUR               
 IZRS 18115M002        001  2016 05 27 07 34 00  2016 09 29 00 00 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          IZRS00UKR  IZRS00UKR               
 IZRS 18115M002        001  2016 09 29 00 00 00  2018 11 02 10 40 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          IZRS00UKR  IZRS00UKR               
 IZRS 18115M002        001  2018 11 02 10 40 00  2022 03 01 07 00 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          IZRS00UKR  IZRS00UKR               
