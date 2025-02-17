@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             17-02-2025 09:04
+BSW 5.4 station information file for EPN processing             17-02-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -95,7 +95,7 @@ COBA 13453M001        001  2004 04 12 00 00 00                       COBA*      
 COMO 12761M001        001  2001 04 15 00 00 00                       COMO*                 como00ita_20240319.log
 COST 11407M001        001  2004 08 28 12 00 00                       COST*                 cost00rou_20241209.log
 CPAR 11527M001        001  2005 01 11 00 00 00                       CPAR*                 cpar00cze_20220818.log
-CRAK 11528M001        001  2005 04 19 00 00 00                       CRAK*                 crak00cze_20220818.log
+CRAK 11528M001        001  2005 04 19 00 00 00                       CRAK*                 crak00cze_20250217.log
 CREI 10016M001        001  2003 07 07 00 00 00  2018 03 01 09 00 00  CREI*                 crei00fra_20241014.log
 CREU 13432M001        001  1997 06 18 00 00 00                       CREU*                 creu00esp_20240913.log
 CTAB 11529M001        001  2005 01 14 00 00 00                       CTAB*                 ctab00cze_20220818.log
@@ -1594,7 +1594,8 @@ CRAK 11528M001        001  2018 01 19 00 00 00  2018 01 20 00 00 00  LEICA GRX12
 CRAK 11528M001        001  2018 01 20 00 00 00  2018 11 20 15 50 00  LEICA GRX1200+GNSS                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0656          CRAK00CZE  CRAK00CZE               
 CRAK 11528M001        001  2018 11 20 15 50 00  2022 02 17 22 45 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0656          CRAK00CZE  CRAK00CZE               
 CRAK 11528M001        001  2022 02 17 22 45 00  2022 08 18 08 14 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0656          CRAK00CZE  CRAK00CZE               
-CRAK 11528M001        001  2022 08 18 08 14 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0656          CRAK00CZE  CRAK00CZE               
+CRAK 11528M001        001  2022 08 18 08 14 00  2025 02 17 05 52 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0656          CRAK00CZE  CRAK00CZE               
+CRAK 11528M001        001  2025 02 17 05 52 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0656          CRAK00CZE  CRAK00CZE               
 CREI 10016M001        001  2003 07 07 00 00 00  2007 02 20 00 00 00  ASHTECH UZ-12                               999999  ASH701945E_M    SCIS                        999999    0.0000    0.0000    0.0000          CREI00FRA  CREI00FRA               
 CREI 10016M001        001  2007 02 20 00 00 00  2007 02 27 00 00 00  ASHTECH UZ-12                               999999  LEIAT504        SCIS                        999999    0.0000    0.0000    0.0000          CREI00FRA  CREI00FRA               
 CREI 10016M001        001  2007 02 27 00 00 00  2007 06 19 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000          CREI00FRA  CREI00FRA               
