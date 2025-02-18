@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             18-02-2025 09:05
+BSW 5.4 station information file for EPN processing             18-02-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -84,21 +84,21 @@ CASE 13494M001        001  2005 09 28 00 00 00                       CASE*      
 CEBR 13408M001        001  2005 08 29 00 00 00                       CEBR*                 cebr00esp_20220428.log
 CEU1 13449M002        001  2007 05 25 00 00 00                       CEU1*                 ceu100esp_20230831.log
 CEUT 13449M001        001  2001 08 24 00 00 00  2007 02 18 00 00 00  CEUT*                 ceut00esp_20220907.log
-CFRM 11525M001        001  2005 10 20 00 00 00                       CFRM*                 cfrm00cze_20220808.log
+CFRM 11525M001        001  2005 10 20 00 00 00                       CFRM*                 cfrm00cze_20250218.log
 CHIO 19194M001        001  2009 06 30 17 00 00                       CHIO*                 chio00gbr_20230406.log
 CHIZ 10020M001        001  2000 10 19 00 00 00                       CHIZ*                 chiz00fra_20240902.log
 CIMO 14608M001        001  2019 09 19 09 30 00                       CIMO*                 cimo00ita_20240718.log
-CLIB 11526M001        001  2005 07 25 00 00 00                       CLIB*                 clib00cze_20220818.log
+CLIB 11526M001        001  2005 07 25 00 00 00                       CLIB*                 clib00cze_20250218.log
 CMEL 14609M001        001  2019 09 18 09 30 00                       CMEL*                 cmel00ita_20241128.log
 CNIV 15501M001        001  2005 05 19 10 00 00                       CNIV*                 cniv00ukr_20220926.log
 COBA 13453M001        001  2004 04 12 00 00 00                       COBA*                 coba00esp_20240411.log
 COMO 12761M001        001  2001 04 15 00 00 00                       COMO*                 como00ita_20240319.log
 COST 11407M001        001  2004 08 28 12 00 00                       COST*                 cost00rou_20241209.log
-CPAR 11527M001        001  2005 01 11 00 00 00                       CPAR*                 cpar00cze_20220818.log
+CPAR 11527M001        001  2005 01 11 00 00 00                       CPAR*                 cpar00cze_20250218.log
 CRAK 11528M001        001  2005 04 19 00 00 00                       CRAK*                 crak00cze_20250217.log
 CREI 10016M001        001  2003 07 07 00 00 00  2018 03 01 09 00 00  CREI*                 crei00fra_20241014.log
 CREU 13432M001        001  1997 06 18 00 00 00                       CREU*                 creu00esp_20240913.log
-CTAB 11529M001        001  2005 01 14 00 00 00                       CTAB*                 ctab00cze_20220818.log
+CTAB 11529M001        001  2005 01 14 00 00 00                       CTAB*                 ctab00cze_20250218.log
 CUGA 18494M001        001  2018 09 27 00 00 00                       CUGA*                 cuga00ita_20240718.log
 DARE 13208S001        001  2000 04 10 00 00 00                       DARE*                 dare00gbr_20240118.log
 DELF 13502M004        001  1994 12 30 13 00 00                       DELF*                 delf00nld_20230630.log
@@ -1459,7 +1459,8 @@ CFRM 11525M001        001  2018 01 19 00 00 00  2018 01 20 00 00 00  LEICA GRX12
 CFRM 11525M001        001  2018 01 20 00 00 00  2018 11 28 15 15 00  LEICA GRX1200+GNSS                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0662          CFRM00CZE  CFRM00CZE               
 CFRM 11525M001        001  2018 11 28 15 15 00  2022 02 17 22 45 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0662          CFRM00CZE  CFRM00CZE               
 CFRM 11525M001        001  2022 02 17 22 45 00  2022 08 07 20 20 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0662          CFRM00CZE  CFRM00CZE               
-CFRM 11525M001        001  2022 08 07 20 20 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0662          CFRM00CZE  CFRM00CZE               
+CFRM 11525M001        001  2022 08 07 20 20 00  2025 02 17 21 59 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0662          CFRM00CZE  CFRM00CZE               
+CFRM 11525M001        001  2025 02 17 21 59 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0662          CFRM00CZE  CFRM00CZE               
 CHIO 19194M001        001  2009 06 30 17 00 00  2010 05 12 21 42 00  LEICA GRX1200+GNSS                          999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.5334          CHIO00GBR  CHIO00GBR               
 CHIO 19194M001        001  2010 05 12 21 42 00  2011 05 13 09 02 00  LEICA GRX1200+GNSS                          999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.5334          CHIO00GBR  CHIO00GBR               
 CHIO 19194M001        001  2011 05 13 09 02 00  2012 08 15 20 42 00  LEICA GRX1200+GNSS                          999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.5334          CHIO00GBR  CHIO00GBR               
@@ -1498,7 +1499,8 @@ CLIB 11526M001        001  2018 01 19 00 00 00  2018 01 20 00 00 00  LEICA GRX12
 CLIB 11526M001        001  2018 01 20 00 00 00  2018 10 18 14 10 00  LEICA GRX1200+GNSS                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0663          CLIB00CZE  CLIB00CZE               
 CLIB 11526M001        001  2018 10 18 14 10 00  2022 02 17 22 45 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0663          CLIB00CZE  CLIB00CZE               
 CLIB 11526M001        001  2022 02 17 22 45 00  2022 08 18 07 10 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0663          CLIB00CZE  CLIB00CZE               
-CLIB 11526M001        001  2022 08 18 07 10 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0663          CLIB00CZE  CLIB00CZE               
+CLIB 11526M001        001  2022 08 18 07 10 00  2025 02 17 20 18 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0663          CLIB00CZE  CLIB00CZE               
+CLIB 11526M001        001  2025 02 17 20 18 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0663          CLIB00CZE  CLIB00CZE               
 CMEL 14609M001        001  2019 09 18 09 30 00  2023 11 20 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          CMEL00ITA  CMEL00ITA               
 CMEL 14609M001        001  2023 11 20 00 00 00  2024 02 27 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          CMEL00ITA  CMEL00ITA               
 CMEL 14609M001        001  2024 02 27 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          CMEL00ITA  CMEL00ITA               
@@ -1577,7 +1579,8 @@ CPAR 11527M001        001  2018 01 19 00 00 00  2018 01 20 00 00 00  LEICA GRX12
 CPAR 11527M001        001  2018 01 20 00 00 00  2018 10 04 00 00 00  LEICA GRX1200+GNSS                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0656          CPAR00CZE  CPAR00CZE               
 CPAR 11527M001        001  2018 10 04 00 00 00  2022 02 17 22 45 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0656          CPAR00CZE  CPAR00CZE               
 CPAR 11527M001        001  2022 02 17 22 45 00  2022 08 18 07 02 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0656          CPAR00CZE  CPAR00CZE               
-CPAR 11527M001        001  2022 08 18 07 02 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0656          CPAR00CZE  CPAR00CZE               
+CPAR 11527M001        001  2022 08 18 07 02 00  2025 02 17 19 45 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0656          CPAR00CZE  CPAR00CZE               
+CPAR 11527M001        001  2025 02 17 19 45 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0656          CPAR00CZE  CPAR00CZE               
 CRAK 11528M001        001  2005 04 19 00 00 00  2005 08 05 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0651          CRAK00CZE  CRAK00CZE               
 CRAK 11528M001        001  2005 08 05 00 00 00  2006 08 05 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0651          CRAK00CZE  CRAK00CZE               
 CRAK 11528M001        001  2006 08 05 00 00 00  2007 07 31 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0651          CRAK00CZE  CRAK00CZE               
@@ -1656,7 +1659,8 @@ CTAB 11529M001        001  2018 01 19 00 00 00  2018 01 20 00 00 00  LEICA GRX12
 CTAB 11529M001        001  2018 01 20 00 00 00  2018 10 11 14 20 00  LEICA GRX1200+GNSS                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0666          CTAB00CZE  CTAB00CZE               
 CTAB 11529M001        001  2018 10 11 14 20 00  2022 02 17 22 45 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0666          CTAB00CZE  CTAB00CZE               
 CTAB 11529M001        001  2022 02 17 22 45 00  2022 08 18 07 17 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0666          CTAB00CZE  CTAB00CZE               
-CTAB 11529M001        001  2022 08 18 07 17 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0666          CTAB00CZE  CTAB00CZE               
+CTAB 11529M001        001  2022 08 18 07 17 00  2025 02 17 18 39 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0666          CTAB00CZE  CTAB00CZE               
+CTAB 11529M001        001  2025 02 17 18 39 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0666          CTAB00CZE  CTAB00CZE               
 CUGA 18494M001        001  2018 09 27 00 00 00  2023 11 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          CUGA00ITA  CUGA00ITA               
 CUGA 18494M001        001  2023 11 28 00 00 00  2024 02 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          CUGA00ITA  CUGA00ITA               
 CUGA 18494M001        001  2024 02 28 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          CUGA00ITA  CUGA00ITA               
