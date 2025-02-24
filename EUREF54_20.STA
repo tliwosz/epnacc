@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             24-02-2025 13:04
+BSW 5.4 station information file for EPN processing             24-02-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -33,7 +33,7 @@ AUT1 12619M002        001  2005 03 29 00 00 00                       AUT1*      
 AUTN 10080M001        001  2005 04 15 12 00 00                       AUTN*                 autn00fra_20240716.log
 AXPV 10057M001        001  2002 09 17 00 00 00                       AXPV*                 axpv00fra_20241014.log
 BACA 11405M001        001  2005 08 05 12 00 00                       BACA*                 baca00rou_20241210.log
-BADH 14288M001        001  2005 02 28 12 00 00                       BADH*                 badh00deu_20230601.log
+BADH 14288M001        001  2005 02 28 12 00 00                       BADH*                 badh00deu_20250224.log
 BAIA 11406M001        001  2005 06 10 12 00 00                       BAIA*                 baia00rou_20241210.log
 BAUT 14102M001        001  2018 09 26 10 00 00                       BAUT*                 baut00deu_20240911.log
 BBYS 11514M001        001  2001 04 01 06 00 00                       BBYS*                 bbys00svk_20240521.log
@@ -174,7 +174,7 @@ HOBU 14202M003        001  1997 07 01 00 00 00                       HOBU*      
 HOE2 14284M002        001  2005 07 01 10 00 00  2015 05 19 12 00 00  HOE2*                 hoe200deu_20220905.log
 HOER 14284M001        001  2003 07 15 00 00 00  2005 06 30 10 00 00  HOER*                 hoer00deu_20230419.log
 HOFJ 14289M001        001  2007 03 07 10 00 00                       HOFJ*                 hofj00deu_20240215.log
-HOFN 10204M002        001  1997 05 27 00 00 00                       HOFN*                 hofn00isl_20231010.log
+HOFN 10204M002        001  1997 05 27 00 00 00                       HOFN*                 hofn00isl_20250224.log
 HUEL 13451M001        001  2001 12 01 00 00 00                       HUEL*                 huel00esp_20240411.log
 IAVH 35001M001        001  1998 02 12 00 00 00  1998 12 28 00 00 00  IAVH*                 iavh00mar_19991115.log
 IBIZ 13454S001        001  2004 10 14 12 00 00                       IBIZ*                 ibiz00esp_20220907.log
@@ -295,7 +295,7 @@ MSEL 12711M008        001  1996 07 23 00 00 00                       MSEL*      
 MUK2 15599M002        001  2008 08 18 13 00 00                       MUK2*                 muk200ukr_20230412.log
 NABG 10338M008        001  2019 09 01 00 00 00                       NABG*                 nabg00nor_20241021.log
 NEWL 13273M103        001  1998 09 30 00 00 00  2024 08 29 00 00 00  NEWL*                 newl00gbr_20240830.log
-NICO 14302M001        001  1997 05 14 10 00 00                       NICO*                 nico00cyp_20230509.log
+NICO 14302M001        001  1997 05 14 10 00 00                       NICO*                 nico00cyp_20250224.log
 NOA1 12620M001        001  2006 03 13 12 05 00                       NOA1*                 noa100grc_20240612.log
 NOR7 10410M003        001  2011 06 22 00 00 00                       NOR7*                 nor700swe_20221123.log
 NOT1 12717M004        001  2000 09 15 00 00 00                       NOT1*                 not100ita_20240718.log
@@ -366,7 +366,7 @@ RAMO 20703S001        001  1998 06 10 00 00 00                       RAMO*      
 RANT 10914M001        001  2014 05 09 10 00 00                       RANT*                 rant00deu_20240814.log
 REDU 13102M001        001  2003 04 16 00 00 00                       REDU*                 redu00bel_20230119.log
 REDZ 12227M001        001  2007 12 07 00 00 00                       REDZ*                 redz00pol_20250218.log
-REYK 10202M001        001  1995 11 02 00 00 00                       REYK*                 reyk00isl_20231010.log
+REYK 10202M001        001  1995 11 02 00 00 00                       REYK*                 reyk00isl_20250224.log
 RIGA 12302M002        001  1995 12 05 04 00 00                       RIGA*                 riga00lva_20240507.log
 RIO1 13448M002        001  2012 01 31 12 00 00                       RIO1*                 rio100esp_20250221.log
 RIOJ 13448M001        001  2001 04 26 00 00 00  2012 04 08 00 00 00  RIOJ*                 rioj00esp_20220907.log
@@ -400,7 +400,7 @@ SNEO 19135M002        001  2009 05 13 13 00 00                       SNEO*      
 SNIK 14661M001        001  2021 10 24 09 00 00                       SNIK*                 snik00ita_20240318.log
 SOD3 10513M002        001  2013 12 19 12 00 00                       SOD3*                 sod300fin_20240418.log
 SODA 10513M001        001  1994 08 15 00 00 00                       SODA*                 soda00fin_20240418.log
-SOFI 11101M002        001  1997 05 19 10 00 00                       SOFI*                 sofi00bgr_20250117.log
+SOFI 11101M002        001  1997 05 19 10 00 00                       SOFI*                 sofi00bgr_20250224.log
 SONS 13446M001        001  2000 12 15 00 00 00                       SONS*                 sons00esp_20240319.log
 SPRN 11227M001        001  2006 11 01 12 00 00                       SPRN*                 sprn00hun_20220622.log
 SPT0 10425M001        001  1995 12 14 00 00 00                       SPT0*                 spt000swe_20221208.log
@@ -832,7 +832,8 @@ BADH 14288M001        001  2017 02 15 09 40 00  2017 05 04 09 25 00  LEICA GR25 
 BADH 14288M001        001  2017 05 04 09 25 00  2018 12 02 19 18 00  LEICA GR25                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          BADH00DEU  BADH00DEU               
 BADH 14288M001        001  2018 12 02 19 18 00  2019 10 29 09 00 00  LEICA GR25                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          BADH00DEU  BADH00DEU               
 BADH 14288M001        001  2019 10 29 09 00 00  2021 05 20 10 30 00  LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          BADH00DEU  BADH00DEU               
-BADH 14288M001        001  2021 05 20 10 30 00                       LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          BADH00DEU  BADH00DEU               
+BADH 14288M001        001  2021 05 20 10 30 00  2025 02 19 09 00 00  LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          BADH00DEU  BADH00DEU               
+BADH 14288M001        001  2025 02 19 09 00 00                       LEICA GR50                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          BADH00DEU  BADH00DEU               
 BAIA 11406M001        001  2005 06 10 12 00 00  2012 09 27 13 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000          BAIA00ROU  BAIA00ROU               
 BAIA 11406M001        001  2012 09 27 13 00 00  2012 10 02 07 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000          BAIA00ROU  BAIA00ROU               
 BAIA 11406M001        001  2012 10 02 07 00 00  2019 04 23 07 20 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000          BAIA00ROU  BAIA00ROU               
@@ -2766,7 +2767,8 @@ HOFN 10204M002        001  2018 12 05 18 45 00  2019 05 11 16 00 00  LEICA GRX12
 HOFN 10204M002        001  2019 05 11 16 00 00  2019 06 13 11 16 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0319          HOFN00ISL  HOFN00ISL               
 HOFN 10204M002        001  2019 06 13 11 16 00  2021 05 19 10 30 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0319          HOFN00ISL  HOFN00ISL               
 HOFN 10204M002        001  2021 05 19 10 30 00  2023 09 20 08 10 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0319          HOFN00ISL  HOFN00ISL               
-HOFN 10204M002        001  2023 09 20 08 10 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0319          HOFN00ISL  HOFN00ISL               
+HOFN 10204M002        001  2023 09 20 08 10 00  2025 02 19 09 00 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0319          HOFN00ISL  HOFN00ISL               
+HOFN 10204M002        001  2025 02 19 09 00 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0319          HOFN00ISL  HOFN00ISL               
 HUEL 13451M001        001  2001 12 01 00 00 00  2003 05 06 00 00 00  ASHTECH UZ-12                               999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0000          HUEL00ESP  HUEL00ESP               
 HUEL 13451M001        001  2003 05 06 00 00 00  2006 01 14 00 00 00  ASHTECH UZ-12                               999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0000          HUEL00ESP  HUEL00ESP               
 HUEL 13451M001        001  2006 01 14 00 00 00  2006 11 21 00 00 00  ASHTECH UZ-12                               999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0000          HUEL00ESP  HUEL00ESP               
@@ -4289,7 +4291,8 @@ NICO 14302M001        001  2018 12 03 14 30 00  2019 11 08 06 30 00  LEICA GR25 
 NICO 14302M001        001  2019 11 08 06 30 00  2021 05 20 12 15 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0650          NICO00CYP  NICO00CYP               
 NICO 14302M001        001  2021 05 20 12 15 00  2021 12 13 14 30 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0650          NICO00CYP  NICO00CYP               
 NICO 14302M001        001  2021 12 13 14 30 00  2023 02 14 14 40 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0650          NICO00CYP  NICO00CYP               
-NICO 14302M001        001  2023 02 14 14 40 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0650          NICO00CYP  NICO00CYP               
+NICO 14302M001        001  2023 02 14 14 40 00  2025 02 19 09 00 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0650          NICO00CYP  NICO00CYP               
+NICO 14302M001        001  2025 02 19 09 00 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0650          NICO00CYP  NICO00CYP               
 NOA1 12620M001        001  2006 03 13 12 05 00  2006 09 05 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    1.8910          NOA100GRC  NOA100GRC               
 NOA1 12620M001        001  2006 09 05 00 00 00  2010 01 13 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    1.8910          NOA100GRC  NOA100GRC               
 NOA1 12620M001        001  2010 01 13 00 00 00  2012 12 13 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    1.8910          NOA100GRC  NOA100GRC               
@@ -5118,7 +5121,8 @@ REYK 10202M001        001  2019 05 14 18 00 00  2019 06 13 11 01 00  LEICA GR50 
 REYK 10202M001        001  2019 06 13 11 01 00  2021 05 19 10 15 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0635          REYK00ISL  REYK00ISL               
 REYK 10202M001        001  2021 05 19 10 15 00  2022 01 24 14 40 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0635          REYK00ISL  REYK00ISL               
 REYK 10202M001        001  2022 01 24 14 40 00  2023 09 20 08 15 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0635          REYK00ISL  REYK00ISL               
-REYK 10202M001        001  2023 09 20 08 15 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0635          REYK00ISL  REYK00ISL               
+REYK 10202M001        001  2023 09 20 08 15 00  2025 02 19 09 30 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0635          REYK00ISL  REYK00ISL               
+REYK 10202M001        001  2025 02 19 09 30 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0635          REYK00ISL  REYK00ISL               
 RIGA 12302M002        001  1995 12 05 04 00 00  1996 03 29 00 00 00  ASHTECH Z-XII3                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0850          RIGA00LVA  RIGA00LVA               
 RIGA 12302M002        001  1996 03 29 00 00 00  1999 09 02 13 45 00  ROGUE SNR-8000                              999999  ASH700936D_M    NONE                        999999    0.0000    0.0000    0.0850          RIGA00LVA  RIGA00LVA               
 RIGA 12302M002        001  1999 09 02 13 45 00  2005 01 13 10 08 00  ROGUE SNR-8000                              999999  ASH700936D_M    NONE                        999999    0.0000    0.0000    0.0850          RIGA00LVA  RIGA00LVA               
@@ -5548,8 +5552,8 @@ SOFI 11101M002        001  2014 06 12 13 30 00  2014 06 17 12 35 00  LEICA GRX12
 SOFI 11101M002        001  2014 06 17 12 35 00  2014 07 21 13 55 00  LEICA GRX1200GGPRO                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
 SOFI 11101M002        001  2014 07 21 13 55 00  2021 02 10 09 00 00  LEICA GRX1200GGPRO                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
 SOFI 11101M002        001  2021 02 10 09 00 00  2021 05 26 09 25 00  LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
-SOFI 11101M002        001  2021 05 26 09 25 00  2025 01 17 09 30 00  LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
-SOFI 11101M002        001  2025 01 17 09 30 00                       LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
+SOFI 11101M002        001  2021 05 26 09 25 00  2025 02 24 09 30 00  LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
+SOFI 11101M002        001  2025 02 24 09 30 00                       LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
 SONS 13446M001        001  2000 12 15 00 00 00  2008 07 15 10 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     TCWD                        999999    0.0000    0.0000    3.0440          SONS00ESP  SONS00ESP               
 SONS 13446M001        001  2008 07 15 10 00 00  2008 11 14 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    3.0440          SONS00ESP  SONS00ESP               
 SONS 13446M001        001  2008 11 14 00 00 00  2008 11 20 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    3.0440          SONS00ESP  SONS00ESP               
