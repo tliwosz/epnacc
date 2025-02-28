@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             28-02-2025 09:04
+BSW 5.4 station information file for EPN processing             28-02-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -252,7 +252,7 @@ LPAL 81701M001        001  2001 05 17 00 00 00                       LPAL*      
 LROC 10023M001        001  2001 11 23 00 00 00                       LROC*                 lroc00fra_20240903.log
 M0SE 12772M001        001  2002 01 01 00 00 00                       M0SE*                 m0se00ita_20231205.log
 MAD2 13407S012        001  1997 10 30 00 00 00                       MAD2*                 mad200esp_20130131.log
-MADR 13407S012        001  1989 12 15 00 00 00                       MADR*                 madr00esp_20230109.log
+MADR 13407S012        001  1989 12 15 00 00 00                       MADR*                 madr00esp_20250218.log
 MAH1 13629M002        001  2021 11 29 12 30 00                       MAH1*                 mah100irl_20230331.log
 MALA 13443M001        001  2000 03 15 00 00 00                       MALA*                 mala00esp_20230724.log
 MALL 13444M001        001  2000 05 12 12 00 00                       MALL*                 mall00esp_20240411.log
@@ -360,7 +360,7 @@ PUYV 10065M001        001  2004 08 26 12 00 00                       PUYV*      
 PYHA 10528M001        001  2014 08 22 12 00 00                       PYHA*                 pyha00fin_20240417.log
 PZA2 14506M002        001  2015 06 05 12 00 00                       PZA2*                 pza200svn_20220620.log
 QAQ1 43007M001        001  2001 10 15 00 00 00                       QAQ1*                 qaq100grl_20250113.log
-RABT 35001M002        001  2000 05 17 00 00 00                       RABT*                 rabt00mar_20211021.log
+RABT 35001M002        001  2000 05 17 00 00 00                       RABT*                 rabt00mar_20250219.log
 RAEG 31912M003        001  2015 05 15 00 00 00                       RAEG*                 raeg00prt_20240411.log
 RAH1 15811M001        001  2008 08 29 15 00 00                       RAH1*                 rah100ukr_20230412.log
 RAMO 20703S001        001  1998 06 10 00 00 00                       RAMO*                 ramo00isr_20210217.log
@@ -3733,7 +3733,8 @@ MADR 13407S012        001  2019 05 28 19 19 00  2020 04 07 00 20 00  JAVAD TRE_G
 MADR 13407S012        001  2020 04 07 00 20 00  2021 03 23 20 52 00  JAVAD TRE_G3TH DELTA                        999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0254          MADR00ESP  MADR00ESP               
 MADR 13407S012        001  2021 03 23 20 52 00  2021 07 15 22 34 00  JAVAD TRE_G3TH DELTA                        999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0254          MADR00ESP  MADR00ESP               
 MADR 13407S012        001  2021 07 15 22 34 00  2021 09 28 00 00 00  JAVAD TRE_G3TH DELTA                        999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0254          MADR00ESP  MADR00ESP               
-MADR 13407S012        001  2021 09 28 00 00 00                       JAVAD TRE_G3TH DELTA                        999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0254          MADR00ESP  MADR00ESP               
+MADR 13407S012        001  2021 09 28 00 00 00  2025 02 13 16 22 00  JAVAD TRE_G3TH DELTA                        999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0254          MADR00ESP  MADR00ESP               
+MADR 13407S012        001  2025 02 13 16 22 00                       JAVAD TRE_G3TH DELTA                        999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0254          MADR00ESP  MADR00ESP               
 MAH1 13629M002        001  2021 11 29 12 30 00  2022 12 13 21 00 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          MAH100IRL  MAH100IRL               
 MAH1 13629M002        001  2022 12 13 21 00 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          MAH100IRL  MAH100IRL               
 MALA 13443M001        001  2000 03 15 00 00 00  2008 08 12 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     TCWD                        999999    0.0000    0.0000    3.0510          MALA00ESP  MALA00ESP               
@@ -5027,7 +5028,8 @@ RABT 35001M002        001  2004 04 13 19 45 00  2009 02 06 00 00 00  ROGUE SNR-8
 RABT 35001M002        001  2009 02 06 00 00 00  2019 06 18 00 00 00  ASHTECH UZ-12                               999999  TRM29659.00     SCIS                        999999    0.0000    0.0000    0.0800          RABT00MAR  RABT00MAR               
 RABT 35001M002        001  2019 06 18 00 00 00  2021 03 03 01 42 00  JAVAD TRE_3 DELTA                           999999  TRM29659.00     SCIS                        999999    0.0000    0.0000    0.0800          RABT00MAR  RABT00MAR               
 RABT 35001M002        001  2021 03 03 01 42 00  2021 10 21 18 27 00  JAVAD TRE_3 DELTA                           999999  TRM29659.00     SCIS                        999999    0.0000    0.0000    0.0800          RABT00MAR  RABT00MAR               
-RABT 35001M002        001  2021 10 21 18 27 00                       JAVAD TRE_3 DELTA                           999999  TRM29659.00     SCIS                        999999    0.0000    0.0000    0.0800          RABT00MAR  RABT00MAR               
+RABT 35001M002        001  2021 10 21 18 27 00  2025 02 18 21 29 00  JAVAD TRE_3 DELTA                           999999  TRM29659.00     SCIS                        999999    0.0000    0.0000    0.0800          RABT00MAR  RABT00MAR               
+RABT 35001M002        001  2025 02 18 21 29 00                       JAVAD TRE_3 DELTA                           999999  TRM29659.00     SCIS                        999999    0.0000    0.0000    0.0800          RABT00MAR  RABT00MAR               
 RAEG 31912M003        001  2015 05 15 00 00 00  2020 03 25 12 00 00  LEICA GR25                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.5793          RAEG00PRT  RAEG00PRT               
 RAEG 31912M003        001  2020 03 25 12 00 00  2020 11 17 13 00 00  LEICA GR25                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.5793          RAEG00PRT  RAEG00PRT               
 RAEG 31912M003        001  2020 11 17 13 00 00  2021 04 07 00 00 00  LEICA GR25                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.5793          RAEG00PRT  RAEG00PRT               
