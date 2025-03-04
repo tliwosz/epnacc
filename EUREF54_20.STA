@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             04-03-2025 09:04
+BSW 5.4 station information file for EPN processing             04-03-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -330,7 +330,7 @@ PADO 12750S001        001  2001 11 21 13 00 00                       PADO*      
 PALB 14603M001        001  2019 07 16 09 45 00                       PALB*                 palb00ita_20250214.log
 PASA 19351S001        001  2007 02 12 00 00 00                       PASA*                 pasa00esp_20240418.log
 PAT0 12622M001        001  2009 01 26 14 10 00                       PAT0*                 pat000grc_20210329.log
-PCAR 13002M001        001  2024 11 07 00 00 00                       PCAR*                 pcar00and_20241210.log
+PCAR 13002M001        001  2024 11 07 00 00 00                       PCAR*                 pcar00and_20241218.log
 PDEL 31906M004        001  2000 01 16 14 35 00                       PDEL*                 pdel00prt_20240220.log
 PEN2 11206M007        001  2012 11 13 08 00 00                       PEN2*                 pen200hun_20240508.log
 PENC 11206M006        001  1996 03 01 00 00 00                       PENC*                 penc00hun_20220622.log
@@ -422,7 +422,7 @@ SVLL 18492M001        001  2018 06 04 00 00 00                       SVLL*      
 SVTL 12350M001        001  1996 03 14 00 00 00                       SVTL*                 svtl00rus_20250108.log
 SWAS 19193M001        001  2009 08 14 14 00 00  2024 12 04 11 15 00  SWAS*                 swas00gbr_20241204.log
 SWKI 12228M001        001  2007 12 05 00 00 00                       SWKI*                 swki00pol_20250218.log
-TAR0 19350M002        001  2019 06 06 00 00 00                       TAR0*                 tar000esp_20231024.log
+TAR0 19350M002        001  2019 06 06 00 00 00                       TAR0*                 tar000esp_20250304.log
 TARI 19350M001        001  2010 05 15 12 00 00  2019 05 30 00 00 00  TARI*                 tari00esp_20220907.log
 TARS 12773S001        001  2004 05 05 12 00 00  2005 04 13 00 00 00  TARS*                 tars00ita_20050903.log
 TEOS 14671M001        001  2021 06 18 10 00 00                       TEOS*                 teos00ita_20240718.log
