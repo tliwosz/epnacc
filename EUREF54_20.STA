@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             06-03-2025 16:04
+BSW 5.4 station information file for EPN processing             06-03-2025 21:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -316,7 +316,7 @@ OLK2 10518M002        001  2014 01 29 12 00 00                       OLK2*      
 ONS1 10402M007        001  2012 01 28 00 00 00                       ONS1*                 ons100swe_20221207.log
 ONSA 10402M004        001  1993 07 01 00 00 00                       ONSA*                 onsa00swe_20221208.log
 ORID 15601M001        001  2000 07 20 00 00 00                       ORID*                 orid00mkd_20250122.log
-ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*                 oriv00fin_20240417.log
+ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*                 oriv00fin_20250306.log
 OROS 11207M001        001  2001 09 20 00 00 00                       OROS*                 oros00hun_20221118.log
 ORTE 14602M001        001  2019 07 30 11 30 00                       ORTE*                 orte00ita_20240718.log
 OSJE 11902M001        001  2000 09 18 00 00 00  2013 04 05 00 00 00  OSJE*                 osje00hrv_20120918.log
@@ -4506,7 +4506,8 @@ ORIV 10527M001        001  2019 10 28 09 32 00  2021 03 17 10 50 00  JAVAD TRE_3
 ORIV 10527M001        001  2021 03 17 10 50 00  2021 11 19 08 33 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ORIV00FIN  ORIV00FIN               
 ORIV 10527M001        001  2021 11 19 08 33 00  2022 11 03 07 46 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ORIV00FIN  ORIV00FIN               
 ORIV 10527M001        001  2022 11 03 07 46 00  2024 04 17 17 48 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ORIV00FIN  ORIV00FIN               
-ORIV 10527M001        001  2024 04 17 17 48 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ORIV00FIN  ORIV00FIN               
+ORIV 10527M001        001  2024 04 17 17 48 00  2025 03 06 15 32 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ORIV00FIN  ORIV00FIN               
+ORIV 10527M001        001  2025 03 06 15 32 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ORIV00FIN  ORIV00FIN               
 OROS 11207M001        001  2001 09 20 00 00 00  2002 04 16 00 00 00  TRIMBLE 4000SSE                             999999  TRM14532.10     NONE                        999999    0.0000    0.0000    0.0000          OROS00HUN  OROS00HUN               
 OROS 11207M001        001  2002 04 16 00 00 00  2004 10 13 00 00 00  TRIMBLE 4000SSE                             999999  TRM14532.10     NONE                        999999    0.0000    0.0000    0.0000          OROS00HUN  OROS00HUN               
 OROS 11207M001        001  2004 10 13 00 00 00  2007 06 08 00 00 00  TRIMBLE 4000SSE                             999999  TRM14532.10     NONE                        999999    0.0000    0.0000    0.0000          OROS00HUN  OROS00HUN               
