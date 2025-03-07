@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             07-03-2025 04:04
+BSW 5.4 station information file for EPN processing             07-03-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -274,7 +274,7 @@ MDVO 12309M002        001  1995 07 05 00 00 00  2003 05 11 00 00 00  MDVO*      
 MEDI 12711M003        001  1995 07 28 00 00 00                       MEDI*                 medi00ita_20240718.log
 MELI 19379M001        001  2011 12 14 12 00 00                       MELI*                 meli00esp_20240319.log
 MERS 20814M001        001  2000 09 12 00 00 00                       MERS*                 mers00tur_20250108.log
-MET3 10503M010        001  2013 12 19 12 00 00                       MET3*                 met300fin_20240417.log
+MET3 10503M010        001  2013 12 19 12 00 00                       MET3*                 met300fin_20250307.log
 METG 10503M002        001  2012 07 03 00 00 00                       METG*                 metg00fin_20221201.log
 METS 10503S011        001  1992 04 30 12 00 00  2024 06 25 08 15 00  METS*                 mets00fin_20240626.log
 MIK3 10526M001        001  2013 12 19 12 00 00                       MIK3*                 mik300fin_20240417.log
@@ -4021,7 +4021,8 @@ MET3 10503M010        001  2019 10 25 10 08 00  2021 03 16 13 30 00  JAVAD TRE_3
 MET3 10503M010        001  2021 03 16 13 30 00  2021 11 19 07 25 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MET300FIN  MET300FIN               
 MET3 10503M010        001  2021 11 19 07 25 00  2022 11 03 06 44 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MET300FIN  MET300FIN               
 MET3 10503M010        001  2022 11 03 06 44 00  2024 04 17 17 30 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MET300FIN  MET300FIN               
-MET3 10503M010        001  2024 04 17 17 30 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MET300FIN  MET300FIN               
+MET3 10503M010        001  2024 04 17 17 30 00  2025 03 07 08 35 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MET300FIN  MET300FIN               
+MET3 10503M010        001  2025 03 07 08 35 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MET300FIN  MET300FIN               
 METG 10503M002        001  2012 07 03 00 00 00  2014 06 04 16 03 00  TRIMBLE NETR9                               999999  TRM59800.00     SCIS                        999999    0.0046    0.0020    2.0352          METG00FIN  METG00FIN               
 METG 10503M002        001  2014 06 04 16 03 00  2015 06 23 08 10 00  TRIMBLE NETR9                               999999  TRM59800.00     SCIS                        999999    0.0046    0.0020    2.0352          METG00FIN  METG00FIN               
 METG 10503M002        001  2015 06 23 08 10 00  2015 10 21 12 27 00  TRIMBLE NETR9                               999999  TRM59800.00     SCIS                        999999    0.0046    0.0020    2.0352          METG00FIN  METG00FIN               
