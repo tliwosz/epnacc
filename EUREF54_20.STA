@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             07-03-2025 09:04
+BSW 5.4 station information file for EPN processing             07-03-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -312,11 +312,11 @@ OBE2 14208M003        001  2001 07 28 00 00 00  2008 02 12 00 00 00  OBE2*      
 OBE4 14208M007        001  2012 09 28 12 00 00                       OBE4*                 obe400deu_20250206.log
 OBER 14208M001        001  1996 10 11 00 00 00  2001 07 28 00 00 00  OBER*                 ober00deu_20250206.log
 OBET 14208M004        001  2002 04 30 15 30 00  2005 05 09 00 00 00  OBET*                 obet00deu_20230601.log
-OLK2 10518M002        001  2014 01 29 12 00 00                       OLK2*                 olk200fin_20250306.log
+OLK2 10518M002        001  2014 01 29 12 00 00                       OLK2*                 olk200fin_20250307.log
 ONS1 10402M007        001  2012 01 28 00 00 00                       ONS1*                 ons100swe_20221207.log
 ONSA 10402M004        001  1993 07 01 00 00 00                       ONSA*                 onsa00swe_20221208.log
 ORID 15601M001        001  2000 07 20 00 00 00                       ORID*                 orid00mkd_20250122.log
-ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*                 oriv00fin_20250306.log
+ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*                 oriv00fin_20250307.log
 OROS 11207M001        001  2001 09 20 00 00 00                       OROS*                 oros00hun_20221118.log
 ORTE 14602M001        001  2019 07 30 11 30 00                       ORTE*                 orte00ita_20240718.log
 OSJE 11902M001        001  2000 09 18 00 00 00  2013 04 05 00 00 00  OSJE*                 osje00hrv_20120918.log
@@ -401,7 +401,7 @@ SNEO 19135M002        001  2009 05 13 13 00 00                       SNEO*      
 SNIK 14661M001        001  2021 10 24 09 00 00                       SNIK*                 snik00ita_20240318.log
 SOD3 10513M002        001  2013 12 19 12 00 00                       SOD3*                 sod300fin_20240418.log
 SODA 10513M001        001  1994 08 15 00 00 00                       SODA*                 soda00fin_20240418.log
-SOFI 11101M002        001  1997 05 19 10 00 00                       SOFI*                 sofi00bgr_20250224.log
+SOFI 11101M002        001  1997 05 19 10 00 00                       SOFI*                 sofi00bgr_20250307.log
 SONS 13446M001        001  2000 12 15 00 00 00                       SONS*                 sons00esp_20240319.log
 SPRN 11227M001        001  2006 11 01 12 00 00                       SPRN*                 sprn00hun_20220622.log
 SPT0 10425M001        001  1995 12 14 00 00 00                       SPT0*                 spt000swe_20221208.log
@@ -461,7 +461,7 @@ TROS 13707M001        001  2020 10 02 00 00 00                       TROS*      
 TUBI 20806M001        001  1998 05 07 00 00 00                       TUBI*                 tubi00tur_20250108.log
 TUBO 11503M001        001  2001 06 14 13 33 00                       TUBO*                 tubo00cze_20240829.log
 TUC2 12617M003        001  2004 06 20 00 00 00                       TUC2*                 tuc200grc_20200717.log
-TUO2 10521M002        001  2013 12 19 12 00 00                       TUO2*                 tuo200fin_20250306.log
+TUO2 10521M002        001  2013 12 19 12 00 00                       TUO2*                 tuo200fin_20250307.log
 UBEN 14663M001        001  2021 04 22 14 00 00                       UBEN*                 uben00ita_20240718.log
 UCAG 12702M003        001  2014 04 16 14 00 00                       UCAG*                 ucag00ita_20240718.log
 UME6 10442M002        001  2011 07 08 00 00 00                       UME6*                 ume600swe_20240926.log
@@ -489,7 +489,7 @@ VIGO 13450M001        001  2001 09 12 00 00 00                       VIGO*      
 VIL0 10424M001        001  1993 08 01 00 00 00                       VIL0*                 vil000swe_20221206.log
 VIL6 10424M002        001  2011 07 20 00 00 00                       VIL6*                 vil600swe_20240919.log
 VILL 13406M001        001  1994 11 12 00 00 00                       VILL*                 vill00esp_20220428.log
-VIR2 10522M002        001  2014 01 02 12 00 00                       VIR2*                 vir200fin_20250306.log
+VIR2 10522M002        001  2014 01 02 12 00 00                       VIR2*                 vir200fin_20250307.log
 VIRG 14628M001        001  2020 07 13 10 00 00                       VIRG*                 virg00ita_20240718.log
 VIS0 10423M001        001  1993 08 01 00 00 00                       VIS0*                 vis000swe_20221208.log
 VIS6 10423M002        001  2011 05 18 00 00 00                       VIS6*                 vis600swe_20240903.log
@@ -5563,7 +5563,8 @@ SOFI 11101M002        001  2014 06 17 12 35 00  2014 07 21 13 55 00  LEICA GRX12
 SOFI 11101M002        001  2014 07 21 13 55 00  2021 02 10 09 00 00  LEICA GRX1200GGPRO                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
 SOFI 11101M002        001  2021 02 10 09 00 00  2021 05 26 09 25 00  LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
 SOFI 11101M002        001  2021 05 26 09 25 00  2025 02 24 09 30 00  LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
-SOFI 11101M002        001  2025 02 24 09 30 00                       LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
+SOFI 11101M002        001  2025 02 24 09 30 00  2025 03 07 09 30 00  LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
+SOFI 11101M002        001  2025 03 07 09 30 00                       LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.2200          SOFI00BGR  SOFI00BGR               
 SONS 13446M001        001  2000 12 15 00 00 00  2008 07 15 10 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     TCWD                        999999    0.0000    0.0000    3.0440          SONS00ESP  SONS00ESP               
 SONS 13446M001        001  2008 07 15 10 00 00  2008 11 14 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    3.0440          SONS00ESP  SONS00ESP               
 SONS 13446M001        001  2008 11 14 00 00 00  2008 11 20 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    3.0440          SONS00ESP  SONS00ESP               
