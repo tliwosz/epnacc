@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             17-03-2025 09:04
+BSW 5.4 station information file for EPN processing             17-03-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -46,7 +46,7 @@ BISK 11520M001        001  2001 09 06 12 00 00                       BISK*      
 BME1 11209M002        001  2021 01 14 13 00 00                       BME1*                 bme100hun_20240905.log
 BOGE 12207M004        001  2018 09 27 12 00 00                       BOGE*                 boge00pol_20231112.log
 BOGI 12207M003        001  2001 10 01 00 00 00                       BOGI*                 bogi00pol_20250315.log
-BOGO 12207M002        001  1996 06 08 00 00 00                       BOGO*                 bogo00pol_20180123.log
+BOGO 12207M002        001  1996 06 08 00 00 00                       BOGO*                 bogo00pol_20250317.log
 BOLG 12771M001        001  1999 05 14 00 00 00                       BOLG*                 bolg00ita_20230628.log
 BOR1 12205M002        001  1994 01 10 00 00 00                       BOR1*                 bor100pol_20220425.log
 BORJ 14268M002        001  2005 06 09 10 00 00                       BORJ*                 borj00deu_20240608.log
@@ -989,7 +989,8 @@ BOGO 12207M002        001  2006 03 31 13 00 00  2007 01 11 22 00 00  ASHTECH Z-X
 BOGO 12207M002        001  2007 01 11 22 00 00  2008 01 28 20 00 00  TPS EUROCARD                                999999  ASH700936C_M    SNOW                        999999    0.0000    0.0000    0.0000          BOGO00POL  BOGO00POL               
 BOGO 12207M002        001  2008 01 28 20 00 00  2016 02 16 18 45 00  TPS EUROCARD                                999999  ASH700936C_M    SNOW                        999999    0.0000    0.0000    0.0000          BOGO00POL  BOGO00POL               
 BOGO 12207M002        001  2016 02 16 18 45 00  2018 01 23 16 16 00  TPS EUROCARD                                999999  ASH700936C_M    SNOW                        999999    0.0000    0.0000    0.0000          BOGO00POL  BOGO00POL               
-BOGO 12207M002        001  2018 01 23 16 16 00                       JPS EGGDT                                   999999  ASH700936C_M    SNOW                        999999    0.0000    0.0000    0.0000          BOGO00POL  BOGO00POL               
+BOGO 12207M002        001  2018 01 23 16 16 00  2025 03 17 10 00 00  JPS EGGDT                                   999999  ASH700936C_M    SNOW                        999999    0.0000    0.0000    0.0000          BOGO00POL  BOGO00POL               
+BOGO 12207M002        001  2025 03 17 10 00 00                       JAVAD TRE_G3T DELTA                         999999  ASH700936C_M    SNOW                        999999    0.0000    0.0000    0.0000          BOGO00POL  BOGO00POL               
 BOLG 12771M001        001  1999 05 14 00 00 00  2015 09 30 00 00 00  LEICA SR9500                                999999  LEIAT302+GP     NONE                        999999    0.0000    0.0000    1.1746          BOLG00ITA  BOLG00ITA               
 BOLG 12771M001        001  2015 09 30 00 00 00  2018 03 29 10 00 00  LEICA SR9500                                999999  LEIAT302+GP     NONE                        999999    0.0000    0.0000    1.1746          BOLG00ITA  BOLG00ITA               
 BOLG 12771M001        001  2018 03 29 10 00 00  2018 10 16 00 00 00  LEICA GR50                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    1.0350          BOLG00ITA  BOLG00ITA               
