@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             19-03-2025 09:04
+BSW 5.4 station information file for EPN processing             19-03-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -69,7 +69,7 @@ BUTE 11209M001        001  2003 02 28 09 00 00                       BUTE*      
 BYDG 12224M001        001  2007 12 04 00 00 00                       BYDG*                 bydg00pol_20250218.log
 BZR2 12751M003        001  2017 10 27 06 27 00                       BZR2*                 bzr200ita_20250115.log
 BZRG 12751M001        001  1997 05 14 00 00 00  2020 07 31 19 00 00  BZRG*                 bzrg00ita_20211221.log
-CACE 13447M001        001  2000 12 05 12 00 00                       CACE*                 cace00esp_20230913.log
+CACE 13447M001        001  2000 12 05 12 00 00                       CACE*                 cace00esp_20250319.log
 CAEN 19994M001        001  2005 11 10 00 00 00  2021 12 15 10 00 00  CAEN*                 caen00fra_20220304.log
 CAG1 12702M002        001  2013 09 11 00 00 00                       CAG1*                 cag100ita_20190314.log
 CAGL 12725M003        001  1995 04 07 00 00 00  2013 09 22 00 00 00  CAGL*                 cagl00ita_20240718.log
@@ -1292,7 +1292,8 @@ CACE 13447M001        001  2015 06 23 09 30 00  2016 08 12 12 00 00  TRIMBLE NET
 CACE 13447M001        001  2016 08 12 12 00 00  2016 08 25 11 00 00  TRIMBLE NETR9                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0600          CACE00ESP  CACE00ESP               
 CACE 13447M001        001  2016 08 25 11 00 00  2018 02 16 13 00 00  TRIMBLE NETR9                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0600          CACE00ESP  CACE00ESP               
 CACE 13447M001        001  2018 02 16 13 00 00  2023 09 13 00 00 00  TRIMBLE NETR9                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0600          CACE00ESP  CACE00ESP               
-CACE 13447M001        001  2023 09 13 00 00 00                       TRIMBLE NETR9                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0600          CACE00ESP  CACE00ESP               
+CACE 13447M001        001  2023 09 13 00 00 00  2025 03 19 13 00 00  TRIMBLE NETR9                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0600          CACE00ESP  CACE00ESP               
+CACE 13447M001        001  2025 03 19 13 00 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0600          CACE00ESP  CACE00ESP               
 CAEN 19994M001        001  2005 11 10 00 00 00  2009 01 16 12 00 00  ASHTECH UZ-12                               999999  ASH701945E_M    SCIS                        999999    0.0000    0.0000    0.0000          CAEN00FRA  CAEN00FRA               
 CAEN 19994M001        001  2009 01 16 12 00 00  2009 08 26 09 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          CAEN00FRA  CAEN00FRA               
 CAEN 19994M001        001  2009 08 26 09 00 00  2011 03 24 06 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          CAEN00FRA  CAEN00FRA               
