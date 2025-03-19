@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             19-03-2025 16:04
+BSW 5.4 station information file for EPN processing             19-03-2025 21:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -389,7 +389,7 @@ SCOR 43006M002        001  2004 09 12 00 00 00                       SCOR*      
 SFER 13402M004        001  1995 12 18 00 00 00                       SFER*                 sfer00esp_20230919.log
 SHOE 19197M001        001  2005 08 18 00 00 00                       SHOE*                 shoe00gbr_20240326.log
 SID0 12132M001        001  2008 04 01 00 00 00                       SID0*                 sid000srb_20231020.log
-SJDV 10090M001        001  1997 10 14 10 32 00  2022 05 31 09 16 00  SJDV*                 sjdv00fra_20240522.log
+SJDV 10090M001        001  1997 10 14 10 32 00  2022 05 31 09 16 00  SJDV*                 sjdv00fra_20250319.log
 SKE0 10426M001        001  1993 08 01 00 00 00                       SKE0*                 ske000swe_20221206.log
 SKE8 10426M002        001  2011 07 08 00 00 00                       SKE8*                 ske800swe_20240926.log
 SMI2 10114M002        001  2011 06 27 00 00 00  2022 08 10 08 00 00  SMI2*                 smi200dnk_20221113.log
