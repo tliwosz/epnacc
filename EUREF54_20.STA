@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             19-03-2025 13:04
+BSW 5.4 station information file for EPN processing             19-03-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -45,7 +45,7 @@ BIRG 14613M001        001  2019 10 29 17 00 00                       BIRG*      
 BISK 11520M001        001  2001 09 06 12 00 00                       BISK*                 bisk00cze_20200219.log
 BME1 11209M002        001  2021 01 14 13 00 00                       BME1*                 bme100hun_20240905.log
 BOGE 12207M004        001  2018 09 27 12 00 00                       BOGE*                 boge00pol_20231112.log
-BOGI 12207M003        001  2001 10 01 00 00 00                       BOGI*                 bogi00pol_20250315.log
+BOGI 12207M003        001  2001 10 01 00 00 00                       BOGI*                 bogi00pol_20250319.log
 BOGO 12207M002        001  1996 06 08 00 00 00                       BOGO*                 bogo00pol_20250317.log
 BOLG 12771M001        001  1999 05 14 00 00 00                       BOLG*                 bolg00ita_20230628.log
 BOR1 12205M002        001  1994 01 10 00 00 00                       BOR1*                 bor100pol_20220425.log
@@ -201,7 +201,7 @@ JOEN 10512M001        001  1995 06 15 00 00 00                       JOEN*      
 JON6 10430M002        001  2011 06 16 00 00 00                       JON6*                 jon600swe_20221115.log
 JOZ2 12204M002        001  2002 01 03 00 00 00                       JOZ2*                 joz200pol_20210730.log
 JOZE 12204M001        001  1993 08 08 00 00 00                       JOZE*                 joze00pol_20240730.log
-KAD6 10431M002        001  2011 06 15 00 00 00                       KAD6*                 kad600swe_20221117.log
+KAD6 10431M002        001  2011 06 15 00 00 00                       KAD6*                 kad600swe_20250319.log
 KARL 14216M001        001  1997 03 20 00 00 00                       KARL*                 karl00deu_20240215.log
 KATO 12219S001        001  2003 01 30 00 00 00                       KATO*                 kato00pol_20250218.log
 KDA2 14504M002        001  2016 01 02 10 00 00                       KDA2*                 kda200svn_20220617.log
@@ -3025,7 +3025,9 @@ KAD6 10431M002        001  2018 01 26 08 00 00  2018 10 22 15 00 00  TRIMBLE NET
 KAD6 10431M002        001  2018 10 22 15 00 00  2019 11 05 18 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KAD600SWE  KAD600SWE               
 KAD6 10431M002        001  2019 11 05 18 00 00  2020 06 16 13 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KAD600SWE  KAD600SWE               
 KAD6 10431M002        001  2020 06 16 13 00 00  2022 11 17 08 05 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KAD600SWE  KAD600SWE               
-KAD6 10431M002        001  2022 11 17 08 05 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KAD600SWE  KAD600SWE               
+KAD6 10431M002        001  2022 11 17 08 05 00  2025 03 19 11 50 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KAD600SWE  KAD600SWE               
+KAD6 10431M002        001  2025 03 19 11 50 00  2025 03 19 12 50 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KAD600SWE  KAD600SWE               
+KAD6 10431M002        001  2025 03 19 12 50 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          KAD600SWE  KAD600SWE               
 KARL 14216M001        001  1997 03 20 00 00 00  1999 08 12 09 00 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  DOME                        999999    0.0000    0.0000    0.0680          KARL00DEU  KARL00DEU               
 KARL 14216M001        001  1999 08 12 09 00 00  2001 04 02 12 00 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  DOME                        999999    0.0000    0.0000    0.0680          KARL00DEU  KARL00DEU               
 KARL 14216M001        001  2001 04 02 12 00 00  2001 05 10 08 30 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  DOME                        999999    0.0000    0.0000    0.0680          KARL00DEU  KARL00DEU               
