@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             20-03-2025 13:04
+BSW 5.4 station information file for EPN processing             20-03-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -162,7 +162,7 @@ GUIP 10004M501        001  2002 10 18 00 00 00                       GUIP*      
 GVDG 12618M003        001  2023 09 21 00 00 00                       GVDG*                 gvdg00grc_20241211.log
 GVNL 18546M002        001  2023 05 14 10 00 00                       GVNL*                 gvnl00ita_20230928.log
 GWWL 12225M001        001  2007 12 10 00 00 00                       GWWL*                 gwwl00pol_20250218.log
-HAS6 10429M002        001  2011 06 15 00 00 00                       HAS6*                 has600swe_20221123.log
+HAS6 10429M002        001  2011 06 15 00 00 00                       HAS6*                 has600swe_20250320.log
 HEL2 14264M002        001  2005 09 08 12 00 00                       HEL2*                 hel200deu_20230419.log
 HELG 14264M001        001  1999 11 09 00 00 00                       HELG*                 helg00deu_20240606.log
 HERS 13212M007        001  1992 03 24 00 00 00                       HERS*                 hers00gbr_20250108.log
@@ -344,7 +344,7 @@ PMTH 13229M001        001  2004 02 13 00 00 00                       PMTH*      
 POLV 12336M001        001  2001 04 26 16 45 00                       POLV*                 polv00ukr_20250206.log
 POPI 14670M001        001  2021 07 01 10 00 00                       POPI*                 popi00ita_20240718.log
 PORE 11907M001        001  2008 12 09 00 00 00                       PORE*                 pore00hrv_20240318.log
-POTS 14106M003        001  1994 10 28 00 00 00                       POTS*                 pots00deu_20250206.log
+POTS 14106M003        001  1994 10 28 00 00 00                       POTS*                 pots00deu_20250320.log
 POUS 11518M001        001  2003 10 20 12 00 00                       POUS*                 pous00cze_20200219.log
 POZE 11908M001        001  2008 12 09 00 00 00                       POZE*                 poze00hrv_20240318.log
 PPSH 81301M002        001  2020 09 04 15 30 00                       PPSH*                 ppsh00nor_20231001.log
@@ -2591,7 +2591,9 @@ HAS6 10429M002        001  2018 01 24 10 00 00  2018 10 22 15 00 00  TRIMBLE NET
 HAS6 10429M002        001  2018 10 22 15 00 00  2019 11 05 18 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          HAS600SWE  HAS600SWE               
 HAS6 10429M002        001  2019 11 05 18 00 00  2020 06 16 13 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          HAS600SWE  HAS600SWE               
 HAS6 10429M002        001  2020 06 16 13 00 00  2022 11 23 09 15 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          HAS600SWE  HAS600SWE               
-HAS6 10429M002        001  2022 11 23 09 15 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          HAS600SWE  HAS600SWE               
+HAS6 10429M002        001  2022 11 23 09 15 00  2025 03 20 12 40 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          HAS600SWE  HAS600SWE               
+HAS6 10429M002        001  2025 03 20 12 40 00  2025 03 20 13 20 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          HAS600SWE  HAS600SWE               
+HAS6 10429M002        001  2025 03 20 13 20 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          HAS600SWE  HAS600SWE               
 HEL2 14264M002        001  2005 09 08 12 00 00  2005 10 14 05 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450          HEL200DEU  HEL200DEU               
 HEL2 14264M002        001  2005 10 14 05 00 00  2007 10 30 11 30 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450          HEL200DEU  HEL200DEU               
 HEL2 14264M002        001  2007 10 30 11 30 00  2008 01 24 09 15 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450          HEL200DEU  HEL200DEU               
@@ -4860,7 +4862,8 @@ POTS 14106M003        001  2020 10 06 08 00 00  2020 11 04 10 06 00  JAVAD TRE_3
 POTS 14106M003        001  2020 11 04 10 06 00  2021 06 23 09 00 00  JAVAD TRE_3                                 999999  JAVRINGANT_G5T  NONE                        999999    0.0000    0.0000    0.1206          POTS00DEU  POTS00DEU               
 POTS 14106M003        001  2021 06 23 09 00 00  2021 10 07 13 26 00  JAVAD TRE_3                                 999999  JAVRINGANT_G5T  NONE                        999999    0.0000    0.0000    0.1206          POTS00DEU  POTS00DEU               
 POTS 14106M003        001  2021 10 07 13 26 00  2023 01 17 14 26 00  JAVAD TRE_3                                 999999  JAVRINGANT_G5T  NONE                        999999    0.0000    0.0000    0.1206          POTS00DEU  POTS00DEU               
-POTS 14106M003        001  2023 01 17 14 26 00                       JAVAD TRE_3                                 999999  JAVRINGANT_G5T  NONE                        999999    0.0000    0.0000    0.1206          POTS00DEU  POTS00DEU               
+POTS 14106M003        001  2023 01 17 14 26 00  2025 03 20 12 33 00  JAVAD TRE_3                                 999999  JAVRINGANT_G5T  NONE                        999999    0.0000    0.0000    0.1206          POTS00DEU  POTS00DEU               
+POTS 14106M003        001  2025 03 20 12 33 00                       JAVAD TRE_3                                 999999  JAVRINGANT_G5T  NONE                        999999    0.0000    0.0000    0.1206          POTS00DEU  POTS00DEU               
 POUS 11518M001        001  2003 10 20 12 00 00  2005 03 17 13 00 00  ASHTECH Z18                                 999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0510          POUS00CZE  POUS00CZE               
 POUS 11518M001        001  2005 03 17 13 00 00  2005 03 24 18 00 00  ASHTECH Z18                                 999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0520          POUS00CZE  POUS00CZE               
 POUS 11518M001        001  2005 03 24 18 00 00  2005 04 15 10 00 00  ASHTECH Z-XII3                              999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0520          POUS00CZE  POUS00CZE               
