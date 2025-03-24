@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             24-03-2025 13:04
+BSW 5.4 station information file for EPN processing             24-03-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -234,7 +234,7 @@ LAMP 12706M002        001  1999 03 25 00 00 00                       LAMP*      
 LARM 12610M002        001  2011 01 15 00 00 00                       LARM*                 larm00grc_20201009.log
 LCRA 18491M001        001  2018 06 22 00 00 00                       LCRA*                 lcra00ita_20240718.log
 LDB2 14114M002        001  2005 10 25 10 00 00                       LDB2*                 ldb200deu_20241008.log
-LEIJ 14267M001        001  2001 07 03 12 00 00                       LEIJ*                 leij00deu_20241025.log
+LEIJ 14267M001        001  2001 07 03 12 00 00                       LEIJ*                 leij00deu_20250324.log
 LEK6 10433M002        001  2011 06 15 00 00 00                       LEK6*                 lek600swe_20221109.log
 LEON 13475M001        001  2007 03 26 00 00 00                       LEON*                 leon00esp_20240318.log
 LERI 19159M003        001  2009 06 16 15 00 00                       LERI*                 leri00gbr_20240205.log
@@ -3507,7 +3507,8 @@ LEIJ 14267M001        001  2022 03 03 06 56 00  2023 02 08 09 03 00  JAVAD TRE_3
 LEIJ 14267M001        001  2023 02 08 09 03 00  2024 02 15 07 36 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          LEIJ00DEU  LEIJ00DEU               
 LEIJ 14267M001        001  2024 02 15 07 36 00  2024 07 10 08 05 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          LEIJ00DEU  LEIJ00DEU               
 LEIJ 14267M001        001  2024 07 10 08 05 00  2024 10 23 08 50 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          LEIJ00DEU  LEIJ00DEU               
-LEIJ 14267M001        001  2024 10 23 08 50 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          LEIJ00DEU  LEIJ00DEU               
+LEIJ 14267M001        001  2024 10 23 08 50 00  2025 03 18 14 30 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          LEIJ00DEU  LEIJ00DEU               
+LEIJ 14267M001        001  2025 03 18 14 30 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.7755          LEIJ00DEU  LEIJ00DEU               
 LEK6 10433M002        001  2011 06 15 00 00 00  2011 08 18 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          LEK600SWE  LEK600SWE               
 LEK6 10433M002        001  2011 08 18 00 00 00  2011 11 29 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          LEK600SWE  LEK600SWE               
 LEK6 10433M002        001  2011 11 29 00 00 00  2012 04 05 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          LEK600SWE  LEK600SWE               
