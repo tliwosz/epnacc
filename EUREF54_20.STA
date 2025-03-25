@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             25-03-2025 09:04
+BSW 5.4 station information file for EPN processing             25-03-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -71,7 +71,7 @@ BZR2 12751M003        001  2017 10 27 06 27 00                       BZR2*      
 BZRG 12751M001        001  1997 05 14 00 00 00  2020 07 31 19 00 00  BZRG*                 bzrg00ita_20211221.log
 CACE 13447M001        001  2000 12 05 12 00 00                       CACE*                 cace00esp_20250319.log
 CAEN 19994M001        001  2005 11 10 00 00 00  2021 12 15 10 00 00  CAEN*                 caen00fra_20220304.log
-CAG1 12702M002        001  2013 09 11 00 00 00                       CAG1*                 cag100ita_20190314.log
+CAG1 12702M002        001  2013 09 11 00 00 00                       CAG1*                 cag100ita_20250325.log
 CAGL 12725M003        001  1995 04 07 00 00 00  2013 09 22 00 00 00  CAGL*                 cagl00ita_20240718.log
 CAGZ 12725M004        001  2001 10 01 00 00 00  2013 09 22 00 00 00  CAGZ*                 cagz00ita_20220506.log
 CAKO 11906M001        001  2008 12 09 00 00 00                       CAKO*                 cako00hrv_20240318.log
@@ -165,7 +165,7 @@ GWWL 12225M001        001  2007 12 10 00 00 00                       GWWL*      
 HAS6 10429M002        001  2011 06 15 00 00 00                       HAS6*                 has600swe_20250320.log
 HEL2 14264M002        001  2005 09 08 12 00 00                       HEL2*                 hel200deu_20230419.log
 HELG 14264M001        001  1999 11 09 00 00 00                       HELG*                 helg00deu_20240606.log
-HERS 13212M007        001  1992 03 24 00 00 00                       HERS*                 hers00gbr_20250108.log
+HERS 13212M007        001  1992 03 24 00 00 00                       HERS*                 hers00gbr_20250325.log
 HERT 13212M010        001  2003 03 12 00 00 00                       HERT*                 hert00gbr_20250108.log
 HETT 10524M001        001  2014 01 29 12 00 00                       HETT*                 hett00fin_20240417.log
 HFL2 11006M003        001  2007 07 01 00 00 00  2011 07 04 07 00 00  HFL2*                 hfl200aut_20230421.log
@@ -1314,7 +1314,8 @@ CAEN 19994M001        001  2019 03 13 15 00 00  2021 12 15 10 00 00  LEICA GR25 
 CAG1 12702M002        001  2013 09 11 00 00 00  2016 05 18 09 00 00  TPS NET-G3A                                 999999  TPSPN.A5        NONE                        999999    0.0000    0.0000    0.0000          CAG100ITA  CAG100ITA               
 CAG1 12702M002        001  2016 05 18 09 00 00  2018 07 02 09 40 00  TPS NET-G5                                  999999  TPSPN.A5        NONE                        999999    0.0000    0.0000    0.0000          CAG100ITA  CAG100ITA               
 CAG1 12702M002        001  2018 07 02 09 40 00  2019 03 14 00 00 00  TPS NET-G5                                  999999  TPSPN.A5        NONE                        999999    0.0000    0.0000    0.0000          CAG100ITA  CAG100ITA               
-CAG1 12702M002        001  2019 03 14 00 00 00                       TPS NET-G5                                  999999  TPSPN.A5        NONE                        999999    0.0000    0.0000    0.0000          CAG100ITA  CAG100ITA               
+CAG1 12702M002        001  2019 03 14 00 00 00  2025 03 25 00 00 00  TPS NET-G5                                  999999  TPSPN.A5        NONE                        999999    0.0000    0.0000    0.0000          CAG100ITA  CAG100ITA               
+CAG1 12702M002        001  2025 03 25 00 00 00                       TPS NET-G5                                  999999  TPSPN.A5        NONE                        999999    0.0000    0.0000    0.0000          CAG100ITA  CAG100ITA               
 CAGL 12725M003        001  1995 04 07 00 00 00  2001 07 11 00 00 00  ROGUE SNR-8100                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0450          CAGL00ITA  CAGL00ITA               
 CAGL 12725M003        001  2001 07 11 00 00 00  2004 03 02 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0450          CAGL00ITA  CAGL00ITA               
 CAGL 12725M003        001  2004 03 02 00 00 00  2013 09 22 00 00 00  TRIMBLE 4700                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0450          CAGL00ITA  CAGL00ITA               
@@ -2644,7 +2645,8 @@ HERS 13212M007        001  2010 08 19 12 00 00  2010 10 06 09 00 00  SEPT POLARX
 HERS 13212M007        001  2010 10 06 09 00 00  2018 08 22 09 00 00  SEPT POLARX3ETR                             999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.0096          HERS00GBR  HERS00GBR               
 HERS 13212M007        001  2018 08 22 09 00 00  2020 02 20 11 30 00  SEPT POLARX5TR                              999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.0096          HERS00GBR  HERS00GBR               
 HERS 13212M007        001  2020 02 20 11 30 00  2021 02 08 13 45 00  SEPT POLARX5TR                              999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.0096          HERS00GBR  HERS00GBR               
-HERS 13212M007        001  2021 02 08 13 45 00                       SEPT POLARX5TR                              999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.0096          HERS00GBR  HERS00GBR               
+HERS 13212M007        001  2021 02 08 13 45 00  2025 02 25 09 30 00  SEPT POLARX5TR                              999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.0096          HERS00GBR  HERS00GBR               
+HERS 13212M007        001  2025 02 25 09 30 00                       SEPT POLARX5TR                              999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.0096          HERS00GBR  HERS00GBR               
 HERT 13212M010        001  2003 03 12 00 00 00  2007 12 04 12 30 00  ASHTECH Z18                                 999999  ASH701946.2     NONE                        999999    0.0000    0.0000    0.0000          HERT00GBR  HERT00GBR               
 HERT 13212M010        001  2007 12 04 12 30 00  2008 01 25 12 30 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          HERT00GBR  HERT00GBR               
 HERT 13212M010        001  2008 01 25 12 30 00  2008 09 16 09 30 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          HERT00GBR  HERT00GBR               
