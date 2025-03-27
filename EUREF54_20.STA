@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             27-03-2025 09:04
+BSW 5.4 station information file for EPN processing             27-03-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -215,7 +215,7 @@ KIRU 10403M002        001  1993 07 08 00 00 00                       KIRU*      
 KIV2 10516M002        001  2014 01 29 12 00 00                       KIV2*                 kiv200fin_20240417.log
 KLAD 12126M001        001  2017 10 06 00 00 00                       KLAD*                 klad00srb_20231031.log
 KLNK 14810M001        001  2012 05 18 07 04 00                       KLNK*                 klnk00blr_20240808.log
-KLOP 14214M002        001  1997 03 19 00 00 00                       KLOP*                 klop00deu_20231012.log
+KLOP 14214M002        001  1997 03 19 00 00 00                       KLOP*                 klop00deu_20250327.log
 KLSQ 43015M001        001  2014 06 02 00 00 00                       KLSQ*                 klsq00grl_20240614.log
 KNJA 12113M001        001  2008 04 01 00 00 00                       KNJA*                 knja00srb_20230207.log
 KOS1 13504M005        001  2013 06 18 12 20 00                       KOS1*                 kos100nld_20230417.log
@@ -364,7 +364,7 @@ RABT 35001M002        001  2000 05 17 00 00 00                       RABT*      
 RAEG 31912M003        001  2015 05 15 00 00 00                       RAEG*                 raeg00prt_20240411.log
 RAH1 15811M001        001  2008 08 29 15 00 00                       RAH1*                 rah100ukr_20230412.log
 RAMO 20703S001        001  1998 06 10 00 00 00                       RAMO*                 ramo00isr_20210217.log
-RANT 10914M001        001  2014 05 09 10 00 00                       RANT*                 rant00deu_20240814.log
+RANT 10914M001        001  2014 05 09 10 00 00                       RANT*                 rant00deu_20250327.log
 REDU 13102M001        001  2003 04 16 00 00 00                       REDU*                 redu00bel_20230119.log
 REDZ 12227M001        001  2007 12 07 00 00 00                       REDZ*                 redz00pol_20250218.log
 REYK 10202M001        001  1995 11 02 00 00 00                       REYK*                 reyk00isl_20250224.log
@@ -3289,7 +3289,8 @@ KLOP 14214M002        001  2020 12 09 13 00 00  2021 08 20 04 15 00  LEICA GR50 
 KLOP 14214M002        001  2021 08 20 04 15 00  2022 07 20 05 20 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0660          KLOP00DEU  KLOP00DEU               
 KLOP 14214M002        001  2022 07 20 05 20 00  2023 01 26 05 27 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0660          KLOP00DEU  KLOP00DEU               
 KLOP 14214M002        001  2023 01 26 05 27 00  2023 10 12 07 52 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0660          KLOP00DEU  KLOP00DEU               
-KLOP 14214M002        001  2023 10 12 07 52 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0660          KLOP00DEU  KLOP00DEU               
+KLOP 14214M002        001  2023 10 12 07 52 00  2025 03 24 07 07 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0660          KLOP00DEU  KLOP00DEU               
+KLOP 14214M002        001  2025 03 24 07 07 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0660          KLOP00DEU  KLOP00DEU               
 KLSQ 43015M001        001  2014 06 02 00 00 00  2015 10 15 00 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
 KLSQ 43015M001        001  2015 10 15 00 00 00  2015 12 08 00 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
 KLSQ 43015M001        001  2015 12 08 00 00 00  2018 05 08 08 23 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
