@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             27-03-2025 13:04
+BSW 5.4 station information file for EPN processing             27-03-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -329,7 +329,7 @@ OVE6 10437M002        001  2011 08 11 00 00 00                       OVE6*      
 PADO 12750S001        001  2001 11 21 13 00 00                       PADO*                 pado00ita_20241205.log
 PALB 14603M001        001  2019 07 16 09 45 00                       PALB*                 palb00ita_20250214.log
 PASA 19351S001        001  2007 02 12 00 00 00                       PASA*                 pasa00esp_20240418.log
-PAT0 12622M001        001  2009 01 26 14 10 00                       PAT0*                 pat000grc_20210329.log
+PAT0 12622M001        001  2009 01 26 14 10 00                       PAT0*                 pat000grc_20241211.log
 PCAR 13002M001        001  2024 11 07 00 00 00                       PCAR*                 pcar00and_20241218.log
 PDEL 31906M004        001  2000 01 16 14 35 00                       PDEL*                 pdel00prt_20240220.log
 PEN2 11206M007        001  2012 11 13 08 00 00                       PEN2*                 pen200hun_20240508.log
@@ -4701,7 +4701,8 @@ PASA 19351S001        001  2024 04 18 15 00 00                       LEICA GR30 
 PAT0 12622M001        001  2009 01 26 14 10 00  2009 07 21 09 35 00  TPS GB-1000                                 999999  ASH700936E      NONE                        999999    0.0000    0.0000    0.0000          PAT000GRC  PAT000GRC               
 PAT0 12622M001        001  2009 07 21 09 35 00  2013 09 24 08 43 00  TPS GB-1000                                 999999  ASH700936E      NONE                        999999    0.0000    0.0000    0.0000          PAT000GRC  PAT000GRC               
 PAT0 12622M001        001  2013 09 24 08 43 00  2021 03 29 07 50 00  TPS NET-G3A                                 999999  ASH700936E      NONE                        999999    0.0000    0.0000    0.0000          PAT000GRC  PAT000GRC               
-PAT0 12622M001        001  2021 03 29 07 50 00                       TPS NET-G3A                                 999999  ASH700936E      NONE                        999999    0.0000    0.0000    0.0000          PAT000GRC  PAT000GRC               
+PAT0 12622M001        001  2021 03 29 07 50 00  2025 03 27 12 00 00  TPS NET-G3A                                 999999  ASH700936E      NONE                        999999    0.0000    0.0000    0.0000          PAT000GRC  PAT000GRC               
+PAT0 12622M001        001  2025 03 27 12 00 00                       TPS NET-G5                                  999999  ASH700936E      NONE                        999999    0.0000    0.0000    0.0000          PAT000GRC  PAT000GRC               
 PCAR 13002M001        001  2024 11 07 00 00 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0771          PCAR00AND  PCAR00AND               
 PDEL 31906M004        001  2000 01 16 14 35 00  2002 12 18 14 35 00  LEICA CRS1000                               999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000          PDEL00PRT  PDEL00PRT               
 PDEL 31906M004        001  2002 12 18 14 35 00  2008 04 05 12 30 00  LEICA RS500                                 999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000          PDEL00PRT  PDEL00PRT               
