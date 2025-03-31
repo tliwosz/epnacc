@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             31-03-2025 04:04
+BSW 5.4 station information file for EPN processing             31-03-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -329,7 +329,7 @@ OVE6 10437M002        001  2011 08 11 00 00 00                       OVE6*      
 PADO 12750S001        001  2001 11 21 13 00 00                       PADO*                 pado00ita_20241205.log
 PALB 14603M001        001  2019 07 16 09 45 00                       PALB*                 palb00ita_20250214.log
 PASA 19351S001        001  2007 02 12 00 00 00                       PASA*                 pasa00esp_20240418.log
-PAT0 12622M001        001  2009 01 26 14 10 00                       PAT0*                 pat000grc_20241211.log
+PAT0 12622M001        001  2009 01 26 14 10 00                       PAT0*                 pat000grc_20250328.log
 PCAR 13002M001        001  2024 11 07 00 00 00                       PCAR*                 pcar00and_20241218.log
 PDEL 31906M004        001  2000 01 16 14 35 00                       PDEL*                 pdel00prt_20240220.log
 PEN2 11206M007        001  2012 11 13 08 00 00                       PEN2*                 pen200hun_20240508.log
