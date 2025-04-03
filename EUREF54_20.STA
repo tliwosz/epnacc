@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             02-04-2025 21:04
+BSW 5.4 station information file for EPN processing             03-04-2025 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -530,7 +530,7 @@ TYPE 002: STATION INFORMATION
 
 STATION NAME          FLG          FROM                   TO         RECEIVER TYPE         RECEIVER SERIAL NBR   REC #   ANTENNA TYPE          ANTENNA SERIAL NBR    ANT #    NORTH      EAST      UP     AZIMUTH  LONG NAME  DESCRIPTION             REMARK
 ****************      ***  YYYY MM DD HH MM SS  YYYY MM DD HH MM SS  ********************  ********************  ******  ********************  ********************  ******  ***.****  ***.****  ***.****  ****.*  *********  **********************  ************************
-AAER 17916M001        001  2025 01 30 16 00 00                       SEPT POLARX5                                999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000                     CHARLEVILLE-MEZIE, FRA  
+AAER 17916M001        001  2025 01 30 16 00 00                       SEPT POLARX5                                999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          AAER00FRA  AAER00FRA               
 ACOR 13434M001        001  1998 12 06 10 10 00  2001 12 19 00 00 00  ASHTECH UZ-12                               999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    3.0420          ACOR00ESP  ACOR00ESP               
 ACOR 13434M001        001  2001 12 19 00 00 00  2004 04 15 00 00 00  ASHTECH UZ-12                               999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    3.0420          ACOR00ESP  ACOR00ESP               
 ACOR 13434M001        001  2004 04 15 00 00 00  2007 03 18 00 00 00  ASHTECH UZ-12                               999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    3.0420          ACOR00ESP  ACOR00ESP               
