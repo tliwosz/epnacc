@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             07-04-2025 13:04
+BSW 5.4 station information file for EPN processing             07-04-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -26,7 +26,7 @@ AQUI 12757M001        001  1999 06 11 00 00 00                       AQUI*      
 ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*                 ara200svn_20220617.log
 ARGI 10117M002        001  2008 09 25 00 00 00                       ARGI*                 argi00fro_20240812.log
 ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*                 aris00gbr_20240118.log
-ARJ6 10428M002        001  2011 07 29 00 00 00                       ARJ6*                 arj600swe_20240925.log
+ARJ6 10428M002        001  2011 07 29 00 00 00                       ARJ6*                 arj600swe_20250407.log
 ASIR 14668M001        001  2021 07 02 10 00 00                       ASIR*                 asir00ita_20250217.log
 AUBG 10913M001        001  2012 10 10 00 00 00                       AUBG*                 aubg00deu_20241025.log
 AUT1 12619M002        001  2005 03 29 00 00 00                       AUT1*                 aut100grc_20201009.log
@@ -235,7 +235,7 @@ LARM 12610M002        001  2011 01 15 00 00 00                       LARM*      
 LCRA 18491M001        001  2018 06 22 00 00 00                       LCRA*                 lcra00ita_20240718.log
 LDB2 14114M002        001  2005 10 25 10 00 00                       LDB2*                 ldb200deu_20241008.log
 LEIJ 14267M001        001  2001 07 03 12 00 00                       LEIJ*                 leij00deu_20250324.log
-LEK6 10433M002        001  2011 06 15 00 00 00                       LEK6*                 lek600swe_20221109.log
+LEK6 10433M002        001  2011 06 15 00 00 00                       LEK6*                 lek600swe_20250407.log
 LEON 13475M001        001  2007 03 26 00 00 00                       LEON*                 leon00esp_20240318.log
 LERI 19159M003        001  2009 06 16 15 00 00                       LERI*                 leri00gbr_20240205.log
 LESK 12129M001        001  2017 09 07 09 54 00                       LESK*                 lesk00srb_20231031.log
@@ -325,7 +325,7 @@ OSLO 10307M001        001  1995 10 05 00 00 00  2000 05 16 13 15 00  OSLO*      
 OSLS 10307M001        001  1995 10 05 00 00 00                       OSLS*                 osls00nor_20241018.log
 OST6 10436M002        001  2011 07 08 00 00 00                       OST6*                 ost600swe_20241010.log
 OUL2 10519M002        001  2013 12 19 12 00 00                       OUL2*                 oul200fin_20240417.log
-OVE6 10437M002        001  2011 08 11 00 00 00                       OVE6*                 ove600swe_20221121.log
+OVE6 10437M002        001  2011 08 11 00 00 00                       OVE6*                 ove600swe_20250407.log
 PADO 12750S001        001  2001 11 21 13 00 00                       PADO*                 pado00ita_20241205.log
 PALB 14603M001        001  2019 07 16 09 45 00                       PALB*                 palb00ita_20250214.log
 PASA 19351S001        001  2007 02 12 00 00 00                       PASA*                 pasa00esp_20240418.log
@@ -391,7 +391,7 @@ SHOE 19197M001        001  2005 08 18 00 00 00                       SHOE*      
 SID0 12132M001        001  2008 04 01 00 00 00                       SID0*                 sid000srb_20231020.log
 SJDV 10090M001        001  1997 10 14 10 32 00  2022 05 31 09 16 00  SJDV*                 sjdv00fra_20250319.log
 SKE0 10426M001        001  1993 08 01 00 00 00                       SKE0*                 ske000swe_20221206.log
-SKE8 10426M002        001  2011 07 08 00 00 00                       SKE8*                 ske800swe_20240926.log
+SKE8 10426M002        001  2011 07 08 00 00 00                       SKE8*                 ske800swe_20250407.log
 SMI2 10114M002        001  2011 06 27 00 00 00  2022 08 10 08 00 00  SMI2*                 smi200dnk_20221113.log
 SMID 10114M001        001  1998 11 18 00 00 00  2022 08 10 08 00 00  SMID*                 smid00dnk_20221113.log
 SMLA 15503M001        001  2008 11 20 08 30 00                       SMLA*                 smla00ukr_20250206.log
@@ -474,7 +474,7 @@ UZHL 12301M001        001  1999 02 05 00 00 00                       UZHL*      
 VAA2 10511M002        001  2014 01 02 12 00 00                       VAA2*                 vaa200fin_20240418.log
 VAAS 10511M001        001  1995 04 07 00 00 00                       VAAS*                 vaas00fin_20240424.log
 VACO 11516M001        001  2004 10 20 12 00 00                       VACO*                 vaco00cze_20200219.log
-VAE6 10443M002        001  2011 08 25 00 00 00                       VAE6*                 vae600swe_20221206.log
+VAE6 10443M002        001  2011 08 25 00 00 00                       VAE6*                 vae600swe_20250407.log
 VAIN 10736M001        001  2015 10 13 00 00 00                       VAIN*                 vain00lva_20240202.log
 VALA 13463M002        001  2007 10 30 00 00 00                       VALA*                 vala00esp_20240229.log
 VALE 13439M001        001  1999 12 16 12 00 00                       VALE*                 vale00esp_20241008.log
@@ -726,7 +726,8 @@ ARJ6 10428M002        001  2018 10 22 11 00 00  2019 11 05 18 00 00  TRIMBLE NET
 ARJ6 10428M002        001  2019 11 05 18 00 00  2020 06 16 12 30 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
 ARJ6 10428M002        001  2020 06 16 12 30 00  2022 11 15 09 10 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
 ARJ6 10428M002        001  2022 11 15 09 10 00  2024 09 25 16 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
-ARJ6 10428M002        001  2024 09 25 16 00 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
+ARJ6 10428M002        001  2024 09 25 16 00 00  2025 04 07 14 30 00  TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
+ARJ6 10428M002        001  2025 04 07 14 30 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
 ASIR 14668M001        001  2021 07 02 10 00 00  2022 04 21 10 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ASIR00ITA  ASIR00ITA               
 ASIR 14668M001        001  2022 04 21 10 00 00  2023 11 16 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ASIR00ITA  ASIR00ITA               
 ASIR 14668M001        001  2023 11 16 00 00 00  2024 02 26 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ASIR00ITA  ASIR00ITA               
@@ -3521,7 +3522,8 @@ LEK6 10433M002        001  2019 11 05 18 00 00  2020 06 04 00 00 00  TRIMBLE NET
 LEK6 10433M002        001  2020 06 04 00 00 00  2022 08 23 11 19 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          LEK600SWE  LEK600SWE               
 LEK6 10433M002        001  2022 08 23 11 19 00  2022 11 09 09 30 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          LEK600SWE  LEK600SWE               
 LEK6 10433M002        001  2022 11 09 09 30 00  2022 11 09 09 40 00  TRIMBLE ALLOY                               999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0030          LEK600SWE  LEK600SWE               
-LEK6 10433M002        001  2022 11 09 09 40 00                       TRIMBLE ALLOY                               999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0030          LEK600SWE  LEK600SWE               
+LEK6 10433M002        001  2022 11 09 09 40 00  2025 04 07 14 30 00  TRIMBLE ALLOY                               999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0030          LEK600SWE  LEK600SWE               
+LEK6 10433M002        001  2025 04 07 14 30 00                       TRIMBLE ALLOY                               999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0030          LEK600SWE  LEK600SWE               
 LEON 13475M001        001  2007 03 26 00 00 00  2008 03 12 09 01 00  TRIMBLE NETRS                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          LEON00ESP  LEON00ESP               
 LEON 13475M001        001  2008 03 12 09 01 00  2009 04 21 00 00 00  TRIMBLE NETRS                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          LEON00ESP  LEON00ESP               
 LEON 13475M001        001  2009 04 21 00 00 00  2009 06 16 00 00 00  TRIMBLE NETRS                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          LEON00ESP  LEON00ESP               
@@ -4630,7 +4632,8 @@ OVE6 10437M002        001  2018 01 26 08 00 00  2018 10 23 13 00 00  TRIMBLE NET
 OVE6 10437M002        001  2018 10 23 13 00 00  2019 11 05 18 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 OVE6 10437M002        001  2019 11 05 18 00 00  2020 06 16 14 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 OVE6 10437M002        001  2020 06 16 14 00 00  2022 11 21 09 20 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
-OVE6 10437M002        001  2022 11 21 09 20 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
+OVE6 10437M002        001  2022 11 21 09 20 00  2025 04 07 14 30 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
+OVE6 10437M002        001  2025 04 07 14 30 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 PADO 12750S001        001  2001 11 21 13 00 00  2002 08 01 10 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
 PADO 12750S001        001  2002 08 01 10 00 00  2002 11 04 10 00 00  TRIMBLE 4700                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
 PADO 12750S001        001  2002 11 04 10 00 00  2003 06 10 13 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
@@ -5445,7 +5448,8 @@ SKE8 10426M002        001  2018 10 23 12 00 00  2019 11 05 18 00 00  TRIMBLE NET
 SKE8 10426M002        001  2019 11 05 18 00 00  2020 06 17 07 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SKE800SWE  SKE800SWE               
 SKE8 10426M002        001  2020 06 17 07 00 00  2022 11 29 10 02 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SKE800SWE  SKE800SWE               
 SKE8 10426M002        001  2022 11 29 10 02 00  2024 09 26 09 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SKE800SWE  SKE800SWE               
-SKE8 10426M002        001  2024 09 26 09 00 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          SKE800SWE  SKE800SWE               
+SKE8 10426M002        001  2024 09 26 09 00 00  2025 04 07 14 30 00  TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          SKE800SWE  SKE800SWE               
+SKE8 10426M002        001  2025 04 07 14 30 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          SKE800SWE  SKE800SWE               
 SMI2 10114M002        001  2011 06 27 00 00 00  2014 08 18 11 01 00  TRIMBLE NETR9                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          SMI200DNK  SMI200DNK               
 SMI2 10114M002        001  2014 08 18 11 01 00  2015 11 24 09 00 00  TRIMBLE NETR9                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          SMI200DNK  SMI200DNK               
 SMI2 10114M002        001  2015 11 24 09 00 00  2018 04 03 08 20 00  TRIMBLE NETR9                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          SMI200DNK  SMI200DNK               
@@ -6424,7 +6428,8 @@ VAE6 10443M002        001  2019 11 05 18 00 00  2020 06 17 10 00 00  TRIMBLE NET
 VAE6 10443M002        001  2020 06 17 10 00 00  2021 03 19 00 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          VAE600SWE  VAE600SWE               
 VAE6 10443M002        001  2021 03 19 00 00 00  2022 03 16 09 40 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          VAE600SWE  VAE600SWE               
 VAE6 10443M002        001  2022 03 16 09 40 00  2022 12 05 15 00 00  TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          VAE600SWE  VAE600SWE               
-VAE6 10443M002        001  2022 12 05 15 00 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          VAE600SWE  VAE600SWE               
+VAE6 10443M002        001  2022 12 05 15 00 00  2025 04 07 14 30 00  TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          VAE600SWE  VAE600SWE               
+VAE6 10443M002        001  2025 04 07 14 30 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          VAE600SWE  VAE600SWE               
 VAIN 10736M001        001  2015 10 13 00 00 00  2016 12 23 11 00 00  LEICA GR10                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          VAIN00LVA  VAIN00LVA               
 VAIN 10736M001        001  2016 12 23 11 00 00  2017 08 08 11 50 00  LEICA GR10                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          VAIN00LVA  VAIN00LVA               
 VAIN 10736M001        001  2017 08 08 11 50 00  2020 02 17 00 00 00  LEICA GR10                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          VAIN00LVA  VAIN00LVA               
