@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             08-04-2025 04:04
+BSW 5.4 station information file for EPN processing             08-04-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -27,6 +27,7 @@ ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*      
 ARGI 10117M002        001  2008 09 25 00 00 00                       ARGI*                 argi00fro_20240812.log
 ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*                 aris00gbr_20240118.log
 ARJ6 10428M002        001  2011 07 29 00 00 00                       ARJ6*                 arj600swe_20250407.log
+ASGA 25401M001        001  2021 07 27 08 00 00                       ASGA*                 asga00cyp_20240827.log
 ASIR 14668M001        001  2021 07 02 10 00 00                       ASIR*                 asir00ita_20250217.log
 AUBG 10913M001        001  2012 10 10 00 00 00                       AUBG*                 aubg00deu_20241025.log
 AUT1 12619M002        001  2005 03 29 00 00 00                       AUT1*                 aut100grc_20201009.log
@@ -728,6 +729,13 @@ ARJ6 10428M002        001  2020 06 16 12 30 00  2022 11 15 09 10 00  TRIMBLE NET
 ARJ6 10428M002        001  2022 11 15 09 10 00  2024 09 25 16 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
 ARJ6 10428M002        001  2024 09 25 16 00 00  2025 04 07 14 30 00  TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
 ARJ6 10428M002        001  2025 04 07 14 30 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
+ASGA 25401M001        001  2021 07 27 08 00 00  2021 09 15 00 00 00  TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          ASGA00CYP  ASGA00CYP               
+ASGA 25401M001        001  2021 09 15 00 00 00  2022 07 07 00 00 00  TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          ASGA00CYP  ASGA00CYP               
+ASGA 25401M001        001  2022 07 07 00 00 00  2022 11 10 00 00 00  TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          ASGA00CYP  ASGA00CYP               
+ASGA 25401M001        001  2022 11 10 00 00 00  2023 01 21 00 00 00  TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          ASGA00CYP  ASGA00CYP               
+ASGA 25401M001        001  2023 01 21 00 00 00  2023 09 11 00 00 00  TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          ASGA00CYP  ASGA00CYP               
+ASGA 25401M001        001  2023 09 11 00 00 00  2024 08 27 00 00 00  TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          ASGA00CYP  ASGA00CYP               
+ASGA 25401M001        001  2024 08 27 00 00 00                       TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          ASGA00CYP  ASGA00CYP               
 ASIR 14668M001        001  2021 07 02 10 00 00  2022 04 21 10 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ASIR00ITA  ASIR00ITA               
 ASIR 14668M001        001  2022 04 21 10 00 00  2023 11 16 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ASIR00ITA  ASIR00ITA               
 ASIR 14668M001        001  2023 11 16 00 00 00  2024 02 26 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ASIR00ITA  ASIR00ITA               
