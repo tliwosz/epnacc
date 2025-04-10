@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             10-04-2025 09:04
+BSW 5.4 station information file for EPN processing             10-04-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -472,8 +472,8 @@ UPAD 12750M002        001  1997 01 12 00 00 00  2001 11 21 12 00 00  UPAD*      
 USAL 19527M001        001  2010 02 24 00 00 00                       USAL*                 usal00ita_20240718.log
 USDL 12229M001        001  2007 12 03 00 00 00                       USDL*                 usdl00pol_20250218.log
 UZHL 12301M001        001  1999 02 05 00 00 00                       UZHL*                 uzhl00ukr_20240618.log
-VAA2 10511M002        001  2014 01 02 12 00 00                       VAA2*                 vaa200fin_20240418.log
-VAAS 10511M001        001  1995 04 07 00 00 00                       VAAS*                 vaas00fin_20240424.log
+VAA2 10511M002        001  2014 01 02 12 00 00                       VAA2*                 vaa200fin_20250410.log
+VAAS 10511M001        001  1995 04 07 00 00 00                       VAAS*                 vaas00fin_20250410.log
 VACO 11516M001        001  2004 10 20 12 00 00                       VACO*                 vaco00cze_20200219.log
 VAE6 10443M002        001  2011 08 25 00 00 00                       VAE6*                 vae600swe_20250407.log
 VAIN 10736M001        001  2015 10 13 00 00 00                       VAIN*                 vain00lva_20240202.log
@@ -6398,7 +6398,8 @@ VAA2 10511M002        001  2019 10 28 10 20 00  2021 03 17 11 37 00  JAVAD TRE_3
 VAA2 10511M002        001  2021 03 17 11 37 00  2021 11 19 12 05 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          VAA200FIN  VAA200FIN               
 VAA2 10511M002        001  2021 11 19 12 05 00  2022 11 03 09 15 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          VAA200FIN  VAA200FIN               
 VAA2 10511M002        001  2022 11 03 09 15 00  2024 04 18 06 21 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          VAA200FIN  VAA200FIN               
-VAA2 10511M002        001  2024 04 18 06 21 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          VAA200FIN  VAA200FIN               
+VAA2 10511M002        001  2024 04 18 06 21 00  2025 04 10 11 25 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          VAA200FIN  VAA200FIN               
+VAA2 10511M002        001  2025 04 10 11 25 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          VAA200FIN  VAA200FIN               
 VAAS 10511M001        001  1995 04 07 00 00 00  1995 07 25 00 00 00  ASHTECH Z-XII3                              999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000     5.0  VAAS00FIN  VAAS00FIN               
 VAAS 10511M001        001  1995 07 25 00 00 00  1996 02 14 10 21 00  ASHTECH Z-XII3                              999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000     5.0  VAAS00FIN  VAAS00FIN               
 VAAS 10511M001        001  1996 02 14 10 21 00  1998 11 13 00 00 00  ASHTECH Z-XII3                              999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000     5.0  VAAS00FIN  VAAS00FIN               
@@ -6415,7 +6416,8 @@ VAAS 10511M001        001  2019 01 31 12 07 00  2019 10 28 10 26 00  JAVAD TRE_3
 VAAS 10511M001        001  2019 10 28 10 26 00  2021 11 19 13 25 00  JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000     5.0  VAAS00FIN  VAAS00FIN               
 VAAS 10511M001        001  2021 11 19 13 25 00  2022 11 03 10 49 00  JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000     5.0  VAAS00FIN  VAAS00FIN               
 VAAS 10511M001        001  2022 11 03 10 49 00  2024 04 18 07 25 00  JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000     5.0  VAAS00FIN  VAAS00FIN               
-VAAS 10511M001        001  2024 04 18 07 25 00                       JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000     5.0  VAAS00FIN  VAAS00FIN               
+VAAS 10511M001        001  2024 04 18 07 25 00  2025 04 10 11 31 00  JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000     5.0  VAAS00FIN  VAAS00FIN               
+VAAS 10511M001        001  2025 04 10 11 31 00                       JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000     5.0  VAAS00FIN  VAAS00FIN               
 VACO 11516M001        001  2004 10 20 12 00 00  2012 11 02 12 00 00  ASHTECH Z18                                 999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0770          VACO00CZE  VACO00CZE               
 VACO 11516M001        001  2012 11 02 12 00 00  2015 08 17 12 00 00  ASHTECH Z-XII3                              999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0770          VACO00CZE  VACO00CZE               
 VACO 11516M001        001  2015 08 17 12 00 00  2018 09 04 00 00 00  TPS NETG3                                   999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0770          VACO00CZE  VACO00CZE               
