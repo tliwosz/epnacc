@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             10-04-2025 13:04
+BSW 5.4 station information file for EPN processing             10-04-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -248,7 +248,7 @@ LILL 10051M001        001  2002 02 01 00 00 00  2007 06 29 09 00 00  LILL*      
 LINZ 11033S001        001  2001 01 31 10 00 00                       LINZ*                 linz00aut_20230626.log
 LLIV 13436M001        001  1999 05 04 14 00 00                       LLIV*                 lliv00esp_20240909.log
 LODZ 12226M001        001  2008 03 10 00 00 00                       LODZ*                 lodz00pol_20250218.log
-LOV6 10434M002        001  2011 08 16 00 00 00                       LOV6*                 lov600swe_20221114.log
+LOV6 10434M002        001  2011 08 16 00 00 00                       LOV6*                 lov600swe_20250410.log
 LPAL 81701M001        001  2001 05 17 00 00 00                       LPAL*                 lpal00esp_20240422.log
 LROC 10023M001        001  2001 11 23 00 00 00                       LROC*                 lroc00fra_20240903.log
 M0SE 12772M001        001  2002 01 01 00 00 00                       M0SE*                 m0se00ita_20231205.log
@@ -324,7 +324,7 @@ OSJE 11902M001        001  2000 09 18 00 00 00  2013 04 05 00 00 00  OSJE*      
 OSK6 10435M002        001  2011 06 18 00 00 00                       OSK6*                 osk600swe_20231207.log
 OSLO 10307M001        001  1995 10 05 00 00 00  2000 05 16 13 15 00  OSLO*                 oslo00nor_20241018.log
 OSLS 10307M001        001  1995 10 05 00 00 00                       OSLS*                 osls00nor_20241018.log
-OST6 10436M002        001  2011 07 08 00 00 00                       OST6*                 ost600swe_20241010.log
+OST6 10436M002        001  2011 07 08 00 00 00                       OST6*                 ost600swe_20250410.log
 OUL2 10519M002        001  2013 12 19 12 00 00                       OUL2*                 oul200fin_20240417.log
 OVE6 10437M002        001  2011 08 11 00 00 00                       OVE6*                 ove600swe_20250407.log
 PADO 12750S001        001  2001 11 21 13 00 00                       PADO*                 pado00ita_20241205.log
@@ -415,10 +415,10 @@ SUBO 12116M001        001  2009 01 29 07 50 00                       SUBO*      
 SUL5 10113M002        001  2011 06 28 00 00 00                       SUL5*                 sul500dnk_20221113.log
 SULD 10113M001        001  1998 09 01 00 00 00                       SULD*                 suld00dnk_20221113.log
 SULP 12366M001        001  2001 06 10 00 00 00                       SULP*                 sulp00ukr_20201220.log
-SUN6 10440M002        001  2011 09 27 00 00 00                       SUN6*                 sun600swe_20221108.log
+SUN6 10440M002        001  2011 09 27 00 00 00                       SUN6*                 sun600swe_20250410.log
 SUR4 10601M002        001  2011 09 21 11 27 00                       SUR4*                 sur400est_20240515.log
 SUUR 10601M001        001  1998 09 27 00 00 00  2011 09 21 12 00 00  SUUR*                 suur00est_20230516.log
-SVE6 10441M002        001  2011 07 08 00 00 00                       SVE6*                 sve600swe_20221206.log
+SVE6 10441M002        001  2011 07 08 00 00 00                       SVE6*                 sve600swe_20250410.log
 SVLL 18492M001        001  2018 06 04 00 00 00                       SVLL*                 svll00ita_20240718.log
 SVTL 12350M001        001  1996 03 14 00 00 00                       SVTL*                 svtl00rus_20250108.log
 SWAS 19193M001        001  2009 08 14 14 00 00  2024 12 04 11 15 00  SWAS*                 swas00gbr_20241204.log
@@ -493,7 +493,7 @@ VILL 13406M001        001  1994 11 12 00 00 00                       VILL*      
 VIR2 10522M002        001  2014 01 02 12 00 00                       VIR2*                 vir200fin_20250307.log
 VIRG 14628M001        001  2020 07 13 10 00 00                       VIRG*                 virg00ita_20240718.log
 VIS0 10423M001        001  1993 08 01 00 00 00                       VIS0*                 vis000swe_20250326.log
-VIS6 10423M002        001  2011 05 18 00 00 00                       VIS6*                 vis600swe_20240903.log
+VIS6 10423M002        001  2011 05 18 00 00 00                       VIS6*                 vis600swe_20250410.log
 VITR 14805M001        001  2010 07 12 00 00 00                       VITR*                 vitr00blr_20240808.log
 VLFR 14610M001        001  2019 09 16 09 00 00                       VLFR*                 vlfr00ita_20241129.log
 VLIS 13538M001        001  2006 11 22 15 00 00                       VLIS*                 vlis00nld_20240319.log
@@ -3675,7 +3675,8 @@ LOV6 10434M002        001  2018 01 24 10 00 00  2018 10 23 13 00 00  TRIMBLE NET
 LOV6 10434M002        001  2018 10 23 13 00 00  2019 11 05 18 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          LOV600SWE  LOV600SWE               
 LOV6 10434M002        001  2019 11 05 18 00 00  2020 06 16 14 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          LOV600SWE  LOV600SWE               
 LOV6 10434M002        001  2020 06 16 14 00 00  2022 11 10 09 30 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          LOV600SWE  LOV600SWE               
-LOV6 10434M002        001  2022 11 10 09 30 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          LOV600SWE  LOV600SWE               
+LOV6 10434M002        001  2022 11 10 09 30 00  2025 04 10 14 20 00  TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          LOV600SWE  LOV600SWE               
+LOV6 10434M002        001  2025 04 10 14 20 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          LOV600SWE  LOV600SWE               
 LPAL 81701M001        001  2001 05 17 00 00 00  2008 07 09 10 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     TCWD                        999999    0.0000    0.0000    0.0000          LPAL00ESP  LPAL00ESP               
 LPAL 81701M001        001  2008 07 09 10 00 00  2009 01 19 09 53 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          LPAL00ESP  LPAL00ESP               
 LPAL 81701M001        001  2009 01 19 09 53 00  2009 04 23 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          LPAL00ESP  LPAL00ESP               
@@ -4613,7 +4614,8 @@ OST6 10436M002        001  2020 06 16 13 00 00  2022 04 20 13 00 00  TRIMBLE NET
 OST6 10436M002        001  2022 04 20 13 00 00  2022 12 05 15 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OST600SWE  OST600SWE               
 OST6 10436M002        001  2022 12 05 15 00 00  2024 09 20 09 17 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OST600SWE  OST600SWE               
 OST6 10436M002        001  2024 09 20 09 17 00  2024 10 10 05 49 00  TRIMBLE ALLOY                               999999  TPSCR.G5        NONE                        999999    0.0000    0.0000    0.0030          OST600SWE  OST600SWE               
-OST6 10436M002        001  2024 10 10 05 49 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          OST600SWE  OST600SWE               
+OST6 10436M002        001  2024 10 10 05 49 00  2025 04 10 14 20 00  TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          OST600SWE  OST600SWE               
+OST6 10436M002        001  2025 04 10 14 20 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          OST600SWE  OST600SWE               
 OUL2 10519M002        001  2013 12 19 12 00 00  2015 03 12 13 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
 OUL2 10519M002        001  2015 03 12 13 00 00  2016 12 12 12 45 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
 OUL2 10519M002        001  2016 12 12 12 45 00  2017 04 24 11 42 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
@@ -5755,7 +5757,8 @@ SUN6 10440M002        001  2018 01 25 11 00 00  2018 10 23 13 00 00  TRIMBLE NET
 SUN6 10440M002        001  2018 10 23 13 00 00  2019 11 05 18 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
 SUN6 10440M002        001  2019 11 05 18 00 00  2020 06 16 14 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
 SUN6 10440M002        001  2020 06 16 14 00 00  2022 11 08 10 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
-SUN6 10440M002        001  2022 11 08 10 00 00                       TRIMBLE ALLOY                               999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
+SUN6 10440M002        001  2022 11 08 10 00 00  2025 04 10 14 20 00  TRIMBLE ALLOY                               999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
+SUN6 10440M002        001  2025 04 10 14 20 00                       TRIMBLE ALLOY                               999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
 SUR4 10601M002        001  2011 09 21 11 27 00  2011 10 04 10 15 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          SUR400EST  SUR400EST               
 SUR4 10601M002        001  2011 10 04 10 15 00  2011 10 06 08 03 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          SUR400EST  SUR400EST               
 SUR4 10601M002        001  2011 10 06 08 03 00  2011 11 17 09 34 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          SUR400EST  SUR400EST               
@@ -5808,7 +5811,8 @@ SVE6 10441M002        001  2018 10 23 12 00 00  2019 11 05 18 00 00  TRIMBLE NET
 SVE6 10441M002        001  2019 11 05 18 00 00  2020 06 17 10 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SVE600SWE  SVE600SWE               
 SVE6 10441M002        001  2020 06 17 10 00 00  2022 04 20 13 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SVE600SWE  SVE600SWE               
 SVE6 10441M002        001  2022 04 20 13 00 00  2022 12 05 15 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SVE600SWE  SVE600SWE               
-SVE6 10441M002        001  2022 12 05 15 00 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SVE600SWE  SVE600SWE               
+SVE6 10441M002        001  2022 12 05 15 00 00  2025 04 10 14 20 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SVE600SWE  SVE600SWE               
+SVE6 10441M002        001  2025 04 10 14 20 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SVE600SWE  SVE600SWE               
 SVLL 18492M001        001  2018 06 04 00 00 00  2018 07 26 10 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          SVLL00ITA  SVLL00ITA               
 SVLL 18492M001        001  2018 07 26 10 00 00  2023 11 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          SVLL00ITA  SVLL00ITA               
 SVLL 18492M001        001  2023 11 28 00 00 00  2024 03 01 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          SVLL00ITA  SVLL00ITA               
@@ -6705,7 +6709,8 @@ VIS6 10423M002        001  2019 11 05 18 00 00  2020 06 17 11 00 00  TRIMBLE NET
 VIS6 10423M002        001  2020 06 17 11 00 00  2022 07 27 12 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          VIS600SWE  VIS600SWE               
 VIS6 10423M002        001  2022 07 27 12 00 00  2022 12 05 15 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          VIS600SWE  VIS600SWE               
 VIS6 10423M002        001  2022 12 05 15 00 00  2024 09 03 08 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          VIS600SWE  VIS600SWE               
-VIS6 10423M002        001  2024 09 03 08 00 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          VIS600SWE  VIS600SWE               
+VIS6 10423M002        001  2024 09 03 08 00 00  2025 04 10 14 20 00  TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          VIS600SWE  VIS600SWE               
+VIS6 10423M002        001  2025 04 10 14 20 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          VIS600SWE  VIS600SWE               
 VITR 14805M001        001  2010 07 12 00 00 00  2018 08 20 13 54 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3250          VITR00BLR  VITR00BLR               
 VITR 14805M001        001  2018 08 20 13 54 00  2019 11 12 05 01 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3250          VITR00BLR  VITR00BLR               
 VITR 14805M001        001  2019 11 12 05 01 00  2020 08 31 05 42 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3250          VITR00BLR  VITR00BLR               
