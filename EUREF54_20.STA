@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             11-04-2025 09:04
+BSW 5.4 station information file for EPN processing             11-04-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -137,6 +137,7 @@ FATA 12773M001        001  2005 09 01 12 00 00  2006 04 19 00 00 00  FATA*      
 FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*                 ffmj00deu_20240215.log
 FINS 10523M001        001  2014 11 13 12 00 00                       FINS*                 fins00fin_20240417.log
 FLRS 31907M001        001  2008 04 09 17 00 00                       FLRS*                 flrs00prt_20240220.log
+FOCS 11443M001        001  2007 03 12 12 00 00                       FOCS*                 focs00rou_20241217.log
 FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl00gbr_20241112.log
 FRA2 15538M002        001  2011 03 16 12 00 00                       FRA2*                 fra200ukr_20230412.log
 FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*                 frne00ita_20240718.log
@@ -213,7 +214,7 @@ KILP 10525M001        001  2014 01 29 12 00 00                       KILP*      
 KIR0 10422M001        001  1993 08 01 00 00 00                       KIR0*                 kir000swe_20231017.log
 KIR8 10422M002        001  2011 08 12 00 00 00                       KIR8*                 kir800swe_20221207.log
 KIRU 10403M002        001  1993 07 08 00 00 00                       KIRU*                 kiru00swe_20230417.log
-KIV2 10516M002        001  2014 01 29 12 00 00                       KIV2*                 kiv200fin_20240417.log
+KIV2 10516M002        001  2014 01 29 12 00 00                       KIV2*                 kiv200fin_20250411.log
 KLAD 12126M001        001  2017 10 06 00 00 00                       KLAD*                 klad00srb_20231031.log
 KLNK 14810M001        001  2012 05 18 07 04 00                       KLNK*                 klnk00blr_20240808.log
 KLOP 14214M002        001  1997 03 19 00 00 00                       KLOP*                 klop00deu_20250327.log
@@ -294,6 +295,7 @@ MOPS 12791M001        001  2007 02 12 00 00 00                       MOPS*      
 MORP 13299S001        001  1996 10 31 00 00 00                       MORP*                 morp00gbr_20240827.log
 MSEL 12711M008        001  1996 07 23 00 00 00                       MSEL*                 msel00ita_20230622.log
 MUK2 15599M002        001  2008 08 18 13 00 00                       MUK2*                 muk200ukr_20230412.log
+MURE 11451M001        001  2007 04 04 16 00 00                       MURE*                 mure00rou_20250411.log
 NABG 10338M008        001  2019 09 01 00 00 00                       NABG*                 nabg00nor_20241021.log
 NEWL 13273M103        001  1998 09 30 00 00 00  2024 08 29 00 00 00  NEWL*                 newl00gbr_20240830.log
 NICO 14302M001        001  1997 05 14 10 00 00                       NICO*                 nico00cyp_20250224.log
@@ -2198,6 +2200,12 @@ FLRS 31907M001        001  2019 12 12 16 40 00  2021 10 20 15 45 00  LEICA GRX12
 FLRS 31907M001        001  2021 10 20 15 45 00  2022 11 09 12 59 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          FLRS00PRT  FLRS00PRT               
 FLRS 31907M001        001  2022 11 09 12 59 00  2024 02 19 11 35 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          FLRS00PRT  FLRS00PRT               
 FLRS 31907M001        001  2024 02 19 11 35 00                       TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          FLRS00PRT  FLRS00PRT               
+FOCS 11443M001        001  2007 03 12 12 00 00  2010 12 14 11 00 00  TPS NETG3                                   999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000                     Focsani, ROU            
+FOCS 11443M001        001  2010 12 14 11 00 00  2011 10 27 11 00 00  TPS NETG3                                   999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000                     Focsani, ROU            
+FOCS 11443M001        001  2011 10 27 11 00 00  2019 04 13 09 00 00  TPS NETG3                                   999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000                     Focsani, ROU            
+FOCS 11443M001        001  2019 04 13 09 00 00  2024 06 18 08 59 00  TPS NETG3                                   999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000                     Focsani, ROU            
+FOCS 11443M001        001  2024 06 18 08 59 00  2024 12 17 08 55 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0050                     Focsani, ROU            
+FOCS 11443M001        001  2024 12 17 08 55 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0050                     Focsani, ROU            
 FOYL 13241M001        001  2006 09 01 12 00 00  2006 12 12 12 00 00  LEICA SR530                                 999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
 FOYL 13241M001        001  2006 12 12 12 00 00  2008 04 24 09 30 00  LEICA SR530                                 999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
 FOYL 13241M001        001  2008 04 24 09 30 00  2008 04 24 10 30 00  LEICA SR530                                 999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
@@ -3228,7 +3236,8 @@ KIV2 10516M002        001  2021 03 16 13 25 00  2021 11 19 06 59 00  JAVAD TRE_3
 KIV2 10516M002        001  2021 11 19 06 59 00  2022 08 22 11 20 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KIV200FIN  KIV200FIN               
 KIV2 10516M002        001  2022 08 22 11 20 00  2022 11 03 06 20 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KIV200FIN  KIV200FIN               
 KIV2 10516M002        001  2022 11 03 06 20 00  2024 04 17 17 20 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KIV200FIN  KIV200FIN               
-KIV2 10516M002        001  2024 04 17 17 20 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KIV200FIN  KIV200FIN               
+KIV2 10516M002        001  2024 04 17 17 20 00  2025 04 11 10 20 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KIV200FIN  KIV200FIN               
+KIV2 10516M002        001  2025 04 11 10 20 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KIV200FIN  KIV200FIN               
 KLAD 12126M001        001  2017 10 06 00 00 00                       TRIMBLE NETR9                               999999  TRM41249.00     TZGD                        999999    0.0000    0.0000    0.0000   133.0  KLAD00SRB  KLAD00SRB               
 KLNK 14810M001        001  2012 05 18 07 04 00  2018 08 21 08 06 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.3530          KLNK00BLR  KLNK00BLR               
 KLNK 14810M001        001  2018 08 21 08 06 00  2018 09 19 10 16 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.3530          KLNK00BLR  KLNK00BLR               
@@ -4264,6 +4273,11 @@ MSEL 12711M008        001  2020 12 11 00 00 00  2023 06 19 11 00 00  LEICA GR25 
 MSEL 12711M008        001  2023 06 19 11 00 00                       LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.6357          MSEL00ITA  MSEL00ITA               
 MUK2 15599M002        001  2008 08 18 13 00 00  2021 07 29 11 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0770          MUK200UKR  MUK200UKR               
 MUK2 15599M002        001  2021 07 29 11 00 00                       TRIMBLE NETR9                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0770          MUK200UKR  MUK200UKR               
+MURE 11451M001        001  2007 04 04 16 00 00  2011 11 25 15 00 00  TPS NETG3                                   999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000                     Targu Mures, ROU        
+MURE 11451M001        001  2011 11 25 15 00 00  2019 04 14 09 00 00  TPS NETG3                                   999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000                     Targu Mures, ROU        
+MURE 11451M001        001  2019 04 14 09 00 00  2024 01 24 11 42 00  TPS NETG3                                   999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000                     Targu Mures, ROU        
+MURE 11451M001        001  2024 01 24 11 42 00  2024 11 15 10 03 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0050                     Targu Mures, ROU        
+MURE 11451M001        001  2024 11 15 10 03 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0050                     Targu Mures, ROU        
 NABG 10338M008        001  2019 09 01 00 00 00  2019 09 13 00 00 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          NABG00NOR  NABG00NOR               
 NABG 10338M008        001  2019 09 13 00 00 00  2019 10 31 00 00 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          NABG00NOR  NABG00NOR               
 NABG 10338M008        001  2019 10 31 00 00 00  2020 01 30 23 15 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          NABG00NOR  NABG00NOR               
