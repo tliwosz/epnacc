@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             13-04-2025 04:04
+BSW 5.4 station information file for EPN processing             13-04-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -416,7 +416,7 @@ STNB 83402M001        001  2018 06 15 00 00 00                       STNB*      
 SUBO 12116M001        001  2009 01 29 07 50 00                       SUBO*                 subo00srb_20230330.log
 SUL5 10113M002        001  2011 06 28 00 00 00                       SUL5*                 sul500dnk_20221113.log
 SULD 10113M001        001  1998 09 01 00 00 00                       SULD*                 suld00dnk_20221113.log
-SULP 12366M001        001  2001 06 10 00 00 00                       SULP*                 sulp00ukr_20201220.log
+SULP 12366M001        001  2001 06 10 00 00 00                       SULP*                 sulp00ukr_20250413.log
 SUN6 10440M002        001  2011 09 27 00 00 00                       SUN6*                 sun600swe_20250410.log
 SUR4 10601M002        001  2011 09 21 11 27 00                       SUR4*                 sur400est_20240515.log
 SUUR 10601M001        001  1998 09 27 00 00 00  2011 09 21 12 00 00  SUUR*                 suur00est_20230516.log
@@ -5757,8 +5757,8 @@ SULP 12366M001        001  2015 03 03 13 11 00  2015 07 20 18 36 00  TPS NET-G3A
 SULP 12366M001        001  2015 07 20 18 36 00  2016 11 15 12 00 00  TPS NET-G3A                                 999999  TPSCR.G5        TPSH                        999999    0.0000    0.0000    4.7290          SULP00UKR  SULP00UKR               
 SULP 12366M001        001  2016 11 15 12 00 00  2019 03 29 12 30 00  TPS NET-G3A                                 999999  TPSCR.G5        TPSH                        999999    0.0000    0.0000    4.7290          SULP00UKR  SULP00UKR               
 SULP 12366M001        001  2019 03 29 12 30 00  2020 11 27 00 00 00  TPS NET-G3A                                 999999  TPSCR.G5        TPSH                        999999    0.0000    0.0000    4.7290          SULP00UKR  SULP00UKR               
-SULP 12366M001        001  2020 11 27 00 00 00  2020 12 18 00 00 00  TRIMBLE NETR9                               999999  TPSCR.G5        TPSH                        999999    0.0000    0.0000    4.7290          SULP00UKR  SULP00UKR               
-SULP 12366M001        001  2020 12 18 00 00 00                       TRIMBLE NETR9                               999999  TPSCR.G5        TPSH                        999999    0.0000    0.0000    4.7290          SULP00UKR  SULP00UKR               
+SULP 12366M001        001  2020 11 27 00 00 00  2025 04 11 11 00 00  TRIMBLE NETR9                               999999  TPSCR.G5        TPSH                        999999    0.0000    0.0000    4.7290          SULP00UKR  SULP00UKR               
+SULP 12366M001        001  2025 04 11 11 00 00                       TRIMBLE NETR9                               999999  TPSCR.G5        TPSH                        999999    0.0000    0.0000    4.7290          SULP00UKR  SULP00UKR               
 SUN6 10440M002        001  2011 09 27 00 00 00  2011 11 29 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
 SUN6 10440M002        001  2011 11 29 00 00 00  2012 04 05 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
 SUN6 10440M002        001  2012 04 05 00 00 00  2014 01 10 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
