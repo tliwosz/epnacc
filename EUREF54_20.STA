@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             15-04-2025 13:04
+BSW 5.4 station information file for EPN processing             15-04-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -213,7 +213,7 @@ KEV2 10515M002        001  2014 01 29 12 00 00                       KEV2*      
 KHAR 12314M001        001  2002 11 25 13 00 00                       KHAR*                 khar00ukr_20171011.log
 KILP 10525M001        001  2014 01 29 12 00 00                       KILP*                 kilp00fin_20240417.log
 KIR0 10422M001        001  1993 08 01 00 00 00                       KIR0*                 kir000swe_20231017.log
-KIR8 10422M002        001  2011 08 12 00 00 00                       KIR8*                 kir800swe_20221207.log
+KIR8 10422M002        001  2011 08 12 00 00 00                       KIR8*                 kir800swe_20250415.log
 KIRU 10403M002        001  1993 07 08 00 00 00                       KIRU*                 kiru00swe_20230417.log
 KIV2 10516M002        001  2014 01 29 12 00 00                       KIV2*                 kiv200fin_20250411.log
 KLAD 12126M001        001  2017 10 06 00 00 00                       KLAD*                 klad00srb_20231031.log
@@ -262,7 +262,7 @@ MALL 13444M001        001  2000 05 12 12 00 00                       MALL*      
 MAN2 10091M002        001  2008 01 23 00 00 00                       MAN2*                 man200fra_20240521.log
 MANS 10091M001        001  1998 04 21 00 00 00  2008 01 26 00 00 00  MANS*                 mans00fra_20240521.log
 MAR6 10405M002        001  1993 08 01 00 00 00                       MAR6*                 mar600swe_20221208.log
-MAR7 10405M003        001  2011 04 27 00 00 00                       MAR7*                 mar700swe_20221207.log
+MAR7 10405M003        001  2011 04 27 00 00 00                       MAR7*                 mar700swe_20250415.log
 MARJ 11517M001        001  2003 05 15 12 00 00  2015 09 06 00 00 00  MARJ*                 marj00cze_20220512.log
 MARP 15556M001        001  2013 07 24 21 02 00                       MARP*                 marp00ukr_20220926.log
 MARS 10073M008        001  1998 07 16 15 00 00                       MARS*                 mars00fra_20240717.log
@@ -317,7 +317,7 @@ OBE4 14208M007        001  2012 09 28 12 00 00                       OBE4*      
 OBER 14208M001        001  1996 10 11 00 00 00  2001 07 28 00 00 00  OBER*                 ober00deu_20250206.log
 OBET 14208M004        001  2002 04 30 15 30 00  2005 05 09 00 00 00  OBET*                 obet00deu_20230601.log
 OLK2 10518M002        001  2014 01 29 12 00 00                       OLK2*                 olk200fin_20250307.log
-ONS1 10402M007        001  2012 01 28 00 00 00                       ONS1*                 ons100swe_20221207.log
+ONS1 10402M007        001  2012 01 28 00 00 00                       ONS1*                 ons100swe_20250415.log
 ONSA 10402M004        001  1993 07 01 00 00 00                       ONSA*                 onsa00swe_20221208.log
 ORID 15601M001        001  2000 07 20 00 00 00                       ORID*                 orid00mkd_20250122.log
 ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*                 oriv00fin_20250307.log
@@ -3218,7 +3218,8 @@ KIR8 10422M002        001  2018 10 23 09 00 00  2019 10 09 10 00 00  TRIMBLE NET
 KIR8 10422M002        001  2019 10 09 10 00 00  2019 11 05 18 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KIR800SWE  KIR800SWE               
 KIR8 10422M002        001  2019 11 05 18 00 00  2020 06 17 13 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KIR800SWE  KIR800SWE               
 KIR8 10422M002        001  2020 06 17 13 00 00  2022 12 07 15 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KIR800SWE  KIR800SWE               
-KIR8 10422M002        001  2022 12 07 15 00 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KIR800SWE  KIR800SWE               
+KIR8 10422M002        001  2022 12 07 15 00 00  2025 04 15 12 25 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KIR800SWE  KIR800SWE               
+KIR8 10422M002        001  2025 04 15 12 25 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KIR800SWE  KIR800SWE               
 KIRU 10403M002        001  1993 07 08 00 00 00  1995 05 23 00 00 00  ROGUE SNR-8100                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0620          KIRU00SWE  KIRU00SWE               
 KIRU 10403M002        001  1995 05 23 00 00 00  1996 06 10 00 00 00  ROGUE SNR-8100                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0620          KIRU00SWE  KIRU00SWE               
 KIRU 10403M002        001  1996 06 10 00 00 00  1999 08 16 08 00 00  ROGUE SNR-8100                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0620          KIRU00SWE  KIRU00SWE               
@@ -3877,7 +3878,8 @@ MAR7 10405M003        001  2018 10 23 09 00 00  2019 10 09 10 00 00  TRIMBLE NET
 MAR7 10405M003        001  2019 10 09 10 00 00  2019 11 05 18 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
 MAR7 10405M003        001  2019 11 05 18 00 00  2020 06 17 13 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
 MAR7 10405M003        001  2020 06 17 13 00 00  2022 12 07 15 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
-MAR7 10405M003        001  2022 12 07 15 00 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
+MAR7 10405M003        001  2022 12 07 15 00 00  2025 04 15 12 25 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
+MAR7 10405M003        001  2025 04 15 12 25 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
 MARJ 11517M001        001  2003 05 15 12 00 00  2009 12 09 09 00 00  ASHTECH Z18                                 999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0000          MARJ00CZE  MARJ00CZE               
 MARJ 11517M001        001  2009 12 09 09 00 00  2012 04 16 12 00 00  TPS NETG3                                   999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0000          MARJ00CZE  MARJ00CZE               
 MARJ 11517M001        001  2012 04 16 12 00 00  2012 08 02 13 00 00  TPS NETG3                                   999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0000          MARJ00CZE  MARJ00CZE               
@@ -4506,7 +4508,8 @@ ONS1 10402M007        001  2018 10 23 09 00 00  2019 11 05 23 40 00  TRIMBLE NET
 ONS1 10402M007        001  2019 11 05 23 40 00  2020 06 17 13 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ONS100SWE  ONS100SWE               
 ONS1 10402M007        001  2020 06 17 13 00 00  2021 03 19 00 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ONS100SWE  ONS100SWE               
 ONS1 10402M007        001  2021 03 19 00 00 00  2022 12 07 15 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ONS100SWE  ONS100SWE               
-ONS1 10402M007        001  2022 12 07 15 00 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ONS100SWE  ONS100SWE               
+ONS1 10402M007        001  2022 12 07 15 00 00  2025 04 15 12 25 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ONS100SWE  ONS100SWE               
+ONS1 10402M007        001  2025 04 15 12 25 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ONS100SWE  ONS100SWE               
 ONSA 10402M004        001  1993 07 01 00 00 00  1999 02 02 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_B        DUTD                        999999    0.0000    0.0000    0.9950   180.0  ONSA00SWE  ONSA00SWE               
 ONSA 10402M004        001  1999 02 02 00 00 00  1999 07 03 00 00 00  ASHTECH Z-XII3                              999999  AOAD/M_B        OSOD                        999999    0.0000    0.0000    0.9950          ONSA00SWE  ONSA00SWE               
 ONSA 10402M004        001  1999 07 03 00 00 00  2003 08 19 00 00 00  ASHTECH Z-XII3                              999999  AOAD/M_B        OSOD                        999999    0.0000    0.0000    0.9950          ONSA00SWE  ONSA00SWE               
