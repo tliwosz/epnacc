@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             15-04-2025 09:04
+BSW 5.4 station information file for EPN processing             15-04-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -206,7 +206,7 @@ JOZ2 12204M002        001  2002 01 03 00 00 00                       JOZ2*      
 JOZE 12204M001        001  1993 08 08 00 00 00                       JOZE*                 joze00pol_20240730.log
 KAD6 10431M002        001  2011 06 15 00 00 00                       KAD6*                 kad600swe_20250319.log
 KARL 14216M001        001  1997 03 20 00 00 00                       KARL*                 karl00deu_20240215.log
-KATO 12219S001        001  2003 01 30 00 00 00                       KATO*                 kato00pol_20250218.log
+KATO 12219S001        001  2003 01 30 00 00 00                       KATO*                 kato00pol_20250415.log
 KDA2 14504M002        001  2016 01 02 10 00 00                       KDA2*                 kda200svn_20220617.log
 KELY 43005M002        001  1995 07 23 00 00 00                       KELY*                 kely00grl_20231101.log
 KEV2 10515M002        001  2014 01 29 12 00 00                       KEV2*                 kev200fin_20240417.log
@@ -231,7 +231,7 @@ KTVL 12337M003        001  2009 09 14 16 15 00                       KTVL*      
 KUNZ 11524M001        001  2005 09 23 12 30 00                       KUNZ*                 kunz00cze_20240827.log
 KURE 10604S001        001  2007 11 15 11 30 00                       KURE*                 kure00est_20240621.log
 KUU2 10517M002        001  2014 01 02 12 00 00                       KUU2*                 kuu200fin_20240417.log
-LAGO 13903M001        001  2000 01 02 14 35 00                       LAGO*                 lago00prt_20250414.log
+LAGO 13903M001        001  2000 01 02 14 35 00                       LAGO*                 lago00prt_20250415.log
 LAMA 12209M001        001  1994 12 01 00 00 00                       LAMA*                 lama00pol_20250108.log
 LAMP 12706M002        001  1999 03 25 00 00 00                       LAMP*                 lamp00ita_20240718.log
 LARM 12610M002        001  2011 01 15 00 00 00                       LARM*                 larm00grc_20201009.log
@@ -335,7 +335,7 @@ PALB 14603M001        001  2019 07 16 09 45 00                       PALB*      
 PASA 19351S001        001  2007 02 12 00 00 00                       PASA*                 pasa00esp_20240418.log
 PAT0 12622M001        001  2009 01 26 14 10 00                       PAT0*                 pat000grc_20250328.log
 PCAR 13002M001        001  2024 11 07 00 00 00                       PCAR*                 pcar00and_20241218.log
-PDEL 31906M004        001  2000 01 16 14 35 00                       PDEL*                 pdel00prt_20250414.log
+PDEL 31906M004        001  2000 01 16 14 35 00                       PDEL*                 pdel00prt_20250415.log
 PEN2 11206M007        001  2012 11 13 08 00 00                       PEN2*                 pen200hun_20240508.log
 PENC 11206M006        001  1996 03 01 00 00 00                       PENC*                 penc00hun_20220622.log
 PFA2 11005M003        001  2007 11 29 12 00 00                       PFA2*                 pfa200aut_20230427.log
@@ -3099,7 +3099,8 @@ KATO 12219S001        001  2018 11 22 11 45 00  2020 02 13 14 05 00  TRIMBLE NET
 KATO 12219S001        001  2020 02 13 14 05 00  2020 06 29 06 45 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          KATO00POL  KATO00POL               
 KATO 12219S001        001  2020 06 29 06 45 00  2023 05 12 10 15 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          KATO00POL  KATO00POL               
 KATO 12219S001        001  2023 05 12 10 15 00  2024 01 23 15 30 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          KATO00POL  KATO00POL               
-KATO 12219S001        001  2024 01 23 15 30 00                       TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          KATO00POL  KATO00POL               
+KATO 12219S001        001  2024 01 23 15 30 00  2025 04 10 08 30 00  TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          KATO00POL  KATO00POL               
+KATO 12219S001        001  2025 04 10 08 30 00                       TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          KATO00POL  KATO00POL               
 KDA2 14504M002        001  2016 01 02 10 00 00  2016 09 23 14 00 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0008    0.0005    0.0800     1.0  KDA200SVN  KDA200SVN               
 KDA2 14504M002        001  2016 09 23 14 00 00  2018 04 26 09 21 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0008    0.0005    0.0800     1.0  KDA200SVN  KDA200SVN               
 KDA2 14504M002        001  2018 04 26 09 21 00  2018 05 04 12 08 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0008    0.0005    0.0800     1.0  KDA200SVN  KDA200SVN               
@@ -3448,7 +3449,8 @@ LAGO 13903M001        001  2020 05 13 15 05 00  2020 10 01 12 37 00  TRIMBLE ALL
 LAGO 13903M001        001  2020 10 01 12 37 00  2021 01 26 18 39 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          LAGO00PRT  LAGO00PRT               
 LAGO 13903M001        001  2021 01 26 18 39 00  2022 11 09 15 24 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          LAGO00PRT  LAGO00PRT               
 LAGO 13903M001        001  2022 11 09 15 24 00  2024 02 19 14 43 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          LAGO00PRT  LAGO00PRT               
-LAGO 13903M001        001  2024 02 19 14 43 00                       TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          LAGO00PRT  LAGO00PRT               
+LAGO 13903M001        001  2024 02 19 14 43 00  2025 04 14 17 00 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          LAGO00PRT  LAGO00PRT               
+LAGO 13903M001        001  2025 04 14 17 00 00                       TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          LAGO00PRT  LAGO00PRT               
 LAMA 12209M001        001  1994 12 01 00 00 00  1996 04 17 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0610          LAMA00POL  LAMA00POL               
 LAMA 12209M001        001  1996 04 17 00 00 00  1996 07 23 00 00 00  ASHTECH Z-XII3                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0610          LAMA00POL  LAMA00POL               
 LAMA 12209M001        001  1996 07 23 00 00 00  1998 04 26 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0610          LAMA00POL  LAMA00POL               
@@ -4756,8 +4758,8 @@ PDEL 31906M004        001  2020 01 03 14 57 00  2021 10 15 10 27 00  LEICA GRX12
 PDEL 31906M004        001  2021 10 15 10 27 00  2021 10 18 13 29 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          PDEL00PRT  PDEL00PRT               
 PDEL 31906M004        001  2021 10 18 13 29 00  2022 11 09 15 40 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          PDEL00PRT  PDEL00PRT               
 PDEL 31906M004        001  2022 11 09 15 40 00  2024 02 19 12 05 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          PDEL00PRT  PDEL00PRT               
-PDEL 31906M004        001  2024 02 19 12 05 00  2025 04 14 18 40 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          PDEL00PRT  PDEL00PRT               
-PDEL 31906M004        001  2025 04 14 18 40 00                       TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          PDEL00PRT  PDEL00PRT               
+PDEL 31906M004        001  2024 02 19 12 05 00  2025 04 14 17 37 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          PDEL00PRT  PDEL00PRT               
+PDEL 31906M004        001  2025 04 14 17 37 00                       TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000          PDEL00PRT  PDEL00PRT               
 PEN2 11206M007        001  2012 11 13 08 00 00  2013 01 07 08 21 00  LEICA GRX1200+GNSS                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          PEN200HUN  PEN200HUN               
 PEN2 11206M007        001  2013 01 07 08 21 00  2015 10 19 07 42 00  LEICA GRX1200+GNSS                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          PEN200HUN  PEN200HUN               
 PEN2 11206M007        001  2015 10 19 07 42 00  2015 10 26 08 35 00  LEICA GRX1200+GNSS                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          PEN200HUN  PEN200HUN               
