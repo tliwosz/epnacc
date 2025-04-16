@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             16-04-2025 13:04
+BSW 5.4 station information file for EPN processing             16-04-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -324,7 +324,7 @@ ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*      
 OROS 11207M001        001  2001 09 20 00 00 00                       OROS*                 oros00hun_20221118.log
 ORTE 14602M001        001  2019 07 30 11 30 00                       ORTE*                 orte00ita_20240718.log
 OSJE 11902M001        001  2000 09 18 00 00 00  2013 04 05 00 00 00  OSJE*                 osje00hrv_20120918.log
-OSK6 10435M002        001  2011 06 18 00 00 00                       OSK6*                 osk600swe_20231207.log
+OSK6 10435M002        001  2011 06 18 00 00 00                       OSK6*                 osk600swe_20250416.log
 OSLO 10307M001        001  1995 10 05 00 00 00  2000 05 16 13 15 00  OSLO*                 oslo00nor_20241018.log
 OSLS 10307M001        001  1995 10 05 00 00 00                       OSLS*                 osls00nor_20241018.log
 OST6 10436M002        001  2011 07 08 00 00 00                       OST6*                 ost600swe_20250410.log
@@ -409,7 +409,7 @@ SOFI 11101M002        001  1997 05 19 10 00 00                       SOFI*      
 SONS 13446M001        001  2000 12 15 00 00 00                       SONS*                 sons00esp_20240319.log
 SPRN 11227M001        001  2006 11 01 12 00 00                       SPRN*                 sprn00hun_20220622.log
 SPT0 10425M001        001  1995 12 14 00 00 00                       SPT0*                 spt000swe_20221208.log
-SPT7 10425M002        001  2011 10 07 00 00 00                       SPT7*                 spt700swe_20221129.log
+SPT7 10425M002        001  2011 10 07 00 00 00                       SPT7*                 spt700swe_20250416.log
 SRJV 11801S001        001  1999 06 11 17 14 00                       SRJV*                 srjv00bih_20240923.log
 STAS 10330M001        001  1995 05 22 00 00 00                       STAS*                 stas00nor_20241018.log
 STAV 10330M001        001  1995 05 22 00 00 00  1999 08 21 00 00 00  STAV*                 stav00nor_20241018.log
@@ -469,7 +469,7 @@ TUC2 12617M003        001  2004 06 20 00 00 00                       TUC2*      
 TUO2 10521M002        001  2013 12 19 12 00 00                       TUO2*                 tuo200fin_20250307.log
 UBEN 14663M001        001  2021 04 22 14 00 00                       UBEN*                 uben00ita_20240718.log
 UCAG 12702M003        001  2014 04 16 14 00 00                       UCAG*                 ucag00ita_20240718.log
-UME6 10442M002        001  2011 07 08 00 00 00                       UME6*                 ume600swe_20240926.log
+UME6 10442M002        001  2011 07 08 00 00 00                       UME6*                 ume600swe_20250416.log
 UNPG 12752M001        001  1997 10 15 00 00 00                       UNPG*                 unpg00ita_20241009.log
 UNTR 12785M001        001  2006 03 19 15 40 00                       UNTR*                 untr00ita_20241010.log
 UPAD 12750M002        001  1997 01 12 00 00 00  2001 11 21 12 00 00  UPAD*                 upad00ita_20120109.log
@@ -492,7 +492,7 @@ VIGI 14684M001        001  2014 06 28 00 00 00                       VIGI*      
 VIGN 14605M001        001  2019 07 25 11 30 00                       VIGN*                 vign00ita_20240718.log
 VIGO 13450M001        001  2001 09 12 00 00 00                       VIGO*                 vigo00esp_20230913.log
 VIL0 10424M001        001  1993 08 01 00 00 00                       VIL0*                 vil000swe_20250318.log
-VIL6 10424M002        001  2011 07 20 00 00 00                       VIL6*                 vil600swe_20240919.log
+VIL6 10424M002        001  2011 07 20 00 00 00                       VIL6*                 vil600swe_20250416.log
 VILL 13406M001        001  1994 11 12 00 00 00                       VILL*                 vill00esp_20220428.log
 VIR2 10522M002        001  2014 01 02 12 00 00                       VIR2*                 vir200fin_20250307.log
 VIRG 14628M001        001  2020 07 13 10 00 00                       VIRG*                 virg00ita_20240718.log
@@ -4606,7 +4606,8 @@ OSK6 10435M002        001  2019 11 05 18 00 00  2020 06 17 07 00 00  TRIMBLE NET
 OSK6 10435M002        001  2020 06 17 07 00 00  2022 11 21 09 20 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OSK600SWE  OSK600SWE               
 OSK6 10435M002        001  2022 11 21 09 20 00  2023 01 19 12 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OSK600SWE  OSK600SWE               
 OSK6 10435M002        001  2023 01 19 12 00 00  2023 12 06 10 00 00  TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          OSK600SWE  OSK600SWE               
-OSK6 10435M002        001  2023 12 06 10 00 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          OSK600SWE  OSK600SWE               
+OSK6 10435M002        001  2023 12 06 10 00 00  2025 04 16 13 45 00  TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          OSK600SWE  OSK600SWE               
+OSK6 10435M002        001  2025 04 16 13 45 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          OSK600SWE  OSK600SWE               
 OSLO 10307M001        001  1995 10 05 00 00 00  1997 10 13 00 00 00  TRIMBLE 4000SSI                             999999  TRM23903.00     DOME                        999999    0.0120    0.0120    5.0240          OSLO00NOR  OSLO00NOR               
 OSLO 10307M001        001  1997 10 13 00 00 00  1998 06 05 21 45 00  TRIMBLE 4000SSI                             999999  TRM29659.00     DOME                        999999    0.0120    0.0120    5.0240          OSLO00NOR  OSLO00NOR               
 OSLO 10307M001        001  1998 06 05 21 45 00  1998 06 05 23 15 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0170    0.0130    5.4960          OSLO00NOR  OSLO00NOR               
@@ -5692,7 +5693,8 @@ SPT7 10425M002        001  2017 07 10 00 00 00  2018 02 07 00 00 00  JAVAD TRE_G
 SPT7 10425M002        001  2018 02 07 00 00 00  2019 01 08 00 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
 SPT7 10425M002        001  2019 01 08 00 00 00  2019 11 05 00 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
 SPT7 10425M002        001  2019 11 05 00 00 00  2022 11 29 10 02 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
-SPT7 10425M002        001  2022 11 29 10 02 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
+SPT7 10425M002        001  2022 11 29 10 02 00  2025 04 16 13 45 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
+SPT7 10425M002        001  2025 04 16 13 45 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
 SRJV 11801S001        001  1999 06 11 17 14 00  2008 01 06 00 00 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  NONE                        999999    0.0000    0.0000    0.1740          SRJV00BIH  SRJV00BIH               
 SRJV 11801S001        001  2008 01 06 00 00 00  2011 10 05 00 00 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  NONE                        999999    0.0000    0.0000    0.1740          SRJV00BIH  SRJV00BIH               
 SRJV 11801S001        001  2011 10 05 00 00 00  2012 10 22 00 00 00  TRIMBLE NETR5                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.1740          SRJV00BIH  SRJV00BIH               
@@ -6367,7 +6369,8 @@ UME6 10442M002        001  2019 11 05 18 00 00  2020 06 17 11 00 00  TRIMBLE NET
 UME6 10442M002        001  2020 06 17 11 00 00  2022 04 05 13 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          UME600SWE  UME600SWE               
 UME6 10442M002        001  2022 04 05 13 00 00  2022 12 05 15 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          UME600SWE  UME600SWE               
 UME6 10442M002        001  2022 12 05 15 00 00  2024 09 26 15 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          UME600SWE  UME600SWE               
-UME6 10442M002        001  2024 09 26 15 00 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          UME600SWE  UME600SWE               
+UME6 10442M002        001  2024 09 26 15 00 00  2025 04 16 13 45 00  TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          UME600SWE  UME600SWE               
+UME6 10442M002        001  2025 04 16 13 45 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          UME600SWE  UME600SWE               
 UNPG 12752M001        001  1997 10 15 00 00 00  2006 04 19 17 40 00  ASHTECH Z-XII3                              999999  ASH700936D_M    NONE                        999999    0.0000    0.0000    0.0520          UNPG00ITA  UNPG00ITA               
 UNPG 12752M001        001  2006 04 19 17 40 00  2008 02 06 11 00 00  TPS ODYSSEY_E                               999999  JPSREGANT_DD_E2 NONE                        999999    0.0000    0.0000    0.1000          UNPG00ITA  UNPG00ITA               
 UNPG 12752M001        001  2008 02 06 11 00 00  2008 11 04 15 10 00  TPS ODYSSEY_E                               999999  JPSREGANT_DD_E2 NONE                        999999    0.0000    0.0000    0.1000          UNPG00ITA  UNPG00ITA               
@@ -6675,7 +6678,8 @@ VIL6 10424M002        001  2018 10 23 13 00 00  2019 11 05 18 00 00  TRIMBLE NET
 VIL6 10424M002        001  2019 11 05 18 00 00  2020 06 17 12 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          VIL600SWE  VIL600SWE               
 VIL6 10424M002        001  2020 06 17 12 00 00  2022 11 17 08 05 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          VIL600SWE  VIL600SWE               
 VIL6 10424M002        001  2022 11 17 08 05 00  2024 09 19 17 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          VIL600SWE  VIL600SWE               
-VIL6 10424M002        001  2024 09 19 17 00 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          VIL600SWE  VIL600SWE               
+VIL6 10424M002        001  2024 09 19 17 00 00  2025 04 16 13 45 00  TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          VIL600SWE  VIL600SWE               
+VIL6 10424M002        001  2025 04 16 13 45 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          VIL600SWE  VIL600SWE               
 VILL 13406M001        001  1994 11 12 00 00 00  1996 07 04 00 00 00  ROGUE SNR-8100                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0437          VILL00ESP  VILL00ESP               
 VILL 13406M001        001  1996 07 04 00 00 00  1999 07 29 13 00 00  ROGUE SNR-8100                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0437          VILL00ESP  VILL00ESP               
 VILL 13406M001        001  1999 07 29 13 00 00  2000 07 18 11 30 00  ROGUE SNR-8100                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0437          VILL00ESP  VILL00ESP               
