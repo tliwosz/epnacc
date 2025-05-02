@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          02-05-2025 13:04
+Station information file for Bernese GNSS Software 5.2          02-05-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -175,7 +175,7 @@ HFLK 11006S003        001  1994 10 02 13 00 00  2007 07 01 00 00 00  HFLK*      
 HOBU 14202M003        001  1997 07 01 00 00 00                       HOBU*                 hobu00deu_20250326.log
 HOE2 14284M002        001  2005 07 01 10 00 00  2015 05 19 12 00 00  HOE2*                 hoe200deu_20220905.log
 HOER 14284M001        001  2003 07 15 00 00 00  2005 06 30 10 00 00  HOER*                 hoer00deu_20230419.log
-HOFJ 14289M001        001  2007 03 07 10 00 00                       HOFJ*                 hofj00deu_20240215.log
+HOFJ 14289M001        001  2007 03 07 10 00 00                       HOFJ*                 hofj00deu_20250502.log
 HOFN 10204M002        001  1997 05 27 00 00 00                       HOFN*                 hofn00isl_20250224.log
 HUEL 13451M001        001  2001 12 01 00 00 00                       HUEL*                 huel00esp_20240411.log
 IAVH 35001M001        001  1998 02 12 00 00 00  1998 12 28 00 00 00  IAVH*                 iavh00mar_19991115.log
@@ -2786,7 +2786,8 @@ HOFJ 14289M001        001  2021 05 31 12 40 00  2022 03 03 07 04 00  LEICA GR50 
 HOFJ 14289M001        001  2022 03 03 07 04 00  2022 09 05 11 50 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450  HOFJ00DEU               
 HOFJ 14289M001        001  2022 09 05 11 50 00  2023 02 09 09 30 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450  HOFJ00DEU               
 HOFJ 14289M001        001  2023 02 09 09 30 00  2024 02 15 09 27 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450  HOFJ00DEU               
-HOFJ 14289M001        001  2024 02 15 09 27 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450  HOFJ00DEU               
+HOFJ 14289M001        001  2024 02 15 09 27 00  2025 05 02 13 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450  HOFJ00DEU               
+HOFJ 14289M001        001  2025 05 02 13 00 00                       SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450  HOFJ00DEU               
 HOFN 10204M002        001  1997 05 27 00 00 00  1999 07 31 14 00 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  DOME                        999999    0.0000    0.0000    0.0550  HOFN00ISL               
 HOFN 10204M002        001  1999 07 31 14 00 00  2000 03 13 00 00 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  DOME                        999999    0.0000    0.0000    0.0550  HOFN00ISL               
 HOFN 10204M002        001  2000 03 13 00 00 00  2000 05 25 13 45 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  DOME                        999999    0.0000    0.0000    0.0554  HOFN00ISL               
