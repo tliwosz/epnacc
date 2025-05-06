@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          05-05-2025 21:04
+Station information file for Bernese GNSS Software 5.2          06-05-2025 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -4696,7 +4696,7 @@ OVE6 10437M002        001  2019 11 05 18 00 00  2020 06 16 14 00 00  TRIMBLE NET
 OVE6 10437M002        001  2020 06 16 14 00 00  2022 11 21 09 20 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  OVE600SWE               
 OVE6 10437M002        001  2022 11 21 09 20 00  2025 04 07 14 30 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  OVE600SWE               
 OVE6 10437M002        001  2025 04 07 14 30 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  OVE600SWE               
-PAD1 12750M003        001  2025 04 30 14 49 00                       STONEX SC2200                               999999  STXSA1200       STXR                        999999    0.0000    0.0000    0.0000  Padova, ITA             
+PAD1 12750M003        001  2025 04 30 14 49 00                       STONEX SC2200                               999999  STXSA1200       STXR                        999999    0.0000    0.0000    0.0000  PAD100ITA               
 PADO 12750S001        001  2001 11 21 13 00 00  2002 08 01 10 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000  PADO00ITA               
 PADO 12750S001        001  2002 08 01 10 00 00  2002 11 04 10 00 00  TRIMBLE 4700                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000  PADO00ITA               
 PADO 12750S001        001  2002 11 04 10 00 00  2003 06 10 13 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000  PADO00ITA               
