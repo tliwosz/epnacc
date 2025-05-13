@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             13-05-2025 13:04
+BSW 5.4 station information file for EPN processing             13-05-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -145,7 +145,7 @@ FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*      
 GAIA 13902M001        001  2000 01 02 14 35 00                       GAIA*                 gaia00prt_20250414.log
 GALH 18490M001        001  2018 05 24 00 00 00                       GALH*                 galh00ita_20240718.log
 GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp00svk_20250416.log
-GARI 19517M001        001  2009 04 01 00 00 00                       GARI*                 gari00ita_20230421.log
+GARI 19517M001        001  2009 04 01 00 00 00                       GARI*                 gari00ita_20250509.log
 GDRS 15595M001        001  2014 11 28 10 55 00  2024 07 18 07 20 00  GDRS*                 gdrs00ukr_20240724.log
 GELL 10908M001        001  2007 11 07 14 00 00                       GELL*                 gell00deu_20250502.log
 GENO 12712M002        001  1998 07 23 00 00 00                       GENO*                 geno00ita_20240718.log
@@ -391,7 +391,7 @@ SCIL 19201M001        001  2010 08 18 10 00 00                       SCIL*      
 SCOA 10088M002        001  2005 12 14 12 00 00                       SCOA*                 scoa00fra_20240716.log
 SCOR 43006M002        001  2004 09 12 00 00 00                       SCOR*                 scor00grl_20230925.log
 SFER 13402M004        001  1995 12 18 00 00 00                       SFER*                 sfer00esp_20230919.log
-SHOE 19197M001        001  2005 08 18 00 00 00                       SHOE*                 shoe00gbr_20240326.log
+SHOE 19197M001        001  2005 08 18 00 00 00                       SHOE*                 shoe00gbr_20250513.log
 SID0 12132M001        001  2008 04 01 00 00 00                       SID0*                 sid000srb_20231020.log
 SJDV 10090M001        001  1997 10 14 10 32 00  2022 05 31 09 16 00  SJDV*                 sjdv00fra_20250319.log
 SKE0 10426M001        001  1993 08 01 00 00 00                       SKE0*                 ske000swe_20221206.log
@@ -2342,7 +2342,8 @@ GARI 19517M001        001  2010 03 25 00 00 00  2015 09 29 15 00 00  TPS NETG3  
 GARI 19517M001        001  2015 09 29 15 00 00  2019 04 12 15 00 00  TPS NETG3                                   999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000    40.0  GARI00ITA  GARI00ITA               
 GARI 19517M001        001  2019 04 12 15 00 00  2021 02 19 10 00 00  TPS NETG3                                   999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000    40.0  GARI00ITA  GARI00ITA               
 GARI 19517M001        001  2021 02 19 10 00 00  2022 09 27 16 00 00  TPS NET-G5                                  999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000    40.0  GARI00ITA  GARI00ITA               
-GARI 19517M001        001  2022 09 27 16 00 00                       TPS NET-G5                                  999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000    40.0  GARI00ITA  GARI00ITA               
+GARI 19517M001        001  2022 09 27 16 00 00  2025 02 21 00 00 00  TPS NET-G5                                  999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000    40.0  GARI00ITA  GARI00ITA               
+GARI 19517M001        001  2025 02 21 00 00 00                       TPS NET-G5                                  999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000    40.0  GARI00ITA  GARI00ITA               
 GDRS 15595M001        001  2014 11 28 10 55 00  2018 11 02 10 29 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          GDRS00UKR  GDRS00UKR               
 GDRS 15595M001        001  2018 11 02 10 29 00  2024 07 18 07 20 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          GDRS00UKR  GDRS00UKR               
 GELL 10908M001        001  2007 11 07 14 00 00  2008 01 30 06 30 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450          GELL00DEU  GELL00DEU               
@@ -5458,7 +5459,8 @@ SHOE 19197M001        001  2021 11 09 10 50 00  2022 06 17 08 55 00  TRIMBLE ALL
 SHOE 19197M001        001  2022 06 17 08 55 00  2023 04 17 10 55 00  TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SHOE00GBR  SHOE00GBR               
 SHOE 19197M001        001  2023 04 17 10 55 00  2023 09 04 14 50 00  TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SHOE00GBR  SHOE00GBR               
 SHOE 19197M001        001  2023 09 04 14 50 00  2024 03 26 08 45 00  TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SHOE00GBR  SHOE00GBR               
-SHOE 19197M001        001  2024 03 26 08 45 00                       TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SHOE00GBR  SHOE00GBR               
+SHOE 19197M001        001  2024 03 26 08 45 00  2025 05 13 09 35 00  TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SHOE00GBR  SHOE00GBR               
+SHOE 19197M001        001  2025 05 13 09 35 00                       TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SHOE00GBR  SHOE00GBR               
 SID0 12132M001        001  2008 04 01 00 00 00  2009 01 29 00 00 00  TRIMBLE 5700                                999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.0000          SID000SRB  SID000SRB               
 SID0 12132M001        001  2009 01 29 00 00 00  2011 07 01 00 00 00  TRIMBLE 5700                                999999  TRM39105.00     NONE                        999999    0.0000    0.0000    0.0000          SID000SRB  SID000SRB               
 SID0 12132M001        001  2011 07 01 00 00 00  2017 10 04 12 45 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          SID000SRB  SID000SRB               
