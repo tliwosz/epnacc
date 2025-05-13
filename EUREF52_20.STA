@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          13-05-2025 04:04
+Station information file for Bernese GNSS Software 5.2          13-05-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -9,6 +9,7 @@ TYPE 001: RENAMING OF STATIONS
 
 STATION NAME          FLG          FROM                   TO         OLD STATION NAME      REMARK
 ****************      ***  YYYY MM DD HH MM SS  YYYY MM DD HH MM SS  ********************  ************************
+AAER 17916M001        001  2025 01 30 16 00 00                       AAER*                 aaer00fra_20250307.log
 ACOR 13434M001        001  1998 12 06 10 10 00                       ACOR*                 acor00esp_20250128.log
 ADAR 19161M001        001  2009 03 04 12 00 00                       ADAR*                 adar00gbr_20230628.log
 AGRN 19584M002        001  2018 05 25 00 00 00                       AGRN*                 agrn00ita_20240718.log
@@ -51,7 +52,7 @@ BOLG 12771M001        001  1999 05 14 00 00 00                       BOLG*      
 BOR1 12205M002        001  1994 01 10 00 00 00                       BOR1*                 bor100pol_20250403.log
 BORJ 14268M002        001  2005 06 09 10 00 00                       BORJ*                 borj00deu_20250429.log
 BORK 14268M001        001  2000 09 29 00 00 00  2007 06 04 00 00 00  BORK*                 bork00deu_20230601.log
-BORR 13480M001        001  2005 04 27 16 15 00                       BORR*                 borr00esp_20210312.log
+BORR 13480M001        001  2005 04 27 16 15 00                       BORR*                 borr00esp_20250513.log
 BPDL 12223M001        001  2007 12 04 12 00 00                       BPDL*                 bpdl00pol_20250218.log
 BRMF 19686M002        001  2014 02 18 07 00 00                       BRMF*                 brmf00fra_20240716.log
 BRMG 10918M001        001  2020 04 08 10 00 00                       BRMG*                 brmg00deu_20250429.log
@@ -110,7 +111,7 @@ DILL 14286M001        001  2004 12 01 12 00 00                       DILL*      
 DLF1 13502M009        001  2011 04 15 10 00 00                       DLF1*                 dlf100nld_20230425.log
 DLKS 10704M003        001  2019 06 13 13 00 00                       DLKS*                 dlks00lva_20240612.log
 DNMU 12369M001        001  2005 04 08 10 32 00                       DNMU*                 dnmu00ukr_20250206.log
-DOUR 13113M001        001  1994 01 11 00 00 00                       DOUR*                 dour00bel_20240409.log
+DOUR 13113M001        001  1994 01 11 00 00 00                       DOUR*                 dour00bel_20250513.log
 DRAG 20710S001        001  2000 02 07 00 00 00                       DRAG*                 drag00isr_20210217.log
 DRES 14108M001        001  1997 10 24 00 00 00  2016 09 08 08 27 00  DRES*                 dres00deu_20220905.log
 DUB2 11901M002        001  2011 11 03 00 00 00                       DUB2*                 dub200hrv_20250429.log
@@ -532,6 +533,7 @@ TYPE 002: STATION INFORMATION
 
 STATION NAME          FLG          FROM                   TO         RECEIVER TYPE         RECEIVER SERIAL NBR   REC #   ANTENNA TYPE          ANTENNA SERIAL NBR    ANT #    NORTH      EAST      UP      DESCRIPTION             REMARK
 ****************      ***  YYYY MM DD HH MM SS  YYYY MM DD HH MM SS  ********************  ********************  ******  ********************  ********************  ******  ***.****  ***.****  ***.****  **********************  ************************
+AAER 17916M001        001  2025 01 30 16 00 00                       SEPT POLARX5                                999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000  AAER00FRA               
 ACOR 13434M001        001  1998 12 06 10 10 00  2001 12 19 00 00 00  ASHTECH UZ-12                               999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    3.0420  ACOR00ESP               
 ACOR 13434M001        001  2001 12 19 00 00 00  2004 04 15 00 00 00  ASHTECH UZ-12                               999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    3.0420  ACOR00ESP               
 ACOR 13434M001        001  2004 04 15 00 00 00  2007 03 18 00 00 00  ASHTECH UZ-12                               999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    3.0420  ACOR00ESP               
@@ -1054,7 +1056,8 @@ BORR 13480M001        001  2016 04 01 05 15 00  2016 06 21 08 30 00  TRIMBLE R7 
 BORR 13480M001        001  2016 06 21 08 30 00  2017 11 14 09 00 00  TRIMBLE NETR9                               999999  TRM59900.00     NONE                        999999    0.0000    0.0000    0.1300  BORR00ESP               
 BORR 13480M001        001  2017 11 14 09 00 00  2020 03 01 00 00 00  TRIMBLE NETR9                               999999  TRM59900.00     NONE                        999999    0.0000    0.0000    0.1300  BORR00ESP               
 BORR 13480M001        001  2020 03 01 00 00 00  2021 03 09 14 30 00  TRIMBLE NETR9                               999999  TRM59900.00     NONE                        999999    0.0000    0.0000    0.1300  BORR00ESP               
-BORR 13480M001        001  2021 03 09 14 30 00                       TRIMBLE NETR9                               999999  TRM59900.00     NONE                        999999    0.0000    0.0000    0.1300  BORR00ESP               
+BORR 13480M001        001  2021 03 09 14 30 00  2025 05 08 11 30 00  TRIMBLE NETR9                               999999  TRM59900.00     NONE                        999999    0.0000    0.0000    0.1300  BORR00ESP               
+BORR 13480M001        001  2025 05 08 11 30 00                       LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1300  BORR00ESP               
 BPDL 12223M001        001  2007 12 04 12 00 00  2008 06 26 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000  BPDL00POL               
 BPDL 12223M001        001  2008 06 26 00 00 00  2009 02 24 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000  BPDL00POL               
 BPDL 12223M001        001  2009 02 24 00 00 00  2011 07 08 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000  BPDL00POL               
@@ -1867,7 +1870,8 @@ DOUR 13113M001        001  2018 11 12 08 35 00  2019 09 09 09 15 00  SEPT POLARX
 DOUR 13113M001        001  2019 09 09 09 15 00  2021 02 01 12 00 00  SEPT POLARX4                                999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.7619  DOUR00BEL               
 DOUR 13113M001        001  2021 02 01 12 00 00  2022 11 08 12 45 00  SEPT POLARX5                                999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.7619  DOUR00BEL               
 DOUR 13113M001        001  2022 11 08 12 45 00  2024 04 09 10 00 00  SEPT POLARX5                                999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.7619  DOUR00BEL               
-DOUR 13113M001        001  2024 04 09 10 00 00                       SEPT POLARX5                                999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.7619  DOUR00BEL               
+DOUR 13113M001        001  2024 04 09 10 00 00  2025 05 13 06 15 00  SEPT POLARX5                                999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.7619  DOUR00BEL               
+DOUR 13113M001        001  2025 05 13 06 15 00                       SEPT POLARX5                                999999  LEIAR25.R3      NONE                        999999    0.0000    0.0000    0.7619  DOUR00BEL               
 DRAG 20710S001        001  2000 02 07 00 00 00  2000 06 12 00 00 00  ASHTECH Z-XII3                              999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0000  DRAG00ISR               
 DRAG 20710S001        001  2000 06 12 00 00 00  2000 06 22 00 00 00  ASHTECH Z-XII3                              999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0000  DRAG00ISR               
 DRAG 20710S001        001  2000 06 22 00 00 00  2002 11 26 00 00 00  ASHTECH Z-XII3                              999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0000  DRAG00ISR               
