@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          15-05-2025 09:04
+Station information file for Bernese GNSS Software 5.2          15-05-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -134,7 +134,7 @@ ESCO 13435M001        001  1999 04 21 00 00 00                       ESCO*      
 EUSK 14258M003        001  1998 04 02 00 00 00                       EUSK*                 eusk00deu_20240919.log
 EVPA 12344M001        001  2002 11 26 13 15 00  2014 04 01 00 00 00  EVPA*                 evpa00ukr_20220504.log
 FATA 12773M001        001  2005 09 01 12 00 00  2006 04 19 00 00 00  FATA*                 fata00ita_20050901.log
-FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*                 ffmj00deu_20250502.log
+FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*                 ffmj00deu_20250515.log
 FINS 10523M001        001  2014 11 13 12 00 00                       FINS*                 fins00fin_20240417.log
 FLRS 31907M001        001  2008 04 09 17 00 00                       FLRS*                 flrs00prt_20250414.log
 FOCS 11443M001        001  2007 03 12 12 00 00                       FOCS*                 focs00rou_20250411.log
@@ -229,7 +229,7 @@ KRS1 20816M001        001  2008 09 27 00 00 00                       KRS1*      
 KTVL 12337M003        001  2009 09 14 16 15 00                       KTVL*                 ktvl00ukr_20170801.log
 KUNZ 11524M001        001  2005 09 23 12 30 00                       KUNZ*                 kunz00cze_20240827.log
 KURE 10604S001        001  2007 11 15 11 30 00                       KURE*                 kure00est_20240621.log
-KUU2 10517M002        001  2014 01 02 12 00 00                       KUU2*                 kuu200fin_20240417.log
+KUU2 10517M002        001  2014 01 02 12 00 00                       KUU2*                 kuu200fin_20250515.log
 LAGO 13903M001        001  2000 01 02 14 35 00                       LAGO*                 lago00prt_20250415.log
 LAMA 12209M001        001  1994 12 01 00 00 00                       LAMA*                 lama00pol_20250108.log
 LAMP 12706M002        001  1999 03 25 00 00 00                       LAMP*                 lamp00ita_20240718.log
@@ -279,7 +279,7 @@ MERS 20814M001        001  2000 09 12 00 00 00                       MERS*      
 MET3 10503M010        001  2013 12 19 12 00 00                       MET3*                 met300fin_20250307.log
 METG 10503M002        001  2012 07 03 00 00 00                       METG*                 metg00fin_20221201.log
 METS 10503S011        001  1992 04 30 12 00 00  2024 06 25 08 15 00  METS*                 mets00fin_20240626.log
-MIK3 10526M001        001  2013 12 19 12 00 00                       MIK3*                 mik300fin_20240417.log
+MIK3 10526M001        001  2013 12 19 12 00 00                       MIK3*                 mik300fin_20250515.log
 MIKL 12335M001        001  2002 04 20 20 00 00                       MIKL*                 mikl00ukr_20250206.log
 MILO 12758M001        001  2001 10 05 00 00 00  2012 03 22 00 00 00  MILO*                 milo00ita_20240718.log
 MKRS 15599M001        001  2008 11 30 00 00 00  2024 12 04 08 55 00  MKRS*                 mkrs00ukr_20241205.log
@@ -2194,7 +2194,8 @@ FFMJ 14279M001        001  2021 08 31 08 40 00  2022 03 03 06 19 00  JAVAD TRE_3
 FFMJ 14279M001        001  2022 03 03 06 19 00  2023 02 08 09 08 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450  FFMJ00DEU               
 FFMJ 14279M001        001  2023 02 08 09 08 00  2024 02 15 07 46 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450  FFMJ00DEU               
 FFMJ 14279M001        001  2024 02 15 07 46 00  2025 05 02 09 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450  FFMJ00DEU               
-FFMJ 14279M001        001  2025 05 02 09 00 00                       SEPT POLARX5E                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450  FFMJ00DEU               
+FFMJ 14279M001        001  2025 05 02 09 00 00  2025 05 15 07 00 00  SEPT POLARX5E                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450  FFMJ00DEU               
+FFMJ 14279M001        001  2025 05 15 07 00 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450  FFMJ00DEU               
 FINS 10523M001        001  2014 11 13 12 00 00  2015 03 12 13 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  FINS00FIN               
 FINS 10523M001        001  2015 03 12 13 00 00  2016 12 12 08 50 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  FINS00FIN               
 FINS 10523M001        001  2016 12 12 08 50 00  2017 04 24 11 28 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  FINS00FIN               
@@ -3456,7 +3457,8 @@ KUU2 10517M002        001  2020 08 06 12 00 00  2021 03 16 13 25 00  JAVAD TRE_3
 KUU2 10517M002        001  2021 03 16 13 25 00  2021 11 19 07 10 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  KUU200FIN               
 KUU2 10517M002        001  2021 11 19 07 10 00  2022 11 03 06 27 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  KUU200FIN               
 KUU2 10517M002        001  2022 11 03 06 27 00  2024 04 17 17 25 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  KUU200FIN               
-KUU2 10517M002        001  2024 04 17 17 25 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  KUU200FIN               
+KUU2 10517M002        001  2024 04 17 17 25 00  2025 05 15 09 39 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  KUU200FIN               
+KUU2 10517M002        001  2025 05 15 09 39 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  KUU200FIN               
 LAGO 13903M001        001  2000 01 02 14 35 00  2002 07 23 15 00 00  LEICA CRS1000                               999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000  LAGO00PRT               
 LAGO 13903M001        001  2002 07 23 15 00 00  2009 09 02 15 30 00  LEICA RS500                                 999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000  LAGO00PRT               
 LAGO 13903M001        001  2009 09 02 15 30 00  2010 02 05 12 00 00  LEICA RS500                                 999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000  LAGO00PRT               
@@ -4149,7 +4151,8 @@ MIK3 10526M001        001  2019 10 28 11 55 00  2021 03 16 13 35 00  JAVAD TRE_3
 MIK3 10526M001        001  2021 03 16 13 35 00  2021 11 19 07 50 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  MIK300FIN               
 MIK3 10526M001        001  2021 11 19 07 50 00  2022 11 03 06 35 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  MIK300FIN               
 MIK3 10526M001        001  2022 11 03 06 35 00  2024 04 17 17 40 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  MIK300FIN               
-MIK3 10526M001        001  2024 04 17 17 40 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  MIK300FIN               
+MIK3 10526M001        001  2024 04 17 17 40 00  2025 05 15 09 28 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  MIK300FIN               
+MIK3 10526M001        001  2025 05 15 09 28 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  MIK300FIN               
 MIKL 12335M001        001  2002 04 20 20 00 00  2015 07 20 10 00 00  TRIMBLE 4700                                999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.0237  MIKL00UKR               
 MIKL 12335M001        001  2015 07 20 10 00 00  2016 02 11 10 30 00  TRIMBLE 4700                                999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.0237  MIKL00UKR               
 MIKL 12335M001        001  2016 02 11 10 30 00  2016 03 23 15 18 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0237  MIKL00UKR               
