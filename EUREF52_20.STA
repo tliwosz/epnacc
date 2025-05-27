@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          27-05-2025 09:04
+Station information file for Bernese GNSS Software 5.2          27-05-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -389,7 +389,7 @@ SBG2 11031M002        001  2008 01 29 12 50 00                       SBG2*      
 SBGZ 11031S001        001  1998 12 21 12 00 00  2008 01 29 12 50 00  SBGZ*                 sbgz00aut_20230421.log
 SCIL 19201M001        001  2010 08 18 10 00 00                       SCIL*                 scil00gbr_20230406.log
 SCOA 10088M002        001  2005 12 14 12 00 00                       SCOA*                 scoa00fra_20240716.log
-SCOR 43006M002        001  2004 09 12 00 00 00                       SCOR*                 scor00grl_20230925.log
+SCOR 43006M002        001  2004 09 12 00 00 00                       SCOR*                 scor00grl_20250527.log
 SFER 13402M004        001  1995 12 18 00 00 00                       SFER*                 sfer00esp_20230919.log
 SHOE 19197M001        001  2005 08 18 00 00 00                       SHOE*                 shoe00gbr_20250513.log
 SID0 12132M001        001  2008 04 01 00 00 00                       SID0*                 sid000srb_20231020.log
@@ -5432,7 +5432,8 @@ SCOR 43006M002        001  2021 01 13 17 15 00  2021 07 26 23 45 00  SEPT POLARX
 SCOR 43006M002        001  2021 07 26 23 45 00  2021 09 09 15 08 00  SEPT POLARX5                                999999  ASH701941.B     SCIS                        999999    0.0000    0.0000    0.1977  SCOR00GRL               
 SCOR 43006M002        001  2021 09 09 15 08 00  2022 09 08 12 33 00  SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1977  SCOR00GRL               
 SCOR 43006M002        001  2022 09 08 12 33 00  2023 09 19 14 50 00  SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1977  SCOR00GRL               
-SCOR 43006M002        001  2023 09 19 14 50 00                       SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1977  SCOR00GRL               
+SCOR 43006M002        001  2023 09 19 14 50 00  2025 05 27 10 01 00  SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1977  SCOR00GRL               
+SCOR 43006M002        001  2025 05 27 10 01 00                       SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1977  SCOR00GRL               
 SFER 13402M004        001  1995 12 18 00 00 00  1997 12 31 00 00 00  TRIMBLE 4000SSE                             999999  TRM22020.00+GP  NONE                        999999    0.0000    0.0000    1.6260  SFER00ESP               
 SFER 13402M004        001  1997 12 31 00 00 00  1998 02 04 00 00 00  TRIMBLE 4000SSE                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    1.6260  SFER00ESP               
 SFER 13402M004        001  1998 02 04 00 00 00  1998 06 02 00 00 00  TRIMBLE 4000SSE                             999999  TRM22020.00+GP  NONE                        999999    0.0000    0.0000    1.6260  SFER00ESP               
