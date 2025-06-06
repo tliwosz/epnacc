@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             06-06-2025 09:04
+BSW 5.4 station information file for EPN processing             06-06-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -131,7 +131,7 @@ ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*      
 ENTZ 10014M002        001  2004 12 01 12 00 00                       ENTZ*                 entz00fra_20240716.log
 ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza00ita_20241128.log
 ESCO 13435M001        001  1999 04 21 00 00 00                       ESCO*                 esco00esp_20240902.log
-EUSK 14258M003        001  1998 04 02 00 00 00                       EUSK*                 eusk00deu_20240919.log
+EUSK 14258M003        001  1998 04 02 00 00 00                       EUSK*                 eusk00deu_20250606.log
 EVPA 12344M001        001  2002 11 26 13 15 00  2014 04 01 00 00 00  EVPA*                 evpa00ukr_20220504.log
 FATA 12773M001        001  2005 09 01 12 00 00  2006 04 19 00 00 00  FATA*                 fata00ita_20050901.log
 FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*                 ffmj00deu_20250515.log
@@ -505,7 +505,7 @@ VLNS 10801M001        001  1997 09 16 11 00 00                       VLNS*      
 VNRS 18101M001        001  2009 11 12 00 00 00  2024 02 05 10 47 00  VNRS*                 vnrs00ukr_20240213.log
 VTRB 14606M001        001  2019 07 26 07 30 00                       VTRB*                 vtrb00ita_20241204.log
 WARE 13114M001        001  1994 01 14 00 00 00                       WARE*                 ware00bel_20230310.log
-WARN 14277M002        001  2003 02 11 12 00 00                       WARN*                 warn00deu_20250505.log
+WARN 14277M002        001  2003 02 11 12 00 00                       WARN*                 warn00deu_20250606.log
 WETT 14201M009        001  1994 06 07 00 00 00  1996 08 31 00 00 00  WETT*                 wett00deu_20230511.log
 WRLG 14201M024        001  2015 03 17 12 40 00                       WRLG*                 wrlg00deu_20230509.log
 WROC 12217M001        001  1996 11 28 00 00 00                       WROC*                 wroc00pol_20240812.log
@@ -2166,7 +2166,8 @@ EUSK 14258M003        001  2022 03 31 09 32 00  2022 09 05 11 17 00  LEICA GR50 
 EUSK 14258M003        001  2022 09 05 11 17 00  2023 02 08 10 18 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
 EUSK 14258M003        001  2023 02 08 10 18 00  2023 11 13 09 43 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
 EUSK 14258M003        001  2023 11 13 09 43 00  2024 09 19 10 00 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
-EUSK 14258M003        001  2024 09 19 10 00 00                       SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
+EUSK 14258M003        001  2024 09 19 10 00 00  2025 06 06 08 28 00  SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
+EUSK 14258M003        001  2025 06 06 08 28 00                       SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
 EVPA 12344M001        001  2002 11 26 13 15 00  2009 06 30 06 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000   180.0  EVPA00UKR  EVPA00UKR               
 EVPA 12344M001        001  2009 06 30 06 00 00  2011 02 01 12 20 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000   180.0  EVPA00UKR  EVPA00UKR               
 EVPA 12344M001        001  2011 02 01 12 20 00  2014 04 01 00 00 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0040  -135.0  EVPA00UKR  EVPA00UKR               
@@ -6896,7 +6897,8 @@ WARN 14277M002        001  2021 08 31 11 35 00  2022 03 03 07 20 00  JAVAD TRE_3
 WARN 14277M002        001  2022 03 03 07 20 00  2023 02 08 09 59 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
 WARN 14277M002        001  2023 02 08 09 59 00  2024 02 15 09 49 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
 WARN 14277M002        001  2024 02 15 09 49 00  2025 05 05 06 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
-WARN 14277M002        001  2025 05 05 06 00 00                       SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
+WARN 14277M002        001  2025 05 05 06 00 00  2025 06 06 08 31 00  SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
+WARN 14277M002        001  2025 06 06 08 31 00                       SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
 WETT 14201M009        001  1994 06 07 00 00 00  1996 08 31 00 00 00  ROGUE SNR-800                               999999  AOAD/M_B        NONE                        999999    0.0000    0.0000    0.0000          WETT00DEU  WETT00DEU               
 WRLG 14201M024        001  2015 03 17 12 40 00  2016 07 12 15 00 00  LEICA GR25                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0301          WRLG00DEU  WRLG00DEU               
 WRLG 14201M024        001  2016 07 12 15 00 00  2016 11 10 13 00 00  LEICA GR25                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0301          WRLG00DEU  WRLG00DEU               
