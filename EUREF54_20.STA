@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             09-06-2025 04:04
+BSW 5.4 station information file for EPN processing             09-06-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -376,7 +376,7 @@ RIGA 12302M002        001  1995 12 05 04 00 00                       RIGA*      
 RIO1 13448M002        001  2012 01 31 12 00 00                       RIO1*                 rio100esp_20250221.log
 RIOJ 13448M001        001  2001 04 26 00 00 00  2012 04 08 00 00 00  RIOJ*                 rioj00esp_20220907.log
 RIVO 14611M001        001  2019 09 12 15 00 00                       RIVO*                 rivo00ita_20240718.log
-ROM2 10520M002        001  2014 01 29 12 00 00                       ROM2*                 rom200fin_20240418.log
+ROM2 10520M002        001  2014 01 29 12 00 00                       ROM2*                 rom200fin_20250609.log
 ROVE 12774M001        001  2001 06 14 00 00 00                       ROVE*                 rove00ita_20200709.log
 RVNE 15542M003        001  2019 03 12 15 10 00                       RVNE*                 rvne00ukr_20211201.log
 SABA 12112M001        001  2011 01 20 00 00 00                       SABA*                 saba00srb_20230207.log
@@ -5297,7 +5297,8 @@ ROM2 10520M002        001  2019 10 25 09 20 00  2021 03 17 11 05 00  JAVAD TRE_3
 ROM2 10520M002        001  2021 03 17 11 05 00  2021 11 19 09 25 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
 ROM2 10520M002        001  2021 11 19 09 25 00  2022 11 03 08 21 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
 ROM2 10520M002        001  2022 11 03 08 21 00  2024 04 18 05 49 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
-ROM2 10520M002        001  2024 04 18 05 49 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
+ROM2 10520M002        001  2024 04 18 05 49 00  2025 06 09 07 29 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
+ROM2 10520M002        001  2025 06 09 07 29 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
 ROVE 12774M001        001  2001 06 14 00 00 00  2006 09 16 00 00 00  LEICA RS500                                 999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0940          ROVE00ITA  ROVE00ITA               
 ROVE 12774M001        001  2006 09 16 00 00 00  2009 10 28 00 00 00  LEICA RS500                                 999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0940          ROVE00ITA  ROVE00ITA               
 ROVE 12774M001        001  2009 10 28 00 00 00  2009 10 29 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0940          ROVE00ITA  ROVE00ITA               
