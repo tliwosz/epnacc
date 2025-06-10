@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             10-06-2025 09:04
+BSW 5.4 station information file for EPN processing             10-06-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -185,7 +185,7 @@ IGD1 12605M001        001  2004 07 21 00 00 00  2005 06 18 00 00 00  IGD1*      
 IGEO 15101M001        001  2007 07 03 11 00 00                       IGEO*                 igeo00mda_20250526.log
 IGM2 12701M005        001  2016 12 13 12 00 00                       IGM2*                 igm200ita_20201209.log
 IGMI 12701M003        001  1998 07 30 00 00 00                       IGMI*                 igmi00ita_20210316.log
-IGNF 10001M009        001  2020 01 15 00 00 00                       IGNF*                 ignf00fra_20240716.log
+IGNF 10001M009        001  2020 01 15 00 00 00  2025 06 10 13 30 00  IGNF*                 ignf00fra_20250610.log
 IGNP 10001M011        001  2024 07 05 12 00 00                       IGNP*                 ignp00fra_20241122.log
 IJMU 13537M001        001  2004 12 30 00 00 00                       IJMU*                 ijmu00nld_20240906.log
 ILDX 19724M001        001  2012 02 07 12 00 00                       ILDX*                 ildx00fra_20240716.log
@@ -208,7 +208,7 @@ KARL 14216M001        001  1997 03 20 00 00 00                       KARL*      
 KATO 12219S001        001  2003 01 30 00 00 00                       KATO*                 kato00pol_20250415.log
 KDA2 14504M002        001  2016 01 02 10 00 00                       KDA2*                 kda200svn_20220617.log
 KELY 43005M002        001  1995 07 23 00 00 00                       KELY*                 kely00grl_20231101.log
-KEV2 10515M002        001  2014 01 29 12 00 00                       KEV2*                 kev200fin_20240417.log
+KEV2 10515M002        001  2014 01 29 12 00 00                       KEV2*                 kev200fin_20250610.log
 KHAR 12314M001        001  2002 11 25 13 00 00                       KHAR*                 khar00ukr_20171011.log
 KILP 10525M001        001  2014 01 29 12 00 00                       KILP*                 kilp00fin_20240417.log
 KIR0 10422M001        001  1993 08 01 00 00 00                       KIR0*                 kir000swe_20231017.log
@@ -2887,7 +2887,7 @@ IGNF 10001M009        001  2020 01 15 00 00 00  2020 04 16 12 00 00  TRIMBLE NET
 IGNF 10001M009        001  2020 04 16 12 00 00  2020 09 10 15 00 00  TRIMBLE NETR9                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          IGNF00FRA  IGNF00FRA               
 IGNF 10001M009        001  2020 09 10 15 00 00  2022 01 24 15 00 00  LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          IGNF00FRA  IGNF00FRA               
 IGNF 10001M009        001  2022 01 24 15 00 00  2024 07 16 00 00 00  LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          IGNF00FRA  IGNF00FRA               
-IGNF 10001M009        001  2024 07 16 00 00 00                       LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          IGNF00FRA  IGNF00FRA               
+IGNF 10001M009        001  2024 07 16 00 00 00  2025 06 10 13 30 00  LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          IGNF00FRA  IGNF00FRA               
 IGNP 10001M011        001  2024 07 05 12 00 00                       SEPT POLARX5                                999999  TRM57971.00     NONE                        999999    0.0000    0.0000    2.0295          IGNP00FRA  IGNP00FRA               
 IJMU 13537M001        001  2004 12 30 00 00 00  2007 02 21 00 00 00  TRIMBLE 5700                                999999  TRM29659.00     UNAV                        999999    0.0000    0.0000    0.0000          IJMU00NLD  IJMU00NLD               
 IJMU 13537M001        001  2007 02 21 00 00 00  2007 09 14 05 27 00  TPS ODYSSEY_E                               999999  TRM29659.00     UNAV                        999999    0.0000    0.0000    0.0000          IJMU00NLD  IJMU00NLD               
@@ -3165,7 +3165,8 @@ KEV2 10515M002        001  2019 10 28 08 35 00  2021 03 16 12 55 00  JAVAD TRE_3
 KEV2 10515M002        001  2021 03 16 12 55 00  2021 11 19 06 45 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KEV200FIN  KEV200FIN               
 KEV2 10515M002        001  2021 11 19 06 45 00  2022 11 03 05 55 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KEV200FIN  KEV200FIN               
 KEV2 10515M002        001  2022 11 03 05 55 00  2024 04 17 17 09 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KEV200FIN  KEV200FIN               
-KEV2 10515M002        001  2024 04 17 17 09 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KEV200FIN  KEV200FIN               
+KEV2 10515M002        001  2024 04 17 17 09 00  2025 06 10 10 00 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KEV200FIN  KEV200FIN               
+KEV2 10515M002        001  2025 06 10 10 00 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KEV200FIN  KEV200FIN               
 KHAR 12314M001        001  2002 11 25 13 00 00  2003 03 04 13 35 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          KHAR00UKR  KHAR00UKR               
 KHAR 12314M001        001  2003 03 04 13 35 00  2005 03 04 07 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          KHAR00UKR  KHAR00UKR               
 KHAR 12314M001        001  2005 03 04 07 00 00  2008 11 12 09 56 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          KHAR00UKR  KHAR00UKR               
