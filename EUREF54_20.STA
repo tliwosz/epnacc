@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             12-06-2025 13:04
+BSW 5.4 station information file for EPN processing             12-06-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -450,7 +450,7 @@ TOR2 10602M001        001  2011 07 27 13 00 00  2022 08 31 07 00 00  TOR2*      
 TOR3 10602M002        001  2022 10 07 09 00 00                       TOR3*                 tor300est_20240606.log
 TORA 10602S001        001  2007 11 08 12 00 00  2011 07 27 12 00 00  TORA*                 tora00est_20220810.log
 TORI 12724M002        001  1996 06 15 00 00 00                       TORI*                 tori00ita_20240318.log
-TORN 10530M001        001  2014 01 02 12 00 00                       TORN*                 torn00fin_20240418.log
+TORN 10530M001        001  2014 01 02 12 00 00                       TORN*                 torn00fin_20250612.log
 TOUL 10003M004        001  1997 01 20 00 00 00  2001 01 03 00 00 00  TOUL*                 toul00fra_20100113.log
 TRAB 20808M001        001  1999 12 08 00 00 00  2007 11 27 00 00 00  TRAB*                 trab00tur_20230511.log
 TRDS 10331M001        001  1995 09 27 00 00 00                       TRDS*                 trds00nor_20241018.log
@@ -6242,7 +6242,8 @@ TORN 10530M001        001  2019 10 28 10 12 00  2021 03 17 11 25 00  JAVAD TRE_3
 TORN 10530M001        001  2021 03 17 11 25 00  2021 11 19 11 45 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          TORN00FIN  TORN00FIN               
 TORN 10530M001        001  2021 11 19 11 45 00  2022 11 03 08 59 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          TORN00FIN  TORN00FIN               
 TORN 10530M001        001  2022 11 03 08 59 00  2024 04 18 06 09 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          TORN00FIN  TORN00FIN               
-TORN 10530M001        001  2024 04 18 06 09 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          TORN00FIN  TORN00FIN               
+TORN 10530M001        001  2024 04 18 06 09 00  2025 06 12 14 27 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          TORN00FIN  TORN00FIN               
+TORN 10530M001        001  2025 06 12 14 27 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          TORN00FIN  TORN00FIN               
 TOUL 10003M004        001  1997 01 20 00 00 00  2001 01 03 00 00 00  ROGUE SNR-12 RM                             999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.6325          TOUL00FRA  TOUL00FRA               
 TRAB 20808M001        001  1999 12 08 00 00 00  2007 11 27 00 00 00  ASHTECH Z-XII3                              999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0610          TRAB00TUR  TRAB00TUR               
 TRDS 10331M001        001  1995 09 27 00 00 00  1997 10 16 07 39 00  TRIMBLE 4000SSI                             999999  TRM23903.00     NONE                        999999    0.0180    0.0040    5.0720          TRDS00NOR  TRDS00NOR               
