@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             13-06-2025 09:04
+BSW 5.4 station information file for EPN processing             13-06-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -63,7 +63,7 @@ BRUS 13101M004        001  1993 10 20 00 00 00  2012 02 14 07 35 00  BRUS*      
 BRUX 13101M010        001  2006 07 07 00 00 00                       BRUX*                 brux00bel_20230124.log
 BSCN 10028M007        001  2001 10 16 00 00 00                       BSCN*                 bscn00fra_20240716.log
 BSVZ 12718M004        001  2018 12 06 00 00 00                       BSVZ*                 bsvz00ita_20240718.log
-BUCU 11401M001        001  1999 02 11 07 00 00                       BUCU*                 bucu00rou_20250124.log
+BUCU 11401M001        001  1999 02 11 07 00 00                       BUCU*                 bucu00rou_20250613.log
 BUDD 10101S001        001  2017 10 05 12 00 00                       BUDD*                 budd00dnk_20221113.log
 BUDP 10101M003        001  1999 01 06 00 00 00                       BUDP*                 budp00dnk_20250430.log
 BUTE 11209M001        001  2003 02 28 09 00 00                       BUTE*                 bute00hun_20240723.log
@@ -384,7 +384,7 @@ SALA 13469M001        001  2006 08 10 00 00 00                       SALA*      
 SART 18497M001        001  2018 12 17 00 00 00                       SART*                 sart00ita_20240718.log
 SAS2 14281M002        001  2015 10 22 14 00 00                       SAS2*                 sas200deu_20250505.log
 SASS 14281M001        001  2002 12 12 12 00 00  2019 02 28 23 59 00  SASS*                 sass00deu_20220905.log
-SAVU 10529M001        001  2014 01 29 12 00 00                       SAVU*                 savu00fin_20240418.log
+SAVU 10529M001        001  2014 01 29 12 00 00                       SAVU*                 savu00fin_20250613.log
 SBG2 11031M002        001  2008 01 29 12 50 00                       SBG2*                 sbg200aut_20250416.log
 SBGZ 11031S001        001  1998 12 21 12 00 00  2008 01 29 12 50 00  SBGZ*                 sbgz00aut_20230421.log
 SCIL 19201M001        001  2010 08 18 10 00 00                       SCIL*                 scil00gbr_20230406.log
@@ -1211,7 +1211,8 @@ BUCU 11401M001        001  2022 03 30 16 36 00  2022 07 29 11 05 00  LEICA GR50 
 BUCU 11401M001        001  2022 07 29 11 05 00  2024 07 16 09 35 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0970          BUCU00ROU  BUCU00ROU               
 BUCU 11401M001        001  2024 07 16 09 35 00  2024 07 22 17 05 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0970          BUCU00ROU  BUCU00ROU               
 BUCU 11401M001        001  2024 07 22 17 05 00  2025 01 17 09 00 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0970          BUCU00ROU  BUCU00ROU               
-BUCU 11401M001        001  2025 01 17 09 00 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0970          BUCU00ROU  BUCU00ROU               
+BUCU 11401M001        001  2025 01 17 09 00 00  2025 06 13 11 58 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0970          BUCU00ROU  BUCU00ROU               
+BUCU 11401M001        001  2025 06 13 11 58 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0970          BUCU00ROU  BUCU00ROU               
 BUDD 10101S001        001  2017 10 05 12 00 00  2020 04 27 07 29 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    2.6944          BUDD00DNK  BUDD00DNK               
 BUDD 10101S001        001  2020 04 27 07 29 00  2020 04 28 08 01 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    2.6944          BUDD00DNK  BUDD00DNK               
 BUDD 10101S001        001  2020 04 28 08 01 00  2020 05 12 07 00 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    2.6944          BUDD00DNK  BUDD00DNK               
@@ -5379,7 +5380,8 @@ SAVU 10529M001        001  2019 10 28 09 58 00  2021 03 17 11 10 00  JAVAD TRE_3
 SAVU 10529M001        001  2021 03 17 11 10 00  2021 11 19 09 57 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          SAVU00FIN  SAVU00FIN               
 SAVU 10529M001        001  2021 11 19 09 57 00  2022 11 03 08 39 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          SAVU00FIN  SAVU00FIN               
 SAVU 10529M001        001  2022 11 03 08 39 00  2024 04 18 05 55 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          SAVU00FIN  SAVU00FIN               
-SAVU 10529M001        001  2024 04 18 05 55 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          SAVU00FIN  SAVU00FIN               
+SAVU 10529M001        001  2024 04 18 05 55 00  2025 06 13 09 20 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          SAVU00FIN  SAVU00FIN               
+SAVU 10529M001        001  2025 06 13 09 20 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          SAVU00FIN  SAVU00FIN               
 SBG2 11031M002        001  2008 01 29 12 50 00  2010 06 21 08 30 00  TPS E_GGD                                   999999  TPSCR3_GGD      OLGA                        999999    0.0000    0.0000    0.1680          SBG200AUT  SBG200AUT               
 SBG2 11031M002        001  2010 06 21 08 30 00  2017 02 02 09 50 00  TPS E_GGD                                   999999  TPSCR3_GGD      OLGA                        999999    0.0000    0.0000    0.1680          SBG200AUT  SBG200AUT               
 SBG2 11031M002        001  2017 02 02 09 50 00  2017 09 27 07 18 00  LEICA GR30                                  999999  LEIAR25.R3      BEVA                        999999    0.0000    0.0000    0.0600          SBG200AUT  SBG200AUT               
