@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          18-06-2025 09:04
+Station information file for Bernese GNSS Software 5.2          18-06-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -101,7 +101,7 @@ CREI 10016M001        001  2003 07 07 00 00 00  2018 03 01 09 00 00  CREI*      
 CREU 13432M001        001  1997 06 18 00 00 00                       CREU*                 creu00esp_20240913.log
 CTAB 11529M001        001  2005 01 14 00 00 00                       CTAB*                 ctab00cze_20250218.log
 CUGA 18494M001        001  2018 09 27 00 00 00                       CUGA*                 cuga00ita_20240718.log
-DARE 13208S001        001  2000 04 10 00 00 00                       DARE*                 dare00gbr_20250508.log
+DARE 13208S001        001  2000 04 10 00 00 00                       DARE*                 dare00gbr_20250618.log
 DELF 13502M004        001  1994 12 30 13 00 00                       DELF*                 delf00nld_20230630.log
 DENT 13112M001        001  1994 01 06 00 00 00                       DENT*                 dent00bel_20250415.log
 DEVA 11408M001        001  2005 05 21 12 00 00                       DEVA*                 deva00rou_20241210.log
@@ -189,7 +189,7 @@ IGNF 10001M009        001  2020 01 15 00 00 00  2025 06 10 13 30 00  IGNF*      
 IGNP 10001M011        001  2024 07 05 12 00 00                       IGNP*                 ignp00fra_20241122.log
 IJMU 13537M001        001  2004 12 30 00 00 00                       IJMU*                 ijmu00nld_20240906.log
 ILDX 19724M001        001  2012 02 07 12 00 00                       ILDX*                 ildx00fra_20240716.log
-INVE 13221S001        001  2000 01 02 00 00 00  2009 01 20 09 20 00  INVE*                 inve00gbr_20230406.log
+INVE 13221S001        001  2000 01 02 00 00 00  2009 01 20 09 20 00  INVE*                 inve00gbr_20250618.log
 INVR 13221M001        001  2009 01 20 09 20 00                       INVR*                 invr00gbr_20230406.log
 IRBE 10726M001        001  1998 04 02 00 00 00                       IRBE*                 irbe00lva_20240826.log
 ISRN 14669M001        001  2021 05 05 10 00 00                       ISRN*                 isrn00ita_20240718.log
@@ -343,7 +343,7 @@ PFA3 11005M004        001  2015 11 12 09 00 00                       PFA3*      
 PFAN 11005S002        001  1997 04 10 00 00 00  2007 11 29 12 00 00  PFAN*                 pfan00aut_20230427.log
 PINS 14808M001        001  2011 04 20 10 58 00                       PINS*                 pins00blr_20240808.log
 PLND 12111M001        001  2011 01 18 12 00 00  2023 08 30 12 00 00  PLND*                 plnd00srb_20231225.log
-PLYM 13229S001        001  2002 01 23 00 00 00  2004 02 12 23 59 00  PLYM*                 plym00gbr_20230406.log
+PLYM 13229S001        001  2002 01 23 00 00 00  2004 02 12 23 59 00  PLYM*                 plym00gbr_20250618.log
 PMTH 13229M001        001  2004 02 13 00 00 00                       PMTH*                 pmth00gbr_20230406.log
 POLV 12336M001        001  2001 04 26 16 45 00                       POLV*                 polv00ukr_20250613.log
 POPI 14670M001        001  2021 07 01 10 00 00                       POPI*                 popi00ita_20240718.log
