@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          20-06-2025 16:04
+Station information file for Bernese GNSS Software 5.2          20-06-2025 21:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -112,7 +112,7 @@ DLF1 13502M009        001  2011 04 15 10 00 00                       DLF1*      
 DLKS 10704M003        001  2019 06 13 13 00 00                       DLKS*                 dlks00lva_20240612.log
 DNMU 12369M001        001  2005 04 08 10 32 00                       DNMU*                 dnmu00ukr_20250613.log
 DOUR 13113M001        001  1994 01 11 00 00 00                       DOUR*                 dour00bel_20250513.log
-DRAG 20710S001        001  2000 02 07 00 00 00                       DRAG*                 drag00isr_20210217.log
+DRAG 20710S001        001  2000 02 07 00 00 00                       DRAG*                 drag00isr_20250620.log
 DRES 14108M001        001  1997 10 24 00 00 00  2016 09 08 08 27 00  DRES*                 dres00deu_20220905.log
 DUB2 11901M002        001  2011 11 03 00 00 00                       DUB2*                 dub200hrv_20250429.log
 DUBR 11901M001        001  2000 09 22 00 00 00  2012 10 24 00 00 00  DUBR*                 dubr00hrv_20120918.log
@@ -367,7 +367,7 @@ QAQ1 43007M001        001  2001 10 15 00 00 00                       QAQ1*      
 RABT 35001M002        001  2000 05 17 00 00 00                       RABT*                 rabt00mar_20250219.log
 RAEG 31912M003        001  2015 05 15 00 00 00                       RAEG*                 raeg00prt_20240411.log
 RAH1 15811M001        001  2008 08 29 15 00 00                       RAH1*                 rah100ukr_20230412.log
-RAMO 20703S001        001  1998 06 10 00 00 00                       RAMO*                 ramo00isr_20210217.log
+RAMO 20703S001        001  1998 06 10 00 00 00                       RAMO*                 ramo00isr_20250620.log
 RANT 10914M001        001  2014 05 09 10 00 00                       RANT*                 rant00deu_20250502.log
 REDU 13102M001        001  2003 04 16 00 00 00                       REDU*                 redu00bel_20230119.log
 REDZ 12227M001        001  2007 12 07 00 00 00                       REDZ*                 redz00pol_20250218.log
