@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             22-06-2025 09:04
+BSW 5.4 station information file for EPN processing             22-06-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -115,7 +115,7 @@ DOUR 13113M001        001  1994 01 11 00 00 00                       DOUR*      
 DRAG 20710S001        001  2000 02 07 00 00 00                       DRAG*                 drag00isr_20250620.log
 DRES 14108M001        001  1997 10 24 00 00 00  2016 09 08 08 27 00  DRES*                 dres00deu_20220905.log
 DUB2 11901M002        001  2011 11 03 00 00 00                       DUB2*                 dub200hrv_20250429.log
-DUBR 11901M001        001  2000 09 22 00 00 00  2012 10 24 00 00 00  DUBR*                 dubr00hrv_20120918.log
+DUBR 11901M001        001  2000 09 22 00 00 00  2012 10 24 00 00 00  DUBR*                 dubr00hrv_20250622.log
 DUTH 12621M001        001  2008 09 11 00 00 00                       DUTH*                 duth00grc_20201009.log
 DVCN 11709M001        001  2021 03 23 11 50 00                       DVCN*                 dvcn00svk_20250416.log
 DYNG 12602M006        001  2011 05 12 09 03 00                       DYNG*                 dyng00grc_20241021.log
@@ -322,7 +322,7 @@ ORID 15601M001        001  2000 07 20 00 00 00                       ORID*      
 ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*                 oriv00fin_20250307.log
 OROS 11207M001        001  2001 09 20 00 00 00                       OROS*                 oros00hun_20221118.log
 ORTE 14602M001        001  2019 07 30 11 30 00                       ORTE*                 orte00ita_20240718.log
-OSJE 11902M001        001  2000 09 18 00 00 00  2013 04 05 00 00 00  OSJE*                 osje00hrv_20120918.log
+OSJE 11902M001        001  2000 09 18 00 00 00  2013 04 05 00 00 00  OSJE*                 osje00hrv_20250622.log
 OSK6 10435M002        001  2011 06 18 00 00 00                       OSK6*                 osk600swe_20250416.log
 OSLO 10307M001        001  1995 10 05 00 00 00  2000 05 16 13 15 00  OSLO*                 oslo00nor_20241018.log
 OSLS 10307M001        001  1995 10 05 00 00 00                       OSLS*                 osls00nor_20241018.log
