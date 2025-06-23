@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             23-06-2025 09:04
+BSW 5.4 station information file for EPN processing             23-06-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -505,7 +505,7 @@ VLNS 10801M001        001  1997 09 16 11 00 00                       VLNS*      
 VNRS 18101M001        001  2009 11 12 00 00 00  2024 02 05 10 47 00  VNRS*                 vnrs00ukr_20240213.log
 VTRB 14606M001        001  2019 07 26 07 30 00                       VTRB*                 vtrb00ita_20241204.log
 WARE 13114M001        001  1994 01 14 00 00 00                       WARE*                 ware00bel_20230310.log
-WARN 14277M002        001  2003 02 11 12 00 00                       WARN*                 warn00deu_20250606.log
+WARN 14277M002        001  2003 02 11 12 00 00                       WARN*                 warn00deu_20250623.log
 WETT 14201M009        001  1994 06 07 00 00 00  1996 08 31 00 00 00  WETT*                 wett00deu_20230511.log
 WRLG 14201M024        001  2015 03 17 12 40 00                       WRLG*                 wrlg00deu_20230509.log
 WROC 12217M001        001  1996 11 28 00 00 00                       WROC*                 wroc00pol_20240812.log
@@ -6912,7 +6912,8 @@ WARN 14277M002        001  2022 03 03 07 20 00  2023 02 08 09 59 00  JAVAD TRE_3
 WARN 14277M002        001  2023 02 08 09 59 00  2024 02 15 09 49 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
 WARN 14277M002        001  2024 02 15 09 49 00  2025 05 05 06 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
 WARN 14277M002        001  2025 05 05 06 00 00  2025 06 06 08 31 00  SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
-WARN 14277M002        001  2025 06 06 08 31 00                       SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
+WARN 14277M002        001  2025 06 06 08 31 00  2025 06 23 11 00 00  SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
+WARN 14277M002        001  2025 06 23 11 00 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
 WETT 14201M009        001  1994 06 07 00 00 00  1996 08 31 00 00 00  ROGUE SNR-800                               999999  AOAD/M_B        NONE                        999999    0.0000    0.0000    0.0000          WETT00DEU  WETT00DEU               
 WRLG 14201M024        001  2015 03 17 12 40 00  2016 07 12 15 00 00  LEICA GR25                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0301          WRLG00DEU  WRLG00DEU               
 WRLG 14201M024        001  2016 07 12 15 00 00  2016 11 10 13 00 00  LEICA GR25                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0301          WRLG00DEU  WRLG00DEU               
