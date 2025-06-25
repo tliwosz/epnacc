@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             25-06-2025 04:04
+BSW 5.4 station information file for EPN processing             25-06-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -126,7 +126,7 @@ EGLT 10032M001        001  2001 10 05 00 00 00                       EGLT*      
 EIJS 13533M001        001  1996 08 27 14 30 00                       EIJS*                 eijs00nld_20230417.log
 EKAR 12714M003        001  2018 12 07 00 00 00                       EKAR*                 ekar00ita_20240718.log
 ELBA 12721M002        001  2000 11 08 00 00 00                       ELBA*                 elba00ita_20240718.log
-ENAO 31902M005        001  2019 07 23 16 30 00                       ENAO*                 enao00prt_20250523.log
+ENAO 31902M005        001  2019 07 23 16 30 00                       ENAO*                 enao00prt_20250625.log
 ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*                 enis00gbr_20241112.log
 ENTZ 10014M002        001  2004 12 01 12 00 00                       ENTZ*                 entz00fra_20240716.log
 ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza00ita_20241128.log
