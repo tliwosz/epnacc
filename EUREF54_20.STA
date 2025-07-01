@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             01-07-2025 04:04
+BSW 5.4 station information file for EPN processing             01-07-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -301,7 +301,7 @@ NEWL 13273M103        001  1998 09 30 00 00 00  2024 08 29 00 00 00  NEWL*      
 NICO 14302M001        001  1997 05 14 10 00 00                       NICO*                 nico00cyp_20250224.log
 NOA1 12620M001        001  2006 03 13 12 05 00                       NOA1*                 noa100grc_20240612.log
 NOR7 10410M003        001  2011 06 22 00 00 00                       NOR7*                 nor700swe_20250325.log
-NOT1 12717M004        001  2000 09 15 00 00 00                       NOT1*                 not100ita_20250610.log
+NOT1 12717M004        001  2000 09 15 00 00 00                       NOT1*                 not100ita_20250701.log
 NOTO 12717M003        001  1995 02 02 00 00 00  2000 09 09 00 00 00  NOTO*                 noto00ita_20240718.log
 NOVP 14801M001        001  2011 04 13 12 17 00                       NOVP*                 novp00blr_20240808.log
 NPAZ 12110M001        001  2005 10 27 00 00 00                       NPAZ*                 npaz00srb_20230207.log
@@ -4417,7 +4417,8 @@ NOT1 12717M004        001  2023 11 22 00 00 00  2024 02 27 00 00 00  LEICA GR30 
 NOT1 12717M004        001  2024 02 27 00 00 00  2024 07 18 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          NOT100ITA  NOT100ITA               
 NOT1 12717M004        001  2024 07 18 00 00 00  2025 03 28 00 00 00  LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          NOT100ITA  NOT100ITA               
 NOT1 12717M004        001  2025 03 28 00 00 00  2025 06 10 00 00 00  LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          NOT100ITA  NOT100ITA               
-NOT1 12717M004        001  2025 06 10 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          NOT100ITA  NOT100ITA               
+NOT1 12717M004        001  2025 06 10 00 00 00  2025 07 01 10 05 00  LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          NOT100ITA  NOT100ITA               
+NOT1 12717M004        001  2025 07 01 10 05 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          NOT100ITA  NOT100ITA               
 NOTO 12717M003        001  1995 02 02 00 00 00  1998 07 30 00 00 00  ROGUE SNR-8100                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0000          NOTO00ITA  NOTO00ITA               
 NOTO 12717M003        001  1998 07 30 00 00 00  2000 09 09 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          NOTO00ITA  NOTO00ITA               
 NOVP 14801M001        001  2011 04 13 12 17 00  2011 05 27 00 00 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.3010          NOVP00BLR  NOVP00BLR               
