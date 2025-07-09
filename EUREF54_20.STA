@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             09-07-2025 13:04
+BSW 5.4 station information file for EPN processing             09-07-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -211,7 +211,7 @@ KELY 43005M002        001  1995 07 23 00 00 00                       KELY*      
 KEV2 10515M002        001  2014 01 29 12 00 00                       KEV2*                 kev200fin_20250610.log
 KHAR 12314M001        001  2002 11 25 13 00 00                       KHAR*                 khar00ukr_20171011.log
 KILP 10525M001        001  2014 01 29 12 00 00                       KILP*                 kilp00fin_20240417.log
-KIR0 10422M001        001  1993 08 01 00 00 00                       KIR0*                 kir000swe_20231017.log
+KIR0 10422M001        001  1993 08 01 00 00 00                       KIR0*                 kir000swe_20250709.log
 KIR8 10422M002        001  2011 08 12 00 00 00                       KIR8*                 kir800swe_20250708.log
 KIRU 10403M002        001  1993 07 08 00 00 00                       KIRU*                 kiru00swe_20230417.log
 KIV2 10516M002        001  2014 01 29 12 00 00                       KIV2*                 kiv200fin_20250411.log
