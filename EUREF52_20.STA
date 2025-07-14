@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          14-07-2025 13:04
+Station information file for Bernese GNSS Software 5.2          14-07-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -333,7 +333,7 @@ PADO 12750S001        001  2001 11 21 13 00 00  2025 04 30 11 46 00  PADO*      
 PALB 14603M001        001  2019 07 16 09 45 00                       PALB*                 palb00ita_20250214.log
 PASA 19351S001        001  2007 02 12 00 00 00                       PASA*                 pasa00esp_20240418.log
 PAT0 12622M001        001  2009 01 26 14 10 00                       PAT0*                 pat000grc_20250328.log
-PCAR 13002M001        001  2024 11 07 00 00 00                       PCAR*                 pcar00and_20241218.log
+PCAR 13002M001        001  2024 11 07 00 00 00                       PCAR*                 pcar00and_20250714.log
 PDEL 31906M004        001  2000 01 16 14 35 00                       PDEL*                 pdel00prt_20250415.log
 PEN2 11206M007        001  2012 11 13 08 00 00                       PEN2*                 pen200hun_20240508.log
 PENC 11206M006        001  1996 03 01 00 00 00                       PENC*                 penc00hun_20220622.log
@@ -360,7 +360,7 @@ PTBB 14234M001        001  2000 03 29 00 00 00                       PTBB*      
 PULA 11903S001        001  2001 03 25 00 00 00  2003 02 09 00 00 00  PULA*                 pula00hrv_20020614.log
 PULK 12305M001        001  2002 04 22 00 00 00                       PULK*                 pulk00rus_20230622.log
 PUYV 10065M001        001  2004 08 26 12 00 00                       PUYV*                 puyv00fra_20240716.log
-PYHA 10528M001        001  2014 08 22 12 00 00                       PYHA*                 pyha00fin_20240417.log
+PYHA 10528M001        001  2014 08 22 12 00 00                       PYHA*                 pyha00fin_20250714.log
 PZA2 14506M002        001  2015 06 05 12 00 00                       PZA2*                 pza200svn_20220620.log
 QAQ1 43007M001        001  2001 10 15 00 00 00                       QAQ1*                 qaq100grl_20250526.log
 RABT 35001M002        001  2000 05 17 00 00 00                       RABT*                 rabt00mar_20250219.log
@@ -5100,7 +5100,8 @@ PYHA 10528M001        001  2019 10 28 09 45 00  2021 03 17 11 00 00  JAVAD TRE_3
 PYHA 10528M001        001  2021 03 17 11 00 00  2021 11 19 08 55 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  PYHA00FIN               
 PYHA 10528M001        001  2021 11 19 08 55 00  2022 11 03 08 12 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  PYHA00FIN               
 PYHA 10528M001        001  2022 11 03 08 12 00  2024 04 17 18 01 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  PYHA00FIN               
-PYHA 10528M001        001  2024 04 17 18 01 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  PYHA00FIN               
+PYHA 10528M001        001  2024 04 17 18 01 00  2025 07 14 13 25 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  PYHA00FIN               
+PYHA 10528M001        001  2025 07 14 13 25 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  PYHA00FIN               
 PZA2 14506M002        001  2015 06 05 12 00 00  2016 09 23 14 00 00  LEICA GRX1200PRO                            999999  LEIAR20         LEIM                        999999   -0.0003    0.0001    0.0800  PZA200SVN               
 PZA2 14506M002        001  2016 09 23 14 00 00  2019 07 19 16 02 00  LEICA GRX1200PRO                            999999  LEIAR20         LEIM                        999999   -0.0003    0.0001    0.0800  PZA200SVN               
 PZA2 14506M002        001  2019 07 19 16 02 00  2020 06 26 12 00 00  LEICA GRX1200PRO                            999999  LEIAR20         LEIM                        999999   -0.0003    0.0001    0.0800  PZA200SVN               
