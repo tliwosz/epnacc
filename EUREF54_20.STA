@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             15-07-2025 04:04
+BSW 5.4 station information file for EPN processing             15-07-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -327,8 +327,9 @@ OSK6 10435M002        001  2011 06 18 00 00 00                       OSK6*      
 OSLO 10307M001        001  1995 10 05 00 00 00  2000 05 16 13 15 00  OSLO*                 oslo00nor_20241018.log
 OSLS 10307M001        001  1995 10 05 00 00 00                       OSLS*                 osls00nor_20241018.log
 OST6 10436M002        001  2011 07 08 00 00 00                       OST6*                 ost600swe_20250410.log
-OUL2 10519M002        001  2013 12 19 12 00 00                       OUL2*                 oul200fin_20240417.log
+OUL2 10519M002        001  2013 12 19 12 00 00                       OUL2*                 oul200fin_20250715.log
 OVE6 10437M002        001  2011 08 11 00 00 00                       OVE6*                 ove600swe_20250407.log
+PAD1 12750M003        001  2025 04 30 14 49 00                       PAD1*                 pad100ita_20250505.log
 PADO 12750S001        001  2001 11 21 13 00 00  2025 04 30 11 46 00  PADO*                 pado00ita_20250430.log
 PALB 14603M001        001  2019 07 16 09 45 00                       PALB*                 palb00ita_20250214.log
 PASA 19351S001        001  2007 02 12 00 00 00                       PASA*                 pasa00esp_20240418.log
@@ -4707,7 +4708,8 @@ OUL2 10519M002        001  2021 11 19 08 45 00  2022 09 02 08 05 00  JAVAD TRE_3
 OUL2 10519M002        001  2022 09 02 08 05 00  2022 11 03 08 01 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
 OUL2 10519M002        001  2022 11 03 08 01 00  2023 07 26 06 55 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
 OUL2 10519M002        001  2023 07 26 06 55 00  2024 04 17 17 55 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
-OUL2 10519M002        001  2024 04 17 17 55 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
+OUL2 10519M002        001  2024 04 17 17 55 00  2025 07 15 07 00 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
+OUL2 10519M002        001  2025 07 15 07 00 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
 OVE6 10437M002        001  2011 08 11 00 00 00  2011 11 29 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 OVE6 10437M002        001  2011 11 29 00 00 00  2013 12 13 09 35 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 OVE6 10437M002        001  2013 12 13 09 35 00  2014 01 10 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
@@ -4722,6 +4724,7 @@ OVE6 10437M002        001  2019 11 05 18 00 00  2020 06 16 14 00 00  TRIMBLE NET
 OVE6 10437M002        001  2020 06 16 14 00 00  2022 11 21 09 20 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 OVE6 10437M002        001  2022 11 21 09 20 00  2025 04 07 14 30 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 OVE6 10437M002        001  2025 04 07 14 30 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
+PAD1 12750M003        001  2025 04 30 14 49 00                       STONEX SC2200                               999999  STXSA1200       STXR                        999999    0.0000    0.0000    0.0000          PAD100ITA  PAD100ITA               
 PADO 12750S001        001  2001 11 21 13 00 00  2002 08 01 10 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
 PADO 12750S001        001  2002 08 01 10 00 00  2002 11 04 10 00 00  TRIMBLE 4700                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
 PADO 12750S001        001  2002 11 04 10 00 00  2003 06 10 13 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
