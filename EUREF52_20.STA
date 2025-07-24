@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          24-07-2025 09:04
+Station information file for Bernese GNSS Software 5.2          24-07-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -96,7 +96,7 @@ COBA 13453M001        001  2004 04 12 00 00 00                       COBA*      
 COMO 12761M001        001  2001 04 15 00 00 00                       COMO*                 como00ita_20240319.log
 COST 11407M001        001  2004 08 28 12 00 00                       COST*                 cost00rou_20241209.log
 CPAR 11527M001        001  2005 01 11 00 00 00                       CPAR*                 cpar00cze_20250218.log
-CRAK 11528M001        001  2005 04 19 00 00 00                       CRAK*                 crak00cze_20250217.log
+CRAK 11528M001        001  2005 04 19 00 00 00                       CRAK*                 crak00cze_20250724.log
 CREI 10016M001        001  2003 07 07 00 00 00  2018 03 01 09 00 00  CREI*                 crei00fra_20241014.log
 CREU 13432M001        001  1997 06 18 00 00 00                       CREU*                 creu00esp_20240913.log
 CTAB 11529M001        001  2005 01 14 00 00 00                       CTAB*                 ctab00cze_20250218.log
@@ -275,7 +275,7 @@ MDVJ 12309M005        001  2001 07 18 00 00 00                       MDVJ*      
 MDVO 12309M002        001  1995 07 05 00 00 00  2003 05 11 00 00 00  MDVO*                 mdvo00rus_20240816.log
 MEDI 12711M003        001  1995 07 28 00 00 00                       MEDI*                 medi00ita_20240718.log
 MELI 19379M001        001  2011 12 14 12 00 00                       MELI*                 meli00esp_20240319.log
-MERS 20814M001        001  2000 09 12 00 00 00                       MERS*                 mers00tur_20250108.log
+MERS 20814M001        001  2000 09 12 00 00 00                       MERS*                 mers00tur_20250724.log
 MET3 10503M010        001  2013 12 19 12 00 00                       MET3*                 met300fin_20250307.log
 METG 10503M002        001  2012 07 03 00 00 00                       METG*                 metg00fin_20221201.log
 METS 10503S011        001  1992 04 30 12 00 00  2024 06 25 08 15 00  METS*                 mets00fin_20240626.log
@@ -358,7 +358,7 @@ PRYL 15502M001        001  2008 10 09 12 00 00                       PRYL*      
 PSTO 83401M001        001  2018 06 15 00 00 00                       PSTO*                 psto00prt_20240524.log
 PSTV 14809M001        001  2015 10 01 07 00 00                       PSTV*                 pstv00blr_20240808.log
 PTBB 14234M001        001  2000 03 29 00 00 00                       PTBB*                 ptbb00deu_20240828.log
-PULA 11903S001        001  2001 03 25 00 00 00  2003 02 09 00 00 00  PULA*                 pula00hrv_20020614.log
+PULA 11903S001        001  2001 03 25 00 00 00  2003 02 09 00 00 00  PULA*                 pula00hrv_20250724.log
 PULK 12305M001        001  2002 04 22 00 00 00                       PULK*                 pulk00rus_20230622.log
 PUYV 10065M001        001  2004 08 26 12 00 00                       PUYV*                 puyv00fra_20240716.log
 PYHA 10528M001        001  2014 08 22 12 00 00                       PYHA*                 pyha00fin_20250714.log
@@ -400,7 +400,7 @@ SMI2 10114M002        001  2011 06 27 00 00 00  2022 08 10 08 00 00  SMI2*      
 SMID 10114M001        001  1998 11 18 00 00 00  2022 08 10 08 00 00  SMID*                 smid00dnk_20221113.log
 SMLA 15503M001        001  2008 11 20 08 30 00                       SMLA*                 smla00ukr_20250613.log
 SMNE 10001M007        001  2000 11 16 00 00 00  2022 03 01 10 00 00  SMNE*                 smne00fra_20220301.log
-SNEC 11519M001        001  2001 10 23 12 00 00  2009 06 10 00 00 00  SNEC*                 snec00cze_20100701.log
+SNEC 11519M001        001  2001 10 23 12 00 00  2009 06 10 00 00 00  SNEC*                 snec00cze_20250724.log
 SNEO 19135M002        001  2009 05 13 13 00 00                       SNEO*                 sneo00gbr_20230406.log
 SNIK 14661M001        001  2021 10 24 09 00 00                       SNIK*                 snik00ita_20240318.log
 SOD3 10513M002        001  2013 12 19 12 00 00                       SOD3*                 sod300fin_20250716.log
@@ -518,7 +518,7 @@ WUTH 81301M001        001  2020 09 04 15 30 00                       WUTH*      
 YEBE 13420M001        001  1999 05 19 12 00 00                       YEBE*                 yebe00esp_20240318.log
 ZADA 11905M001        001  2008 12 09 00 00 00                       ZADA*                 zada00hrv_20250429.log
 ZARA 13462M001        001  2006 04 25 00 00 00                       ZARA*                 zara00esp_20230913.log
-ZECK 12351M001        001  1997 07 11 00 00 00                       ZECK*                 zeck00rus_20231019.log
+ZECK 12351M001        001  1997 07 11 00 00 00                       ZECK*                 zeck00rus_20250724.log
 ZIM2 14001M008        001  2007 11 08 16 00 00                       ZIM2*                 zim200che_20250724.log
 ZIMM 14001M004        001  1993 05 01 00 00 00                       ZIMM*                 zimm00che_20250724.log
 ZOUF 12763M001        001  2002 06 19 00 00 00                       ZOUF*                 zouf00ita_20241129.log
