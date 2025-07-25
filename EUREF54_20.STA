@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             25-07-2025 09:04
+BSW 5.4 station information file for EPN processing             25-07-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -271,7 +271,7 @@ MATE 12734M008        001  1991 04 16 00 00 00                       MATE*      
 MATG 12734M010        001  2012 01 30 14 00 00                       MATG*                 matg00ita_20240718.log
 MDEU 18899M002        001  2018 09 27 00 00 00                       MDEU*                 mdeu00ita_20250527.log
 MDOR 10018M001        001  2002 09 23 12 00 00  2013 12 13 09 00 00  MDOR*                 mdor00fra_20241014.log
-MDVJ 12309M005        001  2001 07 18 00 00 00                       MDVJ*                 mdvj00rus_20250108.log
+MDVJ 12309M005        001  2001 07 18 00 00 00                       MDVJ*                 mdvj00rus_20250725.log
 MDVO 12309M002        001  1995 07 05 00 00 00  2003 05 11 00 00 00  MDVO*                 mdvo00rus_20240816.log
 MEDI 12711M003        001  1995 07 28 00 00 00                       MEDI*                 medi00ita_20240718.log
 MELI 19379M001        001  2011 12 14 12 00 00                       MELI*                 meli00esp_20240319.log
@@ -4056,7 +4056,8 @@ MDVJ 12309M005        001  2008 09 24 00 00 00  2009 05 08 00 00 00  TPS NETG3  
 MDVJ 12309M005        001  2009 05 08 00 00 00  2010 04 13 00 00 00  TPS NETG3                                   999999  JPSREGANT_DD_E1 NONE                        999999    0.0000    0.0000    0.1660          MDVJ00RUS  MDVJ00RUS               
 MDVJ 12309M005        001  2010 04 13 00 00 00  2011 03 23 00 00 00  TPS NETG3                                   999999  JPSREGANT_DD_E1 NONE                        999999    0.0000    0.0000    0.1660          MDVJ00RUS  MDVJ00RUS               
 MDVJ 12309M005        001  2011 03 23 00 00 00  2019 04 04 09 15 00  TPS NETG3                                   999999  JPSREGANT_DD_E1 NONE                        999999    0.0000    0.0000    0.1660          MDVJ00RUS  MDVJ00RUS               
-MDVJ 12309M005        001  2019 04 04 09 15 00                       TPS NETG3                                   999999  JPSREGANT_DD_E1 NONE                        999999    0.0000    0.0000    0.1660          MDVJ00RUS  MDVJ00RUS               
+MDVJ 12309M005        001  2019 04 04 09 15 00  2025 06 10 14 40 00  TPS NETG3                                   999999  JPSREGANT_DD_E1 NONE                        999999    0.0000    0.0000    0.1660          MDVJ00RUS  MDVJ00RUS               
+MDVJ 12309M005        001  2025 06 10 14 40 00                       JAVAD TRE_G3TH SIGMA                        999999  JPSREGANT_DD_E1 NONE                        999999    0.0000    0.0000    0.1660          MDVJ00RUS  MDVJ00RUS               
 MDVO 12309M002        001  1995 07 05 00 00 00  1999 08 18 00 00 00  TRIMBLE 4000SSE                             999999  TRM14532.10     NONE                        999999    0.0000    0.0000    0.1456          MDVO00RUS  MDVO00RUS               
 MDVO 12309M002        001  1999 08 18 00 00 00  2003 05 11 00 00 00  TRIMBLE 4000SSE                             999999  TRM14532.10     NONE                        999999    0.0000    0.0000    0.1456          MDVO00RUS  MDVO00RUS               
 MEDI 12711M003        001  1995 07 28 00 00 00  2001 04 03 00 00 00  ROGUE SNR-8100                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0000          MEDI00ITA  MEDI00ITA               
