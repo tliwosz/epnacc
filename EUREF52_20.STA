@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          25-07-2025 04:04
+Station information file for Bernese GNSS Software 5.2          25-07-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -107,7 +107,7 @@ DENT 13112M001        001  1994 01 06 00 00 00                       DENT*      
 DEVA 11408M001        001  2005 05 21 12 00 00                       DEVA*                 deva00rou_20241210.log
 DGOR 12001M001        001  2019 04 03 00 00 00                       DGOR*                 dgor00mne_20190930.log
 DIEP 14287M001        001  2004 12 15 10 00 00                       DIEP*                 diep00deu_20250429.log
-DILL 14286M001        001  2004 12 01 12 00 00                       DILL*                 dill00deu_20250430.log
+DILL 14286M001        001  2004 12 01 12 00 00                       DILL*                 dill00deu_20250725.log
 DLF1 13502M009        001  2011 04 15 10 00 00                       DLF1*                 dlf100nld_20230425.log
 DLKS 10704M003        001  2019 06 13 13 00 00                       DLKS*                 dlks00lva_20240612.log
 DNMU 12369M001        001  2005 04 08 10 32 00                       DNMU*                 dnmu00ukr_20250613.log
