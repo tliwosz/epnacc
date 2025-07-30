@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             30-07-2025 13:04
+BSW 5.4 station information file for EPN processing             30-07-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -23,7 +23,7 @@ AMMN 22201M001        001  1999 06 15 00 00 00  2002 04 28 00 00 00  AMMN*      
 ANK2 20818M001        001  2019 06 28 09 56 00                       ANK2*                 ank200tur_20250210.log
 ANKR 20805M002        001  1995 06 21 00 00 00  2022 05 23 00 00 00  ANKR*                 ankr00tur_20220826.log
 AQUI 12757M001        001  1999 06 11 00 00 00                       AQUI*                 aqui00ita_20240718.log
-ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*                 ara200svn_20220617.log
+ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*                 ara200svn_20250730.log
 ARGI 10117M002        001  2008 09 25 00 00 00                       ARGI*                 argi00fro_20240812.log
 ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*                 aris00gbr_20250508.log
 ARJ6 10428M002        001  2011 07 29 00 00 00                       ARJ6*                 arj600swe_20250407.log
@@ -695,7 +695,8 @@ ARA2 14503M002        001  2018 05 04 10 50 00  2019 07 17 08 40 00  LEICA GR25 
 ARA2 14503M002        001  2019 07 17 08 40 00  2020 05 12 14 41 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0007   -0.0006    0.0800     1.0  ARA200SVN  ARA200SVN               
 ARA2 14503M002        001  2020 05 12 14 41 00  2021 08 18 11 50 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0007   -0.0006    0.0800     1.0  ARA200SVN  ARA200SVN               
 ARA2 14503M002        001  2021 08 18 11 50 00  2022 06 16 17 30 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0007   -0.0006    0.0800     1.0  ARA200SVN  ARA200SVN               
-ARA2 14503M002        001  2022 06 16 17 30 00                       LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0007   -0.0006    0.0800     1.0  ARA200SVN  ARA200SVN               
+ARA2 14503M002        001  2022 06 16 17 30 00  2025 07 30 15 30 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0007   -0.0006    0.0800     1.0  ARA200SVN  ARA200SVN               
+ARA2 14503M002        001  2025 07 30 15 30 00                       LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0007   -0.0006    0.0800     1.0  ARA200SVN  ARA200SVN               
 ARGI 10117M002        001  2008 09 25 00 00 00  2016 11 11 11 19 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          ARGI00FRO  ARGI00FRO               
 ARGI 10117M002        001  2016 11 11 11 19 00  2017 04 19 15 37 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          ARGI00FRO  ARGI00FRO               
 ARGI 10117M002        001  2017 04 19 15 37 00  2022 11 29 14 20 00  TRIMBLE NETR9                               999999  TRM57971.00     TZGD                        999999    0.0000    0.0000    0.0054          ARGI00FRO  ARGI00FRO               
