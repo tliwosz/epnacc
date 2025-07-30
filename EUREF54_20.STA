@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             30-07-2025 09:04
+BSW 5.4 station information file for EPN processing             30-07-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -159,7 +159,7 @@ GOR2 14115M002        001  2008 04 15 12 00 00                       GOR2*      
 GRAC 10002M010        001  1998 11 27 10 00 00                       GRAC*                 grac00fra_20240926.log
 GRAS 10002M006        001  1995 02 22 00 00 00                       GRAS*                 gras00fra_20230713.log
 GRAZ 11001M002        001  1992 06 12 12 00 00                       GRAZ*                 graz00aut_20250515.log
-GSR1 14501M001        001  2000 02 01 12 00 00                       GSR1*                 gsr100svn_20221122.log
+GSR1 14501M001        001  2000 02 01 12 00 00                       GSR1*                 gsr100svn_20250730.log
 GUIP 10004M501        001  2002 10 18 00 00 00                       GUIP*                 guip00fra_20240716.log
 GVDG 12618M003        001  2023 09 21 00 00 00                       GVDG*                 gvdg00grc_20241211.log
 GVNL 18546M002        001  2023 05 14 10 00 00                       GVNL*                 gvnl00ita_20230928.log
