@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          05-08-2025 04:04
+Station information file for Bernese GNSS Software 5.2          05-08-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -169,7 +169,7 @@ HEL2 14264M002        001  2005 09 08 12 00 00                       HEL2*      
 HELG 14264M001        001  1999 11 09 00 00 00                       HELG*                 helg00deu_20250502.log
 HERS 13212M007        001  1992 03 24 00 00 00                       HERS*                 hers00gbr_20250325.log
 HERT 13212M010        001  2003 03 12 00 00 00                       HERT*                 hert00gbr_20250108.log
-HETT 10524M001        001  2014 01 29 12 00 00                       HETT*                 hett00fin_20250718.log
+HETT 10524M001        001  2014 01 29 12 00 00                       HETT*                 hett00fin_20250805.log
 HFL2 11006M003        001  2007 07 01 00 00 00  2011 07 04 07 00 00  HFL2*                 hfl200aut_20230421.log
 HFLK 11006S003        001  1994 10 02 13 00 00  2007 07 01 00 00 00  HFLK*                 hflk00aut_20230425.log
 HOBU 14202M003        001  1997 07 01 00 00 00                       HOBU*                 hobu00deu_20250326.log
@@ -2723,7 +2723,8 @@ HETT 10524M001        001  2021 11 19 06 35 00  2022 08 15 11 25 00  JAVAD TRE_3
 HETT 10524M001        001  2022 08 15 11 25 00  2022 11 03 05 38 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  HETT00FIN               
 HETT 10524M001        001  2022 11 03 05 38 00  2024 04 17 17 00 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  HETT00FIN               
 HETT 10524M001        001  2024 04 17 17 00 00  2025 07 18 07 45 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  HETT00FIN               
-HETT 10524M001        001  2025 07 18 07 45 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  HETT00FIN               
+HETT 10524M001        001  2025 07 18 07 45 00  2025 07 30 05 49 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  HETT00FIN               
+HETT 10524M001        001  2025 07 30 05 49 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000  HETT00FIN               
 HFL2 11006M003        001  2007 07 01 00 00 00  2008 05 26 12 00 00  TRIMBLE NETRS                               999999  TRM29659.00     OLGA                        999999    0.0000    0.0000    0.1720  HFL200AUT               
 HFL2 11006M003        001  2008 05 26 12 00 00  2011 07 04 07 00 00  TRIMBLE NETRS                               999999  TRM29659.00     OLGA                        999999    0.0000    0.0000    0.1670  HFL200AUT               
 HFLK 11006S003        001  1994 10 02 13 00 00  1996 08 21 15 00 00  ROGUE SNR-8C                                999999  AOAD/M_B        OLGA                        999999    0.0000    0.0000    0.0000  HFLK00AUT               
