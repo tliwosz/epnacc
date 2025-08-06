@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          06-08-2025 13:04
+Station information file for Bernese GNSS Software 5.2          06-08-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -220,7 +220,7 @@ KLNK 14810M001        001  2012 05 18 07 04 00                       KLNK*      
 KLOP 14214M002        001  1997 03 19 00 00 00                       KLOP*                 klop00deu_20250701.log
 KLSQ 43015M001        001  2014 06 02 00 00 00                       KLSQ*                 klsq00grl_20250522.log
 KNJA 12113M001        001  2008 04 01 00 00 00                       KNJA*                 knja00srb_20230207.log
-KOS1 13504M005        001  2013 06 18 12 20 00                       KOS1*                 kos100nld_20230417.log
+KOS1 13504M005        001  2013 06 18 12 20 00                       KOS1*                 kos100nld_20250806.log
 KOSG 13504M003        001  1994 06 13 00 00 00  2015 11 27 11 00 00  KOSG*                 kosg00nld_20230417.log
 KRA1 12218M002        001  2010 01 01 00 00 00                       KRA1*                 kra100pol_20231023.log
 KRAW 12218M001        001  2003 01 01 00 00 00                       KRAW*                 kraw00pol_20190420.log
@@ -3380,7 +3380,8 @@ KOS1 13504M005        001  2017 01 18 19 45 00  2018 12 17 12 49 00  SEPT POLARX
 KOS1 13504M005        001  2018 12 17 12 49 00  2020 04 20 07 30 00  SEPT POLARX4                                999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.1300  KOS100NLD               
 KOS1 13504M005        001  2020 04 20 07 30 00  2020 09 21 12 15 00  SEPT POLARX4                                999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.1300  KOS100NLD               
 KOS1 13504M005        001  2020 09 21 12 15 00  2022 12 06 14 17 00  SEPT POLARX5E                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.1300  KOS100NLD               
-KOS1 13504M005        001  2022 12 06 14 17 00                       SEPT POLARX5E                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.1300  KOS100NLD               
+KOS1 13504M005        001  2022 12 06 14 17 00  2025 08 06 11 23 00  SEPT POLARX5E                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.1300  KOS100NLD               
+KOS1 13504M005        001  2025 08 06 11 23 00                       SEPT POLARX5E                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.1300  KOS100NLD               
 KOSG 13504M003        001  1994 06 13 00 00 00  1994 08 24 00 00 00  ROGUE SNR-8                                 999999  AOAD/M_B        DUTD                        999999    0.0000    0.0000    0.1050  KOSG00NLD               
 KOSG 13504M003        001  1994 08 24 00 00 00  1994 11 23 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_B        DUTD                        999999    0.0000    0.0000    0.1050  KOSG00NLD               
 KOSG 13504M003        001  1994 11 23 00 00 00  1996 01 26 00 00 00  ROGUE SNR-8                                 999999  AOAD/M_B        DUTD                        999999    0.0000    0.0000    0.1050  KOSG00NLD               
