@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          11-08-2025 09:04
+Station information file for Bernese GNSS Software 5.2          11-08-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -413,7 +413,7 @@ SPT7 10425M002        001  2011 10 07 00 00 00                       SPT7*      
 SRJV 11801S001        001  1999 06 11 17 14 00                       SRJV*                 srjv00bih_20240923.log
 STAS 10330M001        001  1995 05 22 00 00 00                       STAS*                 stas00nor_20241018.log
 STAV 10330M001        001  1995 05 22 00 00 00  1999 08 21 00 00 00  STAV*                 stav00nor_20241018.log
-STNB 83402M001        001  2018 06 15 00 00 00                       STNB*                 stnb00prt_20240528.log
+STNB 83402M001        001  2018 06 15 00 00 00                       STNB*                 stnb00prt_20250811.log
 SUBO 12116M001        001  2009 01 29 07 50 00                       SUBO*                 subo00srb_20230330.log
 SUL5 10113M002        001  2011 06 28 00 00 00                       SUL5*                 sul500dnk_20221113.log
 SULD 10113M001        001  1998 09 01 00 00 00                       SULD*                 suld00dnk_20221113.log
