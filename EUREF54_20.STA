@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             11-08-2025 13:04
+BSW 5.4 station information file for EPN processing             11-08-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -5809,7 +5809,8 @@ STNB 83402M001        001  2018 06 15 00 00 00  2019 10 24 00 00 00  LEICA GX123
 STNB 83402M001        001  2019 10 24 00 00 00  2022 01 28 00 00 00  SEPT POLARX5                                999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          STNB00PRT  STNB00PRT               
 STNB 83402M001        001  2022 01 28 00 00 00  2023 12 13 00 00 00  SEPT POLARX5                                999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          STNB00PRT  STNB00PRT               
 STNB 83402M001        001  2023 12 13 00 00 00  2024 05 16 10 45 00  SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          STNB00PRT  STNB00PRT               
-STNB 83402M001        001  2024 05 16 10 45 00                       LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          STNB00PRT  STNB00PRT               
+STNB 83402M001        001  2024 05 16 10 45 00  2025 08 06 12 00 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          STNB00PRT  STNB00PRT               
+STNB 83402M001        001  2025 08 06 12 00 00                       LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          STNB00PRT  STNB00PRT               
 SUBO 12116M001        001  2009 01 29 07 50 00  2017 10 10 12 18 00  TRIMBLE 5700                                999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.0000   145.0  SUBO00SRB  SUBO00SRB               
 SUBO 12116M001        001  2017 10 10 12 18 00  2019 04 02 00 00 00  TRIMBLE NETR9                               999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.0000   145.0  SUBO00SRB  SUBO00SRB               
 SUBO 12116M001        001  2019 04 02 00 00 00                       TRIMBLE NETR9                               999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.0000   145.0  SUBO00SRB  SUBO00SRB               
