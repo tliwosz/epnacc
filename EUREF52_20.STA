@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          12-08-2025 16:04
+Station information file for Bernese GNSS Software 5.2          12-08-2025 21:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -172,7 +172,7 @@ HERT 13212M010        001  2003 03 12 00 00 00                       HERT*      
 HETT 10524M001        001  2014 01 29 12 00 00                       HETT*                 hett00fin_20250805.log
 HFL2 11006M003        001  2007 07 01 00 00 00  2011 07 04 07 00 00  HFL2*                 hfl200aut_20230421.log
 HFLK 11006S003        001  1994 10 02 13 00 00  2007 07 01 00 00 00  HFLK*                 hflk00aut_20230425.log
-HOBU 14202M003        001  1997 07 01 00 00 00                       HOBU*                 hobu00deu_20250730.log
+HOBU 14202M003        001  1997 07 01 00 00 00                       HOBU*                 hobu00deu_20250812.log
 HOE2 14284M002        001  2005 07 01 10 00 00  2015 05 19 12 00 00  HOE2*                 hoe200deu_20220905.log
 HOER 14284M001        001  2003 07 15 00 00 00  2005 06 30 10 00 00  HOER*                 hoer00deu_20230419.log
 HOFJ 14289M001        001  2007 03 07 10 00 00                       HOFJ*                 hofj00deu_20250527.log
