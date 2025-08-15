@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             14-08-2025 21:04
+BSW 5.4 station information file for EPN processing             15-08-2025 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -207,7 +207,7 @@ KAD6 10431M002        001  2011 06 15 00 00 00                       KAD6*      
 KARL 14216M001        001  1997 03 20 00 00 00                       KARL*                 karl00deu_20250502.log
 KATO 12219S001        001  2003 01 30 00 00 00                       KATO*                 kato00pol_20250415.log
 KDA2 14504M002        001  2016 01 02 10 00 00                       KDA2*                 kda200svn_20220617.log
-KELY 43005M002        001  1995 07 23 00 00 00                       KELY*                 kely00grl_20231101.log
+KELY 43005M002        001  1995 07 23 00 00 00                       KELY*                 kely00grl_20250814.log
 KEV2 10515M002        001  2014 01 29 12 00 00                       KEV2*                 kev200fin_20250610.log
 KHAR 12314M001        001  2002 11 25 13 00 00                       KHAR*                 khar00ukr_20171011.log
 KILP 10525M001        001  2014 01 29 12 00 00                       KILP*                 kilp00fin_20250717.log
@@ -3159,7 +3159,8 @@ KELY 43005M002        001  2021 02 25 21 43 00  2021 07 24 17 27 00  ALERTGEO RE
 KELY 43005M002        001  2021 07 24 17 27 00  2022 08 03 12 18 00  ALERTGEO RESOLUTE                           999999  TRM59800.00     SCIS                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
 KELY 43005M002        001  2022 08 03 12 18 00  2023 07 06 06 57 00  ALERTGEO RESOLUTE                           999999  TRM59800.00     SCIS                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
 KELY 43005M002        001  2023 07 06 06 57 00  2023 07 30 13 15 00  ALERTGEO RESOLUTE                           999999  TRM59800.00     SCIS                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
-KELY 43005M002        001  2023 07 30 13 15 00                       ALERTGEO RESOLUTE                           999999  TRM59800.00     SCIS                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
+KELY 43005M002        001  2023 07 30 13 15 00  2025 08 14 16 31 00  ALERTGEO RESOLUTE                           999999  TRM59800.00     SCIS                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
+KELY 43005M002        001  2025 08 14 16 31 00                       ALERTGEO RESOLUTE                           999999  TRM59800.00     SCIS                        999999    0.0000    0.0000    0.0762          KELY00GRL  KELY00GRL               
 KEV2 10515M002        001  2014 01 29 12 00 00  2015 03 12 13 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KEV200FIN  KEV200FIN               
 KEV2 10515M002        001  2015 03 12 13 00 00  2016 12 12 10 25 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KEV200FIN  KEV200FIN               
 KEV2 10515M002        001  2016 12 12 10 25 00  2017 04 24 11 55 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KEV200FIN  KEV200FIN               
