@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          15-08-2025 21:04
+Station information file for Bernese GNSS Software 5.2          16-08-2025 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -218,7 +218,7 @@ KIV2 10516M002        001  2014 01 29 12 00 00                       KIV2*      
 KLAD 12126M001        001  2017 10 06 00 00 00                       KLAD*                 klad00srb_20231031.log
 KLNK 14810M001        001  2012 05 18 07 04 00                       KLNK*                 klnk00blr_20240808.log
 KLOP 14214M002        001  1997 03 19 00 00 00                       KLOP*                 klop00deu_20250701.log
-KLSQ 43015M001        001  2014 06 02 00 00 00                       KLSQ*                 klsq00grl_20250522.log
+KLSQ 43015M001        001  2014 06 02 00 00 00                       KLSQ*                 klsq00grl_20250815.log
 KNJA 12113M001        001  2008 04 01 00 00 00                       KNJA*                 knja00srb_20230207.log
 KOS1 13504M005        001  2013 06 18 12 20 00                       KOS1*                 kos100nld_20250806.log
 KOSG 13504M003        001  1994 06 13 00 00 00  2015 11 27 11 00 00  KOSG*                 kosg00nld_20230417.log
