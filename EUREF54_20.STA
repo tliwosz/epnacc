@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             19-08-2025 13:04
+BSW 5.4 station information file for EPN processing             19-08-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -261,7 +261,7 @@ MALL 13444M001        001  2000 05 12 12 00 00                       MALL*      
 MAN2 10091M002        001  2008 01 23 00 00 00                       MAN2*                 man200fra_20240521.log
 MANS 10091M001        001  1998 04 21 00 00 00  2008 01 26 00 00 00  MANS*                 mans00fra_20240521.log
 MAR6 10405M002        001  1993 08 01 00 00 00                       MAR6*                 mar600swe_20221208.log
-MAR7 10405M003        001  2011 04 27 00 00 00                       MAR7*                 mar700swe_20250415.log
+MAR7 10405M003        001  2011 04 27 00 00 00                       MAR7*                 mar700swe_20250819.log
 MARJ 11517M001        001  2003 05 15 12 00 00  2015 09 06 00 00 00  MARJ*                 marj00cze_20220512.log
 MARP 15556M001        001  2013 07 24 21 02 00                       MARP*                 marp00ukr_20220926.log
 MARS 10073M008        001  1998 07 16 15 00 00                       MARS*                 mars00fra_20240717.log
@@ -3925,7 +3925,8 @@ MAR7 10405M003        001  2019 10 09 10 00 00  2019 11 05 18 00 00  TRIMBLE ALL
 MAR7 10405M003        001  2019 11 05 18 00 00  2020 06 17 13 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
 MAR7 10405M003        001  2020 06 17 13 00 00  2022 12 07 15 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
 MAR7 10405M003        001  2022 12 07 15 00 00  2025 04 15 12 25 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
-MAR7 10405M003        001  2025 04 15 12 25 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
+MAR7 10405M003        001  2025 04 15 12 25 00  2025 08 19 13 30 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
+MAR7 10405M003        001  2025 08 19 13 30 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        TPSH                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
 MARJ 11517M001        001  2003 05 15 12 00 00  2009 12 09 09 00 00  ASHTECH Z18                                 999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0000          MARJ00CZE  MARJ00CZE               
 MARJ 11517M001        001  2009 12 09 09 00 00  2012 04 16 12 00 00  TPS NETG3                                   999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0000          MARJ00CZE  MARJ00CZE               
 MARJ 11517M001        001  2012 04 16 12 00 00  2012 08 02 13 00 00  TPS NETG3                                   999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0000          MARJ00CZE  MARJ00CZE               
