@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          20-08-2025 09:04
+Station information file for Bernese GNSS Software 5.2          20-08-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -372,7 +372,7 @@ RANT 10914M001        001  2014 05 09 10 00 00                       RANT*      
 REDU 13102M001        001  2003 04 16 00 00 00                       REDU*                 redu00bel_20230119.log
 REDZ 12227M001        001  2007 12 07 00 00 00                       REDZ*                 redz00pol_20250218.log
 REYK 10202M001        001  1995 11 02 00 00 00                       REYK*                 reyk00isl_20250224.log
-RIGA 12302M002        001  1995 12 05 04 00 00                       RIGA*                 riga00lva_20250805.log
+RIGA 12302M002        001  1995 12 05 04 00 00                       RIGA*                 riga00lva_20250820.log
 RIO1 13448M002        001  2012 01 31 12 00 00                       RIO1*                 rio100esp_20250221.log
 RIOJ 13448M001        001  2001 04 26 00 00 00  2012 04 08 00 00 00  RIOJ*                 rioj00esp_20220907.log
 RIVO 14611M001        001  2019 09 12 15 00 00                       RIVO*                 rivo00ita_20240718.log
