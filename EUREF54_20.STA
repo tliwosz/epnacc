@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             20-08-2025 13:04
+BSW 5.4 station information file for EPN processing             20-08-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -409,7 +409,7 @@ SOFI 11101M002        001  1997 05 19 10 00 00                       SOFI*      
 SONS 13446M001        001  2000 12 15 00 00 00                       SONS*                 sons00esp_20240319.log
 SPRN 11227M001        001  2006 11 01 12 00 00                       SPRN*                 sprn00hun_20220622.log
 SPT0 10425M001        001  1995 12 14 00 00 00                       SPT0*                 spt000swe_20221208.log
-SPT7 10425M002        001  2011 10 07 00 00 00                       SPT7*                 spt700swe_20250416.log
+SPT7 10425M002        001  2011 10 07 00 00 00                       SPT7*                 spt700swe_20250820.log
 SRJV 11801S001        001  1999 06 11 17 14 00                       SRJV*                 srjv00bih_20240923.log
 STAS 10330M001        001  1995 05 22 00 00 00                       STAS*                 stas00nor_20241018.log
 STAV 10330M001        001  1995 05 22 00 00 00  1999 08 21 00 00 00  STAV*                 stav00nor_20241018.log
@@ -441,7 +441,7 @@ TIT2 14278M002        001  2014 12 11 09 00 00                       TIT2*      
 TLL1 13630M002        001  2017 10 27 15 00 00                       TLL1*                 tll100irl_20241010.log
 TLLG 13630M001        001  2007 03 06 00 00 00  2019 01 03 00 00 00  TLLG*                 tllg00irl_20230331.log
 TLMF 10003M010        001  2002 06 18 00 00 00                       TLMF*                 tlmf00fra_20240912.log
-TLSE 10003M009        001  2001 01 04 00 00 00                       TLSE*                 tlse00fra_20231129.log
+TLSE 10003M009        001  2001 01 04 00 00 00                       TLSE*                 tlse00fra_20250820.log
 TLSG 10003M034        001  2014 02 12 00 00 00                       TLSG*                 tlsg00fra_20221115.log
 TOIL 10605S001        001  2007 11 22 10 45 00                       TOIL*                 toil00est_20250612.log
 TOPP 14604M001        001  2019 07 23 10 00 00                       TOPP*                 topp00ita_20240718.log
@@ -5764,7 +5764,8 @@ SPT7 10425M002        001  2018 02 07 00 00 00  2019 01 08 00 00 00  TRIMBLE NET
 SPT7 10425M002        001  2019 01 08 00 00 00  2019 11 05 00 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
 SPT7 10425M002        001  2019 11 05 00 00 00  2022 11 29 10 02 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
 SPT7 10425M002        001  2022 11 29 10 02 00  2025 04 16 13 45 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
-SPT7 10425M002        001  2025 04 16 13 45 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
+SPT7 10425M002        001  2025 04 16 13 45 00  2025 08 20 12 40 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
+SPT7 10425M002        001  2025 08 20 12 40 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
 SRJV 11801S001        001  1999 06 11 17 14 00  2008 01 06 00 00 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  NONE                        999999    0.0000    0.0000    0.1740          SRJV00BIH  SRJV00BIH               
 SRJV 11801S001        001  2008 01 06 00 00 00  2011 10 05 00 00 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  NONE                        999999    0.0000    0.0000    0.1740          SRJV00BIH  SRJV00BIH               
 SRJV 11801S001        001  2011 10 05 00 00 00  2012 10 22 00 00 00  TRIMBLE NETR5                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.1740          SRJV00BIH  SRJV00BIH               
@@ -6161,7 +6162,8 @@ TLSE 10003M009        001  2020 05 18 07 05 00  2022 09 21 12 08 00  TRIMBLE NET
 TLSE 10003M009        001  2022 09 21 12 08 00  2023 03 09 14 33 00  TRIMBLE ALLOY                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    1.0530          TLSE00FRA  TLSE00FRA               
 TLSE 10003M009        001  2023 03 09 14 33 00  2023 05 30 09 10 00  TRIMBLE ALLOY                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    1.0530          TLSE00FRA  TLSE00FRA               
 TLSE 10003M009        001  2023 05 30 09 10 00  2023 11 29 13 37 00  TRIMBLE ALLOY                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    1.0530          TLSE00FRA  TLSE00FRA               
-TLSE 10003M009        001  2023 11 29 13 37 00                       TRIMBLE ALLOY                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    1.0530          TLSE00FRA  TLSE00FRA               
+TLSE 10003M009        001  2023 11 29 13 37 00  2025 08 20 12 08 00  TRIMBLE ALLOY                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    1.0530          TLSE00FRA  TLSE00FRA               
+TLSE 10003M009        001  2025 08 20 12 08 00                       TRIMBLE ALLOY                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    1.0530          TLSE00FRA  TLSE00FRA               
 TLSG 10003M034        001  2014 02 12 00 00 00  2015 06 08 12 15 00  SEPT POLARX4TR                              999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.4410          TLSG00FRA  TLSG00FRA               
 TLSG 10003M034        001  2015 06 08 12 15 00  2015 10 21 12 55 00  SEPT POLARX4TR                              999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.4410          TLSG00FRA  TLSG00FRA               
 TLSG 10003M034        001  2015 10 21 12 55 00  2016 07 04 15 45 00  SEPT POLARX4TR                              999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.4410          TLSG00FRA  TLSG00FRA               
