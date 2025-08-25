@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          25-08-2025 09:04
+Station information file for Bernese GNSS Software 5.2          25-08-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -246,7 +246,7 @@ LIDA 14806M001        001  2011 09 01 00 00 00                       LIDA*      
 LIGN 18496M001        001  2018 12 04 00 00 00                       LIGN*                 lign00ita_20240718.log
 LIL2 10051M003        001  2007 06 28 00 00 00                       LIL2*                 lil200fra_20241014.log
 LILL 10051M001        001  2002 02 01 00 00 00  2007 06 29 09 00 00  LILL*                 lill00fra_20241014.log
-LINZ 11033S001        001  2001 01 31 10 00 00                       LINZ*                 linz00aut_20230626.log
+LINZ 11033S001        001  2001 01 31 10 00 00                       LINZ*                 linz00aut_20250820.log
 LLIV 13436M001        001  1999 05 04 14 00 00                       LLIV*                 lliv00esp_20240909.log
 LODZ 12226M001        001  2008 03 10 00 00 00                       LODZ*                 lodz00pol_20250218.log
 LOV6 10434M002        001  2011 08 16 00 00 00                       LOV6*                 lov600swe_20250410.log
@@ -3698,7 +3698,8 @@ LINZ 11033S001        001  2020 10 19 11 10 00  2021 05 07 08 15 00  TRIMBLE NET
 LINZ 11033S001        001  2021 05 07 08 15 00  2021 11 04 09 01 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  LINZ00AUT               
 LINZ 11033S001        001  2021 11 04 09 01 00  2023 06 19 09 00 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  LINZ00AUT               
 LINZ 11033S001        001  2023 06 19 09 00 00  2023 06 19 09 01 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  LINZ00AUT               
-LINZ 11033S001        001  2023 06 19 09 01 00                       TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  LINZ00AUT               
+LINZ 11033S001        001  2023 06 19 09 01 00  2025 08 21 09 05 00  TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  LINZ00AUT               
+LINZ 11033S001        001  2025 08 21 09 05 00                       TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  LINZ00AUT               
 LLIV 13436M001        001  1999 05 04 14 00 00  1999 11 09 13 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0540  LLIV00ESP               
 LLIV 13436M001        001  1999 11 09 13 00 00  2001 04 26 14 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0540  LLIV00ESP               
 LLIV 13436M001        001  2001 04 26 14 00 00  2001 05 09 10 07 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0540  LLIV00ESP               
