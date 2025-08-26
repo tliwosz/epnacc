@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             26-08-2025 09:04
+BSW 5.4 station information file for EPN processing             26-08-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -118,7 +118,7 @@ DUB2 11901M002        001  2011 11 03 00 00 00                       DUB2*      
 DUBR 11901M001        001  2000 09 22 00 00 00  2012 10 24 00 00 00  DUBR*                 dubr00hrv_20250622.log
 DUTH 12621M001        001  2008 09 11 00 00 00                       DUTH*                 duth00grc_20201009.log
 DVCN 11709M001        001  2021 03 23 11 50 00                       DVCN*                 dvcn00svk_20250416.log
-DYNG 12602M006        001  2011 05 12 09 03 00                       DYNG*                 dyng00grc_20241021.log
+DYNG 12602M006        001  2011 05 12 09 03 00                       DYNG*                 dyng00grc_20250826.log
 EBRE 13410M001        001  1994 05 23 00 00 00                       EBRE*                 ebre00esp_20240718.log
 ECH2 13704M001        001  2019 10 02 00 00 00                       ECH2*                 ech200lux_20250312.log
 EDIN 13217S001        001  2000 03 16 00 00 00  2020 09 08 09 40 00  EDIN*                 edin00gbr_20230406.log
@@ -161,7 +161,7 @@ GRAS 10002M006        001  1995 02 22 00 00 00                       GRAS*      
 GRAZ 11001M002        001  1992 06 12 12 00 00                       GRAZ*                 graz00aut_20250515.log
 GSR1 14501M001        001  2000 02 01 12 00 00                       GSR1*                 gsr100svn_20250730.log
 GUIP 10004M501        001  2002 10 18 00 00 00                       GUIP*                 guip00fra_20240716.log
-GVDG 12618M003        001  2023 09 21 00 00 00                       GVDG*                 gvdg00grc_20241211.log
+GVDG 12618M003        001  2023 09 21 00 00 00                       GVDG*                 gvdg00grc_20250826.log
 GVNL 18546M002        001  2023 05 14 10 00 00                       GVNL*                 gvnl00ita_20230928.log
 GWWL 12225M001        001  2007 12 10 00 00 00                       GWWL*                 gwwl00pol_20250218.log
 HAS6 10429M002        001  2011 06 15 00 00 00                       HAS6*                 has600swe_20250320.log
@@ -277,7 +277,7 @@ MEDI 12711M003        001  1995 07 28 00 00 00                       MEDI*      
 MELI 19379M001        001  2011 12 14 12 00 00                       MELI*                 meli00esp_20240319.log
 MERS 20814M001        001  2000 09 12 00 00 00                       MERS*                 mers00tur_20250724.log
 MET3 10503M010        001  2013 12 19 12 00 00                       MET3*                 met300fin_20250307.log
-METG 10503M002        001  2012 07 03 00 00 00                       METG*                 metg00fin_20221201.log
+METG 10503M002        001  2012 07 03 00 00 00                       METG*                 metg00fin_20250826.log
 METS 10503S011        001  1992 04 30 12 00 00  2024 06 25 08 15 00  METS*                 mets00fin_20240626.log
 MIK3 10526M001        001  2013 12 19 12 00 00                       MIK3*                 mik300fin_20250515.log
 MIKL 12335M001        001  2002 04 20 20 00 00                       MIKL*                 mikl00ukr_20250613.log
@@ -442,7 +442,7 @@ TLL1 13630M002        001  2017 10 27 15 00 00                       TLL1*      
 TLLG 13630M001        001  2007 03 06 00 00 00  2019 01 03 00 00 00  TLLG*                 tllg00irl_20230331.log
 TLMF 10003M010        001  2002 06 18 00 00 00                       TLMF*                 tlmf00fra_20240912.log
 TLSE 10003M009        001  2001 01 04 00 00 00                       TLSE*                 tlse00fra_20250820.log
-TLSG 10003M034        001  2014 02 12 00 00 00                       TLSG*                 tlsg00fra_20221115.log
+TLSG 10003M034        001  2014 02 12 00 00 00                       TLSG*                 tlsg00fra_20250826.log
 TOIL 10605S001        001  2007 11 22 10 45 00                       TOIL*                 toil00est_20250612.log
 TOPP 14604M001        001  2019 07 23 10 00 00                       TOPP*                 topp00ita_20240718.log
 TOR1 17018M001        001  2015 01 15 00 00 00                       TOR1*                 tor100esp_20240626.log
@@ -1969,7 +1969,8 @@ DYNG 12602M006        001  2020 06 03 13 59 00  2021 10 26 09 15 00  TRIMBLE NET
 DYNG 12602M006        001  2021 10 26 09 15 00  2021 11 10 10 10 00  SEPT POLARX5                                999999  TRM59800.00     NONE                        999999    0.0000    0.0000    2.0180          DYNG00GRC  DYNG00GRC               
 DYNG 12602M006        001  2021 11 10 10 10 00  2022 11 30 14 26 00  SEPT POLARX5                                999999  TRM59800.00     NONE                        999999    0.0000    0.0000    2.0180          DYNG00GRC  DYNG00GRC               
 DYNG 12602M006        001  2022 11 30 14 26 00  2024 09 19 08 15 00  SEPT POLARX5                                999999  TRM59800.00     NONE                        999999    0.0000    0.0000    2.0180          DYNG00GRC  DYNG00GRC               
-DYNG 12602M006        001  2024 09 19 08 15 00                       SEPT POLARX5                                999999  TRM59800.00     NONE                        999999    0.0000    0.0000    2.0180          DYNG00GRC  DYNG00GRC               
+DYNG 12602M006        001  2024 09 19 08 15 00  2025 08 26 08 18 00  SEPT POLARX5                                999999  TRM59800.00     NONE                        999999    0.0000    0.0000    2.0180          DYNG00GRC  DYNG00GRC               
+DYNG 12602M006        001  2025 08 26 08 18 00                       SEPT POLARX5                                999999  TRM59800.00     NONE                        999999    0.0000    0.0000    2.0180          DYNG00GRC  DYNG00GRC               
 EBRE 13410M001        001  1994 05 23 00 00 00  1995 02 28 10 57 00  TRIMBLE 4000SSE                             999999  TRM14532.00     NONE                        999999    0.0000    0.0000    0.0540          EBRE00ESP  EBRE00ESP               
 EBRE 13410M001        001  1995 02 28 10 57 00  1997 04 15 10 13 00  TRIMBLE 4000SSE                             999999  MPLL1/L2_SURV   NONE                        999999    0.0000    0.0000    0.0540          EBRE00ESP  EBRE00ESP               
 EBRE 13410M001        001  1997 04 15 10 13 00  2005 11 16 13 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          EBRE00ESP  EBRE00ESP               
@@ -2610,7 +2611,8 @@ GUIP 10004M501        001  2019 03 13 15 00 00  2020 01 30 12 00 00  LEICA GR25 
 GUIP 10004M501        001  2020 01 30 12 00 00  2021 12 14 10 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          GUIP00FRA  GUIP00FRA               
 GUIP 10004M501        001  2021 12 14 10 00 00  2024 07 16 00 00 00  LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          GUIP00FRA  GUIP00FRA               
 GUIP 10004M501        001  2024 07 16 00 00 00                       LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          GUIP00FRA  GUIP00FRA               
-GVDG 12618M003        001  2023 09 21 00 00 00                       SEPT POLARX5                                999999  TRM159900.00    NONE                        999999   -0.0006    0.0000    0.5191          GVDG00GRC  GVDG00GRC               
+GVDG 12618M003        001  2023 09 21 00 00 00  2025 08 26 08 17 00  SEPT POLARX5                                999999  TRM159900.00    NONE                        999999   -0.0006    0.0000    0.5191          GVDG00GRC  GVDG00GRC               
+GVDG 12618M003        001  2025 08 26 08 17 00                       SEPT POLARX5                                999999  TRM159900.00    NONE                        999999   -0.0006    0.0000    0.5191          GVDG00GRC  GVDG00GRC               
 GVNL 18546M002        001  2023 05 14 10 00 00                       EMLID REACH RS2+                            999999  EML_REACH_RS2+  NONE                        999999    0.0000    0.0000    1.8000    17.0  GVNL00ITA  GVNL00ITA               
 GWWL 12225M001        001  2007 12 10 00 00 00  2008 06 26 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000          GWWL00POL  GWWL00POL               
 GWWL 12225M001        001  2008 06 26 00 00 00  2009 02 24 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000          GWWL00POL  GWWL00POL               
@@ -4136,7 +4138,8 @@ METG 10503M002        001  2020 05 27 07 45 00  2020 08 06 09 15 00  TRIMBLE NET
 METG 10503M002        001  2020 08 06 09 15 00  2021 01 26 13 20 00  SEPT POLARX5                                999999  TRM59800.00     SCIS                        999999    0.0046    0.0020    2.0352          METG00FIN  METG00FIN               
 METG 10503M002        001  2021 01 26 13 20 00  2022 09 01 11 00 00  SEPT POLARX5                                999999  TRM59800.00     SCIS                        999999    0.0046    0.0020    2.0352          METG00FIN  METG00FIN               
 METG 10503M002        001  2022 09 01 11 00 00  2022 12 01 13 22 00  SEPT POLARX5                                999999  TRM59800.00     SCIS                        999999    0.0046    0.0020    2.0352          METG00FIN  METG00FIN               
-METG 10503M002        001  2022 12 01 13 22 00                       SEPT POLARX5                                999999  TRM59800.00     SCIS                        999999    0.0046    0.0020    2.0352          METG00FIN  METG00FIN               
+METG 10503M002        001  2022 12 01 13 22 00  2025 08 26 07 50 00  SEPT POLARX5                                999999  TRM59800.00     SCIS                        999999    0.0046    0.0020    2.0352          METG00FIN  METG00FIN               
+METG 10503M002        001  2025 08 26 07 50 00                       SEPT POLARX5                                999999  TRM59800.00     SCIS                        999999    0.0046    0.0020    2.0352          METG00FIN  METG00FIN               
 METS 10503S011        001  1992 04 30 12 00 00  1993 12 06 11 11 00  ROGUE SNR-8C                                999999  AOAD/M_B        NONE                        999999    0.0000    0.0000    0.0000     4.0  METS00FIN  METS00FIN               
 METS 10503S011        001  1993 12 06 11 11 00  1994 08 12 06 20 00  ROGUE SNR-8C                                999999  AOAD/M_B        NONE                        999999    0.0000    0.0000    0.0000     4.0  METS00FIN  METS00FIN               
 METS 10503S011        001  1994 08 12 06 20 00  1995 04 30 00 02 00  ROGUE SNR-8C                                999999  AOAD/M_B        NONE                        999999    0.0000    0.0000    0.0000     4.0  METS00FIN  METS00FIN               
@@ -6179,7 +6182,8 @@ TLSG 10003M034        001  2018 05 17 14 43 00  2019 09 25 11 53 00  SEPT POLARX
 TLSG 10003M034        001  2019 09 25 11 53 00  2020 02 04 09 27 00  SEPT POLARX5TR                              999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.4410          TLSG00FRA  TLSG00FRA               
 TLSG 10003M034        001  2020 02 04 09 27 00  2021 01 26 13 20 00  SEPT POLARX5TR                              999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.4410          TLSG00FRA  TLSG00FRA               
 TLSG 10003M034        001  2021 01 26 13 20 00  2022 11 15 13 10 00  SEPT POLARX5TR                              999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.4410          TLSG00FRA  TLSG00FRA               
-TLSG 10003M034        001  2022 11 15 13 10 00                       SEPT POLARX5TR                              999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.4410          TLSG00FRA  TLSG00FRA               
+TLSG 10003M034        001  2022 11 15 13 10 00  2025 08 26 09 55 00  SEPT POLARX5TR                              999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.4410          TLSG00FRA  TLSG00FRA               
+TLSG 10003M034        001  2025 08 26 09 55 00                       SEPT POLARX5TR                              999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.4410          TLSG00FRA  TLSG00FRA               
 TOIL 10605S001        001  2007 11 22 10 45 00  2009 06 11 06 36 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TOIL00EST  TOIL00EST               
 TOIL 10605S001        001  2009 06 11 06 36 00  2009 06 17 12 11 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TOIL00EST  TOIL00EST               
 TOIL 10605S001        001  2009 06 17 12 11 00  2010 05 04 09 32 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TOIL00EST  TOIL00EST               
