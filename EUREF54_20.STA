@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             26-08-2025 13:04
+BSW 5.4 station information file for EPN processing             26-08-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -328,7 +328,7 @@ OSLO 10307M001        001  1995 10 05 00 00 00  2000 05 16 13 15 00  OSLO*      
 OSLS 10307M001        001  1995 10 05 00 00 00                       OSLS*                 osls00nor_20241018.log
 OST6 10436M002        001  2011 07 08 00 00 00                       OST6*                 ost600swe_20250410.log
 OUL2 10519M002        001  2013 12 19 12 00 00                       OUL2*                 oul200fin_20250715.log
-OVE6 10437M002        001  2011 08 11 00 00 00                       OVE6*                 ove600swe_20250407.log
+OVE6 10437M002        001  2011 08 11 00 00 00                       OVE6*                 ove600swe_20250826.log
 PAD1 12750M003        001  2025 04 30 14 49 00                       PAD1*                 pad100ita_20250505.log
 PADO 12750S001        001  2001 11 21 13 00 00  2025 04 30 11 46 00  PADO*                 pado00ita_20250430.log
 PALB 14603M001        001  2019 07 16 09 45 00                       PALB*                 palb00ita_20250214.log
@@ -394,7 +394,7 @@ SFER 13402M004        001  1995 12 18 00 00 00                       SFER*      
 SHOE 19197M001        001  2005 08 18 00 00 00                       SHOE*                 shoe00gbr_20250513.log
 SID0 12132M001        001  2008 04 01 00 00 00                       SID0*                 sid000srb_20231020.log
 SJDV 10090M001        001  1997 10 14 10 32 00  2022 05 31 09 16 00  SJDV*                 sjdv00fra_20250319.log
-SKE0 10426M001        001  1993 08 01 00 00 00                       SKE0*                 ske000swe_20221206.log
+SKE0 10426M001        001  1993 08 01 00 00 00                       SKE0*                 ske000swe_20250826.log
 SKE8 10426M002        001  2011 07 08 00 00 00                       SKE8*                 ske800swe_20250407.log
 SMI2 10114M002        001  2011 06 27 00 00 00  2022 08 10 08 00 00  SMI2*                 smi200dnk_20221113.log
 SMID 10114M001        001  1998 11 18 00 00 00  2022 08 10 08 00 00  SMID*                 smid00dnk_20221113.log
@@ -4738,7 +4738,8 @@ OVE6 10437M002        001  2018 10 23 13 00 00  2019 11 05 18 00 00  TRIMBLE NET
 OVE6 10437M002        001  2019 11 05 18 00 00  2020 06 16 14 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 OVE6 10437M002        001  2020 06 16 14 00 00  2022 11 21 09 20 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 OVE6 10437M002        001  2022 11 21 09 20 00  2025 04 07 14 30 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
-OVE6 10437M002        001  2025 04 07 14 30 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
+OVE6 10437M002        001  2025 04 07 14 30 00  2025 08 26 13 30 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
+OVE6 10437M002        001  2025 08 26 13 30 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 PAD1 12750M003        001  2025 04 30 14 49 00                       STONEX SC2200                               999999  STXSA1200       STXR                        999999    0.0000    0.0000    0.0000          PAD100ITA  PAD100ITA               
 PADO 12750S001        001  2001 11 21 13 00 00  2002 08 01 10 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
 PADO 12750S001        001  2002 08 01 10 00 00  2002 11 04 10 00 00  TRIMBLE 4700                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
@@ -5553,7 +5554,8 @@ SKE0 10426M001        001  2018 06 14 09 00 00  2019 04 08 13 00 00  JAVAD TRE_G
 SKE0 10426M001        001  2019 04 08 13 00 00  2019 11 06 17 20 00  SEPT POLARX5                                999999  ASH701945C_M    OSOD                        999999    0.0000    0.0000    0.0710          SKE000SWE  SKE000SWE               
 SKE0 10426M001        001  2019 11 06 17 20 00  2022 03 09 16 00 00  SEPT POLARX5                                999999  ASH701945C_M    OSOD                        999999    0.0000    0.0000    0.0710          SKE000SWE  SKE000SWE               
 SKE0 10426M001        001  2022 03 09 16 00 00  2022 12 06 15 00 00  SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          SKE000SWE  SKE000SWE               
-SKE0 10426M001        001  2022 12 06 15 00 00                       SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          SKE000SWE  SKE000SWE               
+SKE0 10426M001        001  2022 12 06 15 00 00  2025 08 25 20 00 00  SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          SKE000SWE  SKE000SWE               
+SKE0 10426M001        001  2025 08 25 20 00 00                       SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          SKE000SWE  SKE000SWE               
 SKE8 10426M002        001  2011 07 08 00 00 00  2011 11 29 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SKE800SWE  SKE800SWE               
 SKE8 10426M002        001  2011 11 29 00 00 00  2012 04 05 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SKE800SWE  SKE800SWE               
 SKE8 10426M002        001  2012 04 05 00 00 00  2014 01 10 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SKE800SWE  SKE800SWE               
