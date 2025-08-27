@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          27-08-2025 09:04
+Station information file for Bernese GNSS Software 5.2          27-08-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -421,7 +421,7 @@ SULP 12366M001        001  2001 06 10 00 00 00                       SULP*      
 SUN6 10440M002        001  2011 09 27 00 00 00                       SUN6*                 sun600swe_20250410.log
 SUR4 10601M002        001  2011 09 21 11 27 00                       SUR4*                 sur400est_20250612.log
 SUUR 10601M001        001  1998 09 27 00 00 00  2011 09 21 12 00 00  SUUR*                 suur00est_20230516.log
-SVE6 10441M002        001  2011 07 08 00 00 00                       SVE6*                 sve600swe_20250410.log
+SVE6 10441M002        001  2011 07 08 00 00 00                       SVE6*                 sve600swe_20250827.log
 SVLL 18492M001        001  2018 06 04 00 00 00                       SVLL*                 svll00ita_20240718.log
 SVTL 12350M001        001  1996 03 14 00 00 00                       SVTL*                 svtl00rus_20250108.log
 SWAS 19193M001        001  2009 08 14 14 00 00  2024 12 04 11 15 00  SWAS*                 swas00gbr_20241204.log
@@ -5933,7 +5933,8 @@ SVE6 10441M002        001  2019 11 05 18 00 00  2020 06 17 10 00 00  TRIMBLE NET
 SVE6 10441M002        001  2020 06 17 10 00 00  2022 04 20 13 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  SVE600SWE               
 SVE6 10441M002        001  2022 04 20 13 00 00  2022 12 05 15 00 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  SVE600SWE               
 SVE6 10441M002        001  2022 12 05 15 00 00  2025 04 10 14 20 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  SVE600SWE               
-SVE6 10441M002        001  2025 04 10 14 20 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  SVE600SWE               
+SVE6 10441M002        001  2025 04 10 14 20 00  2025 08 27 09 30 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  SVE600SWE               
+SVE6 10441M002        001  2025 08 27 09 30 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030  SVE600SWE               
 SVLL 18492M001        001  2018 06 04 00 00 00  2018 07 26 10 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  SVLL00ITA               
 SVLL 18492M001        001  2018 07 26 10 00 00  2023 11 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  SVLL00ITA               
 SVLL 18492M001        001  2023 11 28 00 00 00  2024 03 01 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  SVLL00ITA               
