@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          29-08-2025 04:04
+Station information file for Bernese GNSS Software 5.2          29-08-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -23,7 +23,7 @@ AMMN 22201M001        001  1999 06 15 00 00 00  2002 04 28 00 00 00  AMMN*      
 ANK2 20818M001        001  2019 06 28 09 56 00                       ANK2*                 ank200tur_20250210.log
 ANKR 20805M002        001  1995 06 21 00 00 00  2022 05 23 00 00 00  ANKR*                 ankr00tur_20220826.log
 AQUI 12757M001        001  1999 06 11 00 00 00                       AQUI*                 aqui00ita_20240718.log
-ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*                 ara200svn_20250730.log
+ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*                 ara200svn_20250829.log
 ARGI 10117M002        001  2008 09 25 00 00 00                       ARGI*                 argi00fro_20240812.log
 ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*                 aris00gbr_20250508.log
 ARJ6 10428M002        001  2011 07 29 00 00 00                       ARJ6*                 arj600swe_20250407.log
