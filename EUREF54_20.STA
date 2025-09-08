@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             08-09-2025 09:04
+BSW 5.4 station information file for EPN processing             08-09-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -135,7 +135,7 @@ EUSK 14258M003        001  1998 04 02 00 00 00                       EUSK*      
 EVPA 12344M001        001  2002 11 26 13 15 00  2014 04 01 00 00 00  EVPA*                 evpa00ukr_20220504.log
 FATA 12773M001        001  2005 09 01 12 00 00  2006 04 19 00 00 00  FATA*                 fata00ita_20050901.log
 FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*                 ffmj00deu_20250515.log
-FINS 10523M001        001  2014 11 13 12 00 00                       FINS*                 fins00fin_20240417.log
+FINS 10523M001        001  2014 11 13 12 00 00                       FINS*                 fins00fin_20250903.log
 FLRS 31907M001        001  2008 04 09 17 00 00                       FLRS*                 flrs00prt_20250414.log
 FOCS 11443M001        001  2007 03 12 12 00 00                       FOCS*                 focs00rou_20250411.log
 FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl00gbr_20241112.log
@@ -2215,7 +2215,8 @@ FINS 10523M001        001  2019 10 28 08 02 00  2021 03 16 12 40 00  JAVAD TRE_3
 FINS 10523M001        001  2021 03 16 12 40 00  2021 11 19 06 30 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          FINS00FIN  FINS00FIN               
 FINS 10523M001        001  2021 11 19 06 30 00  2022 11 03 05 30 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          FINS00FIN  FINS00FIN               
 FINS 10523M001        001  2022 11 03 05 30 00  2024 04 17 16 55 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          FINS00FIN  FINS00FIN               
-FINS 10523M001        001  2024 04 17 16 55 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          FINS00FIN  FINS00FIN               
+FINS 10523M001        001  2024 04 17 16 55 00  2025 09 03 11 52 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          FINS00FIN  FINS00FIN               
+FINS 10523M001        001  2025 09 03 11 52 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          FINS00FIN  FINS00FIN               
 FLRS 31907M001        001  2008 04 09 17 00 00  2008 08 18 11 30 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          FLRS00PRT  FLRS00PRT               
 FLRS 31907M001        001  2008 08 18 11 30 00  2009 04 02 10 35 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          FLRS00PRT  FLRS00PRT               
 FLRS 31907M001        001  2009 04 02 10 35 00  2009 04 22 15 45 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          FLRS00PRT  FLRS00PRT               
