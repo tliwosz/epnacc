@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             11-09-2025 04:04
+BSW 5.4 station information file for EPN processing             11-09-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -327,7 +327,7 @@ OSK6 10435M002        001  2011 06 18 00 00 00                       OSK6*      
 OSLO 10307M001        001  1995 10 05 00 00 00  2000 05 16 13 15 00  OSLO*                 oslo00nor_20241018.log
 OSLS 10307M001        001  1995 10 05 00 00 00                       OSLS*                 osls00nor_20241018.log
 OST6 10436M002        001  2011 07 08 00 00 00                       OST6*                 ost600swe_20250410.log
-OUL2 10519M002        001  2013 12 19 12 00 00                       OUL2*                 oul200fin_20250715.log
+OUL2 10519M002        001  2013 12 19 12 00 00                       OUL2*                 oul200fin_20250911.log
 OVE6 10437M002        001  2011 08 11 00 00 00                       OVE6*                 ove600swe_20250826.log
 PAD1 12750M003        001  2025 04 30 14 49 00                       PAD1*                 pad100ita_20250505.log
 PADO 12750S001        001  2001 11 21 13 00 00  2025 04 30 11 46 00  PADO*                 pado00ita_20250430.log
@@ -4731,7 +4731,8 @@ OUL2 10519M002        001  2022 09 02 08 05 00  2022 11 03 08 01 00  JAVAD TRE_3
 OUL2 10519M002        001  2022 11 03 08 01 00  2023 07 26 06 55 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
 OUL2 10519M002        001  2023 07 26 06 55 00  2024 04 17 17 55 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
 OUL2 10519M002        001  2024 04 17 17 55 00  2025 07 15 07 00 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
-OUL2 10519M002        001  2025 07 15 07 00 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
+OUL2 10519M002        001  2025 07 15 07 00 00  2025 09 11 06 50 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
+OUL2 10519M002        001  2025 09 11 06 50 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
 OVE6 10437M002        001  2011 08 11 00 00 00  2011 11 29 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 OVE6 10437M002        001  2011 11 29 00 00 00  2013 12 13 09 35 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 OVE6 10437M002        001  2013 12 13 09 35 00  2014 01 10 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
