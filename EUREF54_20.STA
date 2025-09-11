@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             11-09-2025 09:04
+BSW 5.4 station information file for EPN processing             11-09-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -158,7 +158,7 @@ GOPE 11502M002        001  1995 05 13 00 00 00                       GOPE*      
 GOR2 14115M002        001  2008 04 15 12 00 00                       GOR2*                 gor200deu_20250502.log
 GRAC 10002M010        001  1998 11 27 10 00 00                       GRAC*                 grac00fra_20240926.log
 GRAS 10002M006        001  1995 02 22 00 00 00                       GRAS*                 gras00fra_20230713.log
-GRAZ 11001M002        001  1992 06 12 12 00 00                       GRAZ*                 graz00aut_20250515.log
+GRAZ 11001M002        001  1992 06 12 12 00 00                       GRAZ*                 graz00aut_20250911.log
 GSR1 14501M001        001  2000 02 01 12 00 00                       GSR1*                 gsr100svn_20250905.log
 GUIP 10004M501        001  2002 10 18 00 00 00                       GUIP*                 guip00fra_20240716.log
 GVDG 12618M003        001  2023 09 21 00 00 00                       GVDG*                 gvdg00grc_20250826.log
@@ -2577,7 +2577,8 @@ GRAZ 11001M002        001  2020 02 04 10 12 00  2020 02 24 07 06 00  SEPT POLARX
 GRAZ 11001M002        001  2020 02 24 07 06 00  2021 11 03 07 24 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    1.9640          GRAZ00AUT  GRAZ00AUT               
 GRAZ 11001M002        001  2021 11 03 07 24 00  2022 09 20 06 19 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    1.9640          GRAZ00AUT  GRAZ00AUT               
 GRAZ 11001M002        001  2022 09 20 06 19 00  2025 04 17 00 00 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    1.9640          GRAZ00AUT  GRAZ00AUT               
-GRAZ 11001M002        001  2025 04 17 00 00 00                       SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    1.9640          GRAZ00AUT  GRAZ00AUT               
+GRAZ 11001M002        001  2025 04 17 00 00 00  2025 09 11 06 37 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    1.9640          GRAZ00AUT  GRAZ00AUT               
+GRAZ 11001M002        001  2025 09 11 06 37 00                       SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    1.9640          GRAZ00AUT  GRAZ00AUT               
 GSR1 14501M001        001  2000 02 01 12 00 00  2001 04 25 12 35 00  LEICA SR9500                                999999  LEIAT303        LEIC                        999999    0.0000    0.0000    0.0700     1.0  GSR100SVN  GSR100SVN               
 GSR1 14501M001        001  2001 04 25 12 35 00  2001 12 22 10 00 00  LEICA SR9500                                999999  LEIAT302-GP     NONE                        999999    0.0000    0.0000    0.0650     1.0  GSR100SVN  GSR100SVN               
 GSR1 14501M001        001  2001 12 22 10 00 00  2008 09 19 17 00 00  LEICA RS500                                 999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0650     1.0  GSR100SVN  GSR100SVN               
