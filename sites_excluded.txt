@@ -3,3 +3,4 @@ MNKW00BLR  2268-5  WWWW-D  Low data quality
 MNSK00BLR  2268-5  WWWW-D  Low data quality
 DRAG00ISR  2317-0  2324-1  Small number of observations
 JOZE00POL  2324-3  2324-5  Low quality of data
+MORP00GBR  2372-5  2384-1  Dislodged antenna
