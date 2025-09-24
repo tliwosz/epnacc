@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          23-09-2025 21:04
+Station information file for Bernese GNSS Software 5.2          24-09-2025 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -154,7 +154,7 @@ GLSV 12356M001        001  1997 12 16 00 00 00                       GLSV*      
 GOET 10906M001        001  2006 12 12 08 00 00                       GOET*                 goet00deu_20250502.log
 GOML 14803M001        001  2010 07 12 00 00 00                       GOML*                 goml00blr_20240808.log
 GOP6 11502M006        001  2011 12 21 00 00 00                       GOP6*                 gop600cze_20250728.log
-GOPE 11502M002        001  1995 05 13 00 00 00                       GOPE*                 gope00cze_20250728.log
+GOPE 11502M002        001  1995 05 13 00 00 00                       GOPE*                 gope00cze_20250923.log
 GOR2 14115M002        001  2008 04 15 12 00 00                       GOR2*                 gor200deu_20250502.log
 GRAC 10002M010        001  1998 11 27 10 00 00                       GRAC*                 grac00fra_20240926.log
 GRAS 10002M006        001  1995 02 22 00 00 00                       GRAS*                 gras00fra_20230713.log
@@ -2476,7 +2476,8 @@ GOPE 11502M002        001  2020 03 25 20 50 00  2020 05 11 19 56 00  TRIMBLE ALL
 GOPE 11502M002        001  2020 05 11 19 56 00  2020 09 30 12 36 00  TRIMBLE ALLOY                               999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.1114  GOPE00CZE               
 GOPE 11502M002        001  2020 09 30 12 36 00  2020 09 30 16 48 00  TRIMBLE ALLOY                               999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.1114  GOPE00CZE               
 GOPE 11502M002        001  2020 09 30 16 48 00  2024 08 21 05 57 00  TRIMBLE ALLOY                               999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.1114  GOPE00CZE               
-GOPE 11502M002        001  2024 08 21 05 57 00                       TRIMBLE ALLOY                               999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.1114  GOPE00CZE               
+GOPE 11502M002        001  2024 08 21 05 57 00  2025 09 23 21 15 00  TRIMBLE ALLOY                               999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.1114  GOPE00CZE               
+GOPE 11502M002        001  2025 09 23 21 15 00                       TRIMBLE ALLOY                               999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.1114  GOPE00CZE               
 GOR2 14115M002        001  2008 04 15 12 00 00  2008 10 15 14 00 00  TPS NETG3                                   999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450  GOR200DEU               
 GOR2 14115M002        001  2008 10 15 14 00 00  2012 09 12 14 30 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450  GOR200DEU               
 GOR2 14115M002        001  2012 09 12 14 30 00  2015 04 14 10 00 00  JPS LEGACY                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450  GOR200DEU               
