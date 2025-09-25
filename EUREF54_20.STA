@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             25-09-2025 09:04
+BSW 5.4 station information file for EPN processing             25-09-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -321,7 +321,7 @@ ONSA 10402M004        001  1993 07 01 00 00 00                       ONSA*      
 ORID 15601M001        001  2000 07 20 00 00 00                       ORID*                 orid00mkd_20250122.log
 ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*                 oriv00fin_20250307.log
 OROS 11207M001        001  2001 09 20 00 00 00                       OROS*                 oros00hun_20221118.log
-ORTE 14602M001        001  2019 07 30 11 30 00                       ORTE*                 orte00ita_20240718.log
+ORTE 14602M001        001  2019 07 30 11 30 00                       ORTE*                 orte00ita_20250925.log
 OSJE 11902M001        001  2000 09 18 00 00 00  2013 04 05 00 00 00  OSJE*                 osje00hrv_20250622.log
 OSK6 10435M002        001  2011 06 18 00 00 00                       OSK6*                 osk600swe_20250416.log
 OSLO 10307M001        001  1995 10 05 00 00 00  2000 05 16 13 15 00  OSLO*                 oslo00nor_20241018.log
@@ -4654,7 +4654,8 @@ OROS 11207M001        001  2019 04 02 12 02 00  2022 11 17 11 40 00  LEICA GRX12
 OROS 11207M001        001  2022 11 17 11 40 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          OROS00HUN  OROS00HUN               
 ORTE 14602M001        001  2019 07 30 11 30 00  2023 11 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ORTE00ITA  ORTE00ITA               
 ORTE 14602M001        001  2023 11 28 00 00 00  2024 03 01 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ORTE00ITA  ORTE00ITA               
-ORTE 14602M001        001  2024 03 01 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ORTE00ITA  ORTE00ITA               
+ORTE 14602M001        001  2024 03 01 00 00 00  2025 09 25 10 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          ORTE00ITA  ORTE00ITA               
+ORTE 14602M001        001  2025 09 25 10 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          ORTE00ITA  ORTE00ITA               
 OSJE 11902M001        001  2000 09 18 00 00 00  2005 07 27 00 00 00  ASHTECH Z-XII3                              999999  ASH700936E      SNOW                        999999    0.0000    0.0000    0.0540          OSJE00HRV  OSJE00HRV               
 OSJE 11902M001        001  2005 07 27 00 00 00  2007 01 17 00 00 00  ASHTECH Z-XII3                              999999  ASH700936E      SNOW                        999999    0.0000    0.0000    0.0540          OSJE00HRV  OSJE00HRV               
 OSJE 11902M001        001  2007 01 17 00 00 00  2007 06 29 13 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000   -0.0140          OSJE00HRV  OSJE00HRV               
