@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          25-09-2025 13:04
+Station information file for Bernese GNSS Software 5.2          25-09-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -488,7 +488,7 @@ VEN1 19513M001        001  2009 05 15 00 00 00                       VEN1*      
 VENE 12741M001        001  1995 03 23 00 00 00  2007 07 29 00 00 00  VENE*                 vene00ita_20240718.log
 VFCH 10046M001        001  2001 08 28 00 00 00                       VFCH*                 vfch00fra_20240716.log
 VIGI 14684M001        001  2014 06 28 00 00 00                       VIGI*                 vigi00ita_20240718.log
-VIGN 14605M001        001  2019 07 25 11 30 00                       VIGN*                 vign00ita_20240718.log
+VIGN 14605M001        001  2019 07 25 11 30 00                       VIGN*                 vign00ita_20250925.log
 VIGO 13450M001        001  2001 09 12 00 00 00                       VIGO*                 vigo00esp_20230913.log
 VIL0 10424M001        001  1993 08 01 00 00 00                       VIL0*                 vil000swe_20250901.log
 VIL6 10424M002        001  2011 07 20 00 00 00                       VIL6*                 vil600swe_20250901.log
@@ -6736,7 +6736,8 @@ VIGI 14684M001        001  2024 01 11 00 00 00  2024 03 01 00 00 00  LEICA GR10 
 VIGI 14684M001        001  2024 03 01 00 00 00                       LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000  VIGI00ITA               
 VIGN 14605M001        001  2019 07 25 11 30 00  2023 11 20 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  VIGN00ITA               
 VIGN 14605M001        001  2023 11 20 00 00 00  2024 03 01 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  VIGN00ITA               
-VIGN 14605M001        001  2024 03 01 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  VIGN00ITA               
+VIGN 14605M001        001  2024 03 01 00 00 00  2025 09 25 14 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  VIGN00ITA               
+VIGN 14605M001        001  2025 09 25 14 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000  VIGN00ITA               
 VIGO 13450M001        001  2001 09 12 00 00 00  2007 03 23 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     TCWD                        999999    0.0000    0.0000    0.0000  VIGO00ESP               
 VIGO 13450M001        001  2007 03 23 00 00 00  2008 03 26 09 01 00  TRIMBLE NETRS                               999999  TRM29659.00     TCWD                        999999    0.0000    0.0000    0.0000  VIGO00ESP               
 VIGO 13450M001        001  2008 03 26 09 01 00  2009 04 21 00 01 00  TRIMBLE NETRS                               999999  TRM29659.00     TCWD                        999999    0.0000    0.0000    0.0000  VIGO00ESP               
