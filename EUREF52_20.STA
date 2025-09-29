@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          29-09-2025 13:04
+Station information file for Bernese GNSS Software 5.2          29-09-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -172,7 +172,7 @@ HERT 13212M010        001  2003 03 12 00 00 00                       HERT*      
 HETT 10524M001        001  2014 01 29 12 00 00                       HETT*                 hett00fin_20250805.log
 HFL2 11006M003        001  2007 07 01 00 00 00  2011 07 04 07 00 00  HFL2*                 hfl200aut_20230421.log
 HFLK 11006S003        001  1994 10 02 13 00 00  2007 07 01 00 00 00  HFLK*                 hflk00aut_20230425.log
-HOBU 14202M003        001  1997 07 01 00 00 00                       HOBU*                 hobu00deu_20250814.log
+HOBU 14202M003        001  1997 07 01 00 00 00                       HOBU*                 hobu00deu_20250929.log
 HOE2 14284M002        001  2005 07 01 10 00 00  2015 05 19 12 00 00  HOE2*                 hoe200deu_20220905.log
 HOER 14284M001        001  2003 07 15 00 00 00  2005 06 30 10 00 00  HOER*                 hoer00deu_20230419.log
 HOFJ 14289M001        001  2007 03 07 10 00 00                       HOFJ*                 hofj00deu_20250527.log
@@ -2783,7 +2783,8 @@ HOBU 14202M003        001  2018 10 22 07 30 00  2019 06 18 09 00 00  SEPT POLARX
 HOBU 14202M003        001  2019 06 18 09 00 00  2020 06 22 09 05 00  SEPT POLARX4                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0520  HOBU00DEU               
 HOBU 14202M003        001  2020 06 22 09 05 00  2021 03 23 12 20 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0520  HOBU00DEU               
 HOBU 14202M003        001  2021 03 23 12 20 00  2022 10 27 08 58 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0520  HOBU00DEU               
-HOBU 14202M003        001  2022 10 27 08 58 00                       SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0520  HOBU00DEU               
+HOBU 14202M003        001  2022 10 27 08 58 00  2025 09 29 09 52 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0520  HOBU00DEU               
+HOBU 14202M003        001  2025 09 29 09 52 00                       SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0520  HOBU00DEU               
 HOE2 14284M002        001  2005 07 01 10 00 00  2006 05 23 10 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450  HOE200DEU               
 HOE2 14284M002        001  2006 05 23 10 00 00  2007 01 09 10 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450  HOE200DEU               
 HOE2 14284M002        001  2007 01 09 10 00 00  2007 11 22 12 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450  HOE200DEU               
