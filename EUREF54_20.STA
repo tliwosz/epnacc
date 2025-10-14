@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             14-10-2025 09:04
+BSW 5.4 station information file for EPN processing             14-10-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -12,7 +12,7 @@ STATION NAME          FLG          FROM                   TO         OLD STATION
 AAER 17916M001        001  2025 01 30 16 00 00                       AAER*                 aaer00fra_20250307.log
 ACOR 13434M001        001  1998 12 06 10 10 00                       ACOR*                 acor00esp_20250128.log
 ADAR 19161M001        001  2009 03 04 12 00 00                       ADAR*                 adar00gbr_20230628.log
-AGRN 19584M002        001  2018 05 25 00 00 00                       AGRN*                 agrn00ita_20240718.log
+AGRN 19584M002        001  2018 05 25 00 00 00                       AGRN*                 agrn00ita_20251014.log
 AJAC 10077M005        001  2000 01 22 00 00 00                       AJAC*                 ajac00fra_20240717.log
 ALAC 13433M001        001  1998 03 06 10 10 00                       ALAC*                 alac00esp_20240315.log
 ALBA 13452M001        001  2002 06 20 00 00 00                       ALBA*                 alba00esp_20240315.log
@@ -576,7 +576,8 @@ AGRN 19584M002        001  2018 05 25 00 00 00  2018 07 26 10 00 00  LEICA GR30 
 AGRN 19584M002        001  2018 07 26 10 00 00  2018 09 06 09 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AGRN00ITA  AGRN00ITA               
 AGRN 19584M002        001  2018 09 06 09 00 00  2023 11 20 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AGRN00ITA  AGRN00ITA               
 AGRN 19584M002        001  2023 11 20 00 00 00  2024 02 26 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AGRN00ITA  AGRN00ITA               
-AGRN 19584M002        001  2024 02 26 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AGRN00ITA  AGRN00ITA               
+AGRN 19584M002        001  2024 02 26 00 00 00  2025 10 14 12 30 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          AGRN00ITA  AGRN00ITA               
+AGRN 19584M002        001  2025 10 14 12 30 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          AGRN00ITA  AGRN00ITA               
 AJAC 10077M005        001  2000 01 22 00 00 00  2008 11 26 00 00 00  ASHTECH Z-XII3                              999999  ASH700936A_M    NONE                        999999    0.0000    0.0000    0.0000          AJAC00FRA  AJAC00FRA               
 AJAC 10077M005        001  2008 11 26 00 00 00  2009 05 11 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          AJAC00FRA  AJAC00FRA               
 AJAC 10077M005        001  2009 05 11 00 00 00  2010 10 18 06 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000          AJAC00FRA  AJAC00FRA               
