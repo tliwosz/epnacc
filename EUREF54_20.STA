@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             15-10-2025 09:04
+BSW 5.4 station information file for EPN processing             15-10-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -504,7 +504,7 @@ VLN1 13626M002        001  2019 02 01 12 30 00                       VLN1*      
 VLNS 10801M001        001  1997 09 16 11 00 00                       VLNS*                 vlns00ltu_20200716.log
 VNRS 18101M001        001  2009 11 12 00 00 00  2024 02 05 10 47 00  VNRS*                 vnrs00ukr_20240213.log
 VTRB 14606M001        001  2019 07 26 07 30 00                       VTRB*                 vtrb00ita_20250926.log
-WARE 13114M001        001  1994 01 14 00 00 00                       WARE*                 ware00bel_20230310.log
+WARE 13114M001        001  1994 01 14 00 00 00                       WARE*                 ware00bel_20251015.log
 WARN 14277M002        001  2003 02 11 12 00 00                       WARN*                 warn00deu_20250623.log
 WETT 14201M009        001  1994 06 07 00 00 00  1996 08 31 00 00 00  WETT*                 wett00deu_20230511.log
 WRLG 14201M024        001  2015 03 17 12 40 00                       WRLG*                 wrlg00deu_20230509.log
@@ -6952,7 +6952,8 @@ WARE 13114M001        001  2017 05 05 11 00 00  2018 11 12 08 50 00  SEPT POLARX
 WARE 13114M001        001  2018 11 12 08 50 00  2019 12 10 09 40 00  SEPT POLARX4                                999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.5180          WARE00BEL  WARE00BEL               
 WARE 13114M001        001  2019 12 10 09 40 00  2021 02 17 11 00 00  SEPT POLARX4                                999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.5180          WARE00BEL  WARE00BEL               
 WARE 13114M001        001  2021 02 17 11 00 00  2022 09 06 12 45 00  SEPT POLARX5                                999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.5180          WARE00BEL  WARE00BEL               
-WARE 13114M001        001  2022 09 06 12 45 00                       SEPT POLARX5                                999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.5180          WARE00BEL  WARE00BEL               
+WARE 13114M001        001  2022 09 06 12 45 00  2025 10 08 08 00 00  SEPT POLARX5                                999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.5180          WARE00BEL  WARE00BEL               
+WARE 13114M001        001  2025 10 08 08 00 00                       SEPT POLARX5                                999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.5180          WARE00BEL  WARE00BEL               
 WARN 14277M002        001  2003 02 11 12 00 00  2003 10 22 08 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1750          WARN00DEU  WARN00DEU               
 WARN 14277M002        001  2003 10 22 08 00 00  2003 12 05 10 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1750          WARN00DEU  WARN00DEU               
 WARN 14277M002        001  2003 12 05 10 00 00  2004 08 12 08 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1750          WARN00DEU  WARN00DEU               
