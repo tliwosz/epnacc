@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          16-10-2025 04:04
+Station information file for Bernese GNSS Software 5.2          16-10-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -504,7 +504,7 @@ VLN1 13626M002        001  2019 02 01 12 30 00                       VLN1*      
 VLNS 10801M001        001  1997 09 16 11 00 00                       VLNS*                 vlns00ltu_20200716.log
 VNRS 18101M001        001  2009 11 12 00 00 00  2024 02 05 10 47 00  VNRS*                 vnrs00ukr_20240213.log
 VTRB 14606M001        001  2019 07 26 07 30 00                       VTRB*                 vtrb00ita_20250926.log
-WARE 13114M001        001  1994 01 14 00 00 00                       WARE*                 ware00bel_20251015.log
+WARE 13114M001        001  1994 01 14 00 00 00                       WARE*                 ware00bel_20251016.log
 WARN 14277M002        001  2003 02 11 12 00 00                       WARN*                 warn00deu_20250623.log
 WETT 14201M009        001  1994 06 07 00 00 00  1996 08 31 00 00 00  WETT*                 wett00deu_20230511.log
 WRLG 14201M024        001  2015 03 17 12 40 00                       WRLG*                 wrlg00deu_20230509.log
