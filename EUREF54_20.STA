@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             18-10-2025 16:04
+BSW 5.4 station information file for EPN processing             18-10-2025 21:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -370,7 +370,7 @@ RAH1 15811M001        001  2008 08 29 15 00 00                       RAH1*      
 RAMO 20703S001        001  1998 06 10 00 00 00                       RAMO*                 ramo00isr_20250620.log
 RANT 10914M001        001  2014 05 09 10 00 00                       RANT*                 rant00deu_20250502.log
 REDU 13102M001        001  2003 04 16 00 00 00                       REDU*                 redu00bel_20230119.log
-REDZ 12227M001        001  2007 12 07 00 00 00                       REDZ*                 redz00pol_20250904.log
+REDZ 12227M001        001  2007 12 07 00 00 00                       REDZ*                 redz00pol_20251018.log
 REYK 10202M001        001  1995 11 02 00 00 00                       REYK*                 reyk00isl_20250224.log
 RIGA 12302M002        001  1995 12 05 04 00 00                       RIGA*                 riga00lva_20250820.log
 RIO1 13448M002        001  2012 01 31 12 00 00                       RIO1*                 rio100esp_20250221.log
@@ -425,7 +425,7 @@ SVE6 10441M002        001  2011 07 08 00 00 00                       SVE6*      
 SVLL 18492M001        001  2018 06 04 00 00 00                       SVLL*                 svll00ita_20240718.log
 SVTL 12350M001        001  1996 03 14 00 00 00                       SVTL*                 svtl00rus_20250108.log
 SWAS 19193M001        001  2009 08 14 14 00 00  2024 12 04 11 15 00  SWAS*                 swas00gbr_20241204.log
-SWKI 12228M001        001  2007 12 05 00 00 00                       SWKI*                 swki00pol_20250904.log
+SWKI 12228M001        001  2007 12 05 00 00 00                       SWKI*                 swki00pol_20251018.log
 TAR0 19350M002        001  2019 06 06 00 00 00                       TAR0*                 tar000esp_20250304.log
 TARI 19350M001        001  2010 05 15 12 00 00  2019 05 30 00 00 00  TARI*                 tari00esp_20220907.log
 TARS 12773S001        001  2004 05 05 12 00 00  2005 04 13 00 00 00  TARS*                 tars00ita_20050903.log
@@ -5255,7 +5255,8 @@ REDZ 12227M001        001  2018 11 22 12 05 00  2020 09 21 06 00 00  TRIMBLE NET
 REDZ 12227M001        001  2020 09 21 06 00 00  2023 05 12 11 20 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          REDZ00POL  REDZ00POL               
 REDZ 12227M001        001  2023 05 12 11 20 00  2024 02 21 13 06 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          REDZ00POL  REDZ00POL               
 REDZ 12227M001        001  2024 02 21 13 06 00  2025 09 04 07 50 00  TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          REDZ00POL  REDZ00POL               
-REDZ 12227M001        001  2025 09 04 07 50 00                       TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          REDZ00POL  REDZ00POL               
+REDZ 12227M001        001  2025 09 04 07 50 00  2025 10 18 16 10 00  TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          REDZ00POL  REDZ00POL               
+REDZ 12227M001        001  2025 10 18 16 10 00                       TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          REDZ00POL  REDZ00POL               
 REYK 10202M001        001  1995 11 02 00 00 00  1998 09 13 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0680          REYK00ISL  REYK00ISL               
 REYK 10202M001        001  1998 09 13 00 00 00  1999 03 11 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0685          REYK00ISL  REYK00ISL               
 REYK 10202M001        001  1999 03 11 00 00 00  1999 07 21 11 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0680          REYK00ISL  REYK00ISL               
@@ -6004,7 +6005,8 @@ SWKI 12228M001        001  2020 09 21 11 00 00  2022 03 10 19 30 00  TRIMBLE NET
 SWKI 12228M001        001  2022 03 10 19 30 00  2023 05 12 11 20 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          SWKI00POL  SWKI00POL               
 SWKI 12228M001        001  2023 05 12 11 20 00  2024 02 02 09 40 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          SWKI00POL  SWKI00POL               
 SWKI 12228M001        001  2024 02 02 09 40 00  2025 09 04 07 50 00  TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          SWKI00POL  SWKI00POL               
-SWKI 12228M001        001  2025 09 04 07 50 00                       TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          SWKI00POL  SWKI00POL               
+SWKI 12228M001        001  2025 09 04 07 50 00  2025 10 18 16 10 00  TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          SWKI00POL  SWKI00POL               
+SWKI 12228M001        001  2025 10 18 16 10 00                       TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000          SWKI00POL  SWKI00POL               
 TAR0 19350M002        001  2019 06 06 00 00 00  2020 03 25 12 00 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0606          TAR000ESP  TAR000ESP               
 TAR0 19350M002        001  2020 03 25 12 00 00  2021 04 07 00 00 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0606          TAR000ESP  TAR000ESP               
 TAR0 19350M002        001  2021 04 07 00 00 00  2023 10 24 13 00 00  LEICA GR25                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0606          TAR000ESP  TAR000ESP               
