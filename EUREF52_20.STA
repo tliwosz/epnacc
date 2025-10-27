@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          27-10-2025 16:04
+Station information file for Bernese GNSS Software 5.2          27-10-2025 21:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -14,13 +14,13 @@ ACOR 13434M001        001  1998 12 06 10 10 00                       ACOR*      
 ADAR 19161M001        001  2009 03 04 12 00 00                       ADAR*                 adar00gbr_20230628.log
 AGRN 19584M002        001  2018 05 25 00 00 00                       AGRN*                 agrn00ita_20251014.log
 AJAC 10077M005        001  2000 01 22 00 00 00                       AJAC*                 ajac00fra_20240717.log
-ALAC 13433M001        001  1998 03 06 10 10 00                       ALAC*                 alac00esp_20240315.log
+ALAC 13433M001        001  1998 03 06 10 10 00                       ALAC*                 alac00esp_20240501.log
 ALBA 13452M001        001  2002 06 20 00 00 00                       ALBA*                 alba00esp_20240315.log
 ALCI 12371S001        001  2003 11 29 10 40 00  2014 07 12 07 00 00  ALCI*                 alci00ukr_20220504.log
 ALKS 10731M002        001  2018 04 20 13 00 00                       ALKS*                 alks00lva_20240612.log
 ALME 13437M001        001  1999 12 04 12 00 00                       ALME*                 alme00esp_20230913.log
 AMMN 22201M001        001  1999 06 15 00 00 00  2002 04 28 00 00 00  AMMN*                 ammn00jor_20000407.log
-ANK2 20818M001        001  2019 06 28 09 56 00                       ANK2*                 ank200tur_20250210.log
+ANK2 20818M001        001  2019 06 28 09 56 00                       ANK2*                 ank200tur_20250211.log
 ANKR 20805M002        001  1995 06 21 00 00 00  2022 05 23 00 00 00  ANKR*                 ankr00tur_20220826.log
 AQUI 12757M001        001  1999 06 11 00 00 00                       AQUI*                 aqui00ita_20240718.log
 ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*                 ara200svn_20250829.log
@@ -46,7 +46,7 @@ BIRG 14613M001        001  2019 10 29 17 00 00                       BIRG*      
 BISK 11520M001        001  2001 09 06 12 00 00                       BISK*                 bisk00cze_20200219.log
 BME1 11209M002        001  2021 01 14 13 00 00                       BME1*                 bme100hun_20240905.log
 BOGE 12207M004        001  2018 09 27 12 00 00                       BOGE*                 boge00pol_20231112.log
-BOGI 12207M003        001  2001 10 01 00 00 00                       BOGI*                 bogi00pol_20250319.log
+BOGI 12207M003        001  2001 10 01 00 00 00                       BOGI*                 bogi00pol_20250321.log
 BOGO 12207M002        001  1996 06 08 00 00 00                       BOGO*                 bogo00pol_20250317.log
 BOLG 12771M001        001  1999 05 14 00 00 00                       BOLG*                 bolg00ita_20230628.log
 BOR1 12205M002        001  1994 01 10 00 00 00                       BOR1*                 bor100pol_20250403.log
@@ -70,17 +70,17 @@ BUTE 11209M001        001  2003 02 28 09 00 00                       BUTE*      
 BYDG 12224M001        001  2007 12 04 00 00 00                       BYDG*                 bydg00pol_20251024.log
 BZR2 12751M003        001  2017 10 27 06 27 00                       BZR2*                 bzr200ita_20250115.log
 BZRG 12751M001        001  1997 05 14 00 00 00  2020 07 31 19 00 00  BZRG*                 bzrg00ita_20211221.log
-CACE 13447M001        001  2000 12 05 12 00 00                       CACE*                 cace00esp_20250319.log
+CACE 13447M001        001  2000 12 05 12 00 00                       CACE*                 cace00esp_20250512.log
 CAEN 19994M001        001  2005 11 10 00 00 00  2021 12 15 10 00 00  CAEN*                 caen00fra_20220304.log
 CAG1 12702M002        001  2013 09 11 00 00 00                       CAG1*                 cag100ita_20250325.log
 CAGL 12725M003        001  1995 04 07 00 00 00  2013 09 22 00 00 00  CAGL*                 cagl00ita_20240718.log
 CAGZ 12725M004        001  2001 10 01 00 00 00  2013 09 22 00 00 00  CAGZ*                 cagz00ita_20220506.log
 CAKO 11906M001        001  2008 12 09 00 00 00                       CAKO*                 cako00hrv_20250429.log
 CAME 12754M001        001  2000 04 19 00 00 00  2009 12 13 00 00 00  CAME*                 came00ita_20240718.log
-CANT 13438M001        001  2000 03 11 12 00 00                       CANT*                 cant00esp_20250509.log
+CANT 13438M001        001  2000 03 11 12 00 00                       CANT*                 cant00esp_20250624.log
 CARG 19412M001        001  2014 05 23 12 00 00                       CARG*                 carg00esp_20241021.log
 CASB 13619M002        001  2014 07 29 12 00 00  2019 12 05 00 00 00  CASB*                 casb00irl_20230331.log
-CASC 13909S001        001  1997 03 25 00 00 00                       CASC*                 casc00prt_20250414.log
+CASC 13909S001        001  1997 03 25 00 00 00                       CASC*                 casc00prt_20250723.log
 CASE 13494M001        001  2005 09 28 00 00 00                       CASE*                 case00esp_20240909.log
 CEBR 13408M001        001  2005 08 29 00 00 00                       CEBR*                 cebr00esp_20220428.log
 CEU1 13449M002        001  2007 05 25 00 00 00                       CEU1*                 ceu100esp_20230831.log
@@ -195,7 +195,7 @@ IRBE 10726M001        001  1998 04 02 00 00 00                       IRBE*      
 ISRN 14669M001        001  2021 05 05 10 00 00                       ISRN*                 isrn00ita_20240718.log
 ISTA 20807M001        001  1999 12 11 00 00 00                       ISTA*                 ista00tur_20250117.log
 IZAN 31309M002        001  2008 05 16 00 00 00                       IZAN*                 izan00esp_20240411.log
-IZMI 20817M001        001  2008 08 10 00 00 00                       IZMI*                 izmi00tur_20250210.log
+IZMI 20817M001        001  2008 08 10 00 00 00                       IZMI*                 izmi00tur_20250211.log
 IZRS 18115M002        001  2016 05 27 07 34 00  2022 03 01 07 00 00  IZRS*                 izrs00ukr_20240202.log
 JATE 14601M001        001  2019 07 18 12 30 00                       JATE*                 jate00ita_20250207.log
 JOE2 10512M002        001  2014 01 29 12 00 00                       JOE2*                 joe200fin_20250514.log
@@ -218,14 +218,14 @@ KIV2 10516M002        001  2014 01 29 12 00 00                       KIV2*      
 KLAD 12126M001        001  2017 10 06 00 00 00                       KLAD*                 klad00srb_20231031.log
 KLNK 14810M001        001  2012 05 18 07 04 00                       KLNK*                 klnk00blr_20240808.log
 KLOP 14214M002        001  1997 03 19 00 00 00                       KLOP*                 klop00deu_20250701.log
-KLSQ 43015M001        001  2014 06 02 00 00 00                       KLSQ*                 klsq00grl_20250815.log
+KLSQ 43015M001        001  2014 06 02 00 00 00                       KLSQ*                 klsq00grl_20250819.log
 KNJA 12113M001        001  2008 04 01 00 00 00                       KNJA*                 knja00srb_20230207.log
 KOS1 13504M005        001  2013 06 18 12 20 00                       KOS1*                 kos100nld_20250806.log
 KOSG 13504M003        001  1994 06 13 00 00 00  2015 11 27 11 00 00  KOSG*                 kosg00nld_20230417.log
 KRA1 12218M002        001  2010 01 01 00 00 00                       KRA1*                 kra100pol_20231023.log
 KRAW 12218M001        001  2003 01 01 00 00 00                       KRAW*                 kraw00pol_20190420.log
 KRRS 15597M001        001  2009 09 03 00 00 00                       KRRS*                 krrs00ukr_20240610.log
-KRS1 20816M001        001  2008 09 27 00 00 00                       KRS1*                 krs100tur_20250806.log
+KRS1 20816M001        001  2008 09 27 00 00 00                       KRS1*                 krs100tur_20250807.log
 KTVL 12337M003        001  2009 09 14 16 15 00                       KTVL*                 ktvl00ukr_20170801.log
 KUNZ 11524M001        001  2005 09 23 12 30 00                       KUNZ*                 kunz00cze_20240827.log
 KURE 10604S001        001  2007 11 15 11 30 00                       KURE*                 kure00est_20250710.log
@@ -257,7 +257,7 @@ MAD2 13407S012        001  1997 10 30 00 00 00                       MAD2*      
 MADR 13407S012        001  1989 12 15 00 00 00                       MADR*                 madr00esp_20250218.log
 MAH1 13629M002        001  2021 11 29 12 30 00                       MAH1*                 mah100irl_20250811.log
 MALA 13443M001        001  2000 03 15 00 00 00                       MALA*                 mala00esp_20230724.log
-MALL 13444M001        001  2000 05 12 12 00 00                       MALL*                 mall00esp_20240411.log
+MALL 13444M001        001  2000 05 12 12 00 00                       MALL*                 mall00esp_20240501.log
 MAN2 10091M002        001  2008 01 23 00 00 00                       MAN2*                 man200fra_20240521.log
 MANS 10091M001        001  1998 04 21 00 00 00  2008 01 26 00 00 00  MANS*                 mans00fra_20250901.log
 MAR6 10405M002        001  1993 08 01 00 00 00                       MAR6*                 mar600swe_20250821.log
@@ -271,7 +271,7 @@ MATE 12734M008        001  1991 04 16 00 00 00                       MATE*      
 MATG 12734M010        001  2012 01 30 14 00 00                       MATG*                 matg00ita_20240718.log
 MDEU 18899M002        001  2018 09 27 00 00 00                       MDEU*                 mdeu00ita_20250527.log
 MDOR 10018M001        001  2002 09 23 12 00 00  2013 12 13 09 00 00  MDOR*                 mdor00fra_20241014.log
-MDVJ 12309M005        001  2001 07 18 00 00 00                       MDVJ*                 mdvj00rus_20250725.log
+MDVJ 12309M005        001  2001 07 18 00 00 00                       MDVJ*                 mdvj00rus_20250728.log
 MDVO 12309M002        001  1995 07 05 00 00 00  2003 05 11 00 00 00  MDVO*                 mdvo00rus_20240816.log
 MEDI 12711M003        001  1995 07 28 00 00 00                       MEDI*                 medi00ita_20240718.log
 MELI 19379M001        001  2011 12 14 12 00 00                       MELI*                 meli00esp_20240319.log
@@ -348,7 +348,7 @@ PMTH 13229M001        001  2004 02 13 00 00 00                       PMTH*      
 POLV 12336M001        001  2001 04 26 16 45 00                       POLV*                 polv00ukr_20250613.log
 POPI 14670M001        001  2021 07 01 10 00 00                       POPI*                 popi00ita_20240718.log
 PORE 11907M001        001  2008 12 09 00 00 00                       PORE*                 pore00hrv_20250429.log
-POTS 14106M003        001  1994 10 28 00 00 00                       POTS*                 pots00deu_20250320.log
+POTS 14106M003        001  1994 10 28 00 00 00                       POTS*                 pots00deu_20250321.log
 POUS 11518M001        001  2003 10 20 12 00 00                       POUS*                 pous00cze_20200219.log
 POZE 11908M001        001  2008 12 09 00 00 00                       POZE*                 poze00hrv_20250429.log
 PPSH 81301M002        001  2020 09 04 15 30 00                       PPSH*                 ppsh00nor_20231001.log
@@ -363,7 +363,7 @@ PULK 12305M001        001  2002 04 22 00 00 00                       PULK*      
 PUYV 10065M001        001  2004 08 26 12 00 00                       PUYV*                 puyv00fra_20240716.log
 PYHA 10528M001        001  2014 08 22 12 00 00                       PYHA*                 pyha00fin_20250714.log
 PZA2 14506M002        001  2015 06 05 12 00 00                       PZA2*                 pza200svn_20250821.log
-QAQ1 43007M001        001  2001 10 15 00 00 00                       QAQ1*                 qaq100grl_20250526.log
+QAQ1 43007M001        001  2001 10 15 00 00 00                       QAQ1*                 qaq100grl_20250527.log
 RABT 35001M002        001  2000 05 17 00 00 00                       RABT*                 rabt00mar_20250219.log
 RAEG 31912M003        001  2015 05 15 00 00 00                       RAEG*                 raeg00prt_20240411.log
 RAH1 15811M001        001  2008 08 29 15 00 00                       RAH1*                 rah100ukr_20250811.log
@@ -373,7 +373,7 @@ REDU 13102M001        001  2003 04 16 00 00 00                       REDU*      
 REDZ 12227M001        001  2007 12 07 00 00 00                       REDZ*                 redz00pol_20251018.log
 REYK 10202M001        001  1995 11 02 00 00 00                       REYK*                 reyk00isl_20250224.log
 RIGA 12302M002        001  1995 12 05 04 00 00                       RIGA*                 riga00lva_20250820.log
-RIO1 13448M002        001  2012 01 31 12 00 00                       RIO1*                 rio100esp_20250221.log
+RIO1 13448M002        001  2012 01 31 12 00 00                       RIO1*                 rio100esp_20250226.log
 RIOJ 13448M001        001  2001 04 26 00 00 00  2012 04 08 00 00 00  RIOJ*                 rioj00esp_20220907.log
 RIVO 14611M001        001  2019 09 12 15 00 00                       RIVO*                 rivo00ita_20240718.log
 ROM2 10520M002        001  2014 01 29 12 00 00                       ROM2*                 rom200fin_20250609.log
@@ -435,7 +435,7 @@ TERC 31909M001        001  2008 09 18 16 10 00                       TERC*      
 TERS 13534M001        001  1996 10 30 14 00 00                       TERS*                 ters00nld_20230417.log
 TERU 13487M001        001  2008 03 06 00 00 00                       TERU*                 teru00esp_20240607.log
 THU1 43001M001        001  1995 05 02 00 00 00  2003 01 12 00 00 00  THU1*                 thu100grl_19990813.log
-THU2 43001M002        001  1998 10 26 00 00 00                       THU2*                 thu200grl_20250821.log
+THU2 43001M002        001  1998 10 26 00 00 00                       THU2*                 thu200grl_20250822.log
 THU3 43001M002        001  2001 09 01 00 00 00  2019 05 23 00 00 00  THU3*                 thu300grl_20211215.log
 TIT2 14278M002        001  2014 12 11 09 00 00                       TIT2*                 tit200deu_20250502.log
 TLL1 13630M002        001  2017 10 27 15 00 00                       TLL1*                 tll100irl_20241010.log
@@ -474,7 +474,7 @@ UNTR 12785M001        001  2006 03 19 15 40 00                       UNTR*      
 UPAD 12750M002        001  1997 01 12 00 00 00  2001 11 21 12 00 00  UPAD*                 upad00ita_20120109.log
 USAL 19527M001        001  2010 02 24 00 00 00                       USAL*                 usal00ita_20240718.log
 USDL 12229M001        001  2007 12 03 00 00 00                       USDL*                 usdl00pol_20251024.log
-UZHL 12301M001        001  1999 02 05 00 00 00                       UZHL*                 uzhl00ukr_20250425.log
+UZHL 12301M001        001  1999 02 05 00 00 00                       UZHL*                 uzhl00ukr_20250428.log
 VAA2 10511M002        001  2014 01 02 12 00 00                       VAA2*                 vaa200fin_20250410.log
 VAAS 10511M001        001  1995 04 07 00 00 00                       VAAS*                 vaas00fin_20250410.log
 VACO 11516M001        001  2004 10 20 12 00 00                       VACO*                 vaco00cze_20200219.log
