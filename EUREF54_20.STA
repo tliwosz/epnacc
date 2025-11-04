@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             04-11-2025 13:04
+BSW 5.4 station information file for EPN processing             04-11-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -952,7 +952,8 @@ BELL 13431M001        001  2023 11 14 22 00 00  2024 09 06 02 00 00  LEICA GR50 
 BELL 13431M001        001  2024 09 06 02 00 00                       LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770          BELL00ESP  BELL00ESP               
 BFST 15202M001        001  2019 05 15 15 00 00  2020 10 22 10 30 00  LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0000          BFST00GBR  BFST00GBR               
 BFST 15202M001        001  2020 10 22 10 30 00  2024 10 08 10 30 00  LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0000          BFST00GBR  BFST00GBR               
-BFST 15202M001        001  2024 10 08 10 30 00                       LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0000          BFST00GBR  BFST00GBR               
+BFST 15202M001        001  2024 10 08 10 30 00  2025 11 04 10 47 00  LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0000          BFST00GBR  BFST00GBR               
+BFST 15202M001        001  2025 11 04 10 47 00                       TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0000          BFST00GBR  BFST00GBR               
 BIRG 14613M001        001  2019 10 29 17 00 00  2023 11 20 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          BIRG00ITA  BIRG00ITA               
 BIRG 14613M001        001  2023 11 20 00 00 00  2024 02 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          BIRG00ITA  BIRG00ITA               
 BIRG 14613M001        001  2024 02 28 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          BIRG00ITA  BIRG00ITA               
