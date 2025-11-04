@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             04-11-2025 04:04
+BSW 5.4 station information file for EPN processing             04-11-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -41,7 +41,7 @@ BBYS 11514M001        001  2001 04 01 06 00 00                       BBYS*      
 BCLN 13412M001        001  2012 01 31 12 00 00                       BCLN*                 bcln00esp_20230720.log
 BELF 13240M001        001  2000 11 07 00 00 00  2016 04 07 00 00 00  BELF*                 belf00gbr_20241112.log
 BELL 13431M001        001  1997 05 13 00 00 00                       BELL*                 bell00esp_20240909.log
-BFST 15202M001        001  2019 05 15 15 00 00                       BFST*                 bfst00gbr_20250925.log
+BFST 15202M001        001  2019 05 15 15 00 00                       BFST*                 bfst00gbr_20251104.log
 BIRG 14613M001        001  2019 10 29 17 00 00                       BIRG*                 birg00ita_20240718.log
 BISK 11520M001        001  2001 09 06 12 00 00                       BISK*                 bisk00cze_20200219.log
 BME1 11209M002        001  2021 01 14 13 00 00                       BME1*                 bme100hun_20240905.log
@@ -138,7 +138,7 @@ FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*      
 FINS 10523M001        001  2014 11 13 12 00 00                       FINS*                 fins00fin_20250903.log
 FLRS 31907M001        001  2008 04 09 17 00 00                       FLRS*                 flrs00prt_20250414.log
 FOCS 11443M001        001  2007 03 12 12 00 00                       FOCS*                 focs00rou_20250411.log
-FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl00gbr_20241112.log
+FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl00gbr_20251104.log
 FRA2 15538M002        001  2011 03 16 12 00 00                       FRA2*                 fra200ukr_20250811.log
 FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*                 frne00ita_20250925.log
 FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func00prt_20250414.log
@@ -2258,7 +2258,8 @@ FOYL 13241M001        001  2014 05 16 06 53 00  2014 12 03 17 05 00  LEICA GRX12
 FOYL 13241M001        001  2014 12 03 17 05 00  2017 01 26 14 55 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
 FOYL 13241M001        001  2017 01 26 14 55 00  2019 01 30 14 53 00  LEICA GR25                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
 FOYL 13241M001        001  2019 01 30 14 53 00  2020 10 22 10 30 00  LEICA GR25                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
-FOYL 13241M001        001  2020 10 22 10 30 00                       LEICA GR25                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
+FOYL 13241M001        001  2020 10 22 10 30 00  2025 10 31 13 47 00  LEICA GR25                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
+FOYL 13241M001        001  2025 10 31 13 47 00                       TRIMBLE ALLOY                               999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
 FRA2 15538M002        001  2011 03 16 12 00 00  2021 07 22 15 00 00  TPS GB-500                                  999999  TPSPG_A1        NONE                        999999    0.0000    0.0000    0.0000          FRA200UKR  FRA200UKR               
 FRA2 15538M002        001  2021 07 22 15 00 00  2021 07 22 16 00 00  TPS GB-500                                  999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          FRA200UKR  FRA200UKR               
 FRA2 15538M002        001  2021 07 22 16 00 00                       TRIMBLE NETR9                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          FRA200UKR  FRA200UKR               
