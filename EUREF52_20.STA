@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          05-11-2025 16:04
+Station information file for Bernese GNSS Software 5.2          05-11-2025 21:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -11,7 +11,7 @@ STATION NAME          FLG          FROM                   TO         OLD STATION
 ****************      ***  YYYY MM DD HH MM SS  YYYY MM DD HH MM SS  ********************  ************************
 AAER 17916M001        001  2025 01 30 16 00 00                       AAER*                 aaer00fra_20250307.log
 ACOR 13434M001        001  1998 12 06 10 10 00                       ACOR*                 acor00esp_20250128.log
-ADAR 19161M001        001  2009 03 04 12 00 00                       ADAR*                 adar00gbr_20230628.log
+ADAR 19161M001        001  2009 03 04 12 00 00                       ADAR*                 adar00gbr_20251105.log
 AGRN 19584M002        001  2018 05 25 00 00 00                       AGRN*                 agrn00ita_20251014.log
 AJAC 10077M005        001  2000 01 22 00 00 00                       AJAC*                 ajac00fra_20240717.log
 ALAC 13433M001        001  1998 03 06 10 10 00                       ALAC*                 alac00esp_20240501.log
@@ -86,7 +86,7 @@ CEBR 13408M001        001  2005 08 29 00 00 00                       CEBR*      
 CEU1 13449M002        001  2007 05 25 00 00 00                       CEU1*                 ceu100esp_20230831.log
 CEUT 13449M001        001  2001 08 24 00 00 00  2007 02 18 00 00 00  CEUT*                 ceut00esp_20220907.log
 CFRM 11525M001        001  2005 10 20 00 00 00                       CFRM*                 cfrm00cze_20250218.log
-CHIO 19194M001        001  2009 06 30 17 00 00                       CHIO*                 chio00gbr_20230406.log
+CHIO 19194M001        001  2009 06 30 17 00 00                       CHIO*                 chio00gbr_20251105.log
 CHIZ 10020M001        001  2000 10 19 00 00 00                       CHIZ*                 chiz00fra_20240902.log
 CIMO 14608M001        001  2019 09 19 09 30 00                       CIMO*                 cimo00ita_20240718.log
 CLIB 11526M001        001  2005 07 25 00 00 00                       CLIB*                 clib00cze_20250218.log
@@ -572,7 +572,8 @@ ADAR 19161M001        001  2021 01 29 12 05 00  2021 02 05 00 00 00  SEPT POLARX
 ADAR 19161M001        001  2021 02 05 00 00 00  2021 03 13 00 00 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1888  ADAR00GBR               
 ADAR 19161M001        001  2021 03 13 00 00 00  2022 08 31 09 40 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1888  ADAR00GBR               
 ADAR 19161M001        001  2022 08 31 09 40 00  2023 06 28 13 30 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1888  ADAR00GBR               
-ADAR 19161M001        001  2023 06 28 13 30 00                       SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1888  ADAR00GBR               
+ADAR 19161M001        001  2023 06 28 13 30 00  2025 11 05 14 48 00  SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1888  ADAR00GBR               
+ADAR 19161M001        001  2025 11 05 14 48 00                       SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1888  ADAR00GBR               
 AGRN 19584M002        001  2018 05 25 00 00 00  2018 07 26 10 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  AGRN00ITA               
 AGRN 19584M002        001  2018 07 26 10 00 00  2018 09 06 09 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  AGRN00ITA               
 AGRN 19584M002        001  2018 09 06 09 00 00  2023 11 20 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  AGRN00ITA               
@@ -1507,7 +1508,8 @@ CHIO 19194M001        001  2020 02 19 14 45 00  2021 02 01 14 30 00  SEPT POLARX
 CHIO 19194M001        001  2021 02 01 14 30 00  2021 02 05 00 00 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.5334  CHIO00GBR               
 CHIO 19194M001        001  2021 02 05 00 00 00  2021 02 10 00 00 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.5334  CHIO00GBR               
 CHIO 19194M001        001  2021 02 10 00 00 00  2022 08 31 09 20 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.5334  CHIO00GBR               
-CHIO 19194M001        001  2022 08 31 09 20 00                       SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.5334  CHIO00GBR               
+CHIO 19194M001        001  2022 08 31 09 20 00  2025 11 05 16 08 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.5334  CHIO00GBR               
+CHIO 19194M001        001  2025 11 05 16 08 00                       SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.5334  CHIO00GBR               
 CHIZ 10020M001        001  2000 10 19 00 00 00  2015 04 30 11 00 00  ASHTECH Z-XII3                              999999  ASH701945B_M    NONE                        999999    0.0000    0.0000    1.0640  CHIZ00FRA               
 CHIZ 10020M001        001  2015 04 30 11 00 00  2018 12 22 00 00 00  LEICA GR25                                  999999  ASH701945B_M    NONE                        999999    0.0000    0.0000    1.0640  CHIZ00FRA               
 CHIZ 10020M001        001  2018 12 22 00 00 00  2019 03 13 00 00 00  LEICA GR25                                  999999  ASH701945B_M    NONE                        999999    0.0000    0.0000    1.0640  CHIZ00FRA               
