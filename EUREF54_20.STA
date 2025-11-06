@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             06-11-2025 16:04
+BSW 5.4 station information file for EPN processing             06-11-2025 21:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -190,7 +190,7 @@ IGNP 10001M011        001  2024 07 05 12 00 00                       IGNP*      
 IJMU 13537M001        001  2004 12 30 00 00 00                       IJMU*                 ijmu00nld_20240906.log
 ILDX 19724M001        001  2012 02 07 12 00 00                       ILDX*                 ildx00fra_20240716.log
 INVE 13221S001        001  2000 01 02 00 00 00  2009 01 20 09 20 00  INVE*                 inve00gbr_20250811.log
-INVR 13221M001        001  2009 01 20 09 20 00                       INVR*                 invr00gbr_20230406.log
+INVR 13221M001        001  2009 01 20 09 20 00                       INVR*                 invr00gbr_20251106.log
 IRBE 10726M001        001  1998 04 02 00 00 00                       IRBE*                 irbe00lva_20240826.log
 ISRN 14669M001        001  2021 05 05 10 00 00                       ISRN*                 isrn00ita_20240718.log
 ISTA 20807M001        001  1999 12 11 00 00 00                       ISTA*                 ista00tur_20250117.log
@@ -2976,7 +2976,8 @@ INVR 13221M001        001  2020 02 25 07 50 00  2021 02 04 12 05 00  SEPT POLARX
 INVR 13221M001        001  2021 02 04 12 05 00  2021 02 05 00 00 00  SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          INVR00GBR  INVR00GBR               
 INVR 13221M001        001  2021 02 05 00 00 00  2021 03 13 00 00 00  SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          INVR00GBR  INVR00GBR               
 INVR 13221M001        001  2021 03 13 00 00 00  2022 09 01 13 35 00  SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          INVR00GBR  INVR00GBR               
-INVR 13221M001        001  2022 09 01 13 35 00                       SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          INVR00GBR  INVR00GBR               
+INVR 13221M001        001  2022 09 01 13 35 00  2025 11 06 15 08 00  SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          INVR00GBR  INVR00GBR               
+INVR 13221M001        001  2025 11 06 15 08 00                       SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          INVR00GBR  INVR00GBR               
 IRBE 10726M001        001  1998 04 02 00 00 00  2004 08 20 00 00 00  ROGUE SNR-8000                              999999  ASH700936D_M    NONE                        999999    0.0000    0.0000    0.0000          IRBE00LVA  IRBE00LVA               
 IRBE 10726M001        001  2004 08 20 00 00 00  2010 08 31 00 00 00  TRIMBLE 4000ST                              999999  ASH700936D_M    NONE                        999999    0.0000    0.0000    0.0000          IRBE00LVA  IRBE00LVA               
 IRBE 10726M001        001  2010 08 31 00 00 00  2011 04 06 00 00 00  LEICA GRX1200+GNSS                          999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          IRBE00LVA  IRBE00LVA               
