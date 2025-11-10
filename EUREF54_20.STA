@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             10-11-2025 09:04
+BSW 5.4 station information file for EPN processing             10-11-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -82,7 +82,7 @@ CARG 19412M001        001  2014 05 23 12 00 00                       CARG*      
 CASB 13619M002        001  2014 07 29 12 00 00  2019 12 05 00 00 00  CASB*                 casb00irl_20230331.log
 CASC 13909S001        001  1997 03 25 00 00 00                       CASC*                 casc00prt_20250723.log
 CASE 13494M001        001  2005 09 28 00 00 00                       CASE*                 case00esp_20240909.log
-CEBR 13408M001        001  2005 08 29 00 00 00                       CEBR*                 cebr00esp_20220428.log
+CEBR 13408M001        001  2005 08 29 00 00 00                       CEBR*                 cebr00esp_20251110.log
 CEU1 13449M002        001  2007 05 25 00 00 00                       CEU1*                 ceu100esp_20230831.log
 CEUT 13449M001        001  2001 08 24 00 00 00  2007 02 18 00 00 00  CEUT*                 ceut00esp_20220907.log
 CFRM 11525M001        001  2005 10 20 00 00 00                       CFRM*                 cfrm00cze_20250218.log
@@ -213,7 +213,7 @@ KHAR 12314M001        001  2002 11 25 13 00 00                       KHAR*      
 KILP 10525M001        001  2014 01 29 12 00 00                       KILP*                 kilp00fin_20250717.log
 KIR0 10422M001        001  1993 08 01 00 00 00                       KIR0*                 kir000swe_20250811.log
 KIR8 10422M002        001  2011 08 12 00 00 00                       KIR8*                 kir800swe_20250708.log
-KIRU 10403M002        001  1993 07 08 00 00 00                       KIRU*                 kiru00swe_20230417.log
+KIRU 10403M002        001  1993 07 08 00 00 00                       KIRU*                 kiru00swe_20251110.log
 KIV2 10516M002        001  2014 01 29 12 00 00                       KIV2*                 kiv200fin_20250411.log
 KLAD 12126M001        001  2017 10 06 00 00 00                       KLAD*                 klad00srb_20231031.log
 KLNK 14810M001        001  2012 05 18 07 04 00                       KLNK*                 klnk00blr_20240808.log
@@ -265,7 +265,7 @@ MAR7 10405M003        001  2011 04 27 00 00 00                       MAR7*      
 MARJ 11517M001        001  2003 05 15 12 00 00  2015 09 06 00 00 00  MARJ*                 marj00cze_20220512.log
 MARP 15556M001        001  2013 07 24 21 02 00                       MARP*                 marp00ukr_20220926.log
 MARS 10073M008        001  1998 07 16 15 00 00                       MARS*                 mars00fra_20250922.log
-MAS1 31303M002        001  1994 04 11 00 00 00                       MAS1*                 mas100esp_20220428.log
+MAS1 31303M002        001  1994 04 11 00 00 00                       MAS1*                 mas100esp_20251110.log
 MAT1 12734M009        001  2001 05 08 00 00 00                       MAT1*                 mat100ita_20240718.log
 MATE 12734M008        001  1991 04 16 00 00 00                       MATE*                 mate00ita_20250514.log
 MATG 12734M010        001  2012 01 30 14 00 00                       MATG*                 matg00ita_20240718.log
@@ -369,7 +369,7 @@ RAEG 31912M003        001  2015 05 15 00 00 00                       RAEG*      
 RAH1 15811M001        001  2008 08 29 15 00 00                       RAH1*                 rah100ukr_20250811.log
 RAMO 20703S001        001  1998 06 10 00 00 00                       RAMO*                 ramo00isr_20250620.log
 RANT 10914M001        001  2014 05 09 10 00 00                       RANT*                 rant00deu_20250502.log
-REDU 13102M001        001  2003 04 16 00 00 00                       REDU*                 redu00bel_20230119.log
+REDU 13102M001        001  2003 04 16 00 00 00                       REDU*                 redu00bel_20251110.log
 REDZ 12227M001        001  2007 12 07 00 00 00                       REDZ*                 redz00pol_20251018.log
 REYK 10202M001        001  1995 11 02 00 00 00                       REYK*                 reyk00isl_20250224.log
 RIGA 12302M002        001  1995 12 05 04 00 00                       RIGA*                 riga00lva_20250820.log
@@ -492,7 +492,7 @@ VIGN 14605M001        001  2019 07 25 11 30 00                       VIGN*      
 VIGO 13450M001        001  2001 09 12 00 00 00                       VIGO*                 vigo00esp_20230913.log
 VIL0 10424M001        001  1993 08 01 00 00 00                       VIL0*                 vil000swe_20250901.log
 VIL6 10424M002        001  2011 07 20 00 00 00                       VIL6*                 vil600swe_20250901.log
-VILL 13406M001        001  1994 11 12 00 00 00                       VILL*                 vill00esp_20220428.log
+VILL 13406M001        001  1994 11 12 00 00 00                       VILL*                 vill00esp_20251110.log
 VIR2 10522M002        001  2014 01 02 12 00 00                       VIR2*                 vir200fin_20250307.log
 VIRG 14628M001        001  2020 07 13 10 00 00                       VIRG*                 virg00ita_20240718.log
 VIS0 10423M001        001  1993 08 01 00 00 00                       VIS0*                 vis000swe_20250326.log
@@ -1464,7 +1464,8 @@ CEBR 13408M001        001  2015 08 27 12 05 00  2016 10 21 14 01 00  SEPT POLARX
 CEBR 13408M001        001  2016 10 21 14 01 00  2019 09 19 10 00 00  SEPT POLARX4                                999999  SEPCHOKE_MC     NONE                        999999    0.0000    0.0000    0.1780          CEBR00ESP  CEBR00ESP               
 CEBR 13408M001        001  2019 09 19 10 00 00  2020 04 08 13 15 00  SEPT POLARX5TR                              999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.1527          CEBR00ESP  CEBR00ESP               
 CEBR 13408M001        001  2020 04 08 13 15 00  2021 01 19 13 00 00  SEPT POLARX5TR                              999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.1527          CEBR00ESP  CEBR00ESP               
-CEBR 13408M001        001  2021 01 19 13 00 00                       SEPT POLARX5TR                              999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.1527          CEBR00ESP  CEBR00ESP               
+CEBR 13408M001        001  2021 01 19 13 00 00  2025 05 09 00 00 00  SEPT POLARX5TR                              999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.1527          CEBR00ESP  CEBR00ESP               
+CEBR 13408M001        001  2025 05 09 00 00 00                       SEPT POLARX5TR                              999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.1527          CEBR00ESP  CEBR00ESP               
 CEU1 13449M002        001  2007 05 25 00 00 00  2008 03 12 11 01 00  TRIMBLE NETRS                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          CEU100ESP  CEU100ESP               
 CEU1 13449M002        001  2008 03 12 11 01 00  2009 04 21 00 00 00  TRIMBLE NETRS                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          CEU100ESP  CEU100ESP               
 CEU1 13449M002        001  2009 04 21 00 00 00  2010 07 21 09 00 00  TRIMBLE NETRS                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          CEU100ESP  CEU100ESP               
@@ -3307,7 +3308,8 @@ KIRU 10403M002        001  2016 10 21 14 01 00  2019 11 12 11 30 00  SEPT POLARX
 KIRU 10403M002        001  2019 11 12 11 30 00  2020 04 08 13 15 00  SEPT POLARX5                                999999  SEPCHOKE_B3E6   SPKE                        999999    0.0000    0.0000    0.0620          KIRU00SWE  KIRU00SWE               
 KIRU 10403M002        001  2020 04 08 13 15 00  2021 01 19 13 00 00  SEPT POLARX5                                999999  SEPCHOKE_B3E6   SPKE                        999999    0.0000    0.0000    0.0620          KIRU00SWE  KIRU00SWE               
 KIRU 10403M002        001  2021 01 19 13 00 00  2023 04 17 11 05 00  SEPT POLARX5                                999999  SEPCHOKE_B3E6   SPKE                        999999    0.0000    0.0000    0.0620          KIRU00SWE  KIRU00SWE               
-KIRU 10403M002        001  2023 04 17 11 05 00                       SEPT POLARX5TR                              999999  SEPCHOKE_B3E6   SPKE                        999999    0.0000    0.0000    0.0620          KIRU00SWE  KIRU00SWE               
+KIRU 10403M002        001  2023 04 17 11 05 00  2025 05 09 00 00 00  SEPT POLARX5TR                              999999  SEPCHOKE_B3E6   SPKE                        999999    0.0000    0.0000    0.0620          KIRU00SWE  KIRU00SWE               
+KIRU 10403M002        001  2025 05 09 00 00 00                       SEPT POLARX5TR                              999999  SEPCHOKE_B3E6   SPKE                        999999    0.0000    0.0000    0.0620          KIRU00SWE  KIRU00SWE               
 KIV2 10516M002        001  2014 01 29 12 00 00  2015 03 12 13 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KIV200FIN  KIV200FIN               
 KIV2 10516M002        001  2015 03 12 13 00 00  2016 12 12 10 55 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KIV200FIN  KIV200FIN               
 KIV2 10516M002        001  2016 12 12 10 55 00  2017 04 24 11 27 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          KIV200FIN  KIV200FIN               
@@ -4023,7 +4025,8 @@ MAS1 31303M002        001  2016 10 18 12 01 00  2018 05 14 12 00 00  SEPT POLARX
 MAS1 31303M002        001  2018 05 14 12 00 00  2019 10 15 13 00 00  SEPT POLARX4                                999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0330          MAS100ESP  MAS100ESP               
 MAS1 31303M002        001  2019 10 15 13 00 00  2020 04 06 14 45 00  SEPT POLARX5                                999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0330          MAS100ESP  MAS100ESP               
 MAS1 31303M002        001  2020 04 06 14 45 00  2021 01 19 12 00 00  SEPT POLARX5                                999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0330          MAS100ESP  MAS100ESP               
-MAS1 31303M002        001  2021 01 19 12 00 00                       SEPT POLARX5                                999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0330          MAS100ESP  MAS100ESP               
+MAS1 31303M002        001  2021 01 19 12 00 00  2025 05 09 00 00 00  SEPT POLARX5                                999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0330          MAS100ESP  MAS100ESP               
+MAS1 31303M002        001  2025 05 09 00 00 00                       SEPT POLARX5                                999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0330          MAS100ESP  MAS100ESP               
 MAT1 12734M009        001  2001 05 08 00 00 00  2005 09 12 00 00 00  ASHTECH Z18                                 999999  ASH701941.B     NONE                        999999    0.0000    0.0000    0.0000          MAT100ITA  MAT100ITA               
 MAT1 12734M009        001  2005 09 12 00 00 00  2009 06 03 00 00 00  ASHTECH Z18                                 999999  ASH701941.B     NONE                        999999    0.0000    0.0000    0.0000          MAT100ITA  MAT100ITA               
 MAT1 12734M009        001  2009 06 03 00 00 00  2015 08 03 13 10 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          MAT100ITA  MAT100ITA               
@@ -5256,7 +5259,8 @@ REDU 13102M001        001  2019 10 29 10 00 00  2020 04 06 14 45 00  SEPT POLARX
 REDU 13102M001        001  2020 04 06 14 45 00  2020 11 05 14 05 00  SEPT POLARX5                                999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.1150          REDU00BEL  REDU00BEL               
 REDU 13102M001        001  2020 11 05 14 05 00  2021 01 19 12 00 00  SEPT POLARX5                                999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.1150          REDU00BEL  REDU00BEL               
 REDU 13102M001        001  2021 01 19 12 00 00  2023 01 19 09 00 00  SEPT POLARX5                                999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.1150          REDU00BEL  REDU00BEL               
-REDU 13102M001        001  2023 01 19 09 00 00                       SEPT POLARX5TR                              999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.1150          REDU00BEL  REDU00BEL               
+REDU 13102M001        001  2023 01 19 09 00 00  2025 05 09 00 00 00  SEPT POLARX5TR                              999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.1150          REDU00BEL  REDU00BEL               
+REDU 13102M001        001  2025 05 09 00 00 00                       SEPT POLARX5TR                              999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.1150          REDU00BEL  REDU00BEL               
 REDZ 12227M001        001  2007 12 07 00 00 00  2008 06 26 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000          REDZ00POL  REDZ00POL               
 REDZ 12227M001        001  2008 06 26 00 00 00  2009 02 24 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000          REDZ00POL  REDZ00POL               
 REDZ 12227M001        001  2009 02 24 00 00 00  2011 07 08 00 00 00  TRIMBLE NETR5                               999999  TRM55971.00     TZGD                        999999    0.0000    0.0000    0.0000          REDZ00POL  REDZ00POL               
@@ -6836,7 +6840,8 @@ VILL 13406M001        001  2015 08 27 12 05 00  2016 10 21 14 01 00  SEPT POLARX
 VILL 13406M001        001  2016 10 21 14 01 00  2020 01 07 12 30 00  SEPT POLARX4                                999999  SEPCHOKE_MC     NONE                        999999    0.0000    0.0000    0.0937          VILL00ESP  VILL00ESP               
 VILL 13406M001        001  2020 01 07 12 30 00  2020 04 06 14 45 00  SEPT POLARX5                                999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.0937          VILL00ESP  VILL00ESP               
 VILL 13406M001        001  2020 04 06 14 45 00  2021 01 19 12 00 00  SEPT POLARX5                                999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.0937          VILL00ESP  VILL00ESP               
-VILL 13406M001        001  2021 01 19 12 00 00                       SEPT POLARX5                                999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.0937          VILL00ESP  VILL00ESP               
+VILL 13406M001        001  2021 01 19 12 00 00  2025 07 25 00 00 00  SEPT POLARX5                                999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.0937          VILL00ESP  VILL00ESP               
+VILL 13406M001        001  2025 07 25 00 00 00                       SEPT POLARX5                                999999  SEPCHOKE_B3E6   NONE                        999999    0.0000    0.0000    0.0937          VILL00ESP  VILL00ESP               
 VIR2 10522M002        001  2014 01 02 12 00 00  2015 03 13 06 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          VIR200FIN  VIR200FIN               
 VIR2 10522M002        001  2015 03 13 06 00 00  2016 12 12 07 10 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          VIR200FIN  VIR200FIN               
 VIR2 10522M002        001  2016 12 12 07 10 00  2017 04 24 11 27 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          VIR200FIN  VIR200FIN               
