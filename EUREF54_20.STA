@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             10-11-2025 13:04
+BSW 5.4 station information file for EPN processing             10-11-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -408,7 +408,7 @@ SODA 10513M001        001  1994 08 15 00 00 00                       SODA*      
 SOFI 11101M002        001  1997 05 19 10 00 00                       SOFI*                 sofi00bgr_20250307.log
 SONS 13446M001        001  2000 12 15 00 00 00                       SONS*                 sons00esp_20240319.log
 SPRN 11227M001        001  2006 11 01 12 00 00                       SPRN*                 sprn00hun_20220622.log
-SPT0 10425M001        001  1995 12 14 00 00 00                       SPT0*                 spt000swe_20221208.log
+SPT0 10425M001        001  1995 12 14 00 00 00                       SPT0*                 spt000swe_20250820.log
 SPT7 10425M002        001  2011 10 07 00 00 00                       SPT7*                 spt700swe_20250820.log
 SRJV 11801S001        001  1999 06 11 17 14 00                       SRJV*                 srjv00bih_20240923.log
 STAS 10330M001        001  1995 05 22 00 00 00                       STAS*                 stas00nor_20241018.log
