@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             11-11-2025 09:04
+BSW 5.4 station information file for EPN processing             11-11-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -329,7 +329,7 @@ OSLS 10307M001        001  1995 10 05 00 00 00                       OSLS*      
 OST6 10436M002        001  2011 07 08 00 00 00                       OST6*                 ost600swe_20250410.log
 OUL2 10519M002        001  2013 12 19 12 00 00                       OUL2*                 oul200fin_20250911.log
 OVE6 10437M002        001  2011 08 11 00 00 00                       OVE6*                 ove600swe_20250826.log
-PAD1 12750M003        001  2025 04 30 14 49 00                       PAD1*                 pad100ita_20250918.log
+PAD1 12750M003        001  2025 04 30 14 49 00                       PAD1*                 pad100ita_20251111.log
 PADO 12750S001        001  2001 11 21 13 00 00  2025 04 30 11 46 00  PADO*                 pado00ita_20250430.log
 PALB 14603M001        001  2019 07 16 09 45 00                       PALB*                 palb00ita_20250214.log
 PASA 19351S001        001  2007 02 12 00 00 00                       PASA*                 pasa00esp_20251003.log
@@ -344,7 +344,7 @@ PFAN 11005S002        001  1997 04 10 00 00 00  2007 11 29 12 00 00  PFAN*      
 PINS 14808M001        001  2011 04 20 10 58 00                       PINS*                 pins00blr_20240808.log
 PLND 12111M001        001  2011 01 18 12 00 00  2023 08 30 12 00 00  PLND*                 plnd00srb_20231225.log
 PLYM 13229S001        001  2002 01 23 00 00 00  2004 02 12 23 59 00  PLYM*                 plym00gbr_20250811.log
-PMTH 13229M001        001  2004 02 13 00 00 00                       PMTH*                 pmth00gbr_20230406.log
+PMTH 13229M001        001  2004 02 13 00 00 00                       PMTH*                 pmth00gbr_20251111.log
 POLV 12336M001        001  2001 04 26 16 45 00                       POLV*                 polv00ukr_20250613.log
 POPI 14670M001        001  2021 07 01 10 00 00                       POPI*                 popi00ita_20240718.log
 PORE 11907M001        001  2008 12 09 00 00 00                       PORE*                 pore00hrv_20250429.log
@@ -4781,7 +4781,8 @@ OVE6 10437M002        001  2022 11 21 09 20 00  2025 04 07 14 30 00  TRIMBLE ALL
 OVE6 10437M002        001  2025 04 07 14 30 00  2025 08 26 13 30 00  TRIMBLE ALLOY                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 OVE6 10437M002        001  2025 08 26 13 30 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 PAD1 12750M003        001  2025 04 30 14 49 00  2025 09 18 09 48 00  STONEX SC2200                               999999  STXSA1200       STXR                        999999    0.0000    0.0000    0.0000          PAD100ITA  PAD100ITA               
-PAD1 12750M003        001  2025 09 18 09 48 00                       STONEX SC2200                               999999  STXSA1200       STXR                        999999    0.0000    0.0000    0.0000          PAD100ITA  PAD100ITA               
+PAD1 12750M003        001  2025 09 18 09 48 00  2025 11 11 10 35 00  STONEX SC2200                               999999  STXSA1200       STXR                        999999    0.0000    0.0000    0.0000          PAD100ITA  PAD100ITA               
+PAD1 12750M003        001  2025 11 11 10 35 00                       STONEX SC2200                               999999  STXSA1200       STXR                        999999    0.0000    0.0000    0.0000          PAD100ITA  PAD100ITA               
 PADO 12750S001        001  2001 11 21 13 00 00  2002 08 01 10 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
 PADO 12750S001        001  2002 08 01 10 00 00  2002 11 04 10 00 00  TRIMBLE 4700                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
 PADO 12750S001        001  2002 11 04 10 00 00  2003 06 10 13 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          PADO00ITA  PADO00ITA               
@@ -4955,7 +4956,8 @@ PMTH 13229M001        001  2020 02 27 11 05 00  2021 02 04 14 50 00  SEPT POLARX
 PMTH 13229M001        001  2021 02 04 14 50 00  2021 02 05 00 00 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          PMTH00GBR  PMTH00GBR               
 PMTH 13229M001        001  2021 02 05 00 00 00  2021 04 27 00 00 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          PMTH00GBR  PMTH00GBR               
 PMTH 13229M001        001  2021 04 27 00 00 00  2022 09 02 08 30 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          PMTH00GBR  PMTH00GBR               
-PMTH 13229M001        001  2022 09 02 08 30 00                       SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          PMTH00GBR  PMTH00GBR               
+PMTH 13229M001        001  2022 09 02 08 30 00  2025 11 11 11 41 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          PMTH00GBR  PMTH00GBR               
+PMTH 13229M001        001  2025 11 11 11 41 00                       SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          PMTH00GBR  PMTH00GBR               
 POLV 12336M001        001  2001 04 26 16 45 00  2013 02 13 11 00 00  TRIMBLE 4700                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000   120.0  POLV00UKR  POLV00UKR               
 POLV 12336M001        001  2013 02 13 11 00 00  2013 02 18 10 07 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0700          POLV00UKR  POLV00UKR               
 POLV 12336M001        001  2013 02 18 10 07 00  2013 06 11 10 16 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0700          POLV00UKR  POLV00UKR               
