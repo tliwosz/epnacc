@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             11-11-2025 16:04
+BSW 5.4 station information file for EPN processing             11-11-2025 21:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -37,7 +37,7 @@ BACA 11405M001        001  2005 08 05 12 00 00  2025 05 05 07 09 00  BACA*      
 BADH 14288M001        001  2005 02 28 12 00 00                       BADH*                 badh00deu_20250224.log
 BAIA 11406M001        001  2005 06 10 12 00 00                       BAIA*                 baia00rou_20241210.log
 BAUT 14102M001        001  2018 09 26 10 00 00                       BAUT*                 baut00deu_20250429.log
-BBYS 11514M001        001  2001 04 01 06 00 00                       BBYS*                 bbys00svk_20250415.log
+BBYS 11514M001        001  2001 04 01 06 00 00                       BBYS*                 bbys00svk_20251111.log
 BCLN 13412M001        001  2012 01 31 12 00 00                       BCLN*                 bcln00esp_20230720.log
 BELF 13240M001        001  2000 11 07 00 00 00  2016 04 07 00 00 00  BELF*                 belf00gbr_20241112.log
 BELL 13431M001        001  1997 05 13 00 00 00                       BELL*                 bell00esp_20240909.log
@@ -902,7 +902,8 @@ BBYS 11514M001        001  2022 12 13 08 59 00  2023 05 09 07 38 00  TRIMBLE NET
 BBYS 11514M001        001  2023 05 09 07 38 00  2023 09 06 08 58 00  TRIMBLE NETR9                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.2840   180.0  BBYS00SVK  BBYS00SVK               
 BBYS 11514M001        001  2023 09 06 08 58 00  2024 05 21 06 17 00  TRIMBLE NETR9                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.2840   180.0  BBYS00SVK  BBYS00SVK               
 BBYS 11514M001        001  2024 05 21 06 17 00  2025 04 15 06 14 00  TRIMBLE NETR9                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.2840   180.0  BBYS00SVK  BBYS00SVK               
-BBYS 11514M001        001  2025 04 15 06 14 00                       TRIMBLE NETR9                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.2840   180.0  BBYS00SVK  BBYS00SVK               
+BBYS 11514M001        001  2025 04 15 06 14 00  2025 11 11 10 51 00  TRIMBLE NETR9                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.2840   180.0  BBYS00SVK  BBYS00SVK               
+BBYS 11514M001        001  2025 11 11 10 51 00                       TRIMBLE ALLOY                               999999  TRM59800.00     NONE                        999999    0.0000    0.0000    0.2840   180.0  BBYS00SVK  BBYS00SVK               
 BCLN 13412M001        001  2012 01 31 12 00 00  2019 02 14 14 00 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0776          BCLN00ESP  BCLN00ESP               
 BCLN 13412M001        001  2019 02 14 14 00 00  2020 03 25 12 00 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0776          BCLN00ESP  BCLN00ESP               
 BCLN 13412M001        001  2020 03 25 12 00 00  2021 04 07 00 00 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0776          BCLN00ESP  BCLN00ESP               
