@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          11-11-2025 13:04
+Station information file for Bernese GNSS Software 5.2          11-11-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -387,7 +387,7 @@ SASS 14281M001        001  2002 12 12 12 00 00  2019 02 28 23 59 00  SASS*      
 SAVU 10529M001        001  2014 01 29 12 00 00                       SAVU*                 savu00fin_20250613.log
 SBG2 11031M002        001  2008 01 29 12 50 00                       SBG2*                 sbg200aut_20250916.log
 SBGZ 11031S001        001  1998 12 21 12 00 00  2008 01 29 12 50 00  SBGZ*                 sbgz00aut_20230421.log
-SCIL 19201M001        001  2010 08 18 10 00 00                       SCIL*                 scil00gbr_20230406.log
+SCIL 19201M001        001  2010 08 18 10 00 00                       SCIL*                 scil00gbr_20251111.log
 SCOA 10088M002        001  2005 12 14 12 00 00                       SCOA*                 scoa00fra_20240716.log
 SCOR 43006M002        001  2004 09 12 00 00 00                       SCOR*                 scor00grl_20250527.log
 SFER 13402M004        001  1995 12 18 00 00 00                       SFER*                 sfer00esp_20250811.log
@@ -401,7 +401,7 @@ SMID 10114M001        001  1998 11 18 00 00 00  2022 08 10 08 00 00  SMID*      
 SMLA 15503M001        001  2008 11 20 08 30 00                       SMLA*                 smla00ukr_20250613.log
 SMNE 10001M007        001  2000 11 16 00 00 00  2022 03 01 10 00 00  SMNE*                 smne00fra_20220301.log
 SNEC 11519M001        001  2001 10 23 12 00 00  2009 06 10 00 00 00  SNEC*                 snec00cze_20250724.log
-SNEO 19135M002        001  2009 05 13 13 00 00                       SNEO*                 sneo00gbr_20250811.log
+SNEO 19135M002        001  2009 05 13 13 00 00                       SNEO*                 sneo00gbr_20251111.log
 SNIK 14661M001        001  2021 10 24 09 00 00                       SNIK*                 snik00ita_20240318.log
 SOD3 10513M002        001  2013 12 19 12 00 00                       SOD3*                 sod300fin_20250716.log
 SODA 10513M001        001  1994 08 15 00 00 00                       SODA*                 soda00fin_20250716.log
@@ -5481,7 +5481,8 @@ SCIL 19201M001        001  2020 02 27 14 25 00  2021 02 05 23 59 00  SEPT POLARX
 SCIL 19201M001        001  2021 02 05 23 59 00  2021 02 08 16 10 00  SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0500  SCIL00GBR               
 SCIL 19201M001        001  2021 02 08 16 10 00  2021 03 13 00 00 00  SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0500  SCIL00GBR               
 SCIL 19201M001        001  2021 03 13 00 00 00  2022 09 02 10 00 00  SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0500  SCIL00GBR               
-SCIL 19201M001        001  2022 09 02 10 00 00                       SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0500  SCIL00GBR               
+SCIL 19201M001        001  2022 09 02 10 00 00  2025 11 11 12 12 00  SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0500  SCIL00GBR               
+SCIL 19201M001        001  2025 11 11 12 12 00                       SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0500  SCIL00GBR               
 SCOA 10088M002        001  2005 12 14 12 00 00  2009 09 08 12 00 00  ASHTECH UZ-12                               999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000  SCOA00FRA               
 SCOA 10088M002        001  2009 09 08 12 00 00  2011 03 24 07 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000  SCOA00FRA               
 SCOA 10088M002        001  2011 03 24 07 00 00  2011 08 29 05 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000  SCOA00FRA               
@@ -5688,7 +5689,8 @@ SNEO 19135M002        001  2020 02 28 14 35 00  2021 02 05 00 00 00  SEPT POLARX
 SNEO 19135M002        001  2021 02 05 00 00 00  2021 02 08 16 25 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.8742  SNEO00GBR               
 SNEO 19135M002        001  2021 02 08 16 25 00  2021 03 13 00 00 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.8742  SNEO00GBR               
 SNEO 19135M002        001  2021 03 13 00 00 00  2022 09 02 10 30 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.8742  SNEO00GBR               
-SNEO 19135M002        001  2022 09 02 10 30 00                       SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.8742  SNEO00GBR               
+SNEO 19135M002        001  2022 09 02 10 30 00  2025 11 11 12 18 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.8742  SNEO00GBR               
+SNEO 19135M002        001  2025 11 11 12 18 00                       SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.8742  SNEO00GBR               
 SNIK 14661M001        001  2021 10 24 09 00 00  2023 04 26 07 50 00  STONEX SC2200                               999999  STXSA1500       STXG                        999999    0.0000    0.0000    0.0000  SNIK00ITA               
 SNIK 14661M001        001  2023 04 26 07 50 00  2024 03 05 08 49 00  STONEX SC2200                               999999  STXSA1500       STXG                        999999    0.0000    0.0000    0.0000  SNIK00ITA               
 SNIK 14661M001        001  2024 03 05 08 49 00                       STONEX SC2200                               999999  STXSA1500       STXG                        999999    0.0000    0.0000    0.0000  SNIK00ITA               
