@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             12-11-2025 09:04
+BSW 5.4 station information file for EPN processing             12-11-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -375,7 +375,7 @@ REYK 10202M001        001  1995 11 02 00 00 00                       REYK*      
 RIGA 12302M002        001  1995 12 05 04 00 00                       RIGA*                 riga00lva_20250820.log
 RIO1 13448M002        001  2012 01 31 12 00 00                       RIO1*                 rio100esp_20250226.log
 RIOJ 13448M001        001  2001 04 26 00 00 00  2012 04 08 00 00 00  RIOJ*                 rioj00esp_20220907.log
-RIVO 14611M001        001  2019 09 12 15 00 00                       RIVO*                 rivo00ita_20240718.log
+RIVO 14611M001        001  2019 09 12 15 00 00                       RIVO*                 rivo00ita_20251112.log
 ROM2 10520M002        001  2014 01 29 12 00 00                       ROM2*                 rom200fin_20250609.log
 ROVE 12774M001        001  2001 06 14 00 00 00                       ROVE*                 rove00ita_20250821.log
 RVNE 15542M003        001  2019 03 12 15 10 00                       RVNE*                 rvne00ukr_20250807.log
@@ -5360,7 +5360,8 @@ RIOJ 13448M001        001  2009 04 21 00 00 00  2010 07 21 09 00 00  TRIMBLE NET
 RIOJ 13448M001        001  2010 07 21 09 00 00  2012 04 08 00 00 00  TRIMBLE NETRS                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    3.0490          RIOJ00ESP  RIOJ00ESP               
 RIVO 14611M001        001  2019 09 12 15 00 00  2023 11 16 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          RIVO00ITA  RIVO00ITA               
 RIVO 14611M001        001  2023 11 16 00 00 00  2024 03 01 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          RIVO00ITA  RIVO00ITA               
-RIVO 14611M001        001  2024 03 01 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          RIVO00ITA  RIVO00ITA               
+RIVO 14611M001        001  2024 03 01 00 00 00  2025 11 12 11 15 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          RIVO00ITA  RIVO00ITA               
+RIVO 14611M001        001  2025 11 12 11 15 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          RIVO00ITA  RIVO00ITA               
 ROM2 10520M002        001  2014 01 29 12 00 00  2014 09 29 12 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
 ROM2 10520M002        001  2014 09 29 12 00 00  2015 02 25 08 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
 ROM2 10520M002        001  2015 02 25 08 00 00  2015 03 13 06 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
