@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             17-11-2025 04:04
+BSW 5.4 station information file for EPN processing             17-11-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -87,7 +87,7 @@ CEU1 13449M002        001  2007 05 25 00 00 00                       CEU1*      
 CEUT 13449M001        001  2001 08 24 00 00 00  2007 02 18 00 00 00  CEUT*                 ceut00esp_20220907.log
 CFRM 11525M001        001  2005 10 20 00 00 00                       CFRM*                 cfrm00cze_20250218.log
 CHIO 19194M001        001  2009 06 30 17 00 00                       CHIO*                 chio00gbr_20251105.log
-CHIZ 10020M001        001  2000 10 19 00 00 00                       CHIZ*                 chiz00fra_20240902.log
+CHIZ 10020M001        001  2000 10 19 00 00 00                       CHIZ*                 chiz00fra_20251117.log
 CIMO 14608M001        001  2019 09 19 09 30 00                       CIMO*                 cimo00ita_20240718.log
 CLIB 11526M001        001  2005 07 25 00 00 00                       CLIB*                 clib00cze_20250218.log
 CMEL 14609M001        001  2019 09 18 09 30 00                       CMEL*                 cmel00ita_20241128.log
@@ -251,7 +251,7 @@ LLIV 13436M001        001  1999 05 04 14 00 00                       LLIV*      
 LODZ 12226M001        001  2008 03 10 00 00 00                       LODZ*                 lodz00pol_20251024.log
 LOV6 10434M002        001  2011 08 16 00 00 00                       LOV6*                 lov600swe_20250410.log
 LPAL 81701M001        001  2001 05 17 00 00 00                       LPAL*                 lpal00esp_20240422.log
-LROC 10023M001        001  2001 11 23 00 00 00                       LROC*                 lroc00fra_20240903.log
+LROC 10023M001        001  2001 11 23 00 00 00                       LROC*                 lroc00fra_20251117.log
 M0SE 12772M001        001  2002 01 01 00 00 00                       M0SE*                 m0se00ita_20231205.log
 MAD2 13407S012        001  1997 10 30 00 00 00                       MAD2*                 mad200esp_20130131.log
 MADR 13407S012        001  1989 12 15 00 00 00                       MADR*                 madr00esp_20250218.log
