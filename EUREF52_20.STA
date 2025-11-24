@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          24-11-2025 13:04
+Station information file for Bernese GNSS Software 5.2          24-11-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -307,7 +307,7 @@ NOVP 14801M001        001  2011 04 13 12 17 00                       NOVP*      
 NPAZ 12110M001        001  2005 10 27 00 00 00                       NPAZ*                 npaz00srb_20230207.log
 NPLD 13234M003        001  2000 08 15 12 00 00  2007 12 15 00 00 00  NPLD*                 npld00gbr_20071214.log
 NSSP 12312M001        001  1997 10 10 00 00 00  2010 07 10 00 00 00  NSSP*                 nssp00arm_20210427.log
-NYA1 10317M003        001  1997 06 01 00 00 00                       NYA1*                 nya100nor_20241021.log
+NYA1 10317M003        001  1997 06 01 00 00 00                       NYA1*                 nya100nor_20251124.log
 NYA2 10317M008        001  2000 03 13 07 00 00                       NYA2*                 nya200nor_20250429.log
 NYAL 10317M001        001  1993 01 01 00 00 00                       NYAL*                 nyal00nor_20241021.log
 NYIR 11208M001        001  2002 09 20 00 00 00                       NYIR*                 nyir00hun_20240518.log
