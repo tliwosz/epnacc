@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             27-11-2025 09:04
+BSW 5.4 station information file for EPN processing             27-11-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -250,7 +250,7 @@ LINZ 11033S001        001  2001 01 31 10 00 00                       LINZ*      
 LLIV 13436M001        001  1999 05 04 14 00 00                       LLIV*                 lliv00esp_20240909.log
 LODZ 12226M001        001  2008 03 10 00 00 00                       LODZ*                 lodz00pol_20251024.log
 LOV6 10434M002        001  2011 08 16 00 00 00                       LOV6*                 lov600swe_20250410.log
-LPAL 81701M001        001  2001 05 17 00 00 00                       LPAL*                 lpal00esp_20240422.log
+LPAL 81701M001        001  2001 05 17 00 00 00                       LPAL*                 lpal00esp_20251127.log
 LROC 10023M001        001  2001 11 23 00 00 00                       LROC*                 lroc00fra_20251117.log
 M0SE 12772M001        001  2002 01 01 00 00 00                       M0SE*                 m0se00ita_20231205.log
 MAD2 13407S012        001  1997 10 30 00 00 00                       MAD2*                 mad200esp_20130131.log
