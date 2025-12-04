@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          04-12-2025 09:04
+Station information file for Bernese GNSS Software 5.2          04-12-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -57,7 +57,7 @@ BPDL 12223M001        001  2007 12 04 12 00 00                       BPDL*      
 BRMF 19686M002        001  2014 02 18 07 00 00                       BRMF*                 brmf00fra_20240716.log
 BRMG 10918M001        001  2020 04 08 10 00 00                       BRMG*                 brmg00deu_20251027.log
 BRON 19686M001        001  2013 01 05 09 00 00  2013 10 25 09 00 00  BRON*                 bron00fra_20241014.log
-BRST 10004M004        001  1998 10 31 00 00 00                       BRST*                 brst00fra_20240702.log
+BRST 10004M004        001  1998 10 31 00 00 00                       BRST*                 brst00fra_20251204.log
 BRTS 14804M001        001  2011 04 15 11 48 00                       BRTS*                 brts00blr_20240808.log
 BRUS 13101M004        001  1993 10 20 00 00 00  2012 02 14 07 35 00  BRUS*                 brus00bel_20230310.log
 BRUX 13101M010        001  2006 07 07 00 00 00                       BRUX*                 brux00bel_20230124.log
@@ -1127,7 +1127,8 @@ BRST 10004M004        001  2020 02 18 10 00 00  2020 05 11 12 00 00  TRIMBLE ALL
 BRST 10004M004        001  2020 05 11 12 00 00  2020 09 30 10 30 00  TRIMBLE ALLOY                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    2.0431  BRST00FRA               
 BRST 10004M004        001  2020 09 30 10 30 00  2020 09 30 15 00 00  TRIMBLE ALLOY                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    2.0431  BRST00FRA               
 BRST 10004M004        001  2020 09 30 15 00 00  2024 07 02 13 00 00  TRIMBLE ALLOY                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    2.0431  BRST00FRA               
-BRST 10004M004        001  2024 07 02 13 00 00                       TRIMBLE ALLOY                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    2.0431  BRST00FRA               
+BRST 10004M004        001  2024 07 02 13 00 00  2025 12 04 11 00 00  TRIMBLE ALLOY                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    2.0431  BRST00FRA               
+BRST 10004M004        001  2025 12 04 11 00 00                       TRIMBLE ALLOY                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    2.0431  BRST00FRA               
 BRTS 14804M001        001  2011 04 15 11 48 00  2011 05 27 12 00 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.3120  BRTS00BLR               
 BRTS 14804M001        001  2011 05 27 12 00 00  2018 08 29 09 37 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.3120  BRTS00BLR               
 BRTS 14804M001        001  2018 08 29 09 37 00  2020 03 18 08 12 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.3120  BRTS00BLR               
