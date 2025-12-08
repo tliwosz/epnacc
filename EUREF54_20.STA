@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             08-12-2025 04:04
+BSW 5.4 station information file for EPN processing             08-12-2025 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -9,7 +9,7 @@ TYPE 001: RENAMING OF STATIONS
 
 STATION NAME          FLG          FROM                   TO         OLD STATION NAME      REMARK
 ****************      ***  YYYY MM DD HH MM SS  YYYY MM DD HH MM SS  ********************  ************************
-AAER 17916M001        001  2025 01 30 16 00 00                       AAER*                 aaer00fra_20251205.log
+AAER 17916M001        001  2025 01 30 16 00 00                       AAER*                 aaer00fra_20251208.log
 ACOR 13434M001        001  1998 12 06 10 10 00                       ACOR*                 acor00esp_20250128.log
 ADAR 19161M001        001  2009 03 04 12 00 00                       ADAR*                 adar00gbr_20251105.log
 AGRN 19584M002        001  2018 05 25 00 00 00                       AGRN*                 agrn00ita_20251014.log
@@ -186,7 +186,7 @@ IGEO 15101M001        001  2007 07 03 11 00 00                       IGEO*      
 IGM2 12701M005        001  2016 12 13 12 00 00                       IGM2*                 igm200ita_20201209.log
 IGMI 12701M003        001  1998 07 30 00 00 00                       IGMI*                 igmi00ita_20250721.log
 IGNF 10001M009        001  2020 01 15 00 00 00  2025 06 10 13 30 00  IGNF*                 ignf00fra_20250610.log
-IGNP 10001M011        001  2024 07 05 12 00 00                       IGNP*                 ignp00fra_20251205.log
+IGNP 10001M011        001  2024 07 05 12 00 00                       IGNP*                 ignp00fra_20251208.log
 IJMU 13537M001        001  2004 12 30 00 00 00                       IJMU*                 ijmu00nld_20240906.log
 ILDX 19724M001        001  2012 02 07 12 00 00                       ILDX*                 ildx00fra_20240716.log
 INVE 13221S001        001  2000 01 02 00 00 00  2009 01 20 09 20 00  INVE*                 inve00gbr_20250811.log
@@ -534,7 +534,8 @@ TYPE 002: STATION INFORMATION
 
 STATION NAME          FLG          FROM                   TO         RECEIVER TYPE         RECEIVER SERIAL NBR   REC #   ANTENNA TYPE          ANTENNA SERIAL NBR    ANT #    NORTH      EAST      UP     AZIMUTH  LONG NAME  DESCRIPTION             REMARK
 ****************      ***  YYYY MM DD HH MM SS  YYYY MM DD HH MM SS  ********************  ********************  ******  ********************  ********************  ******  ***.****  ***.****  ***.****  ****.*  *********  **********************  ************************
-AAER 17916M001        001  2025 01 30 16 00 00                       SEPT POLARX5                                999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          AAER00FRA  AAER00FRA               
+AAER 17916M001        001  2025 01 30 16 00 00  2025 12 05 12 00 00  SEPT POLARX5                                999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          AAER00FRA  AAER00FRA               
+AAER 17916M001        001  2025 12 05 12 00 00                       SEPT POLARX5                                999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          AAER00FRA  AAER00FRA               
 ACOR 13434M001        001  1998 12 06 10 10 00  2001 12 19 00 00 00  ASHTECH UZ-12                               999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    3.0420          ACOR00ESP  ACOR00ESP               
 ACOR 13434M001        001  2001 12 19 00 00 00  2004 04 15 00 00 00  ASHTECH UZ-12                               999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    3.0420          ACOR00ESP  ACOR00ESP               
 ACOR 13434M001        001  2004 04 15 00 00 00  2007 03 18 00 00 00  ASHTECH UZ-12                               999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    3.0420          ACOR00ESP  ACOR00ESP               
@@ -2926,7 +2927,8 @@ IGNF 10001M009        001  2020 04 16 12 00 00  2020 09 10 15 00 00  TRIMBLE NET
 IGNF 10001M009        001  2020 09 10 15 00 00  2022 01 24 15 00 00  LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          IGNF00FRA  IGNF00FRA               
 IGNF 10001M009        001  2022 01 24 15 00 00  2024 07 16 00 00 00  LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          IGNF00FRA  IGNF00FRA               
 IGNF 10001M009        001  2024 07 16 00 00 00  2025 06 10 13 30 00  LEICA GR50                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          IGNF00FRA  IGNF00FRA               
-IGNP 10001M011        001  2024 07 05 12 00 00                       SEPT POLARX5                                999999  TRM57971.00     NONE                        999999    0.0000    0.0000    2.0295          IGNP00FRA  IGNP00FRA               
+IGNP 10001M011        001  2024 07 05 12 00 00  2025 12 05 12 00 00  SEPT POLARX5                                999999  TRM57971.00     NONE                        999999    0.0000    0.0000    2.0295          IGNP00FRA  IGNP00FRA               
+IGNP 10001M011        001  2025 12 05 12 00 00                       SEPT POLARX5                                999999  TRM57971.00     NONE                        999999    0.0000    0.0000    2.0295          IGNP00FRA  IGNP00FRA               
 IJMU 13537M001        001  2004 12 30 00 00 00  2007 02 21 00 00 00  TRIMBLE 5700                                999999  TRM29659.00     UNAV                        999999    0.0000    0.0000    0.0000          IJMU00NLD  IJMU00NLD               
 IJMU 13537M001        001  2007 02 21 00 00 00  2007 09 14 05 27 00  TPS ODYSSEY_E                               999999  TRM29659.00     UNAV                        999999    0.0000    0.0000    0.0000          IJMU00NLD  IJMU00NLD               
 IJMU 13537M001        001  2007 09 14 05 27 00  2008 05 08 06 56 00  TPS ODYSSEY_E                               999999  TRM29659.00     UNAV                        999999    0.0000    0.0000    0.0000          IJMU00NLD  IJMU00NLD               
