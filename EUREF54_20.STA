@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             19-12-2025 13:04
+BSW 5.4 station information file for EPN processing             19-12-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -25,7 +25,7 @@ ANKR 20805M002        001  1995 06 21 00 00 00  2022 05 23 00 00 00  ANKR*      
 AQUI 12757M001        001  1999 06 11 00 00 00                       AQUI*                 aqui00ita_20240718.log
 ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*                 ara200svn_20250829.log
 ARGI 10117M002        001  2008 09 25 00 00 00                       ARGI*                 argi00fro_20240812.log
-ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*                 aris00gbr_20250508.log
+ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*                 aris00gbr_20251219.log
 ARJ6 10428M002        001  2011 07 29 00 00 00                       ARJ6*                 arj600swe_20250407.log
 ASGA 25401M001        001  2021 07 27 08 00 00                       ASGA*                 asga00cyp_20240827.log
 ASIR 14668M001        001  2021 07 02 10 00 00                       ASIR*                 asir00ita_20250217.log
@@ -101,7 +101,7 @@ CREI 10016M001        001  2003 07 07 00 00 00  2018 03 01 09 00 00  CREI*      
 CREU 13432M001        001  1997 06 18 00 00 00                       CREU*                 creu00esp_20240913.log
 CTAB 11529M001        001  2005 01 14 00 00 00                       CTAB*                 ctab00cze_20250218.log
 CUGA 18494M001        001  2018 09 27 00 00 00                       CUGA*                 cuga00ita_20240718.log
-DARE 13208S001        001  2000 04 10 00 00 00                       DARE*                 dare00gbr_20250618.log
+DARE 13208S001        001  2000 04 10 00 00 00                       DARE*                 dare00gbr_20251219.log
 DELF 13502M004        001  1994 12 30 13 00 00                       DELF*                 delf00nld_20230630.log
 DENT 13112M001        001  1994 01 06 00 00 00                       DENT*                 dent00bel_20250415.log
 DEVA 11408M001        001  2005 05 21 12 00 00                       DEVA*                 deva00rou_20241210.log
@@ -723,7 +723,8 @@ ARIS 19190M001        001  2022 06 14 13 05 00  2023 04 03 10 35 00  TRIMBLE ALL
 ARIS 19190M001        001  2023 04 03 10 35 00  2023 08 31 11 35 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804          ARIS00GBR  ARIS00GBR               
 ARIS 19190M001        001  2023 08 31 11 35 00  2024 01 18 11 55 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804          ARIS00GBR  ARIS00GBR               
 ARIS 19190M001        001  2024 01 18 11 55 00  2025 05 08 09 20 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804          ARIS00GBR  ARIS00GBR               
-ARIS 19190M001        001  2025 05 08 09 20 00                       TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804          ARIS00GBR  ARIS00GBR               
+ARIS 19190M001        001  2025 05 08 09 20 00  2025 12 19 14 11 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804          ARIS00GBR  ARIS00GBR               
+ARIS 19190M001        001  2025 12 19 14 11 00                       TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804          ARIS00GBR  ARIS00GBR               
 ARJ6 10428M002        001  2011 07 29 00 00 00  2011 11 29 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
 ARJ6 10428M002        001  2011 11 29 00 00 00  2012 04 05 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
 ARJ6 10428M002        001  2012 04 05 00 00 00  2013 12 05 15 50 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ARJ600SWE  ARJ600SWE               
@@ -1732,7 +1733,8 @@ DARE 13208S001        001  2022 06 14 14 45 00  2023 04 03 13 15 00  TRIMBLE ALL
 DARE 13208S001        001  2023 04 03 13 15 00  2023 08 31 14 10 00  TRIMBLE ALLOY                               999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1000          DARE00GBR  DARE00GBR               
 DARE 13208S001        001  2023 08 31 14 10 00  2024 01 18 16 50 00  TRIMBLE ALLOY                               999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1000          DARE00GBR  DARE00GBR               
 DARE 13208S001        001  2024 01 18 16 50 00  2025 05 08 11 10 00  TRIMBLE ALLOY                               999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1000          DARE00GBR  DARE00GBR               
-DARE 13208S001        001  2025 05 08 11 10 00                       TRIMBLE ALLOY                               999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1000          DARE00GBR  DARE00GBR               
+DARE 13208S001        001  2025 05 08 11 10 00  2025 12 19 15 30 00  TRIMBLE ALLOY                               999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1000          DARE00GBR  DARE00GBR               
+DARE 13208S001        001  2025 12 19 15 30 00                       TRIMBLE ALLOY                               999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.1000          DARE00GBR  DARE00GBR               
 DELF 13502M004        001  1994 12 30 13 00 00  1995 12 27 17 22 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0000          DELF00NLD  DELF00NLD               
 DELF 13502M004        001  1995 12 27 17 22 00  1996 03 08 15 00 00  ROGUE SNR-12 RM                             999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0000          DELF00NLD  DELF00NLD               
 DELF 13502M004        001  1996 03 08 15 00 00  1996 07 25 09 50 00  ROGUE SNR-12 RM                             999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0000          DELF00NLD  DELF00NLD               
