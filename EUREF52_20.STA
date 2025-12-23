@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          23-12-2025 09:04
+Station information file for Bernese GNSS Software 5.2          23-12-2025 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -2896,7 +2896,8 @@ IBIZ 13454S001        001  2016 09 13 11 00 00  2017 02 20 14 00 00  LEICA GR25 
 IBIZ 13454S001        001  2017 02 20 14 00 00  2017 02 23 12 00 00  LEICA GR25                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1000  IBIZ00ESP               
 IBIZ 13454S001        001  2017 02 23 12 00 00  2020 03 24 13 00 00  LEICA GR25                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1000  IBIZ00ESP               
 IBIZ 13454S001        001  2020 03 24 13 00 00  2021 04 07 00 00 00  LEICA GR25                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1000  IBIZ00ESP               
-IBIZ 13454S001        001  2021 04 07 00 00 00                       LEICA GR25                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1000  IBIZ00ESP               
+IBIZ 13454S001        001  2021 04 07 00 00 00  2025 12 11 12 00 00  LEICA GR25                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1000  IBIZ00ESP               
+IBIZ 13454S001        001  2025 12 11 12 00 00                       LEICA GR25                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1000  IBIZ00ESP               
 IENG 12724S001        001  2001 10 04 09 00 00  2016 02 15 17 00 00  ASHTECH Z-XII3T                             999999  ASH701945C_M    NONE                        999999    0.0000    0.0000    0.0000  IENG00ITA               
 IENG 12724S001        001  2016 02 15 17 00 00  2018 03 28 00 00 00  ASHTECH Z-XII3T                             999999  ASH701945C_M    NONE                        999999    0.0000    0.0000    0.0000  IENG00ITA               
 IENG 12724S001        001  2018 03 28 00 00 00  2019 04 11 07 05 00  SEPT POLARX4TR                              999999  ASH701945C_M    NONE                        999999    0.0000    0.0000    0.0000  IENG00ITA               
