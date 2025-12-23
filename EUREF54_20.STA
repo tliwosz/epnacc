@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             23-12-2025 13:04
+BSW 5.4 station information file for EPN processing             23-12-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -104,7 +104,7 @@ CUGA 18494M001        001  2018 09 27 00 00 00                       CUGA*      
 DARE 13208S001        001  2000 04 10 00 00 00                       DARE*                 dare00gbr_20251219.log
 DELF 13502M004        001  1994 12 30 13 00 00                       DELF*                 delf00nld_20230630.log
 DENT 13112M001        001  1994 01 06 00 00 00                       DENT*                 dent00bel_20250415.log
-DEVA 11408M001        001  2005 05 21 12 00 00                       DEVA*                 deva00rou_20241210.log
+DEVA 11408M001        001  2005 05 21 12 00 00                       DEVA*                 deva00rou_20251223.log
 DGOR 12001M001        001  2019 04 03 00 00 00                       DGOR*                 dgor00mne_20190930.log
 DIEP 14287M001        001  2004 12 15 10 00 00                       DIEP*                 diep00deu_20250429.log
 DILL 14286M001        001  2004 12 01 12 00 00                       DILL*                 dill00deu_20250725.log
@@ -1788,7 +1788,8 @@ DEVA 11408M001        001  2022 07 20 04 38 00  2022 12 27 19 23 00  LEICA GR50 
 DEVA 11408M001        001  2022 12 27 19 23 00  2023 07 17 21 04 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          DEVA00ROU  DEVA00ROU               
 DEVA 11408M001        001  2023 07 17 21 04 00  2024 03 29 19 13 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          DEVA00ROU  DEVA00ROU               
 DEVA 11408M001        001  2024 03 29 19 13 00  2024 12 05 07 18 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          DEVA00ROU  DEVA00ROU               
-DEVA 11408M001        001  2024 12 05 07 18 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          DEVA00ROU  DEVA00ROU               
+DEVA 11408M001        001  2024 12 05 07 18 00  2025 12 22 13 34 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          DEVA00ROU  DEVA00ROU               
+DEVA 11408M001        001  2025 12 22 13 34 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          DEVA00ROU  DEVA00ROU               
 DGOR 12001M001        001  2019 04 03 00 00 00                       COMNAV M300 MINI                            999999  CNTAT350        CNTS                        999999    0.0000    0.0000    0.0000          DGOR00MNE  DGOR00MNE               
 DIEP 14287M001        001  2004 12 15 10 00 00  2007 06 08 10 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450          DIEP00DEU  DIEP00DEU               
 DIEP 14287M001        001  2007 06 08 10 00 00  2008 01 29 11 30 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450          DIEP00DEU  DIEP00DEU               
