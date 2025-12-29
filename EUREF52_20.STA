@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          29-12-2025 13:04
+Station information file for Bernese GNSS Software 5.2          29-12-2025 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -295,7 +295,7 @@ MOPS 12791M001        001  2007 02 12 00 00 00                       MOPS*      
 MORP 13299S001        001  1996 10 31 00 00 00                       MORP*                 morp00gbr_20250918.log
 MSEL 12711M008        001  1996 07 23 00 00 00                       MSEL*                 msel00ita_20230622.log
 MUK2 15599M002        001  2008 08 18 13 00 00                       MUK2*                 muk200ukr_20250711.log
-MURE 11451M001        001  2007 04 04 16 00 00                       MURE*                 mure00rou_20250414.log
+MURE 11451M001        001  2007 04 04 16 00 00                       MURE*                 mure00rou_20251229.log
 NABG 10338M008        001  2019 09 01 00 00 00                       NABG*                 nabg00nor_20241021.log
 NEWL 13273M103        001  1998 09 30 00 00 00  2024 08 29 00 00 00  NEWL*                 newl00gbr_20240830.log
 NICO 14302M001        001  1997 05 14 10 00 00                       NICO*                 nico00cyp_20251027.log
@@ -4414,7 +4414,8 @@ MURE 11451M001        001  2011 11 25 15 00 00  2019 04 14 09 00 00  TPS NETG3  
 MURE 11451M001        001  2019 04 14 09 00 00  2024 01 24 11 42 00  TPS NETG3                                   999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0000  MURE00ROU               
 MURE 11451M001        001  2024 01 24 11 42 00  2024 11 15 10 03 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0050  MURE00ROU               
 MURE 11451M001        001  2024 11 15 10 03 00  2025 04 14 16 00 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0050  MURE00ROU               
-MURE 11451M001        001  2025 04 14 16 00 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0050  MURE00ROU               
+MURE 11451M001        001  2025 04 14 16 00 00  2025 12 24 10 00 00  LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0050  MURE00ROU               
+MURE 11451M001        001  2025 12 24 10 00 00                       LEICA GR50                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0050  MURE00ROU               
 NABG 10338M008        001  2019 09 01 00 00 00  2019 09 13 00 00 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  NABG00NOR               
 NABG 10338M008        001  2019 09 13 00 00 00  2019 10 31 00 00 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  NABG00NOR               
 NABG 10338M008        001  2019 10 31 00 00 00  2020 01 30 23 15 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  NABG00NOR               
