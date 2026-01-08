@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          08-01-2026 13:04
+Station information file for Bernese GNSS Software 5.2          08-01-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -494,7 +494,7 @@ VIL0 10424M001        001  1993 08 01 00 00 00                       VIL0*      
 VIL6 10424M002        001  2011 07 20 00 00 00                       VIL6*                 vil600swe_20250901.log
 VILL 13406M001        001  1994 11 12 00 00 00                       VILL*                 vill00esp_20251110.log
 VIR2 10522M002        001  2014 01 02 12 00 00                       VIR2*                 vir200fin_20250307.log
-VIRG 14628M001        001  2020 07 13 10 00 00                       VIRG*                 virg00ita_20240718.log
+VIRG 14628M001        001  2020 07 13 10 00 00                       VIRG*                 virg00ita_20260108.log
 VIS0 10423M001        001  1993 08 01 00 00 00                       VIS0*                 vis000swe_20250326.log
 VIS6 10423M002        001  2011 05 18 00 00 00                       VIS6*                 vis600swe_20250410.log
 VITR 14805M001        001  2010 07 12 00 00 00                       VITR*                 vitr00blr_20240808.log
