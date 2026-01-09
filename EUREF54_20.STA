@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             09-01-2026 09:04
+BSW 5.4 station information file for EPN processing             09-01-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -138,7 +138,7 @@ FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*      
 FINS 10523M001        001  2014 11 13 12 00 00                       FINS*                 fins00fin_20250903.log
 FLRS 31907M001        001  2008 04 09 17 00 00                       FLRS*                 flrs00prt_20250414.log
 FOCS 11443M001        001  2007 03 12 12 00 00                       FOCS*                 focs00rou_20251224.log
-FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl00gbr_20251104.log
+FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl00gbr_20260109.log
 FRA2 15538M002        001  2011 03 16 12 00 00                       FRA2*                 fra200ukr_20250811.log
 FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*                 frne00ita_20250925.log
 FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func00prt_20250414.log
@@ -239,7 +239,7 @@ LDB2 14114M002        001  2005 10 25 10 00 00                       LDB2*      
 LEIJ 14267M001        001  2001 07 03 12 00 00                       LEIJ*                 leij00deu_20250616.log
 LEK6 10433M002        001  2011 06 15 00 00 00                       LEK6*                 lek600swe_20250407.log
 LEON 13475M001        001  2007 03 26 00 00 00                       LEON*                 leon00esp_20240318.log
-LERI 19159M003        001  2009 06 16 15 00 00                       LERI*                 leri00gbr_20250508.log
+LERI 19159M003        001  2009 06 16 15 00 00                       LERI*                 leri00gbr_20260109.log
 LESK 12129M001        001  2017 09 07 09 54 00                       LESK*                 lesk00srb_20231031.log
 LICC 15201M001        001  2020 01 08 00 00 00                       LICC*                 licc00gbr_20250811.log
 LIDA 14806M001        001  2011 09 01 00 00 00                       LIDA*                 lida00blr_20240808.log
@@ -3694,7 +3694,8 @@ LERI 19159M003        001  2022 06 16 10 50 00  2023 04 13 15 45 00  TRIMBLE ALL
 LERI 19159M003        001  2023 04 13 15 45 00  2023 09 01 13 55 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040          LERI00GBR  LERI00GBR               
 LERI 19159M003        001  2023 09 01 13 55 00  2024 02 05 14 20 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040          LERI00GBR  LERI00GBR               
 LERI 19159M003        001  2024 02 05 14 20 00  2025 05 08 14 40 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040          LERI00GBR  LERI00GBR               
-LERI 19159M003        001  2025 05 08 14 40 00                       TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040          LERI00GBR  LERI00GBR               
+LERI 19159M003        001  2025 05 08 14 40 00  2026 01 09 11 40 00  TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040          LERI00GBR  LERI00GBR               
+LERI 19159M003        001  2026 01 09 11 40 00                       TRIMBLE ALLOY                               999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1040          LERI00GBR  LERI00GBR               
 LESK 12129M001        001  2017 09 07 09 54 00                       TRIMBLE NETR9                               999999  TRM41249.00     TZGD                        999999    0.0000    0.0000    0.0000   108.0  LESK00SRB  LESK00SRB               
 LICC 15201M001        001  2020 01 08 00 00 00                       CHC P5E                                     999999  CHCC220GR2      CHCD                        999999    0.0000    0.0000    0.1050          LICC00GBR  LICC00GBR               
 LIDA 14806M001        001  2011 09 01 00 00 00  2018 08 26 02 58 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2790          LIDA00BLR  LIDA00BLR               
