@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          12-01-2026 09:04
+Station information file for Bernese GNSS Software 5.2          12-01-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -126,7 +126,7 @@ EGLT 10032M001        001  2001 10 05 00 00 00                       EGLT*      
 EIJS 13533M001        001  1996 08 27 14 30 00                       EIJS*                 eijs00nld_20230417.log
 EKAR 12714M003        001  2018 12 07 00 00 00                       EKAR*                 ekar00ita_20240718.log
 ELBA 12721M002        001  2000 11 08 00 00 00                       ELBA*                 elba00ita_20240718.log
-ENAO 31902M005        001  2019 07 23 16 30 00                       ENAO*                 enao00prt_20250625.log
+ENAO 31902M005        001  2019 07 23 16 30 00                       ENAO*                 enao00prt_20260112.log
 ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*                 enis00gbr_20251107.log
 ENTZ 10014M002        001  2004 12 01 12 00 00                       ENTZ*                 entz00fra_20251208.log
 ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza00ita_20241128.log
@@ -2109,7 +2109,8 @@ ENAO 31902M005        001  2020 11 10 10 55 00  2021 04 19 09 37 00  JAVAD TRE_3
 ENAO 31902M005        001  2021 04 19 09 37 00  2021 06 14 09 30 00  JAVAD TRE_3                                 999999  JAVRINGANT_G5T  NONE                        999999    0.0000    0.0000    0.1206  ENAO00PRT               
 ENAO 31902M005        001  2021 06 14 09 30 00  2023 02 03 11 30 00  JAVAD TRE_3                                 999999  JAVRINGANT_G5T  NONE                        999999    0.0000    0.0000    0.1206  ENAO00PRT               
 ENAO 31902M005        001  2023 02 03 11 30 00  2025 05 23 11 40 00  JAVAD TRE_3                                 999999  JAVRINGANT_G5T  NONE                        999999    0.0000    0.0000    0.1206  ENAO00PRT               
-ENAO 31902M005        001  2025 05 23 11 40 00                       SEPT ASTERX4                                999999  TWIVC6150       NONE                        999999    0.0000    0.0000    0.1206  ENAO00PRT               
+ENAO 31902M005        001  2025 05 23 11 40 00  2025 12 12 14 00 00  SEPT ASTERX4                                999999  TWIVC6150       NONE                        999999    0.0000    0.0000    0.1206  ENAO00PRT               
+ENAO 31902M005        001  2025 12 12 14 00 00                       SEPT ASTERX4                                999999  TWIVC6150       NONE                        999999    0.0000    0.0000    0.1206  ENAO00PRT               
 ENIS 13246M001        001  2007 03 29 00 00 00  2008 04 21 10 00 00  LEICA RS500                                 999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000  ENIS00GBR               
 ENIS 13246M001        001  2008 04 21 10 00 00  2008 09 30 12 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000  ENIS00GBR               
 ENIS 13246M001        001  2008 09 30 12 00 00  2009 07 07 12 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000  ENIS00GBR               
