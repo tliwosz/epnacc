@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          14-01-2026 09:04
+Station information file for Bernese GNSS Software 5.2          14-01-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -41,7 +41,7 @@ BBYS 11514M001        001  2001 04 01 06 00 00                       BBYS*      
 BCLN 13412M001        001  2012 01 31 12 00 00                       BCLN*                 bcln00esp_20230720.log
 BELF 13240M001        001  2000 11 07 00 00 00  2016 04 07 00 00 00  BELF*                 belf00gbr_20241112.log
 BELL 13431M001        001  1997 05 13 00 00 00                       BELL*                 bell00esp_20240909.log
-BFST 15202M001        001  2019 05 15 15 00 00                       BFST*                 bfst00gbr_20251222.log
+BFST 15202M001        001  2019 05 15 15 00 00                       BFST*                 bfst00gbr_20260114.log
 BIRG 14613M001        001  2019 10 29 17 00 00                       BIRG*                 birg00ita_20240718.log
 BISK 11520M001        001  2001 09 06 12 00 00                       BISK*                 bisk00cze_20200219.log
 BME1 11209M002        001  2021 01 14 13 00 00                       BME1*                 bme100hun_20240905.log
@@ -127,7 +127,7 @@ EIJS 13533M001        001  1996 08 27 14 30 00                       EIJS*      
 EKAR 12714M003        001  2018 12 07 00 00 00                       EKAR*                 ekar00ita_20240718.log
 ELBA 12721M002        001  2000 11 08 00 00 00                       ELBA*                 elba00ita_20240718.log
 ENAO 31902M005        001  2019 07 23 16 30 00                       ENAO*                 enao00prt_20260112.log
-ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*                 enis00gbr_20251107.log
+ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*                 enis00gbr_20260114.log
 ENTZ 10014M002        001  2004 12 01 12 00 00                       ENTZ*                 entz00fra_20251208.log
 ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza00ita_20241128.log
 ESCO 13435M001        001  1999 04 21 00 00 00                       ESCO*                 esco00esp_20240902.log
