@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          16-01-2026 13:04
+Station information file for Bernese GNSS Software 5.2          16-01-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -187,7 +187,7 @@ IGM2 12701M005        001  2016 12 13 12 00 00                       IGM2*      
 IGMI 12701M003        001  1998 07 30 00 00 00                       IGMI*                 igmi00ita_20250721.log
 IGNF 10001M009        001  2020 01 15 00 00 00  2025 06 10 13 30 00  IGNF*                 ignf00fra_20250610.log
 IGNP 10001M011        001  2024 07 05 12 00 00                       IGNP*                 ignp00fra_20251208.log
-IJMU 13537M001        001  2004 12 30 00 00 00                       IJMU*                 ijmu00nld_20240906.log
+IJMU 13537M001        001  2004 12 30 00 00 00                       IJMU*                 ijmu00nld_20260116.log
 ILDX 19724M001        001  2012 02 07 12 00 00                       ILDX*                 ildx00fra_20251208.log
 INVE 13221S001        001  2000 01 02 00 00 00  2009 01 20 09 20 00  INVE*                 inve00gbr_20250811.log
 INVR 13221M001        001  2009 01 20 09 20 00                       INVR*                 invr00gbr_20251106.log
