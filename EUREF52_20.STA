@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          20-01-2026 13:04
+Station information file for Bernese GNSS Software 5.2          20-01-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -93,7 +93,7 @@ CLIB 11526M001        001  2005 07 25 00 00 00                       CLIB*      
 CMEL 14609M001        001  2019 09 18 09 30 00                       CMEL*                 cmel00ita_20241128.log
 CNIV 15501M001        001  2005 05 19 10 00 00                       CNIV*                 cniv00ukr_20220926.log
 COBA 13453M001        001  2004 04 12 00 00 00                       COBA*                 coba00esp_20240411.log
-COMO 12761M001        001  2001 04 15 00 00 00                       COMO*                 como00ita_20260116.log
+COMO 12761M001        001  2001 04 15 00 00 00                       COMO*                 como00ita_20260120.log
 COST 11407M001        001  2004 08 28 12 00 00                       COST*                 cost00rou_20251224.log
 CPAR 11527M001        001  2005 01 11 00 00 00                       CPAR*                 cpar00cze_20250218.log
 CRAK 11528M001        001  2005 04 19 00 00 00                       CRAK*                 crak00cze_20250724.log
@@ -1593,7 +1593,8 @@ COMO 12761M001        001  2010 03 16 00 00 00  2016 03 10 00 00 00  TPS E_GGD  
 COMO 12761M001        001  2016 03 10 00 00 00  2016 10 19 09 00 00  TPS E_GGD                                   999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.2134  COMO00ITA               
 COMO 12761M001        001  2016 10 19 09 00 00  2017 02 07 12 00 00  TPS NET-G5                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.2134  COMO00ITA               
 COMO 12761M001        001  2017 02 07 12 00 00  2019 04 11 11 00 00  TPS NET-G5                                  999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.2134  COMO00ITA               
-COMO 12761M001        001  2019 04 11 11 00 00  2022 03 17 12 00 00  TPS NET-G5                                  999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.2134  COMO00ITA               
+COMO 12761M001        001  2019 04 11 11 00 00  2022 03 17 00 00 00  TPS NET-G5                                  999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.2134  COMO00ITA               
+COMO 12761M001        001  2022 03 17 00 00 00  2022 03 17 12 00 00  STONEX SC2200                               999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.2134  COMO00ITA               
 COMO 12761M001        001  2022 03 17 12 00 00  2022 12 15 00 00 00  STONEX SC2200                               999999  STXSA1200       STXR                        999999    0.0000    0.0000    0.2134  COMO00ITA               
 COMO 12761M001        001  2022 12 15 00 00 00  2024 03 19 14 00 00  STONEX SC2200                               999999  STXSA1200       STXR                        999999    0.0000    0.0000    0.2134  COMO00ITA               
 COMO 12761M001        001  2024 03 19 14 00 00  2026 01 16 00 00 00  STONEX SC2200                               999999  STXSA1200       STXR                        999999    0.0000    0.0000    0.2134  COMO00ITA               
