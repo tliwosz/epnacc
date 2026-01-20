@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          20-01-2026 09:04
+Station information file for Bernese GNSS Software 5.2          20-01-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -100,7 +100,7 @@ CRAK 11528M001        001  2005 04 19 00 00 00                       CRAK*      
 CREI 10016M001        001  2003 07 07 00 00 00  2018 03 01 09 00 00  CREI*                 crei00fra_20241014.log
 CREU 13432M001        001  1997 06 18 00 00 00                       CREU*                 creu00esp_20240913.log
 CTAB 11529M001        001  2005 01 14 00 00 00                       CTAB*                 ctab00cze_20250218.log
-CUGA 18494M001        001  2018 09 27 00 00 00                       CUGA*                 cuga00ita_20240718.log
+CUGA 18494M001        001  2018 09 27 00 00 00                       CUGA*                 cuga00ita_20260120.log
 DARE 13208S001        001  2000 04 10 00 00 00                       DARE*                 dare00gbr_20251219.log
 DELF 13502M004        001  1994 12 30 13 00 00                       DELF*                 delf00nld_20230630.log
 DENT 13112M001        001  1994 01 06 00 00 00                       DENT*                 dent00bel_20250415.log
@@ -1712,7 +1712,8 @@ CTAB 11529M001        001  2022 08 18 07 17 00  2025 02 17 18 39 00  LEICA GR30 
 CTAB 11529M001        001  2025 02 17 18 39 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0666  CTAB00CZE               
 CUGA 18494M001        001  2018 09 27 00 00 00  2023 11 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  CUGA00ITA               
 CUGA 18494M001        001  2023 11 28 00 00 00  2024 02 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  CUGA00ITA               
-CUGA 18494M001        001  2024 02 28 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  CUGA00ITA               
+CUGA 18494M001        001  2024 02 28 00 00 00  2026 01 20 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  CUGA00ITA               
+CUGA 18494M001        001  2026 01 20 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000  CUGA00ITA               
 DARE 13208S001        001  2000 04 10 00 00 00  2001 03 18 00 00 00  LEICA CRS1000                               999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000  DARE00GBR               
 DARE 13208S001        001  2001 03 18 00 00 00  2001 12 04 00 00 00  LEICA CRS1000                               999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000  DARE00GBR               
 DARE 13208S001        001  2001 12 04 00 00 00  2003 02 08 00 00 00  LEICA RS500                                 999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000  DARE00GBR               
