@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          22-01-2026 13:04
+Station information file for Bernese GNSS Software 5.2          22-01-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -381,7 +381,7 @@ ROVE 12774M001        001  2001 06 14 00 00 00                       ROVE*      
 RVNE 15542M003        001  2019 03 12 15 10 00                       RVNE*                 rvne00ukr_20250807.log
 SABA 12112M001        001  2011 01 20 00 00 00                       SABA*                 saba00srb_20230207.log
 SALA 13469M001        001  2006 08 10 00 00 00                       SALA*                 sala00esp_20240411.log
-SART 18497M001        001  2018 12 17 00 00 00                       SART*                 sart00ita_20240718.log
+SART 18497M001        001  2018 12 17 00 00 00                       SART*                 sart00ita_20260122.log
 SAS2 14281M002        001  2015 10 22 14 00 00                       SAS2*                 sas200deu_20250505.log
 SASS 14281M001        001  2002 12 12 12 00 00  2019 02 28 23 59 00  SASS*                 sass00deu_20220905.log
 SAVU 10529M001        001  2014 01 29 12 00 00                       SAVU*                 savu00fin_20250613.log
@@ -5453,7 +5453,8 @@ SALA 13469M001        001  2023 07 25 12 00 00  2024 04 11 11 00 00  LEICA GR50 
 SALA 13469M001        001  2024 04 11 11 00 00                       LEICA GR50                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0600  SALA00ESP               
 SART 18497M001        001  2018 12 17 00 00 00  2023 11 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  SART00ITA               
 SART 18497M001        001  2023 11 28 00 00 00  2024 03 01 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  SART00ITA               
-SART 18497M001        001  2024 03 01 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  SART00ITA               
+SART 18497M001        001  2024 03 01 00 00 00  2026 01 22 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  SART00ITA               
+SART 18497M001        001  2026 01 22 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000  SART00ITA               
 SAS2 14281M002        001  2015 10 22 14 00 00  2016 06 15 14 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450  SAS200DEU               
 SAS2 14281M002        001  2016 06 15 14 00 00  2017 06 02 05 15 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450  SAS200DEU               
 SAS2 14281M002        001  2017 06 02 05 15 00  2019 01 30 07 50 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450  SAS200DEU               
