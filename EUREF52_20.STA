@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          23-01-2026 09:04
+Station information file for Bernese GNSS Software 5.2          23-01-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -289,7 +289,7 @@ MMET 14681M001        001  2004 05 24 00 00 00                       MMET*      
 MNKW 14802M002        001  2010 02 01 00 00 00                       MNKW*                 mnkw00blr_20240808.log
 MNSK 14802M001        001  2002 02 07 08 20 00                       MNSK*                 mnsk00blr_20240808.log
 MOGI 14807M001        001  2011 06 01 00 00 00                       MOGI*                 mogi00blr_20240808.log
-MOP2 11507M002        001  2007 12 05 15 00 00                       MOP2*                 mop200svk_20251105.log
+MOP2 11507M002        001  2007 12 05 15 00 00                       MOP2*                 mop200svk_20260123.log
 MOPI 11507M001        001  1996 06 10 00 00 00                       MOPI*                 mopi00svk_20231004.log
 MOPS 12791M001        001  2007 02 12 00 00 00                       MOPS*                 mops00ita_20240411.log
 MORP 13299S001        001  1996 10 31 00 00 00                       MORP*                 morp00gbr_20250918.log
