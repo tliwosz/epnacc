@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             23-01-2026 04:04
+BSW 5.4 station information file for EPN processing             23-01-2026 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -37,7 +37,7 @@ BACA 11405M001        001  2005 08 05 12 00 00  2025 05 05 07 09 00  BACA*      
 BADH 14288M001        001  2005 02 28 12 00 00                       BADH*                 badh00deu_20250224.log
 BAIA 11406M001        001  2005 06 10 12 00 00                       BAIA*                 baia00rou_20251224.log
 BAUT 14102M001        001  2018 09 26 10 00 00                       BAUT*                 baut00deu_20250429.log
-BBYS 11514M001        001  2001 04 01 06 00 00                       BBYS*                 bbys00svk_20251111.log
+BBYS 11514M001        001  2001 04 01 06 00 00                       BBYS*                 bbys00svk_20260123.log
 BCLN 13412M001        001  2012 01 31 12 00 00                       BCLN*                 bcln00esp_20230720.log
 BELF 13240M001        001  2000 11 07 00 00 00  2016 04 07 00 00 00  BELF*                 belf00gbr_20241112.log
 BELL 13431M001        001  1997 05 13 00 00 00                       BELL*                 bell00esp_20240909.log
@@ -117,7 +117,7 @@ DRES 14108M001        001  1997 10 24 00 00 00  2016 09 08 08 27 00  DRES*      
 DUB2 11901M002        001  2011 11 03 00 00 00                       DUB2*                 dub200hrv_20250429.log
 DUBR 11901M001        001  2000 09 22 00 00 00  2012 10 24 00 00 00  DUBR*                 dubr00hrv_20250622.log
 DUTH 12621M001        001  2008 09 11 00 00 00                       DUTH*                 duth00grc_20201009.log
-DVCN 11709M001        001  2021 03 23 11 50 00                       DVCN*                 dvcn00svk_20251105.log
+DVCN 11709M001        001  2021 03 23 11 50 00                       DVCN*                 dvcn00svk_20260123.log
 DYNG 12602M006        001  2011 05 12 09 03 00                       DYNG*                 dyng00grc_20250826.log
 EBRE 13410M001        001  1994 05 23 00 00 00                       EBRE*                 ebre00esp_20240718.log
 ECH2 13704M001        001  2019 10 02 00 00 00                       ECH2*                 ech200lux_20250312.log
@@ -144,7 +144,7 @@ FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*      
 FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func00prt_20250414.log
 GAIA 13902M001        001  2000 01 02 14 35 00                       GAIA*                 gaia00prt_20250414.log
 GALH 18490M001        001  2018 05 24 00 00 00                       GALH*                 galh00ita_20251015.log
-GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp00svk_20251105.log
+GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp00svk_20260123.log
 GARI 19517M001        001  2009 04 01 00 00 00                       GARI*                 gari00ita_20250509.log
 GDRS 15595M001        001  2014 11 28 10 55 00  2024 07 18 07 20 00  GDRS*                 gdrs00ukr_20240724.log
 GELL 10908M001        001  2007 11 07 14 00 00                       GELL*                 gell00deu_20250502.log
