@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             26-01-2026 04:04
+BSW 5.4 station information file for EPN processing             26-01-2026 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -144,7 +144,7 @@ FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*      
 FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func00prt_20250414.log
 GAIA 13902M001        001  2000 01 02 14 35 00                       GAIA*                 gaia00prt_20250414.log
 GALH 18490M001        001  2018 05 24 00 00 00                       GALH*                 galh00ita_20251015.log
-GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp00svk_20260123.log
+GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp00svk_20260126.log
 GARI 19517M001        001  2009 04 01 00 00 00                       GARI*                 gari00ita_20250509.log
 GDRS 15595M001        001  2014 11 28 10 55 00  2024 07 18 07 20 00  GDRS*                 gdrs00ukr_20240724.log
 GELL 10908M001        001  2007 11 07 14 00 00                       GELL*                 gell00deu_20250502.log
