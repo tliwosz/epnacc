@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             29-01-2026 09:04
+BSW 5.4 station information file for EPN processing             29-01-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -183,7 +183,7 @@ IBIZ 13454S001        001  2004 10 14 12 00 00                       IBIZ*      
 IENG 12724S001        001  2001 10 04 09 00 00                       IENG*                 ieng00ita_20230704.log
 IGD1 12605M001        001  2004 07 21 00 00 00  2005 06 18 00 00 00  IGD1*                 igd100grc_20050316.log
 IGEO 15101M001        001  2007 07 03 11 00 00                       IGEO*                 igeo00mda_20250929.log
-IGM2 12701M005        001  2016 12 13 12 00 00                       IGM2*                 igm200ita_20201209.log
+IGM2 12701M005        001  2016 12 13 12 00 00                       IGM2*                 igm200ita_20260129.log
 IGMI 12701M003        001  1998 07 30 00 00 00                       IGMI*                 igmi00ita_20250721.log
 IGNF 10001M009        001  2020 01 15 00 00 00  2025 06 10 13 30 00  IGNF*                 ignf00fra_20250610.log
 IGNP 10001M011        001  2024 07 05 12 00 00                       IGNP*                 ignp00fra_20251208.log
@@ -2930,7 +2930,8 @@ IGEO 15101M001        001  2025 05 26 00 00 00  2025 09 18 11 00 00  LEICA GR10 
 IGEO 15101M001        001  2025 09 18 11 00 00                       LEICA GR50                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000   -0.0136          IGEO00MDA  IGEO00MDA               
 IGM2 12701M005        001  2016 12 13 12 00 00  2019 06 11 13 15 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0030          IGM200ITA  IGM200ITA               
 IGM2 12701M005        001  2019 06 11 13 15 00  2020 12 04 10 00 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0030          IGM200ITA  IGM200ITA               
-IGM2 12701M005        001  2020 12 04 10 00 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0030          IGM200ITA  IGM200ITA               
+IGM2 12701M005        001  2020 12 04 10 00 00  2026 01 27 10 00 00  LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0030          IGM200ITA  IGM200ITA               
+IGM2 12701M005        001  2026 01 27 10 00 00                       LEICA GR30                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0030          IGM200ITA  IGM200ITA               
 IGMI 12701M003        001  1998 07 30 00 00 00  2007 05 02 12 00 00  TRIMBLE 4700                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          IGMI00ITA  IGMI00ITA               
 IGMI 12701M003        001  2007 05 02 12 00 00  2008 12 03 12 00 00  TPS ODYSSEY_E                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          IGMI00ITA  IGMI00ITA               
 IGMI 12701M003        001  2008 12 03 12 00 00  2008 12 03 16 00 00  TPS ODYSSEY_E                               999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          IGMI00ITA  IGMI00ITA               
