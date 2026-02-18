@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          18-02-2026 09:04
+Station information file for Bernese GNSS Software 5.2          18-02-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -127,7 +127,7 @@ EIJS 13533M001        001  1996 08 27 14 30 00                       EIJS*      
 EKAR 12714M003        001  2018 12 07 00 00 00                       EKAR*                 ekar00ita_20240718.log
 ELBA 12721M002        001  2000 11 08 00 00 00                       ELBA*                 elba00ita_20240718.log
 ENAO 31902M005        001  2019 07 23 16 30 00                       ENAO*                 enao00prt_20260211.log
-ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*                 enis00gbr_20260114.log
+ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*                 enis00gbr_20260218.log
 ENTZ 10014M002        001  2004 12 01 12 00 00                       ENTZ*                 entz00fra_20251208.log
 ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza00ita_20241128.log
 ESCO 13435M001        001  1999 04 21 00 00 00                       ESCO*                 esco00esp_20240902.log
@@ -138,7 +138,7 @@ FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*      
 FINS 10523M001        001  2014 11 13 12 00 00                       FINS*                 fins00fin_20250903.log
 FLRS 31907M001        001  2008 04 09 17 00 00                       FLRS*                 flrs00prt_20250414.log
 FOCS 11443M001        001  2007 03 12 12 00 00                       FOCS*                 focs00rou_20251224.log
-FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl00gbr_20260109.log
+FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl00gbr_20260218.log
 FRA2 15538M002        001  2011 03 16 12 00 00                       FRA2*                 fra200ukr_20250811.log
 FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*                 frne00ita_20250925.log
 FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func00prt_20250414.log
@@ -2132,8 +2132,8 @@ ENIS 13246M001        001  2015 12 09 09 26 00  2016 07 15 12 28 00  LEICA GR25 
 ENIS 13246M001        001  2016 07 15 12 28 00  2017 01 10 11 21 00  LEICA GR25                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000  ENIS00GBR               
 ENIS 13246M001        001  2017 01 10 11 21 00  2019 05 22 12 00 00  LEICA GR25                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000  ENIS00GBR               
 ENIS 13246M001        001  2019 05 22 12 00 00  2020 10 22 10 30 00  LEICA GR25                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000  ENIS00GBR               
-ENIS 13246M001        001  2020 10 22 10 30 00  2025 11 07 14 27 00  LEICA GR25                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000  ENIS00GBR               
-ENIS 13246M001        001  2025 11 07 14 27 00                       TRIMBLE ALLOY                               999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000  ENIS00GBR               
+ENIS 13246M001        001  2020 10 22 10 30 00  2026 02 13 16 00 00  LEICA GR25                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000  ENIS00GBR               
+ENIS 13246M001        001  2026 02 13 16 00 00                       TRIMBLE ALLOY                               999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000  ENIS00GBR               
 ENTZ 10014M002        001  2004 12 01 12 00 00  2009 08 06 00 00 00  ASHTECH UZ-12                               999999  ASH701945E_M    SCIS                        999999    0.0000    0.0000    0.0000  ENTZ00FRA               
 ENTZ 10014M002        001  2009 08 06 00 00 00  2011 03 24 07 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000  ENTZ00FRA               
 ENTZ 10014M002        001  2011 03 24 07 00 00  2011 08 29 05 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000  ENTZ00FRA               
