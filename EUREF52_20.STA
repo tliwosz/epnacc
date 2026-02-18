@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          18-02-2026 16:04
+Station information file for Bernese GNSS Software 5.2          18-02-2026 21:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -141,7 +141,7 @@ FOCS 11443M001        001  2007 03 12 12 00 00                       FOCS*      
 FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl00gbr_20260218.log
 FRA2 15538M002        001  2011 03 16 12 00 00                       FRA2*                 fra200ukr_20250811.log
 FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*                 frne00ita_20250925.log
-FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func00prt_20250414.log
+FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func00prt_20260218.log
 GAIA 13902M001        001  2000 01 02 14 35 00                       GAIA*                 gaia00prt_20250414.log
 GALH 18490M001        001  2018 05 24 00 00 00                       GALH*                 galh00ita_20251015.log
 GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp00svk_20260126.log
