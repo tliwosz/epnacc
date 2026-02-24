@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          24-02-2026 04:04
+Station information file for Bernese GNSS Software 5.2          24-02-2026 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -75,7 +75,7 @@ CAEN 19994M001        001  2005 11 10 00 00 00  2021 12 15 10 00 00  CAEN*      
 CAG1 12702M002        001  2013 09 11 00 00 00                       CAG1*                 cag100ita_20250325.log
 CAGL 12725M003        001  1995 04 07 00 00 00  2013 09 22 00 00 00  CAGL*                 cagl00ita_20240718.log
 CAGZ 12725M004        001  2001 10 01 00 00 00  2013 09 22 00 00 00  CAGZ*                 cagz00ita_20220506.log
-CAKO 11906M001        001  2008 12 09 00 00 00                       CAKO*                 cako00hrv_20250429.log
+CAKO 11906M001        001  2008 12 09 00 00 00                       CAKO*                 cako00hrv_20260224.log
 CAME 12754M001        001  2000 04 19 00 00 00  2009 12 13 00 00 00  CAME*                 came00ita_20240718.log
 CANT 13438M001        001  2000 03 11 12 00 00                       CANT*                 cant00esp_20250624.log
 CARG 19412M001        001  2014 05 23 12 00 00                       CARG*                 carg00esp_20241021.log
@@ -114,7 +114,7 @@ DNMU 12369M001        001  2005 04 08 10 32 00                       DNMU*      
 DOUR 13113M001        001  1994 01 11 00 00 00                       DOUR*                 dour00bel_20250513.log
 DRAG 20710S001        001  2000 02 07 00 00 00                       DRAG*                 drag00isr_20250620.log
 DRES 14108M001        001  1997 10 24 00 00 00  2016 09 08 08 27 00  DRES*                 dres00deu_20220905.log
-DUB2 11901M002        001  2011 11 03 00 00 00                       DUB2*                 dub200hrv_20250429.log
+DUB2 11901M002        001  2011 11 03 00 00 00                       DUB2*                 dub200hrv_20260224.log
 DUBR 11901M001        001  2000 09 22 00 00 00  2012 10 24 00 00 00  DUBR*                 dubr00hrv_20250622.log
 DUTH 12621M001        001  2008 09 11 00 00 00                       DUTH*                 duth00grc_20201009.log
 DVCN 11709M001        001  2021 03 23 11 50 00                       DVCN*                 dvcn00svk_20260123.log
@@ -347,10 +347,10 @@ PLYM 13229S001        001  2002 01 23 00 00 00  2004 02 12 23 59 00  PLYM*      
 PMTH 13229M001        001  2004 02 13 00 00 00                       PMTH*                 pmth00gbr_20251111.log
 POLV 12336M001        001  2001 04 26 16 45 00                       POLV*                 polv00ukr_20250613.log
 POPI 14670M001        001  2021 07 01 10 00 00                       POPI*                 popi00ita_20260212.log
-PORE 11907M001        001  2008 12 09 00 00 00                       PORE*                 pore00hrv_20250429.log
+PORE 11907M001        001  2008 12 09 00 00 00                       PORE*                 pore00hrv_20260224.log
 POTS 14106M003        001  1994 10 28 00 00 00                       POTS*                 pots00deu_20250321.log
 POUS 11518M001        001  2003 10 20 12 00 00                       POUS*                 pous00cze_20200219.log
-POZE 11908M001        001  2008 12 09 00 00 00                       POZE*                 poze00hrv_20250429.log
+POZE 11908M001        001  2008 12 09 00 00 00                       POZE*                 poze00hrv_20260224.log
 PPSH 81301M002        001  2020 09 04 15 30 00                       PPSH*                 ppsh00nor_20231001.log
 PRAT 12760M001        001  1998 05 01 00 00 00                       PRAT*                 prat00ita_20240416.log
 PRIJ 12131M001        001  2017 09 18 00 00 00                       PRIJ*                 prij00srb_20240112.log
@@ -517,7 +517,7 @@ WTZS 14201M015        001  2005 07 27 15 00 00                       WTZS*      
 WTZZ 14201M014        001  1999 02 01 12 00 00                       WTZZ*                 wtzz00deu_20251006.log
 WUTH 81301M001        001  2020 09 04 15 30 00                       WUTH*                 wuth00nor_20240903.log
 YEBE 13420M001        001  1999 05 19 12 00 00                       YEBE*                 yebe00esp_20240318.log
-ZADA 11905M001        001  2008 12 09 00 00 00                       ZADA*                 zada00hrv_20250429.log
+ZADA 11905M001        001  2008 12 09 00 00 00                       ZADA*                 zada00hrv_20260224.log
 ZARA 13462M001        001  2006 04 25 00 00 00                       ZARA*                 zara00esp_20230913.log
 ZECK 12351M001        001  1997 07 11 00 00 00                       ZECK*                 zeck00rus_20250724.log
 ZIM2 14001M008        001  2007 11 08 16 00 00                       ZIM2*                 zim200che_20251107.log
