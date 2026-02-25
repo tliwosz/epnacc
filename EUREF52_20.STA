@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          24-02-2026 21:04
+Station information file for Bernese GNSS Software 5.2          25-02-2026 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -55,7 +55,7 @@ BORK 14268M001        001  2000 09 29 00 00 00  2007 06 04 00 00 00  BORK*      
 BORR 13480M001        001  2005 04 27 16 15 00                       BORR*                 borr00esp_20250513.log
 BPDL 12223M001        001  2007 12 04 12 00 00                       BPDL*                 bpdl00pol_20251024.log
 BRMF 19686M002        001  2014 02 18 07 00 00                       BRMF*                 brmf00fra_20251208.log
-BRMG 10918M001        001  2020 04 08 10 00 00                       BRMG*                 brmg00deu_20251027.log
+BRMG 10918M001        001  2020 04 08 10 00 00                       BRMG*                 brmg00deu_20260224.log
 BRON 19686M001        001  2013 01 05 09 00 00  2013 10 25 09 00 00  BRON*                 bron00fra_20241014.log
 BRST 10004M004        001  1998 10 31 00 00 00                       BRST*                 brst00fra_20251204.log
 BRTS 14804M001        001  2011 04 15 11 48 00                       BRTS*                 brts00blr_20240808.log
