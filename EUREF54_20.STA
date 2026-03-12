@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             11-03-2026 16:04
+BSW 5.4 station information file for EPN processing             12-03-2026 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -29,14 +29,14 @@ ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*      
 ARJ6 10428M002        001  2011 07 29 00 00 00                       ARJ6*                 arj600swe_20250407.log
 ASGA 25401M001        001  2021 07 27 08 00 00                       ASGA*                 asga00cyp_20240827.log
 ASIR 14668M001        001  2021 07 02 10 00 00                       ASIR*                 asir00ita_20250217.log
-AUBG 10913M001        001  2012 10 10 00 00 00                       AUBG*                 aubg00deu_20250429.log
+AUBG 10913M001        001  2012 10 10 00 00 00                       AUBG*                 aubg00deu_20260311.log
 AUT1 12619M002        001  2005 03 29 00 00 00                       AUT1*                 aut100grc_20201009.log
 AUTN 10080M001        001  2005 04 15 12 00 00                       AUTN*                 autn00fra_20251208.log
 AXPV 10057M001        001  2002 09 17 00 00 00                       AXPV*                 axpv00fra_20251208.log
 BACA 11405M001        001  2005 08 05 12 00 00  2025 05 05 07 09 00  BACA*                 baca00rou_20250505.log
 BADH 14288M001        001  2005 02 28 12 00 00                       BADH*                 badh00deu_20250224.log
 BAIA 11406M001        001  2005 06 10 12 00 00                       BAIA*                 baia00rou_20251224.log
-BAUT 14102M001        001  2018 09 26 10 00 00                       BAUT*                 baut00deu_20250429.log
+BAUT 14102M001        001  2018 09 26 10 00 00                       BAUT*                 baut00deu_20260311.log
 BBYS 11514M001        001  2001 04 01 06 00 00                       BBYS*                 bbys00svk_20260123.log
 BCLN 13412M001        001  2012 01 31 12 00 00                       BCLN*                 bcln00esp_20230720.log
 BELF 13240M001        001  2000 11 07 00 00 00  2016 04 07 00 00 00  BELF*                 belf00gbr_20241112.log
@@ -50,12 +50,12 @@ BOGI 12207M003        001  2001 10 01 00 00 00                       BOGI*      
 BOGO 12207M002        001  1996 06 08 00 00 00                       BOGO*                 bogo00pol_20250317.log
 BOLG 12771M001        001  1999 05 14 00 00 00                       BOLG*                 bolg00ita_20230628.log
 BOR1 12205M002        001  1994 01 10 00 00 00                       BOR1*                 bor100pol_20250403.log
-BORJ 14268M002        001  2005 06 09 10 00 00                       BORJ*                 borj00deu_20250429.log
+BORJ 14268M002        001  2005 06 09 10 00 00                       BORJ*                 borj00deu_20260311.log
 BORK 14268M001        001  2000 09 29 00 00 00  2007 06 04 00 00 00  BORK*                 bork00deu_20230601.log
 BORR 13480M001        001  2005 04 27 16 15 00                       BORR*                 borr00esp_20250513.log
 BPDL 12223M001        001  2007 12 04 12 00 00                       BPDL*                 bpdl00pol_20251024.log
 BRMF 19686M002        001  2014 02 18 07 00 00                       BRMF*                 brmf00fra_20251208.log
-BRMG 10918M001        001  2020 04 08 10 00 00                       BRMG*                 brmg00deu_20260224.log
+BRMG 10918M001        001  2020 04 08 10 00 00                       BRMG*                 brmg00deu_20260311.log
 BRON 19686M001        001  2013 01 05 09 00 00  2013 10 25 09 00 00  BRON*                 bron00fra_20241014.log
 BRST 10004M004        001  1998 10 31 00 00 00                       BRST*                 brst00fra_20251204.log
 BRTS 14804M001        001  2011 04 15 11 48 00                       BRTS*                 brts00blr_20240808.log
@@ -106,8 +106,8 @@ DELF 13502M004        001  1994 12 30 13 00 00                       DELF*      
 DENT 13112M001        001  1994 01 06 00 00 00                       DENT*                 dent00bel_20250415.log
 DEVA 11408M001        001  2005 05 21 12 00 00                       DEVA*                 deva00rou_20251223.log
 DGOR 12001M001        001  2019 04 03 00 00 00                       DGOR*                 dgor00mne_20190930.log
-DIEP 14287M001        001  2004 12 15 10 00 00                       DIEP*                 diep00deu_20250429.log
-DILL 14286M001        001  2004 12 01 12 00 00                       DILL*                 dill00deu_20250725.log
+DIEP 14287M001        001  2004 12 15 10 00 00                       DIEP*                 diep00deu_20260311.log
+DILL 14286M001        001  2004 12 01 12 00 00                       DILL*                 dill00deu_20260311.log
 DLF1 13502M009        001  2011 04 15 10 00 00                       DLF1*                 dlf100nld_20230425.log
 DLKS 10704M003        001  2019 06 13 13 00 00                       DLKS*                 dlks00lva_20240612.log
 DNMU 12369M001        001  2005 04 08 10 32 00                       DNMU*                 dnmu00ukr_20250613.log
@@ -134,7 +134,7 @@ ESCO 13435M001        001  1999 04 21 00 00 00                       ESCO*      
 EUSK 14258M003        001  1998 04 02 00 00 00                       EUSK*                 eusk00deu_20250606.log
 EVPA 12344M001        001  2002 11 26 13 15 00  2014 04 01 00 00 00  EVPA*                 evpa00ukr_20220504.log
 FATA 12773M001        001  2005 09 01 12 00 00  2006 04 19 00 00 00  FATA*                 fata00ita_20050901.log
-FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*                 ffmj00deu_20251107.log
+FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*                 ffmj00deu_20260311.log
 FINS 10523M001        001  2014 11 13 12 00 00                       FINS*                 fins00fin_20250903.log
 FLRS 31907M001        001  2008 04 09 17 00 00                       FLRS*                 flrs00prt_20250414.log
 FOCS 11443M001        001  2007 03 12 12 00 00                       FOCS*                 focs00rou_20251224.log
@@ -147,15 +147,15 @@ GALH 18490M001        001  2018 05 24 00 00 00                       GALH*      
 GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp00svk_20260126.log
 GARI 19517M001        001  2009 04 01 00 00 00                       GARI*                 gari00ita_20250509.log
 GDRS 15595M001        001  2014 11 28 10 55 00  2024 07 18 07 20 00  GDRS*                 gdrs00ukr_20240724.log
-GELL 10908M001        001  2007 11 07 14 00 00                       GELL*                 gell00deu_20250502.log
+GELL 10908M001        001  2007 11 07 14 00 00                       GELL*                 gell00deu_20260311.log
 GENO 12712M002        001  1998 07 23 00 00 00                       GENO*                 geno00ita_20250811.log
 GJML 12121M001        001  2010 01 15 12 43 00                       GJML*                 gjml00srb_20230221.log
 GLSV 12356M001        001  1997 12 16 00 00 00                       GLSV*                 glsv00ukr_20200508.log
-GOET 10906M001        001  2006 12 12 08 00 00                       GOET*                 goet00deu_20250502.log
+GOET 10906M001        001  2006 12 12 08 00 00                       GOET*                 goet00deu_20260311.log
 GOML 14803M001        001  2010 07 12 00 00 00                       GOML*                 goml00blr_20240808.log
 GOP6 11502M006        001  2011 12 21 00 00 00                       GOP6*                 gop600cze_20250924.log
 GOPE 11502M002        001  1995 05 13 00 00 00                       GOPE*                 gope00cze_20250923.log
-GOR2 14115M002        001  2008 04 15 12 00 00                       GOR2*                 gor200deu_20250502.log
+GOR2 14115M002        001  2008 04 15 12 00 00                       GOR2*                 gor200deu_20260311.log
 GRAC 10002M010        001  1998 11 27 10 00 00                       GRAC*                 grac00fra_20251208.log
 GRAS 10002M006        001  1995 02 22 00 00 00                       GRAS*                 gras00fra_20230713.log
 GRAZ 11001M002        001  1992 06 12 12 00 00                       GRAZ*                 graz00aut_20260212.log
@@ -165,8 +165,8 @@ GVDG 12618M003        001  2023 09 21 00 00 00                       GVDG*      
 GVNL 18546M002        001  2023 05 14 10 00 00                       GVNL*                 gvnl00ita_20230928.log
 GWWL 12225M001        001  2007 12 10 00 00 00                       GWWL*                 gwwl00pol_20251024.log
 HAS6 10429M002        001  2011 06 15 00 00 00                       HAS6*                 has600swe_20250320.log
-HEL2 14264M002        001  2005 09 08 12 00 00                       HEL2*                 hel200deu_20250430.log
-HELG 14264M001        001  1999 11 09 00 00 00                       HELG*                 helg00deu_20250502.log
+HEL2 14264M002        001  2005 09 08 12 00 00                       HEL2*                 hel200deu_20260311.log
+HELG 14264M001        001  1999 11 09 00 00 00                       HELG*                 helg00deu_20260311.log
 HERS 13212M007        001  1992 03 24 00 00 00                       HERS*                 hers00gbr_20250325.log
 HERT 13212M010        001  2003 03 12 00 00 00                       HERT*                 hert00gbr_20250108.log
 HETT 10524M001        001  2014 01 29 12 00 00                       HETT*                 hett00fin_20250805.log
@@ -175,7 +175,7 @@ HFLK 11006S003        001  1994 10 02 13 00 00  2007 07 01 00 00 00  HFLK*      
 HOBU 14202M003        001  1997 07 01 00 00 00                       HOBU*                 hobu00deu_20250929.log
 HOE2 14284M002        001  2005 07 01 10 00 00  2015 05 19 12 00 00  HOE2*                 hoe200deu_20220905.log
 HOER 14284M001        001  2003 07 15 00 00 00  2005 06 30 10 00 00  HOER*                 hoer00deu_20230419.log
-HOFJ 14289M001        001  2007 03 07 10 00 00                       HOFJ*                 hofj00deu_20250527.log
+HOFJ 14289M001        001  2007 03 07 10 00 00                       HOFJ*                 hofj00deu_20260311.log
 HOFN 10204M002        001  1997 05 27 00 00 00                       HOFN*                 hofn00isl_20250224.log
 HUEL 13451M001        001  2001 12 01 00 00 00                       HUEL*                 huel00esp_20240411.log
 IAVH 35001M001        001  1998 02 12 00 00 00  1998 12 28 00 00 00  IAVH*                 iavh00mar_19991115.log
@@ -204,7 +204,7 @@ JON6 10430M002        001  2011 06 16 00 00 00                       JON6*      
 JOZ2 12204M002        001  2002 01 03 00 00 00                       JOZ2*                 joz200pol_20210730.log
 JOZE 12204M001        001  1993 08 08 00 00 00                       JOZE*                 joze00pol_20240730.log
 KAD6 10431M002        001  2011 06 15 00 00 00                       KAD6*                 kad600swe_20250319.log
-KARL 14216M001        001  1997 03 20 00 00 00                       KARL*                 karl00deu_20250502.log
+KARL 14216M001        001  1997 03 20 00 00 00                       KARL*                 karl00deu_20260311.log
 KATO 12219S001        001  2003 01 30 00 00 00                       KATO*                 kato00pol_20251016.log
 KDA2 14504M002        001  2016 01 02 10 00 00                       KDA2*                 kda200svn_20251105.log
 KELY 43005M002        001  1995 07 23 00 00 00                       KELY*                 kely00grl_20260126.log
@@ -235,8 +235,8 @@ LAMA 12209M001        001  1994 12 01 00 00 00                       LAMA*      
 LAMP 12706M002        001  1999 03 25 00 00 00                       LAMP*                 lamp00ita_20250811.log
 LARM 12610M002        001  2011 01 15 00 00 00                       LARM*                 larm00grc_20201009.log
 LCRA 18491M001        001  2018 06 22 00 00 00                       LCRA*                 lcra00ita_20240718.log
-LDB2 14114M002        001  2005 10 25 10 00 00                       LDB2*                 ldb200deu_20250505.log
-LEIJ 14267M001        001  2001 07 03 12 00 00                       LEIJ*                 leij00deu_20250616.log
+LDB2 14114M002        001  2005 10 25 10 00 00                       LDB2*                 ldb200deu_20260311.log
+LEIJ 14267M001        001  2001 07 03 12 00 00                       LEIJ*                 leij00deu_20260311.log
 LEK6 10433M002        001  2011 06 15 00 00 00                       LEK6*                 lek600swe_20260311.log
 LEON 13475M001        001  2007 03 26 00 00 00                       LEON*                 leon00esp_20240318.log
 LERI 19159M003        001  2009 06 16 15 00 00                       LERI*                 leri00gbr_20260109.log
@@ -368,7 +368,7 @@ RABT 35001M002        001  2000 05 17 00 00 00                       RABT*      
 RAEG 31912M003        001  2015 05 15 00 00 00                       RAEG*                 raeg00prt_20240411.log
 RAH1 15811M001        001  2008 08 29 15 00 00                       RAH1*                 rah100ukr_20250811.log
 RAMO 20703S001        001  1998 06 10 00 00 00                       RAMO*                 ramo00isr_20250620.log
-RANT 10914M001        001  2014 05 09 10 00 00                       RANT*                 rant00deu_20251118.log
+RANT 10914M001        001  2014 05 09 10 00 00                       RANT*                 rant00deu_20260311.log
 REDU 13102M001        001  2003 04 16 00 00 00                       REDU*                 redu00bel_20251110.log
 REDZ 12227M001        001  2007 12 07 00 00 00                       REDZ*                 redz00pol_20251018.log
 REYK 10202M001        001  1995 11 02 00 00 00                       REYK*                 reyk00isl_20250224.log
@@ -382,7 +382,7 @@ RVNE 15542M003        001  2019 03 12 15 10 00                       RVNE*      
 SABA 12112M001        001  2011 01 20 00 00 00                       SABA*                 saba00srb_20230207.log
 SALA 13469M001        001  2006 08 10 00 00 00                       SALA*                 sala00esp_20240411.log
 SART 18497M001        001  2018 12 17 00 00 00                       SART*                 sart00ita_20260122.log
-SAS2 14281M002        001  2015 10 22 14 00 00                       SAS2*                 sas200deu_20250505.log
+SAS2 14281M002        001  2015 10 22 14 00 00                       SAS2*                 sas200deu_20260311.log
 SASS 14281M001        001  2002 12 12 12 00 00  2019 02 28 23 59 00  SASS*                 sass00deu_20220905.log
 SAVU 10529M001        001  2014 01 29 12 00 00                       SAVU*                 savu00fin_20250613.log
 SBG2 11031M002        001  2008 01 29 12 50 00                       SBG2*                 sbg200aut_20250916.log
@@ -437,7 +437,7 @@ TERU 13487M001        001  2008 03 06 00 00 00                       TERU*      
 THU1 43001M001        001  1995 05 02 00 00 00  2003 01 12 00 00 00  THU1*                 thu100grl_19990813.log
 THU2 43001M002        001  1998 10 26 00 00 00                       THU2*                 thu200grl_20250822.log
 THU3 43001M002        001  2001 09 01 00 00 00  2019 05 23 00 00 00  THU3*                 thu300grl_20211215.log
-TIT2 14278M002        001  2014 12 11 09 00 00                       TIT2*                 tit200deu_20250502.log
+TIT2 14278M002        001  2014 12 11 09 00 00                       TIT2*                 tit200deu_20260311.log
 TLL1 13630M002        001  2017 10 27 15 00 00                       TLL1*                 tll100irl_20241010.log
 TLLG 13630M001        001  2007 03 06 00 00 00  2019 01 03 00 00 00  TLLG*                 tllg00irl_20230331.log
 TLMF 10003M010        001  2002 06 18 00 00 00                       TLMF*                 tlmf00fra_20251209.log
@@ -505,12 +505,12 @@ VLNS 10801M001        001  1997 09 16 11 00 00                       VLNS*      
 VNRS 18101M001        001  2009 11 12 00 00 00  2024 02 05 10 47 00  VNRS*                 vnrs00ukr_20240213.log
 VTRB 14606M001        001  2019 07 26 07 30 00                       VTRB*                 vtrb00ita_20250926.log
 WARE 13114M001        001  1994 01 14 00 00 00                       WARE*                 ware00bel_20251016.log
-WARN 14277M002        001  2003 02 11 12 00 00                       WARN*                 warn00deu_20250623.log
+WARN 14277M002        001  2003 02 11 12 00 00                       WARN*                 warn00deu_20260311.log
 WETT 14201M009        001  1994 06 07 00 00 00  1996 08 31 00 00 00  WETT*                 wett00deu_20230511.log
 WRLG 14201M024        001  2015 03 17 12 40 00                       WRLG*                 wrlg00deu_20230509.log
 WROC 12217M001        001  1996 11 28 00 00 00                       WROC*                 wroc00pol_20240812.log
 WSRT 13506M005        001  1997 06 01 12 00 00                       WSRT*                 wsrt00nld_20231207.log
-WT21 14201M021        001  2003 10 14 07 00 00                       WT21*                 wt2100deu_20251027.log
+WT21 14201M021        001  2003 10 14 07 00 00                       WT21*                 wt2100deu_20260311.log
 WTZA 14201M013        001  1997 11 25 00 00 00                       WTZA*                 wtza00deu_20260310.log
 WTZR 14201M010        001  1995 02 09 00 00 00                       WTZR*                 wtzr00deu_20231030.log
 WTZS 14201M015        001  2005 07 27 15 00 00                       WTZS*                 wtzs00deu_20250414.log
@@ -769,7 +769,8 @@ AUBG 10913M001        001  2022 09 05 12 16 00  2023 02 08 09 30 00  LEICA GR50 
 AUBG 10913M001        001  2023 02 08 09 30 00  2024 02 15 09 52 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          AUBG00DEU  AUBG00DEU               
 AUBG 10913M001        001  2024 02 15 09 52 00  2024 07 09 10 20 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          AUBG00DEU  AUBG00DEU               
 AUBG 10913M001        001  2024 07 09 10 20 00  2025 04 29 12 10 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          AUBG00DEU  AUBG00DEU               
-AUBG 10913M001        001  2025 04 29 12 10 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          AUBG00DEU  AUBG00DEU               
+AUBG 10913M001        001  2025 04 29 12 10 00  2026 03 11 11 19 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          AUBG00DEU  AUBG00DEU               
+AUBG 10913M001        001  2026 03 11 11 19 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          AUBG00DEU  AUBG00DEU               
 AUT1 12619M002        001  2005 03 29 00 00 00  2006 02 17 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.1824          AUT100GRC  AUT100GRC               
 AUT1 12619M002        001  2006 02 17 00 00 00  2006 03 08 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.1824          AUT100GRC  AUT100GRC               
 AUT1 12619M002        001  2006 03 08 00 00 00  2006 03 14 09 55 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.1824          AUT100GRC  AUT100GRC               
@@ -879,7 +880,8 @@ BAUT 14102M001        001  2022 03 03 06 08 00  2023 02 08 10 01 00  JAVAD TRE_3
 BAUT 14102M001        001  2023 02 08 10 01 00  2024 02 15 07 58 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          BAUT00DEU  BAUT00DEU               
 BAUT 14102M001        001  2024 02 15 07 58 00  2024 09 11 07 30 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          BAUT00DEU  BAUT00DEU               
 BAUT 14102M001        001  2024 09 11 07 30 00  2025 04 29 13 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          BAUT00DEU  BAUT00DEU               
-BAUT 14102M001        001  2025 04 29 13 00 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          BAUT00DEU  BAUT00DEU               
+BAUT 14102M001        001  2025 04 29 13 00 00  2026 03 11 08 49 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          BAUT00DEU  BAUT00DEU               
+BAUT 14102M001        001  2026 03 11 08 49 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          BAUT00DEU  BAUT00DEU               
 BBYS 11514M001        001  2001 04 01 06 00 00  2005 01 11 14 00 00  TRIMBLE 4000SSI                             999999  TRM33429.00+GP  NONE                        999999    0.0000    0.0000    0.1260          BBYS00SVK  BBYS00SVK               
 BBYS 11514M001        001  2005 01 11 14 00 00  2009 09 13 12 00 00  TRIMBLE 5700                                999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.1180          BBYS00SVK  BBYS00SVK               
 BBYS 11514M001        001  2009 09 13 12 00 00  2009 11 03 08 08 00  TRIMBLE 5700                                999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.1180          BBYS00SVK  BBYS00SVK               
@@ -1054,7 +1056,8 @@ BORJ 14268M002        001  2022 08 02 13 10 00  2023 02 08 09 21 00  JAVAD TRE_3
 BORJ 14268M002        001  2023 02 08 09 21 00  2024 02 15 08 11 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BORJ00DEU  BORJ00DEU               
 BORJ 14268M002        001  2024 02 15 08 11 00  2024 06 07 08 45 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BORJ00DEU  BORJ00DEU               
 BORJ 14268M002        001  2024 06 07 08 45 00  2025 04 29 13 40 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BORJ00DEU  BORJ00DEU               
-BORJ 14268M002        001  2025 04 29 13 40 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BORJ00DEU  BORJ00DEU               
+BORJ 14268M002        001  2025 04 29 13 40 00  2026 03 11 10 37 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BORJ00DEU  BORJ00DEU               
+BORJ 14268M002        001  2026 03 11 10 37 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BORJ00DEU  BORJ00DEU               
 BORK 14268M001        001  2000 09 29 00 00 00  2000 11 09 09 30 00  TRIMBLE 4000SSI                             999999  TRM29659.00     SNOW                        999999    0.0000    0.0000    0.0540          BORK00DEU  BORK00DEU               
 BORK 14268M001        001  2000 11 09 09 30 00  2001 04 18 14 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     SNOW                        999999    0.0000    0.0000    0.0540          BORK00DEU  BORK00DEU               
 BORK 14268M001        001  2001 04 18 14 00 00  2001 10 11 00 00 00  TRIMBLE 4700                                999999  TRM29659.00     SNOW                        999999    0.0000    0.0000    0.0540          BORK00DEU  BORK00DEU               
@@ -1104,7 +1107,8 @@ BRMG 10918M001        001  2022 03 03 06 16 00  2023 02 08 09 27 00  JAVAD TRE_3
 BRMG 10918M001        001  2023 02 08 09 27 00  2024 02 15 08 15 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BRMG00DEU  BRMG00DEU               
 BRMG 10918M001        001  2024 02 15 08 15 00  2024 09 03 13 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BRMG00DEU  BRMG00DEU               
 BRMG 10918M001        001  2024 09 03 13 00 00  2025 04 29 13 55 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BRMG00DEU  BRMG00DEU               
-BRMG 10918M001        001  2025 04 29 13 55 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BRMG00DEU  BRMG00DEU               
+BRMG 10918M001        001  2025 04 29 13 55 00  2026 03 11 11 27 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BRMG00DEU  BRMG00DEU               
+BRMG 10918M001        001  2026 03 11 11 27 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          BRMG00DEU  BRMG00DEU               
 BRON 19686M001        001  2013 01 05 09 00 00  2013 06 06 12 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          BRON00FRA  BRON00FRA               
 BRON 19686M001        001  2013 06 06 12 00 00  2013 10 11 10 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          BRON00FRA  BRON00FRA               
 BRON 19686M001        001  2013 10 11 10 00 00  2013 10 25 09 00 00  LEICA GR25                                  999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.0000          BRON00FRA  BRON00FRA               
@@ -1820,7 +1824,8 @@ DIEP 14287M001        001  2021 08 02 08 00 00  2021 08 31 08 25 00  JAVAD TRE_3
 DIEP 14287M001        001  2021 08 31 08 25 00  2022 03 03 06 03 00  JAVAD TRE_3L DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0455          DIEP00DEU  DIEP00DEU               
 DIEP 14287M001        001  2022 03 03 06 03 00  2023 02 08 10 22 00  JAVAD TRE_3L DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0455          DIEP00DEU  DIEP00DEU               
 DIEP 14287M001        001  2023 02 08 10 22 00  2025 04 29 14 10 00  JAVAD TRE_3L DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0455          DIEP00DEU  DIEP00DEU               
-DIEP 14287M001        001  2025 04 29 14 10 00                       JAVAD TRE_3L DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0455          DIEP00DEU  DIEP00DEU               
+DIEP 14287M001        001  2025 04 29 14 10 00  2026 03 11 09 25 00  JAVAD TRE_3L DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0455          DIEP00DEU  DIEP00DEU               
+DIEP 14287M001        001  2026 03 11 09 25 00                       JAVAD TRE_3L DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0455          DIEP00DEU  DIEP00DEU               
 DILL 14286M001        001  2004 12 01 12 00 00  2006 11 21 12 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450          DILL00DEU  DILL00DEU               
 DILL 14286M001        001  2006 11 21 12 00 00  2007 11 23 08 30 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450          DILL00DEU  DILL00DEU               
 DILL 14286M001        001  2007 11 23 08 30 00  2008 01 29 11 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.0450          DILL00DEU  DILL00DEU               
@@ -1840,7 +1845,8 @@ DILL 14286M001        001  2022 09 05 11 39 00  2023 02 08 12 16 00  LEICA GR50 
 DILL 14286M001        001  2023 02 08 12 16 00  2024 02 15 08 17 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          DILL00DEU  DILL00DEU               
 DILL 14286M001        001  2024 02 15 08 17 00  2024 09 18 09 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          DILL00DEU  DILL00DEU               
 DILL 14286M001        001  2024 09 18 09 00 00  2025 04 30 08 45 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          DILL00DEU  DILL00DEU               
-DILL 14286M001        001  2025 04 30 08 45 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          DILL00DEU  DILL00DEU               
+DILL 14286M001        001  2025 04 30 08 45 00  2026 03 11 10 53 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          DILL00DEU  DILL00DEU               
+DILL 14286M001        001  2026 03 11 10 53 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          DILL00DEU  DILL00DEU               
 DLF1 13502M009        001  2011 04 15 10 00 00  2011 06 22 11 20 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0000          DLF100NLD  DLF100NLD               
 DLF1 13502M009        001  2011 06 22 11 20 00  2012 02 01 12 32 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0000          DLF100NLD  DLF100NLD               
 DLF1 13502M009        001  2012 02 01 12 32 00  2012 05 03 11 30 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0000          DLF100NLD  DLF100NLD               
@@ -2240,7 +2246,8 @@ FFMJ 14279M001        001  2023 02 08 09 08 00  2024 02 15 07 46 00  JAVAD TRE_3
 FFMJ 14279M001        001  2024 02 15 07 46 00  2025 05 02 09 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          FFMJ00DEU  FFMJ00DEU               
 FFMJ 14279M001        001  2025 05 02 09 00 00  2025 05 15 07 00 00  SEPT POLARX5E                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          FFMJ00DEU  FFMJ00DEU               
 FFMJ 14279M001        001  2025 05 15 07 00 00  2025 11 06 11 00 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          FFMJ00DEU  FFMJ00DEU               
-FFMJ 14279M001        001  2025 11 06 11 00 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          FFMJ00DEU  FFMJ00DEU               
+FFMJ 14279M001        001  2025 11 06 11 00 00  2026 03 11 10 14 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          FFMJ00DEU  FFMJ00DEU               
+FFMJ 14279M001        001  2026 03 11 10 14 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          FFMJ00DEU  FFMJ00DEU               
 FINS 10523M001        001  2014 11 13 12 00 00  2015 03 12 13 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          FINS00FIN  FINS00FIN               
 FINS 10523M001        001  2015 03 12 13 00 00  2016 12 12 08 50 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          FINS00FIN  FINS00FIN               
 FINS 10523M001        001  2016 12 12 08 50 00  2017 04 24 11 28 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          FINS00FIN  FINS00FIN               
@@ -2418,7 +2425,8 @@ GELL 10908M001        001  2022 03 03 07 14 00  2022 09 05 12 15 00  LEICA GR50 
 GELL 10908M001        001  2022 09 05 12 15 00  2023 02 08 12 36 00  LEICA GR50                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          GELL00DEU  GELL00DEU               
 GELL 10908M001        001  2023 02 08 12 36 00  2024 02 15 09 11 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          GELL00DEU  GELL00DEU               
 GELL 10908M001        001  2024 02 15 09 11 00  2025 05 02 12 20 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          GELL00DEU  GELL00DEU               
-GELL 10908M001        001  2025 05 02 12 20 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          GELL00DEU  GELL00DEU               
+GELL 10908M001        001  2025 05 02 12 20 00  2026 03 11 08 58 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          GELL00DEU  GELL00DEU               
+GELL 10908M001        001  2026 03 11 08 58 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          GELL00DEU  GELL00DEU               
 GENO 12712M002        001  1998 07 23 00 00 00  2001 08 22 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          GENO00ITA  GENO00ITA               
 GENO 12712M002        001  2001 08 22 00 00 00  2002 08 13 00 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          GENO00ITA  GENO00ITA               
 GENO 12712M002        001  2002 08 13 00 00 00  2013 05 21 14 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          GENO00ITA  GENO00ITA               
@@ -2469,7 +2477,8 @@ GOET 10906M001        001  2022 03 03 06 41 00  2023 02 08 09 10 00  JAVAD TRE_3
 GOET 10906M001        001  2023 02 08 09 10 00  2024 02 15 08 01 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0456          GOET00DEU  GOET00DEU               
 GOET 10906M001        001  2024 02 15 08 01 00  2024 07 10 08 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0456          GOET00DEU  GOET00DEU               
 GOET 10906M001        001  2024 07 10 08 00 00  2025 05 02 09 10 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0456          GOET00DEU  GOET00DEU               
-GOET 10906M001        001  2025 05 02 09 10 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0456          GOET00DEU  GOET00DEU               
+GOET 10906M001        001  2025 05 02 09 10 00  2026 03 11 10 46 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0456          GOET00DEU  GOET00DEU               
+GOET 10906M001        001  2026 03 11 10 46 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0456          GOET00DEU  GOET00DEU               
 GOML 14803M001        001  2010 07 12 00 00 00  2014 07 23 09 00 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3040          GOML00BLR  GOML00BLR               
 GOML 14803M001        001  2014 07 23 09 00 00  2015 09 16 10 00 00  LEICA GR10                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3040          GOML00BLR  GOML00BLR               
 GOML 14803M001        001  2015 09 16 10 00 00  2019 01 17 09 58 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3040          GOML00BLR  GOML00BLR               
@@ -2538,7 +2547,8 @@ GOR2 14115M002        001  2022 09 05 12 18 00  2023 02 09 09 30 00  LEICA GR50 
 GOR2 14115M002        001  2023 02 09 09 30 00  2024 02 15 09 13 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          GOR200DEU  GOR200DEU               
 GOR2 14115M002        001  2024 02 15 09 13 00  2024 11 21 10 52 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          GOR200DEU  GOR200DEU               
 GOR2 14115M002        001  2024 11 21 10 52 00  2025 05 02 10 10 00  JAVAD TRE_3L DELTA                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          GOR200DEU  GOR200DEU               
-GOR2 14115M002        001  2025 05 02 10 10 00                       JAVAD TRE_3L DELTA                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          GOR200DEU  GOR200DEU               
+GOR2 14115M002        001  2025 05 02 10 10 00  2026 03 11 09 38 00  JAVAD TRE_3L DELTA                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          GOR200DEU  GOR200DEU               
+GOR2 14115M002        001  2026 03 11 09 38 00                       JAVAD TRE_3L DELTA                          999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0450          GOR200DEU  GOR200DEU               
 GRAC 10002M010        001  1998 11 27 10 00 00  2000 04 01 00 00 00  ASHTECH GG24C                               999999  ASH701023.A     NONE                        999999    0.0000    0.0000    0.0000          GRAC00FRA  GRAC00FRA               
 GRAC 10002M010        001  2000 04 01 00 00 00  2001 08 07 00 00 00  ASHTECH Z18                                 999999  ASH701073.3     NONE                        999999    0.0000    0.0000    0.0500          GRAC00FRA  GRAC00FRA               
 GRAC 10002M010        001  2001 08 07 00 00 00  2001 08 07 16 00 00  ASHTECH Z18                                 999999  ASH701073.3     NONE                        999999    0.0000    0.0000    0.0500          GRAC00FRA  GRAC00FRA               
@@ -2720,7 +2730,8 @@ HEL2 14264M002        001  2022 03 03 06 50 00  2022 04 21 07 08 00  LEICA GR50 
 HEL2 14264M002        001  2022 04 21 07 08 00  2022 09 05 11 48 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0454          HEL200DEU  HEL200DEU               
 HEL2 14264M002        001  2022 09 05 11 48 00  2023 02 09 09 30 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0454          HEL200DEU  HEL200DEU               
 HEL2 14264M002        001  2023 02 09 09 30 00  2025 04 30 08 30 00  JAVAD TRE_3L DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0454          HEL200DEU  HEL200DEU               
-HEL2 14264M002        001  2025 04 30 08 30 00                       JAVAD TRE_3L DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0454          HEL200DEU  HEL200DEU               
+HEL2 14264M002        001  2025 04 30 08 30 00  2026 03 11 17 55 00  JAVAD TRE_3L DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0454          HEL200DEU  HEL200DEU               
+HEL2 14264M002        001  2026 03 11 17 55 00                       JAVAD TRE_3L DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0454          HEL200DEU  HEL200DEU               
 HELG 14264M001        001  1999 11 09 00 00 00  2003 02 24 09 24 00  ASHTECH Z-XII3                              999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0650          HELG00DEU  HELG00DEU               
 HELG 14264M001        001  2003 02 24 09 24 00  2005 08 24 09 00 00  ASHTECH Z-XII3                              999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0650          HELG00DEU  HELG00DEU               
 HELG 14264M001        001  2005 08 24 09 00 00  2005 10 26 15 25 00  JPS LEGACY                                  999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0650          HELG00DEU  HELG00DEU               
@@ -2742,7 +2753,8 @@ HELG 14264M001        001  2022 03 03 06 46 00  2023 02 08 09 30 00  JAVAD TRE_3
 HELG 14264M001        001  2023 02 08 09 30 00  2024 02 15 09 24 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0270          HELG00DEU  HELG00DEU               
 HELG 14264M001        001  2024 02 15 09 24 00  2024 06 06 05 42 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0270          HELG00DEU  HELG00DEU               
 HELG 14264M001        001  2024 06 06 05 42 00  2025 05 02 10 30 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0270          HELG00DEU  HELG00DEU               
-HELG 14264M001        001  2025 05 02 10 30 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0270          HELG00DEU  HELG00DEU               
+HELG 14264M001        001  2025 05 02 10 30 00  2026 03 11 10 23 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0270          HELG00DEU  HELG00DEU               
+HELG 14264M001        001  2026 03 11 10 23 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0270          HELG00DEU  HELG00DEU               
 HERS 13212M007        001  1992 03 24 00 00 00  1998 02 18 00 00 00  ROGUE SNR-8C                                999999  AOAD/M_B        NONE                        999999    0.0000    0.0000    0.2000          HERS00GBR  HERS00GBR               
 HERS 13212M007        001  1998 02 18 00 00 00  1998 07 01 00 00 00  ASHTECH Z-XII3                              999999  ASH700936E      NONE                        999999    0.0000    0.0000    0.0096          HERS00GBR  HERS00GBR               
 HERS 13212M007        001  1998 07 01 00 00 00  1999 08 20 01 37 00  ASHTECH Z-XII3                              999999  ASH700936E      NONE                        999999    0.0000    0.0000    0.0096          HERS00GBR  HERS00GBR               
@@ -2863,7 +2875,8 @@ HOFJ 14289M001        001  2022 09 05 11 50 00  2023 02 09 09 30 00  LEICA GR50 
 HOFJ 14289M001        001  2023 02 09 09 30 00  2024 02 15 09 27 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          HOFJ00DEU  HOFJ00DEU               
 HOFJ 14289M001        001  2024 02 15 09 27 00  2025 05 02 13 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          HOFJ00DEU  HOFJ00DEU               
 HOFJ 14289M001        001  2025 05 02 13 00 00  2025 05 26 15 00 00  SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          HOFJ00DEU  HOFJ00DEU               
-HOFJ 14289M001        001  2025 05 26 15 00 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          HOFJ00DEU  HOFJ00DEU               
+HOFJ 14289M001        001  2025 05 26 15 00 00  2026 03 11 11 38 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          HOFJ00DEU  HOFJ00DEU               
+HOFJ 14289M001        001  2026 03 11 11 38 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          HOFJ00DEU  HOFJ00DEU               
 HOFN 10204M002        001  1997 05 27 00 00 00  1999 07 31 14 00 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  DOME                        999999    0.0000    0.0000    0.0550          HOFN00ISL  HOFN00ISL               
 HOFN 10204M002        001  1999 07 31 14 00 00  2000 03 13 00 00 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  DOME                        999999    0.0000    0.0000    0.0550          HOFN00ISL  HOFN00ISL               
 HOFN 10204M002        001  2000 03 13 00 00 00  2000 05 25 13 45 00  TRIMBLE 4000SSI                             999999  TRM22020.00+GP  DOME                        999999    0.0000    0.0000    0.0554          HOFN00ISL  HOFN00ISL               
@@ -3182,7 +3195,8 @@ KARL 14216M001        001  2021 08 31 09 35 00  2022 03 03 06 53 00  JAVAD TRE_3
 KARL 14216M001        001  2022 03 03 06 53 00  2023 02 08 09 44 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          KARL00DEU  KARL00DEU               
 KARL 14216M001        001  2023 02 08 09 44 00  2024 02 15 09 32 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          KARL00DEU  KARL00DEU               
 KARL 14216M001        001  2024 02 15 09 32 00  2025 05 02 14 45 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          KARL00DEU  KARL00DEU               
-KARL 14216M001        001  2025 05 02 14 45 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          KARL00DEU  KARL00DEU               
+KARL 14216M001        001  2025 05 02 14 45 00  2026 03 11 09 05 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          KARL00DEU  KARL00DEU               
+KARL 14216M001        001  2026 03 11 09 05 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          KARL00DEU  KARL00DEU               
 KATO 12219S001        001  2003 01 30 00 00 00  2005 10 12 00 00 00  ASHTECH UZ-12                               999999  ASH701945C_M    SNOW                        999999    0.0000    0.0000    0.0000          KATO00POL  KATO00POL               
 KATO 12219S001        001  2005 10 12 00 00 00  2008 04 08 00 00 00  ASHTECH UZ-12                               999999  ASH701945C_M    SNOW                        999999    0.0000    0.0000    0.0000          KATO00POL  KATO00POL               
 KATO 12219S001        001  2008 04 08 00 00 00  2008 06 01 00 00 00  TRIMBLE NETRS                               999999  TRM41249.00     TZGD                        999999    0.0000    0.0000    0.0000          KATO00POL  KATO00POL               
@@ -3631,7 +3645,8 @@ LDB2 14114M002        001  2022 09 05 11 28 00  2023 02 09 09 30 00  LEICA GR50 
 LDB2 14114M002        001  2023 02 09 09 30 00  2024 02 15 07 50 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0470          LDB200DEU  LDB200DEU               
 LDB2 14114M002        001  2024 02 15 07 50 00  2024 10 08 11 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0470          LDB200DEU  LDB200DEU               
 LDB2 14114M002        001  2024 10 08 11 00 00  2025 05 05 08 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0470          LDB200DEU  LDB200DEU               
-LDB2 14114M002        001  2025 05 05 08 00 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0470          LDB200DEU  LDB200DEU               
+LDB2 14114M002        001  2025 05 05 08 00 00  2026 03 11 08 47 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0470          LDB200DEU  LDB200DEU               
+LDB2 14114M002        001  2026 03 11 08 47 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0470          LDB200DEU  LDB200DEU               
 LEIJ 14267M001        001  2001 07 03 12 00 00  2002 08 13 11 00 00  JPS LEGACY                                  999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          LEIJ00DEU  LEIJ00DEU               
 LEIJ 14267M001        001  2002 08 13 11 00 00  2004 05 10 11 00 00  JPS LEGACY                                  999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          LEIJ00DEU  LEIJ00DEU               
 LEIJ 14267M001        001  2004 05 10 11 00 00  2006 08 29 13 00 00  JPS LEGACY                                  999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          LEIJ00DEU  LEIJ00DEU               
@@ -3654,7 +3669,8 @@ LEIJ 14267M001        001  2024 02 15 07 36 00  2024 07 10 08 05 00  JAVAD TRE_3
 LEIJ 14267M001        001  2024 07 10 08 05 00  2024 10 23 08 50 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          LEIJ00DEU  LEIJ00DEU               
 LEIJ 14267M001        001  2024 10 23 08 50 00  2025 03 18 14 30 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          LEIJ00DEU  LEIJ00DEU               
 LEIJ 14267M001        001  2025 03 18 14 30 00  2025 05 05 06 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.7755          LEIJ00DEU  LEIJ00DEU               
-LEIJ 14267M001        001  2025 05 05 06 00 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.7755          LEIJ00DEU  LEIJ00DEU               
+LEIJ 14267M001        001  2025 05 05 06 00 00  2026 03 11 08 25 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.7755          LEIJ00DEU  LEIJ00DEU               
+LEIJ 14267M001        001  2026 03 11 08 25 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.7755          LEIJ00DEU  LEIJ00DEU               
 LEK6 10433M002        001  2011 06 15 00 00 00  2011 08 18 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          LEK600SWE  LEK600SWE               
 LEK6 10433M002        001  2011 08 18 00 00 00  2011 11 29 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          LEK600SWE  LEK600SWE               
 LEK6 10433M002        001  2011 11 29 00 00 00  2012 04 05 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          LEK600SWE  LEK600SWE               
@@ -5299,7 +5315,8 @@ RANT 10914M001        001  2023 02 08 09 47 00  2024 02 15 09 34 00  JAVAD TRE_3
 RANT 10914M001        001  2024 02 15 09 34 00  2024 06 27 09 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          RANT00DEU  RANT00DEU               
 RANT 10914M001        001  2024 06 27 09 00 00  2024 08 14 09 00 00  SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          RANT00DEU  RANT00DEU               
 RANT 10914M001        001  2024 08 14 09 00 00  2025 05 02 10 45 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          RANT00DEU  RANT00DEU               
-RANT 10914M001        001  2025 05 02 10 45 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          RANT00DEU  RANT00DEU               
+RANT 10914M001        001  2025 05 02 10 45 00  2026 03 11 11 11 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          RANT00DEU  RANT00DEU               
+RANT 10914M001        001  2026 03 11 11 11 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          RANT00DEU  RANT00DEU               
 REDU 13102M001        001  2003 04 16 00 00 00  2008 04 21 08 40 00  ASHTECH UZ-12                               999999  ASH701945C_M    NONE                        999999    0.0000    0.0000    0.0650          REDU00BEL  REDU00BEL               
 REDU 13102M001        001  2008 04 21 08 40 00  2013 09 11 14 00 00  ASHTECH UZ-12                               999999  ASH701945C_M    NONE                        999999    0.0000    0.0000    0.0650          REDU00BEL  REDU00BEL               
 REDU 13102M001        001  2013 09 11 14 00 00  2013 11 05 15 45 00  SEPT POLARX4                                999999  SEPCHOKE_MC     NONE                        999999    0.0000    0.0000    0.1150          REDU00BEL  REDU00BEL               
@@ -5483,7 +5500,8 @@ SAS2 14281M002        001  2021 08 31 11 05 00  2022 03 03 07 03 00  JAVAD TRE_3
 SAS2 14281M002        001  2022 03 03 07 03 00  2023 02 08 09 50 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          SAS200DEU  SAS200DEU               
 SAS2 14281M002        001  2023 02 08 09 50 00  2024 02 15 09 39 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          SAS200DEU  SAS200DEU               
 SAS2 14281M002        001  2024 02 15 09 39 00  2025 05 05 08 30 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          SAS200DEU  SAS200DEU               
-SAS2 14281M002        001  2025 05 05 08 30 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          SAS200DEU  SAS200DEU               
+SAS2 14281M002        001  2025 05 05 08 30 00  2026 03 11 09 09 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          SAS200DEU  SAS200DEU               
+SAS2 14281M002        001  2026 03 11 09 09 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          SAS200DEU  SAS200DEU               
 SASS 14281M001        001  2002 12 12 12 00 00  2003 01 24 12 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1850          SASS00DEU  SASS00DEU               
 SASS 14281M001        001  2003 01 24 12 00 00  2003 10 23 07 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1850          SASS00DEU  SASS00DEU               
 SASS 14281M001        001  2003 10 23 07 00 00  2003 12 05 10 00 00  JPS LEGACY                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1850          SASS00DEU  SASS00DEU               
@@ -6199,7 +6217,8 @@ TIT2 14278M002        001  2022 03 03 07 09 00  2023 02 08 09 55 00  JAVAD TRE_3
 TIT2 14278M002        001  2023 02 08 09 55 00  2024 02 15 09 46 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          TIT200DEU  TIT200DEU               
 TIT2 14278M002        001  2024 02 15 09 46 00  2024 09 18 13 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          TIT200DEU  TIT200DEU               
 TIT2 14278M002        001  2024 09 18 13 00 00  2025 05 02 11 10 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          TIT200DEU  TIT200DEU               
-TIT2 14278M002        001  2025 05 02 11 10 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          TIT200DEU  TIT200DEU               
+TIT2 14278M002        001  2025 05 02 11 10 00  2026 03 11 11 02 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          TIT200DEU  TIT200DEU               
+TIT2 14278M002        001  2026 03 11 11 02 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0450          TIT200DEU  TIT200DEU               
 TLL1 13630M002        001  2017 10 27 15 00 00  2020 02 13 12 31 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          TLL100IRL  TLL100IRL               
 TLL1 13630M002        001  2020 02 13 12 31 00  2022 12 13 21 00 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          TLL100IRL  TLL100IRL               
 TLL1 13630M002        001  2022 12 13 21 00 00  2024 09 30 12 05 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0000          TLL100IRL  TLL100IRL               
@@ -7065,7 +7084,8 @@ WARN 14277M002        001  2023 02 08 09 59 00  2024 02 15 09 49 00  JAVAD TRE_3
 WARN 14277M002        001  2024 02 15 09 49 00  2025 05 05 06 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
 WARN 14277M002        001  2025 05 05 06 00 00  2025 06 06 08 31 00  SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
 WARN 14277M002        001  2025 06 06 08 31 00  2025 06 23 11 00 00  SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
-WARN 14277M002        001  2025 06 23 11 00 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
+WARN 14277M002        001  2025 06 23 11 00 00  2026 03 11 11 44 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
+WARN 14277M002        001  2026 03 11 11 44 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0690          WARN00DEU  WARN00DEU               
 WETT 14201M009        001  1994 06 07 00 00 00  1996 08 31 00 00 00  ROGUE SNR-800                               999999  AOAD/M_B        NONE                        999999    0.0000    0.0000    0.0000          WETT00DEU  WETT00DEU               
 WRLG 14201M024        001  2015 03 17 12 40 00  2016 07 12 15 00 00  LEICA GR25                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0301          WRLG00DEU  WRLG00DEU               
 WRLG 14201M024        001  2016 07 12 15 00 00  2016 11 10 13 00 00  LEICA GR25                                  999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0301          WRLG00DEU  WRLG00DEU               
@@ -7160,7 +7180,8 @@ WT21 14201M021        001  2022 09 05 11 08 00  2023 01 24 14 00 00  LEICA GR50 
 WT21 14201M021        001  2023 01 24 14 00 00  2023 02 08 09 06 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.5160          WT2100DEU  WT2100DEU               
 WT21 14201M021        001  2023 02 08 09 06 00  2024 02 15 07 43 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.5160          WT2100DEU  WT2100DEU               
 WT21 14201M021        001  2024 02 15 07 43 00  2025 05 05 07 45 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.5160          WT2100DEU  WT2100DEU               
-WT21 14201M021        001  2025 05 05 07 45 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.5160          WT2100DEU  WT2100DEU               
+WT21 14201M021        001  2025 05 05 07 45 00  2026 03 11 08 34 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.5160          WT2100DEU  WT2100DEU               
+WT21 14201M021        001  2026 03 11 08 34 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.5160          WT2100DEU  WT2100DEU               
 WTZA 14201M013        001  1997 11 25 00 00 00  1999 01 27 00 00 00  ASHTECH Z-XII3                              999999  ASH700936C_M    SNOW                        999999    0.0000    0.0000    0.0780          WTZA00DEU  WTZA00DEU               
 WTZA 14201M013        001  1999 01 27 00 00 00  1999 10 24 00 00 00  ASHTECH Z-XII3                              999999  ASH700936C_M    SNOW                        999999    0.0000    0.0000    0.0780          WTZA00DEU  WTZA00DEU               
 WTZA 14201M013        001  1999 10 24 00 00 00  1999 11 04 00 00 00  ASHTECH Z-XII3                              999999  ASH700936C_M    SNOW                        999999    0.0000    0.0000    0.0780          WTZA00DEU  WTZA00DEU               
