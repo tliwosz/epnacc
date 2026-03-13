@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             13-03-2026 13:04
+BSW 5.4 station information file for EPN processing             13-03-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -232,7 +232,7 @@ KURE 10604S001        001  2007 11 15 11 30 00                       KURE*      
 KUU2 10517M002        001  2014 01 02 12 00 00                       KUU2*                 kuu200fin_20250515.log
 LAGO 13903M001        001  2000 01 02 14 35 00                       LAGO*                 lago00prt_20250415.log
 LAMA 12209M001        001  1994 12 01 00 00 00                       LAMA*                 lama00pol_20250108.log
-LAMP 12706M002        001  1999 03 25 00 00 00                       LAMP*                 lamp00ita_20250811.log
+LAMP 12706M002        001  1999 03 25 00 00 00                       LAMP*                 lamp00ita_20260313.log
 LARM 12610M002        001  2011 01 15 00 00 00                       LARM*                 larm00grc_20201009.log
 LCRA 18491M001        001  2018 06 22 00 00 00                       LCRA*                 lcra00ita_20240718.log
 LDB2 14114M002        001  2005 10 25 10 00 00                       LDB2*                 ldb200deu_20260311.log
@@ -273,7 +273,7 @@ MDEU 18899M002        001  2018 09 27 00 00 00                       MDEU*      
 MDOR 10018M001        001  2002 09 23 12 00 00  2013 12 13 09 00 00  MDOR*                 mdor00fra_20241014.log
 MDVJ 12309M005        001  2001 07 18 00 00 00                       MDVJ*                 mdvj00rus_20250728.log
 MDVO 12309M002        001  1995 07 05 00 00 00  2003 05 11 00 00 00  MDVO*                 mdvo00rus_20240816.log
-MEDI 12711M003        001  1995 07 28 00 00 00                       MEDI*                 medi00ita_20240718.log
+MEDI 12711M003        001  1995 07 28 00 00 00                       MEDI*                 medi00ita_20260313.log
 MELI 19379M001        001  2011 12 14 12 00 00                       MELI*                 meli00esp_20240319.log
 MERS 20814M001        001  2000 09 12 00 00 00                       MERS*                 mers00tur_20250724.log
 MET3 10503M010        001  2013 12 19 12 00 00                       MET3*                 met300fin_20250307.log
@@ -467,7 +467,7 @@ TUBO 11503M001        001  2001 06 14 13 33 00                       TUBO*      
 TUC2 12617M003        001  2004 06 20 00 00 00                       TUC2*                 tuc200grc_20200717.log
 TUO2 10521M002        001  2013 12 19 12 00 00                       TUO2*                 tuo200fin_20250307.log
 UBEN 14663M001        001  2021 04 22 14 00 00                       UBEN*                 uben00ita_20240718.log
-UCAG 12702M003        001  2014 04 16 14 00 00                       UCAG*                 ucag00ita_20240718.log
+UCAG 12702M003        001  2014 04 16 14 00 00                       UCAG*                 ucag00ita_20260313.log
 UME6 10442M002        001  2011 07 08 00 00 00                       UME6*                 ume600swe_20250416.log
 UNPG 12752M001        001  1997 10 15 00 00 00                       UNPG*                 unpg00ita_20241009.log
 UNTR 12785M001        001  2006 03 19 15 40 00                       UNTR*                 untr00ita_20241010.log
@@ -3634,7 +3634,8 @@ LAMP 12706M002        001  2019 06 07 11 00 00  2020 03 26 11 50 00  LEICA GR10 
 LAMP 12706M002        001  2020 03 26 11 50 00  2023 11 16 00 00 00  LEICA GR10                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          LAMP00ITA  LAMP00ITA               
 LAMP 12706M002        001  2023 11 16 00 00 00  2024 01 11 00 00 00  LEICA GR10                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          LAMP00ITA  LAMP00ITA               
 LAMP 12706M002        001  2024 01 11 00 00 00  2024 03 01 00 00 00  LEICA GR10                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          LAMP00ITA  LAMP00ITA               
-LAMP 12706M002        001  2024 03 01 00 00 00                       LEICA GR10                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          LAMP00ITA  LAMP00ITA               
+LAMP 12706M002        001  2024 03 01 00 00 00  2026 03 13 00 00 00  LEICA GR10                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          LAMP00ITA  LAMP00ITA               
+LAMP 12706M002        001  2026 03 13 00 00 00                       LEICA GR10                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          LAMP00ITA  LAMP00ITA               
 LARM 12610M002        001  2011 01 15 00 00 00  2016 03 03 14 00 00  LEICA GRX1200+GNSS                          999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1900          LARM00GRC  LARM00GRC               
 LARM 12610M002        001  2016 03 03 14 00 00  2018 03 15 15 00 00  LEICA GRX1200+GNSS                          999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1900          LARM00GRC  LARM00GRC               
 LARM 12610M002        001  2018 03 15 15 00 00  2018 03 15 16 10 00  LEICA GRX1200+GNSS                          999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1900          LARM00GRC  LARM00GRC               
@@ -4194,7 +4195,8 @@ MEDI 12711M003        001  2019 07 11 10 00 00  2020 03 26 11 10 00  LEICA GR10 
 MEDI 12711M003        001  2020 03 26 11 10 00  2023 11 16 00 00 00  LEICA GR10                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          MEDI00ITA  MEDI00ITA               
 MEDI 12711M003        001  2023 11 16 00 00 00  2024 01 11 00 00 00  LEICA GR10                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          MEDI00ITA  MEDI00ITA               
 MEDI 12711M003        001  2024 01 11 00 00 00  2024 03 01 00 00 00  LEICA GR10                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          MEDI00ITA  MEDI00ITA               
-MEDI 12711M003        001  2024 03 01 00 00 00                       LEICA GR10                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          MEDI00ITA  MEDI00ITA               
+MEDI 12711M003        001  2024 03 01 00 00 00  2026 03 13 00 00 00  LEICA GR10                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          MEDI00ITA  MEDI00ITA               
+MEDI 12711M003        001  2026 03 13 00 00 00                       LEICA GR10                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          MEDI00ITA  MEDI00ITA               
 MELI 19379M001        001  2011 12 14 12 00 00  2012 05 11 12 00 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0606          MELI00ESP  MELI00ESP               
 MELI 19379M001        001  2012 05 11 12 00 00  2012 09 28 08 24 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0606          MELI00ESP  MELI00ESP               
 MELI 19379M001        001  2012 09 28 08 24 00  2013 05 13 11 16 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0606          MELI00ESP  MELI00ESP               
@@ -6588,7 +6590,8 @@ UCAG 12702M003        001  2019 06 07 10 45 00  2020 03 26 15 50 00  LEICA GR10 
 UCAG 12702M003        001  2020 03 26 15 50 00  2023 11 16 00 00 00  LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          UCAG00ITA  UCAG00ITA               
 UCAG 12702M003        001  2023 11 16 00 00 00  2024 01 11 00 00 00  LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          UCAG00ITA  UCAG00ITA               
 UCAG 12702M003        001  2024 01 11 00 00 00  2024 03 01 00 00 00  LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          UCAG00ITA  UCAG00ITA               
-UCAG 12702M003        001  2024 03 01 00 00 00                       LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          UCAG00ITA  UCAG00ITA               
+UCAG 12702M003        001  2024 03 01 00 00 00  2026 03 13 00 00 00  LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          UCAG00ITA  UCAG00ITA               
+UCAG 12702M003        001  2026 03 13 00 00 00                       LEICA GR10                                  999999  LEIAR25         NONE                        999999    0.0000    0.0000    0.0000          UCAG00ITA  UCAG00ITA               
 UME6 10442M002        001  2011 07 08 00 00 00  2011 11 29 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          UME600SWE  UME600SWE               
 UME6 10442M002        001  2011 11 29 00 00 00  2012 04 05 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          UME600SWE  UME600SWE               
 UME6 10442M002        001  2012 04 05 00 00 00  2014 01 10 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          UME600SWE  UME600SWE               
