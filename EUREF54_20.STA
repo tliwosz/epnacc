@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             27-03-2026 09:04
+BSW 5.4 station information file for EPN processing             27-03-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -131,7 +131,7 @@ ENIS 13246M001        001  2007 03 29 00 00 00                       ENIS*      
 ENTZ 10014M002        001  2004 12 01 12 00 00                       ENTZ*                 entz00fra_20251208.log
 ENZA 14612M001        001  2019 09 17 09 30 00                       ENZA*                 enza00ita_20260312.log
 ESCO 13435M001        001  1999 04 21 00 00 00                       ESCO*                 esco00esp_20240902.log
-EUSK 14258M003        001  1998 04 02 00 00 00                       EUSK*                 eusk00deu_20250606.log
+EUSK 14258M003        001  1998 04 02 00 00 00                       EUSK*                 eusk00deu_20260327.log
 EVPA 12344M001        001  2002 11 26 13 15 00  2014 04 01 00 00 00  EVPA*                 evpa00ukr_20220504.log
 FATA 12773M001        001  2005 09 01 12 00 00  2006 04 19 00 00 00  FATA*                 fata00ita_20050901.log
 FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*                 ffmj00deu_20260311.log
@@ -218,7 +218,7 @@ KIV2 10516M002        001  2014 01 29 12 00 00                       KIV2*      
 KLAD 12126M001        001  2017 10 06 00 00 00                       KLAD*                 klad00srb_20231031.log
 KLNK 14810M001        001  2012 05 18 07 04 00                       KLNK*                 klnk00blr_20240808.log
 KLOP 14214M002        001  1997 03 19 00 00 00                       KLOP*                 klop00deu_20250701.log
-KLSQ 43015M001        001  2014 06 02 00 00 00                       KLSQ*                 klsq00grl_20250819.log
+KLSQ 43015M001        001  2014 06 02 00 00 00                       KLSQ*                 klsq00grl_20260327.log
 KNJA 12113M001        001  2008 04 01 00 00 00                       KNJA*                 knja00srb_20230207.log
 KOS1 13504M005        001  2013 06 18 12 20 00                       KOS1*                 kos100nld_20260219.log
 KOSG 13504M003        001  1994 06 13 00 00 00  2015 11 27 11 00 00  KOSG*                 kosg00nld_20230417.log
@@ -363,7 +363,7 @@ PULK 12305M001        001  2002 04 22 00 00 00                       PULK*      
 PUYV 10065M001        001  2004 08 26 12 00 00                       PUYV*                 puyv00fra_20251208.log
 PYHA 10528M001        001  2014 08 22 12 00 00                       PYHA*                 pyha00fin_20250714.log
 PZA2 14506M002        001  2015 06 05 12 00 00                       PZA2*                 pza200svn_20250821.log
-QAQ1 43007M001        001  2001 10 15 00 00 00                       QAQ1*                 qaq100grl_20250527.log
+QAQ1 43007M001        001  2001 10 15 00 00 00                       QAQ1*                 qaq100grl_20260327.log
 RABT 35001M002        001  2000 05 17 00 00 00                       RABT*                 rabt00mar_20250219.log
 RAEG 31912M003        001  2015 05 15 00 00 00                       RAEG*                 raeg00prt_20240411.log
 RAH1 15811M001        001  2008 08 29 15 00 00                       RAH1*                 rah100ukr_20250811.log
@@ -389,7 +389,7 @@ SBG2 11031M002        001  2008 01 29 12 50 00                       SBG2*      
 SBGZ 11031S001        001  1998 12 21 12 00 00  2008 01 29 12 50 00  SBGZ*                 sbgz00aut_20230421.log
 SCIL 19201M001        001  2010 08 18 10 00 00                       SCIL*                 scil00gbr_20251111.log
 SCOA 10088M002        001  2005 12 14 12 00 00                       SCOA*                 scoa00fra_20251209.log
-SCOR 43006M002        001  2004 09 12 00 00 00                       SCOR*                 scor00grl_20250527.log
+SCOR 43006M002        001  2004 09 12 00 00 00                       SCOR*                 scor00grl_20260327.log
 SFER 13402M004        001  1995 12 18 00 00 00                       SFER*                 sfer00esp_20250811.log
 SHOE 19197M001        001  2005 08 18 00 00 00                       SHOE*                 shoe00gbr_20250513.log
 SID0 12132M001        001  2008 04 01 00 00 00                       SID0*                 sid000srb_20231020.log
@@ -435,7 +435,7 @@ TERC 31909M001        001  2008 09 18 16 10 00                       TERC*      
 TERS 13534M001        001  1996 10 30 14 00 00                       TERS*                 ters00nld_20230417.log
 TERU 13487M001        001  2008 03 06 00 00 00                       TERU*                 teru00esp_20240607.log
 THU1 43001M001        001  1995 05 02 00 00 00  2003 01 12 00 00 00  THU1*                 thu100grl_19990813.log
-THU2 43001M002        001  1998 10 26 00 00 00                       THU2*                 thu200grl_20250822.log
+THU2 43001M002        001  1998 10 26 00 00 00                       THU2*                 thu200grl_20260327.log
 THU3 43001M002        001  2001 09 01 00 00 00  2019 05 23 00 00 00  THU3*                 thu300grl_20211215.log
 TIT2 14278M002        001  2014 12 11 09 00 00                       TIT2*                 tit200deu_20260311.log
 TLL1 13630M002        001  2017 10 27 15 00 00                       TLL1*                 tll100irl_20241010.log
@@ -2230,7 +2230,8 @@ EUSK 14258M003        001  2022 09 05 11 17 00  2023 02 08 10 18 00  LEICA GR50 
 EUSK 14258M003        001  2023 02 08 10 18 00  2023 11 13 09 43 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
 EUSK 14258M003        001  2023 11 13 09 43 00  2024 09 19 10 00 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
 EUSK 14258M003        001  2024 09 19 10 00 00  2025 06 06 08 28 00  SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
-EUSK 14258M003        001  2025 06 06 08 28 00                       SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
+EUSK 14258M003        001  2025 06 06 08 28 00  2026 03 27 07 20 00  SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
+EUSK 14258M003        001  2026 03 27 07 20 00                       SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0330          EUSK00DEU  EUSK00DEU               
 EVPA 12344M001        001  2002 11 26 13 15 00  2009 06 30 06 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000   180.0  EVPA00UKR  EVPA00UKR               
 EVPA 12344M001        001  2009 06 30 06 00 00  2011 02 01 12 20 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000   180.0  EVPA00UKR  EVPA00UKR               
 EVPA 12344M001        001  2011 02 01 12 20 00  2014 04 01 00 00 00  NOV OEMV3                                   999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0040  -135.0  EVPA00UKR  EVPA00UKR               
@@ -3470,7 +3471,8 @@ KLSQ 43015M001        001  2020 10 02 13 15 00  2021 01 12 14 00 00  SEPT POLARX
 KLSQ 43015M001        001  2021 01 12 14 00 00  2021 07 18 15 27 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
 KLSQ 43015M001        001  2021 07 18 15 27 00  2022 09 05 12 30 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
 KLSQ 43015M001        001  2022 09 05 12 30 00  2025 05 22 09 30 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
-KLSQ 43015M001        001  2025 05 22 09 30 00                       SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
+KLSQ 43015M001        001  2025 05 22 09 30 00  2026 03 27 10 17 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
+KLSQ 43015M001        001  2026 03 27 10 17 00                       SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.2567          KLSQ00GRL  KLSQ00GRL               
 KNJA 12113M001        001  2008 04 01 00 00 00  2010 03 04 00 00 00  TRIMBLE 4400                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000          KNJA00SRB  KNJA00SRB               
 KNJA 12113M001        001  2010 03 04 00 00 00  2011 07 19 00 00 00  TRIMBLE 4400                                999999  TRM41249.00     TZGD                        999999    0.0000    0.0000    0.0000          KNJA00SRB  KNJA00SRB               
 KNJA 12113M001        001  2011 07 19 00 00 00  2017 09 08 10 19 00  TRIMBLE 5700                                999999  TRM41249.00     TZGD                        999999    0.0000    0.0000    0.0000   102.0  KNJA00SRB  KNJA00SRB               
@@ -5298,7 +5300,8 @@ QAQ1 43007M001        001  2021 01 13 16 45 00  2021 07 26 23 24 00  SEPT POLARX
 QAQ1 43007M001        001  2021 07 26 23 24 00  2022 09 09 09 55 00  SEPT POLARX5                                999999  ASH701945E_M    SCIS                        999999    0.0000    0.0000    0.1206          QAQ100GRL  QAQ100GRL               
 QAQ1 43007M001        001  2022 09 09 09 55 00  2023 01 10 17 25 00  SEPT POLARX5                                999999  ASH701945E_M    SCIS                        999999    0.0000    0.0000    0.1206          QAQ100GRL  QAQ100GRL               
 QAQ1 43007M001        001  2023 01 10 17 25 00  2025 05 26 07 30 00  SEPT POLARX5                                999999  ASH701945E_M    SCIS                        999999    0.0000    0.0000    0.1206          QAQ100GRL  QAQ100GRL               
-QAQ1 43007M001        001  2025 05 26 07 30 00                       SEPT POLARX5                                999999  ASH701945E_M    SCIS                        999999    0.0000    0.0000    0.1206          QAQ100GRL  QAQ100GRL               
+QAQ1 43007M001        001  2025 05 26 07 30 00  2026 03 27 10 46 00  SEPT POLARX5                                999999  ASH701945E_M    SCIS                        999999    0.0000    0.0000    0.1206          QAQ100GRL  QAQ100GRL               
+QAQ1 43007M001        001  2026 03 27 10 46 00                       SEPT POLARX5                                999999  ASH701945E_M    SCIS                        999999    0.0000    0.0000    0.1206          QAQ100GRL  QAQ100GRL               
 RABT 35001M002        001  2000 05 17 00 00 00  2004 04 13 19 45 00  ROGUE SNR-8000                              999999  TRM29659.00     SCIS                        999999    0.0000    0.0000    0.0800          RABT00MAR  RABT00MAR               
 RABT 35001M002        001  2004 04 13 19 45 00  2009 02 06 00 00 00  ROGUE SNR-8000                              999999  TRM29659.00     SCIS                        999999    0.0000    0.0000    0.0800          RABT00MAR  RABT00MAR               
 RABT 35001M002        001  2009 02 06 00 00 00  2019 06 18 00 00 00  ASHTECH UZ-12                               999999  TRM29659.00     SCIS                        999999    0.0000    0.0000    0.0800          RABT00MAR  RABT00MAR               
@@ -5623,7 +5626,8 @@ SCOR 43006M002        001  2021 07 26 23 45 00  2021 09 09 15 08 00  SEPT POLARX
 SCOR 43006M002        001  2021 09 09 15 08 00  2022 09 08 12 33 00  SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1977          SCOR00GRL  SCOR00GRL               
 SCOR 43006M002        001  2022 09 08 12 33 00  2023 09 19 14 50 00  SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1977          SCOR00GRL  SCOR00GRL               
 SCOR 43006M002        001  2023 09 19 14 50 00  2025 05 27 10 01 00  SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1977          SCOR00GRL  SCOR00GRL               
-SCOR 43006M002        001  2025 05 27 10 01 00                       SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1977          SCOR00GRL  SCOR00GRL               
+SCOR 43006M002        001  2025 05 27 10 01 00  2026 03 27 10 55 00  SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1977          SCOR00GRL  SCOR00GRL               
+SCOR 43006M002        001  2026 03 27 10 55 00                       SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1977          SCOR00GRL  SCOR00GRL               
 SFER 13402M004        001  1995 12 18 00 00 00  1997 12 31 00 00 00  TRIMBLE 4000SSE                             999999  TRM22020.00+GP  NONE                        999999    0.0000    0.0000    1.6260          SFER00ESP  SFER00ESP               
 SFER 13402M004        001  1997 12 31 00 00 00  1998 02 04 00 00 00  TRIMBLE 4000SSE                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    1.6260          SFER00ESP  SFER00ESP               
 SFER 13402M004        001  1998 02 04 00 00 00  1998 06 02 00 00 00  TRIMBLE 4000SSE                             999999  TRM22020.00+GP  NONE                        999999    0.0000    0.0000    1.6260          SFER00ESP  SFER00ESP               
@@ -6233,7 +6237,8 @@ THU2 43001M002        001  2021 01 13 18 45 00  2021 07 26 23 59 00  SEPT POLARX
 THU2 43001M002        001  2021 07 26 23 59 00  2022 09 08 12 24 00  SEPT POLARX5                                999999  ASH701073.1     SCIS                        999999    0.0000    0.0000    0.1002          THU200GRL  THU200GRL               
 THU2 43001M002        001  2022 09 08 12 24 00  2025 05 23 07 25 00  SEPT POLARX5                                999999  ASH701073.1     SCIS                        999999    0.0000    0.0000    0.1002          THU200GRL  THU200GRL               
 THU2 43001M002        001  2025 05 23 07 25 00  2025 08 21 14 00 00  SEPT POLARX5                                999999  ASH701073.1     SCIS                        999999    0.0000    0.0000    0.1002          THU200GRL  THU200GRL               
-THU2 43001M002        001  2025 08 21 14 00 00                       SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1009          THU200GRL  THU200GRL               
+THU2 43001M002        001  2025 08 21 14 00 00  2026 03 27 11 28 00  SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1009          THU200GRL  THU200GRL               
+THU2 43001M002        001  2026 03 27 11 28 00                       SEPT POLARX5                                999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.1009          THU200GRL  THU200GRL               
 THU3 43001M002        001  2001 09 01 00 00 00  2003 11 13 00 00 00  ASHTECH UZ-12                               999999  ASH701073.1     SCIS                        999999    0.0000    0.0000    0.1002          THU300GRL  THU300GRL               
 THU3 43001M002        001  2003 11 13 00 00 00  2006 08 29 00 00 00  ASHTECH UZ-12                               999999  ASH701073.1     SCIS                        999999    0.0000    0.0000    0.1002          THU300GRL  THU300GRL               
 THU3 43001M002        001  2006 08 29 00 00 00  2008 02 15 14 07 00  ASHTECH UZ-12                               999999  ASH701073.1     SCIS                        999999    0.0000    0.0000    0.1002          THU300GRL  THU300GRL               
