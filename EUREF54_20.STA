@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             31-03-2026 13:04
+BSW 5.4 station information file for EPN processing             31-03-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -211,7 +211,7 @@ KELY 43005M002        001  1995 07 23 00 00 00                       KELY*      
 KEV2 10515M002        001  2014 01 29 12 00 00                       KEV2*                 kev200fin_20250610.log
 KHAR 12314M001        001  2002 11 25 13 00 00                       KHAR*                 khar00ukr_20171011.log
 KILP 10525M001        001  2014 01 29 12 00 00                       KILP*                 kilp00fin_20250717.log
-KIR0 10422M001        001  1993 08 01 00 00 00                       KIR0*                 kir000swe_20250811.log
+KIR0 10422M001        001  1993 08 01 00 00 00                       KIR0*                 kir000swe_20260331.log
 KIR8 10422M002        001  2011 08 12 00 00 00                       KIR8*                 kir800swe_20250708.log
 KIRU 10403M002        001  1993 07 08 00 00 00                       KIRU*                 kiru00swe_20251110.log
 KIV2 10516M002        001  2014 01 29 12 00 00                       KIV2*                 kiv200fin_20250411.log
@@ -260,7 +260,7 @@ MALA 13443M001        001  2000 03 15 00 00 00                       MALA*      
 MALL 13444M001        001  2000 05 12 12 00 00                       MALL*                 mall00esp_20240501.log
 MAN2 10091M002        001  2008 01 23 00 00 00                       MAN2*                 man200fra_20240521.log
 MANS 10091M001        001  1998 04 21 00 00 00  2008 01 26 00 00 00  MANS*                 mans00fra_20250901.log
-MAR6 10405M002        001  1993 08 01 00 00 00                       MAR6*                 mar600swe_20250821.log
+MAR6 10405M002        001  1993 08 01 00 00 00                       MAR6*                 mar600swe_20260331.log
 MAR7 10405M003        001  2011 04 27 00 00 00                       MAR7*                 mar700swe_20250819.log
 MARJ 11517M001        001  2003 05 15 12 00 00  2015 09 06 00 00 00  MARJ*                 marj00cze_20220512.log
 MARP 15556M001        001  2013 07 24 21 02 00                       MARP*                 marp00ukr_20220926.log
@@ -317,7 +317,7 @@ OBER 14208M001        001  1996 10 11 00 00 00  2001 07 28 00 00 00  OBER*      
 OBET 14208M004        001  2002 04 30 15 30 00  2005 05 09 00 00 00  OBET*                 obet00deu_20230601.log
 OLK2 10518M002        001  2014 01 29 12 00 00                       OLK2*                 olk200fin_20250307.log
 ONS1 10402M007        001  2012 01 28 00 00 00                       ONS1*                 ons100swe_20250821.log
-ONSA 10402M004        001  1993 07 01 00 00 00                       ONSA*                 onsa00swe_20221208.log
+ONSA 10402M004        001  1993 07 01 00 00 00                       ONSA*                 onsa00swe_20260331.log
 ORID 15601M001        001  2000 07 20 00 00 00                       ORID*                 orid00mkd_20250122.log
 ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*                 oriv00fin_20250307.log
 OROS 11207M001        001  2001 09 20 00 00 00                       OROS*                 oros00hun_20221118.log
@@ -408,7 +408,7 @@ SODA 10513M001        001  1994 08 15 00 00 00                       SODA*      
 SOFI 11101M002        001  1997 05 19 10 00 00                       SOFI*                 sofi00bgr_20250307.log
 SONS 13446M001        001  2000 12 15 00 00 00                       SONS*                 sons00esp_20240319.log
 SPRN 11227M001        001  2006 11 01 12 00 00                       SPRN*                 sprn00hun_20220622.log
-SPT0 10425M001        001  1995 12 14 00 00 00                       SPT0*                 spt000swe_20251112.log
+SPT0 10425M001        001  1995 12 14 00 00 00                       SPT0*                 spt000swe_20260331.log
 SPT7 10425M002        001  2011 10 07 00 00 00                       SPT7*                 spt700swe_20250820.log
 SRJV 11801S001        001  1999 06 11 17 14 00                       SRJV*                 srjv00bih_20240923.log
 STAS 10330M001        001  1995 05 22 00 00 00                       STAS*                 stas00nor_20251208.log
@@ -495,7 +495,7 @@ VIL6 10424M002        001  2011 07 20 00 00 00                       VIL6*      
 VILL 13406M001        001  1994 11 12 00 00 00                       VILL*                 vill00esp_20251110.log
 VIR2 10522M002        001  2014 01 02 12 00 00                       VIR2*                 vir200fin_20250307.log
 VIRG 14628M001        001  2020 07 13 10 00 00                       VIRG*                 virg00ita_20260317.log
-VIS0 10423M001        001  1993 08 01 00 00 00                       VIS0*                 vis000swe_20250326.log
+VIS0 10423M001        001  1993 08 01 00 00 00                       VIS0*                 vis000swe_20260331.log
 VIS6 10423M002        001  2011 05 18 00 00 00                       VIS6*                 vis600swe_20250410.log
 VITR 14805M001        001  2010 07 12 00 00 00                       VITR*                 vitr00blr_20240808.log
 VLFR 14610M001        001  2019 09 16 09 00 00                       VLFR*                 vlfr00ita_20260317.log
@@ -3342,7 +3342,8 @@ KIR0 10422M001        001  2019 02 20 13 00 00  2019 11 06 16 40 00  SEPT POLARX
 KIR0 10422M001        001  2019 11 06 16 40 00  2022 12 08 10 00 00  SEPT POLARX5                                999999  JNSCR_C146-22-1 OSOD                        999999    0.0000    0.0000    0.0710          KIR000SWE  KIR000SWE               
 KIR0 10422M001        001  2022 12 08 10 00 00  2023 10 17 15 00 00  SEPT POLARX5                                999999  JNSCR_C146-22-1 OSOD                        999999    0.0000    0.0000    0.0710          KIR000SWE  KIR000SWE               
 KIR0 10422M001        001  2023 10 17 15 00 00  2025 08 11 07 00 00  SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          KIR000SWE  KIR000SWE               
-KIR0 10422M001        001  2025 08 11 07 00 00                       SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          KIR000SWE  KIR000SWE               
+KIR0 10422M001        001  2025 08 11 07 00 00  2026 03 31 13 00 00  SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          KIR000SWE  KIR000SWE               
+KIR0 10422M001        001  2026 03 31 13 00 00                       SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          KIR000SWE  KIR000SWE               
 KIR8 10422M002        001  2011 08 12 00 00 00  2012 02 16 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KIR800SWE  KIR800SWE               
 KIR8 10422M002        001  2012 02 16 00 00 00  2012 06 14 13 30 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KIR800SWE  KIR800SWE               
 KIR8 10422M002        001  2012 06 14 13 30 00  2012 10 05 00 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          KIR800SWE  KIR800SWE               
@@ -4025,7 +4026,8 @@ MAR6 10405M002        001  2019 06 04 11 00 00  2019 08 02 09 00 00  SEPT POLARX
 MAR6 10405M002        001  2019 08 02 09 00 00  2019 11 04 10 30 00  SEPT POLARX5                                999999  AOAD/M_T        OSOD                        999999    0.0000    0.0000    0.0710          MAR600SWE  MAR600SWE               
 MAR6 10405M002        001  2019 11 04 10 30 00  2022 09 02 07 30 00  SEPT POLARX5                                999999  AOAD/M_T        OSOD                        999999    0.0000    0.0000    0.0710          MAR600SWE  MAR600SWE               
 MAR6 10405M002        001  2022 09 02 07 30 00  2022 12 08 10 00 00  SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          MAR600SWE  MAR600SWE               
-MAR6 10405M002        001  2022 12 08 10 00 00                       SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          MAR600SWE  MAR600SWE               
+MAR6 10405M002        001  2022 12 08 10 00 00  2026 03 31 10 00 00  SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          MAR600SWE  MAR600SWE               
+MAR6 10405M002        001  2026 03 31 10 00 00                       SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          MAR600SWE  MAR600SWE               
 MAR7 10405M003        001  2011 04 27 00 00 00  2012 02 13 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
 MAR7 10405M003        001  2012 02 13 00 00 00  2012 06 14 13 30 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
 MAR7 10405M003        001  2012 06 14 13 30 00  2012 10 05 00 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          MAR700SWE  MAR700SWE               
@@ -4716,7 +4718,8 @@ ONSA 10402M004        001  2015 11 17 10 00 00  2019 04 02 10 00 00  JAVAD TRE_G
 ONSA 10402M004        001  2019 04 02 10 00 00  2019 09 30 10 00 00  SEPT POLARX5TR                              999999  AOAD/M_B        OSOD                        999999    0.0000    0.0000    0.9950          ONSA00SWE  ONSA00SWE               
 ONSA 10402M004        001  2019 09 30 10 00 00  2021 03 19 12 00 00  SEPT POLARX5TR                              999999  AOAD/M_B        OSOD                        999999    0.0000    0.0000    0.9950          ONSA00SWE  ONSA00SWE               
 ONSA 10402M004        001  2021 03 19 12 00 00  2022 12 08 10 00 00  SEPT POLARX5TR                              999999  AOAD/M_B        OSOD                        999999    0.0000    0.0000    0.9950          ONSA00SWE  ONSA00SWE               
-ONSA 10402M004        001  2022 12 08 10 00 00                       SEPT POLARX5TR                              999999  AOAD/M_B        OSOD                        999999    0.0000    0.0000    0.9950          ONSA00SWE  ONSA00SWE               
+ONSA 10402M004        001  2022 12 08 10 00 00  2026 03 31 15 00 00  SEPT POLARX5TR                              999999  AOAD/M_B        OSOD                        999999    0.0000    0.0000    0.9950          ONSA00SWE  ONSA00SWE               
+ONSA 10402M004        001  2026 03 31 15 00 00                       SEPT POLARX5TR                              999999  AOAD/M_B        OSOD                        999999    0.0000    0.0000    0.9950          ONSA00SWE  ONSA00SWE               
 ORID 15601M001        001  2000 07 20 00 00 00  2002 10 31 12 00 00  ASHTECH Z-XII3                              999999  ASH700936E      SNOW                        999999    0.0000    0.0000    0.0650          ORID00MKD  ORID00MKD               
 ORID 15601M001        001  2002 10 31 12 00 00  2002 12 13 12 00 00  ASHTECH Z-XII3                              999999  ASH700936D_M    SNOW                        999999    0.0000    0.0000    0.0650          ORID00MKD  ORID00MKD               
 ORID 15601M001        001  2002 12 13 12 00 00  2008 01 21 14 00 00  AOA SNR-8000 ACT                            999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0650          ORID00MKD  ORID00MKD               
@@ -5922,7 +5925,8 @@ SPT0 10425M001        001  2019 04 02 10 00 00  2019 09 30 10 00 00  SEPT POLARX
 SPT0 10425M001        001  2019 09 30 10 00 00  2020 08 13 10 00 00  SEPT POLARX5TR                              999999  JNSCR_C146-22-1 OSOD                        999999    0.0000    0.0000    0.0710          SPT000SWE  SPT000SWE               
 SPT0 10425M001        001  2020 08 13 10 00 00  2021 03 19 12 00 00  SEPT POLARX5TR                              999999  TRM59800.00     OSOD                        999999    0.0000    0.0000    0.0710          SPT000SWE  SPT000SWE               
 SPT0 10425M001        001  2021 03 19 12 00 00  2022 12 08 10 00 00  SEPT POLARX5TR                              999999  TRM59800.00     OSOD                        999999    0.0000    0.0000    0.0710          SPT000SWE  SPT000SWE               
-SPT0 10425M001        001  2022 12 08 10 00 00                       SEPT POLARX5TR                              999999  TRM59800.00     OSOD                        999999    0.0000    0.0000    0.0710          SPT000SWE  SPT000SWE               
+SPT0 10425M001        001  2022 12 08 10 00 00  2026 03 31 14 00 00  SEPT POLARX5TR                              999999  TRM59800.00     OSOD                        999999    0.0000    0.0000    0.0710          SPT000SWE  SPT000SWE               
+SPT0 10425M001        001  2026 03 31 14 00 00                       SEPT POLARX5TR                              999999  TRM59800.00     OSOD                        999999    0.0000    0.0000    0.0710          SPT000SWE  SPT000SWE               
 SPT7 10425M002        001  2011 10 07 00 00 00  2014 02 21 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
 SPT7 10425M002        001  2014 02 21 00 00 00  2015 05 09 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
 SPT7 10425M002        001  2015 05 09 00 00 00  2015 07 02 00 00 00  JAVAD TRE_G3T SIGMA                         999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          SPT700SWE  SPT700SWE               
@@ -7015,7 +7019,8 @@ VIS0 10423M001        001  2017 01 26 12 00 00  2017 06 07 16 00 00  JAVAD TRE_G
 VIS0 10423M001        001  2017 06 07 16 00 00  2019 09 26 08 00 00  JAVAD TRE_G3T SIGMA                         999999  AOAD/M_T        OSOD                        999999    0.0000    0.0000    0.0710          VIS000SWE  VIS000SWE               
 VIS0 10423M001        001  2019 09 26 08 00 00  2022 12 08 10 00 00  SEPT POLARX5                                999999  AOAD/M_T        OSOD                        999999    0.0000    0.0000    0.0710          VIS000SWE  VIS000SWE               
 VIS0 10423M001        001  2022 12 08 10 00 00  2025 03 26 11 30 00  SEPT POLARX5                                999999  AOAD/M_T        OSOD                        999999    0.0000    0.0000    0.0710          VIS000SWE  VIS000SWE               
-VIS0 10423M001        001  2025 03 26 11 30 00                       SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          VIS000SWE  VIS000SWE               
+VIS0 10423M001        001  2025 03 26 11 30 00  2026 03 31 13 00 00  SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          VIS000SWE  VIS000SWE               
+VIS0 10423M001        001  2026 03 31 13 00 00                       SEPT POLARX5                                999999  JAVRINGANT_DM   OSOD                        999999    0.0000    0.0000    0.0710          VIS000SWE  VIS000SWE               
 VIS6 10423M002        001  2011 05 18 00 00 00  2011 11 30 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          VIS600SWE  VIS600SWE               
 VIS6 10423M002        001  2011 11 30 00 00 00  2012 04 05 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          VIS600SWE  VIS600SWE               
 VIS6 10423M002        001  2012 04 05 00 00 00  2014 01 10 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          VIS600SWE  VIS600SWE               
