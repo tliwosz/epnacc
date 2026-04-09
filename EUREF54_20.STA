@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             09-04-2026 13:04
+BSW 5.4 station information file for EPN processing             09-04-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -291,7 +291,7 @@ MNSK 14802M001        001  2002 02 07 08 20 00                       MNSK*      
 MOGI 14807M001        001  2011 06 01 00 00 00                       MOGI*                 mogi00blr_20240808.log
 MOP2 11507M002        001  2007 12 05 15 00 00                       MOP2*                 mop200svk_20260123.log
 MOPI 11507M001        001  1996 06 10 00 00 00                       MOPI*                 mopi00svk_20231004.log
-MOPS 12791M001        001  2007 02 12 00 00 00                       MOPS*                 mops00ita_20240411.log
+MOPS 12791M001        001  2007 02 12 00 00 00                       MOPS*                 mops00ita_20260409.log
 MORP 13299S001        001  1996 10 31 00 00 00                       MORP*                 morp00gbr_20250918.log
 MSEL 12711M008        001  1996 07 23 00 00 00                       MSEL*                 msel00ita_20230622.log
 MUK2 15599M002        001  2008 08 18 13 00 00                       MUK2*                 muk200ukr_20250711.log
@@ -352,7 +352,7 @@ POTS 14106M003        001  1994 10 28 00 00 00                       POTS*      
 POUS 11518M001        001  2003 10 20 12 00 00                       POUS*                 pous00cze_20200219.log
 POZE 11908M001        001  2008 12 09 00 00 00                       POZE*                 poze00hrv_20260226.log
 PPSH 81301M002        001  2020 09 04 15 30 00                       PPSH*                 ppsh00nor_20231001.log
-PRAT 12760M001        001  1998 05 01 00 00 00                       PRAT*                 prat00ita_20260317.log
+PRAT 12760M001        001  1998 05 01 00 00 00                       PRAT*                 prat00ita_20260409.log
 PRIJ 12131M001        001  2017 09 18 00 00 00                       PRIJ*                 prij00srb_20240112.log
 PRYL 15502M001        001  2008 10 09 12 00 00                       PRYL*                 pryl00ukr_20250613.log
 PSTO 83401M001        001  2018 06 15 00 00 00                       PSTO*                 psto00prt_20240524.log
@@ -4453,7 +4453,8 @@ MOPS 12791M001        001  2021 04 01 13 30 00  2022 08 05 13 30 00  LEICA GR30 
 MOPS 12791M001        001  2022 08 05 13 30 00  2023 07 11 11 30 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0583          MOPS00ITA  MOPS00ITA               
 MOPS 12791M001        001  2023 07 11 11 30 00  2023 11 03 13 00 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0583          MOPS00ITA  MOPS00ITA               
 MOPS 12791M001        001  2023 11 03 13 00 00  2024 04 11 12 15 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0583          MOPS00ITA  MOPS00ITA               
-MOPS 12791M001        001  2024 04 11 12 15 00                       LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0583          MOPS00ITA  MOPS00ITA               
+MOPS 12791M001        001  2024 04 11 12 15 00  2026 04 09 09 00 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0583          MOPS00ITA  MOPS00ITA               
+MOPS 12791M001        001  2026 04 09 09 00 00                       LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0583          MOPS00ITA  MOPS00ITA               
 MORP 13299S001        001  1996 10 31 00 00 00  2000 02 01 00 00 00  ROGUE SNR-12 RM                             999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0330          MORP00GBR  MORP00GBR               
 MORP 13299S001        001  2000 02 01 00 00 00  2002 04 15 00 00 00  ASHTECH Z-XII3                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0330          MORP00GBR  MORP00GBR               
 MORP 13299S001        001  2002 04 15 00 00 00  2002 05 20 15 00 00  ASHTECH Z-XII3                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0330          MORP00GBR  MORP00GBR               
