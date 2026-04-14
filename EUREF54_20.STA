@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             14-04-2026 13:04
+BSW 5.4 station information file for EPN processing             14-04-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -422,7 +422,7 @@ SUN6 10440M002        001  2011 09 27 00 00 00                       SUN6*      
 SUR4 10601M002        001  2011 09 21 11 27 00                       SUR4*                 sur400est_20250612.log
 SUUR 10601M001        001  1998 09 27 00 00 00  2011 09 21 12 00 00  SUUR*                 suur00est_20230516.log
 SVE6 10441M002        001  2011 07 08 00 00 00                       SVE6*                 sve600swe_20250827.log
-SVLL 18492M001        001  2018 06 04 00 00 00                       SVLL*                 svll00ita_20260316.log
+SVLL 18492M001        001  2018 06 04 00 00 00                       SVLL*                 svll00ita_20260414.log
 SVTL 12350M001        001  1996 03 14 00 00 00                       SVTL*                 svtl00rus_20250108.log
 SWAS 19193M001        001  2009 08 14 14 00 00  2024 12 04 11 15 00  SWAS*                 swas00gbr_20241204.log
 SWKI 12228M001        001  2007 12 05 00 00 00                       SWKI*                 swki00pol_20251018.log
@@ -6111,7 +6111,8 @@ SVLL 18492M001        001  2018 06 04 00 00 00  2018 07 26 10 00 00  LEICA GR30 
 SVLL 18492M001        001  2018 07 26 10 00 00  2023 11 28 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          SVLL00ITA  SVLL00ITA               
 SVLL 18492M001        001  2023 11 28 00 00 00  2024 03 01 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          SVLL00ITA  SVLL00ITA               
 SVLL 18492M001        001  2024 03 01 00 00 00  2026 03 16 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          SVLL00ITA  SVLL00ITA               
-SVLL 18492M001        001  2026 03 16 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          SVLL00ITA  SVLL00ITA               
+SVLL 18492M001        001  2026 03 16 00 00 00  2026 04 14 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          SVLL00ITA  SVLL00ITA               
+SVLL 18492M001        001  2026 04 14 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          SVLL00ITA  SVLL00ITA               
 SVTL 12350M001        001  1996 03 14 00 00 00  1997 05 21 00 00 00  TRIMBLE 4000SST                             999999  TRM14532.00     NONE                        999999    0.0000    0.0000    0.0085          SVTL00RUS  SVTL00RUS               
 SVTL 12350M001        001  1997 05 21 00 00 00  1997 05 30 00 00 00  TRIMBLE 4000SSE                             999999  TRM14532.00     NONE                        999999    0.0000    0.0000    0.0085          SVTL00RUS  SVTL00RUS               
 SVTL 12350M001        001  1997 05 30 00 00 00  2004 12 01 12 00 00  TRIMBLE 4000SST                             999999  TRM14532.00     NONE                        999999    0.0000    0.0000    0.0085          SVTL00RUS  SVTL00RUS               
