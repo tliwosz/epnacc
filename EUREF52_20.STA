@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          17-04-2026 09:04
+Station information file for Bernese GNSS Software 5.2          17-04-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -24,7 +24,7 @@ ANK2 20818M001        001  2019 06 28 09 56 00                       ANK2*      
 ANKR 20805M002        001  1995 06 21 00 00 00  2022 05 23 00 00 00  ANKR*                 ankr00tur_20220826.log
 AQUI 12757M001        001  1999 06 11 00 00 00                       AQUI*                 aqui00ita_20260312.log
 ARA2 14503M002        001  2015 11 16 12 00 00                       ARA2*                 ara200svn_20250829.log
-ARGI 10117M002        001  2008 09 25 00 00 00                       ARGI*                 argi00fro_20260415.log
+ARGI 10117M002        001  2008 09 25 00 00 00                       ARGI*                 argi00fro_20260417.log
 ARIS 19190M001        001  2009 06 02 16 00 00                       ARIS*                 aris00gbr_20251219.log
 ARJ6 10428M002        001  2011 07 29 00 00 00                       ARJ6*                 arj600swe_20250407.log
 ASGA 25401M001        001  2021 07 27 08 00 00                       ASGA*                 asga00cyp_20260316.log
@@ -166,7 +166,7 @@ GVNL 18546M002        001  2023 05 14 10 00 00                       GVNL*      
 GWWL 12225M001        001  2007 12 10 00 00 00                       GWWL*                 gwwl00pol_20251024.log
 HAS6 10429M002        001  2011 06 15 00 00 00                       HAS6*                 has600swe_20250320.log
 HEL2 14264M002        001  2005 09 08 12 00 00                       HEL2*                 hel200deu_20260311.log
-HELG 14264M001        001  1999 11 09 00 00 00                       HELG*                 helg00deu_20260311.log
+HELG 14264M001        001  1999 11 09 00 00 00                       HELG*                 helg00deu_20260417.log
 HERS 13212M007        001  1992 03 24 00 00 00                       HERS*                 hers00gbr_20250325.log
 HERT 13212M010        001  2003 03 12 00 00 00                       HERT*                 hert00gbr_20250108.log
 HETT 10524M001        001  2014 01 29 12 00 00                       HETT*                 hett00fin_20250805.log
@@ -708,7 +708,8 @@ ARGI 10117M002        001  2008 09 25 00 00 00  2016 11 11 11 19 00  LEICA GRX12
 ARGI 10117M002        001  2016 11 11 11 19 00  2017 04 19 15 37 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000  ARGI00FRO               
 ARGI 10117M002        001  2017 04 19 15 37 00  2022 11 29 14 20 00  TRIMBLE NETR9                               999999  TRM57971.00     TZGD                        999999    0.0000    0.0000    0.0054  ARGI00FRO               
 ARGI 10117M002        001  2022 11 29 14 20 00  2026 04 14 08 15 00  TRIMBLE NETR9                               999999  TRM57971.00     TZGD                        999999    0.0000    0.0000    0.0054  ARGI00FRO               
-ARGI 10117M002        001  2026 04 14 08 15 00                       TRIMBLE ALLOY                               999999  TRM57971.00     TZGD                        999999    0.0000    0.0000    0.0054  ARGI00FRO               
+ARGI 10117M002        001  2026 04 14 08 15 00  2026 04 16 12 36 00  TRIMBLE ALLOY                               999999  TRM57971.00     TZGD                        999999    0.0000    0.0000    0.0054  ARGI00FRO               
+ARGI 10117M002        001  2026 04 16 12 36 00                       TRIMBLE ALLOY                               999999  TRM57971.00     TZGD                        999999    0.0000    0.0000    0.0054  ARGI00FRO               
 ARIS 19190M001        001  2009 06 02 16 00 00  2009 08 11 15 05 00  LEICA GRX1200+GNSS                          999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804  ARIS00GBR               
 ARIS 19190M001        001  2009 08 11 15 05 00  2009 09 11 10 50 00  LEICA GRX1200+GNSS                          999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804  ARIS00GBR               
 ARIS 19190M001        001  2009 09 11 10 50 00  2010 05 12 20 35 00  LEICA GRX1200+GNSS                          999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.1804  ARIS00GBR               
@@ -2775,7 +2776,8 @@ HELG 14264M001        001  2023 02 08 09 30 00  2024 02 15 09 24 00  JAVAD TRE_3
 HELG 14264M001        001  2024 02 15 09 24 00  2024 06 06 05 42 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0270  HELG00DEU               
 HELG 14264M001        001  2024 06 06 05 42 00  2025 05 02 10 30 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0270  HELG00DEU               
 HELG 14264M001        001  2025 05 02 10 30 00  2026 03 11 10 23 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0270  HELG00DEU               
-HELG 14264M001        001  2026 03 11 10 23 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0270  HELG00DEU               
+HELG 14264M001        001  2026 03 11 10 23 00  2026 04 17 09 45 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0270  HELG00DEU               
+HELG 14264M001        001  2026 04 17 09 45 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0270  HELG00DEU               
 HERS 13212M007        001  1992 03 24 00 00 00  1998 02 18 00 00 00  ROGUE SNR-8C                                999999  AOAD/M_B        NONE                        999999    0.0000    0.0000    0.2000  HERS00GBR               
 HERS 13212M007        001  1998 02 18 00 00 00  1998 07 01 00 00 00  ASHTECH Z-XII3                              999999  ASH700936E      NONE                        999999    0.0000    0.0000    0.0096  HERS00GBR               
 HERS 13212M007        001  1998 07 01 00 00 00  1999 08 20 01 37 00  ASHTECH Z-XII3                              999999  ASH700936E      NONE                        999999    0.0000    0.0000    0.0096  HERS00GBR               
