@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             21-04-2026 04:04
+BSW 5.4 station information file for EPN processing             21-04-2026 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -227,7 +227,7 @@ KRAW 12218M001        001  2003 01 01 00 00 00                       KRAW*      
 KRRS 15597M001        001  2009 09 03 00 00 00                       KRRS*                 krrs00ukr_20240610.log
 KRS1 20816M001        001  2008 09 27 00 00 00                       KRS1*                 krs100tur_20251118.log
 KTVL 12337M003        001  2009 09 14 16 15 00                       KTVL*                 ktvl00ukr_20170801.log
-KUNZ 11524M001        001  2005 09 23 12 30 00                       KUNZ*                 kunz00cze_20240827.log
+KUNZ 11524M001        001  2005 09 23 12 30 00                       KUNZ*                 kunz00cze_20260421.log
 KURE 10604S001        001  2007 11 15 11 30 00                       KURE*                 kure00est_20250710.log
 KUU2 10517M002        001  2014 01 02 12 00 00                       KUU2*                 kuu200fin_20250515.log
 LAGO 13903M001        001  2000 01 02 14 35 00                       LAGO*                 lago00prt_20250415.log
@@ -3544,7 +3544,8 @@ KUNZ 11524M001        001  2014 09 09 14 35 00  2016 07 08 08 40 00  TRIMBLE SPS
 KUNZ 11524M001        001  2016 07 08 08 40 00  2017 02 23 00 08 00  TRIMBLE SPS855                              999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.1302          KUNZ00CZE  KUNZ00CZE               
 KUNZ 11524M001        001  2017 02 23 00 08 00  2018 05 15 08 25 00  TRIMBLE SPS855                              999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.1302          KUNZ00CZE  KUNZ00CZE               
 KUNZ 11524M001        001  2018 05 15 08 25 00  2024 03 14 14 07 00  TRIMBLE SPS855                              999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.1302          KUNZ00CZE  KUNZ00CZE               
-KUNZ 11524M001        001  2024 03 14 14 07 00                       TRIMBLE ALLOY                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.1302          KUNZ00CZE  KUNZ00CZE               
+KUNZ 11524M001        001  2024 03 14 14 07 00  2026 04 20 21 50 00  TRIMBLE ALLOY                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.1302          KUNZ00CZE  KUNZ00CZE               
+KUNZ 11524M001        001  2026 04 20 21 50 00                       TRIMBLE ALLOY                               999999  TRM57971.00     NONE                        999999    0.0000    0.0000    0.1302          KUNZ00CZE  KUNZ00CZE               
 KURE 10604S001        001  2007 11 15 11 30 00  2008 10 14 09 36 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          KURE00EST  KURE00EST               
 KURE 10604S001        001  2008 10 14 09 36 00  2009 06 11 06 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          KURE00EST  KURE00EST               
 KURE 10604S001        001  2009 06 11 06 00 00  2009 06 17 12 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          KURE00EST  KURE00EST               
