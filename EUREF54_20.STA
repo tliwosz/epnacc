@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             07-05-2026 16:05
+BSW 5.4 station information file for EPN processing             08-05-2026 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -289,7 +289,7 @@ MMET 14681M001        001  2004 05 24 00 00 00                       MMET*      
 MNKW 14802M002        001  2010 02 01 00 00 00                       MNKW*                 mnkw00blr_20240808.log
 MNSK 14802M001        001  2002 02 07 08 20 00                       MNSK*                 mnsk00blr_20240808.log
 MOGI 14807M001        001  2011 06 01 00 00 00                       MOGI*                 mogi00blr_20240808.log
-MOP2 11507M002        001  2007 12 05 15 00 00                       MOP2*                 mop200svk_20260123.log
+MOP2 11507M002        001  2007 12 05 15 00 00                       MOP2*                 mop200svk_20260507.log
 MOPI 11507M001        001  1996 06 10 00 00 00                       MOPI*                 mopi00svk_20231004.log
 MOPS 12791M001        001  2007 02 12 00 00 00                       MOPS*                 mops00ita_20260409.log
 MORP 13299S001        001  1996 10 31 00 00 00                       MORP*                 morp00gbr_20250918.log
@@ -4435,7 +4435,8 @@ MOP2 11507M002        001  2023 09 06 08 58 00  2023 09 08 09 30 00  TRIMBLE NET
 MOP2 11507M002        001  2023 09 08 09 30 00  2024 01 09 06 49 00  TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0580          MOP200SVK  MOP200SVK               
 MOP2 11507M002        001  2024 01 09 06 49 00  2025 04 16 05 06 00  TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0580          MOP200SVK  MOP200SVK               
 MOP2 11507M002        001  2025 04 16 05 06 00  2025 11 05 05 12 00  TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0580          MOP200SVK  MOP200SVK               
-MOP2 11507M002        001  2025 11 05 05 12 00                       TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0580          MOP200SVK  MOP200SVK               
+MOP2 11507M002        001  2025 11 05 05 12 00  2026 05 07 04 11 00  TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0580          MOP200SVK  MOP200SVK               
+MOP2 11507M002        001  2026 05 07 04 11 00                       TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0580          MOP200SVK  MOP200SVK               
 MOPI 11507M001        001  1996 06 10 00 00 00  1997 02 02 10 00 00  TRIMBLE 4000SSI                             999999  TRM14532.00     NONE                        999999    0.0000    0.0000    0.0870          MOPI00SVK  MOPI00SVK               
 MOPI 11507M001        001  1997 02 02 10 00 00  1997 06 02 10 00 00  TRIMBLE 4000SSI                             999999  TRM14532.00     DOME                        999999    0.0000    0.0000    0.0870          MOPI00SVK  MOPI00SVK               
 MOPI 11507M001        001  1997 06 02 10 00 00  1997 06 17 08 30 00  TRIMBLE 4000SSI                             999999  TRM14532.00     NONE                        999999    0.0000    0.0000    0.0870          MOPI00SVK  MOPI00SVK               
