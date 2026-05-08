@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          08-05-2026 13:04
+Station information file for Bernese GNSS Software 5.2          08-05-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -141,6 +141,7 @@ FOCS 11443M001        001  2007 03 12 12 00 00                       FOCS*      
 FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl00gbr_20260508.log
 FRA2 15538M002        001  2011 03 16 12 00 00                       FRA2*                 fra200ukr_20250811.log
 FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*                 frne00ita_20260312.log
+FUN1 13911M002        001  2026 03 16 09 08 00                       FUN1*                 fun100prt_20260507.log
 FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func00prt_20260218.log
 GAIA 13902M001        001  2000 01 02 14 35 00                       GAIA*                 gaia00prt_20250414.log
 GALH 18490M001        001  2018 05 24 00 00 00                       GALH*                 galh00ita_20260312.log
@@ -2334,6 +2335,7 @@ FRNE 14607M001        001  2023 11 20 00 00 00  2024 02 28 00 00 00  LEICA GR30 
 FRNE 14607M001        001  2024 02 28 00 00 00  2025 09 25 07 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000  FRNE00ITA               
 FRNE 14607M001        001  2025 09 25 07 00 00  2026 03 12 00 00 00  LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000  FRNE00ITA               
 FRNE 14607M001        001  2026 03 12 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000  FRNE00ITA               
+FUN1 13911M002        001  2026 03 16 09 08 00                       SEPT POLARX5                                999999  TWIVC6050       NONE                        999999    0.0000    0.0000    0.0000  FUN100PRT               
 FUNC 13911S001        001  2006 07 21 00 00 00  2007 10 12 14 00 00  LEICA RS500                                 999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000  FUNC00PRT               
 FUNC 13911S001        001  2007 10 12 14 00 00  2008 04 04 12 00 00  LEICA SR520                                 999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000  FUNC00PRT               
 FUNC 13911S001        001  2008 04 04 12 00 00  2008 08 18 11 30 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      NONE                        999999    0.0000    0.0000    0.0000  FUNC00PRT               
