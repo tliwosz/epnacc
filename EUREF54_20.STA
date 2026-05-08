@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             08-05-2026 09:04
+BSW 5.4 station information file for EPN processing             08-05-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -138,7 +138,7 @@ FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*      
 FINS 10523M001        001  2014 11 13 12 00 00                       FINS*                 fins00fin_20250903.log
 FLRS 31907M001        001  2008 04 09 17 00 00                       FLRS*                 flrs00prt_20250414.log
 FOCS 11443M001        001  2007 03 12 12 00 00                       FOCS*                 focs00rou_20260428.log
-FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl00gbr_20260224.log
+FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*                 foyl00gbr_20260508.log
 FRA2 15538M002        001  2011 03 16 12 00 00                       FRA2*                 fra200ukr_20250811.log
 FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*                 frne00ita_20260312.log
 FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func00prt_20260218.log
@@ -2324,7 +2324,8 @@ FOYL 13241M001        001  2017 01 26 14 55 00  2019 01 30 14 53 00  LEICA GR25 
 FOYL 13241M001        001  2019 01 30 14 53 00  2020 10 22 10 30 00  LEICA GR25                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
 FOYL 13241M001        001  2020 10 22 10 30 00  2025 10 31 13 47 00  LEICA GR25                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
 FOYL 13241M001        001  2025 10 31 13 47 00  2026 02 13 16 00 00  TRIMBLE ALLOY                               999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
-FOYL 13241M001        001  2026 02 13 16 00 00                       TRIMBLE ALLOY                               999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
+FOYL 13241M001        001  2026 02 13 16 00 00  2026 05 08 12 00 00  TRIMBLE ALLOY                               999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
+FOYL 13241M001        001  2026 05 08 12 00 00                       TRIMBLE ALLOY                               999999  TRM159900.00    SCIS                        999999    0.0000    0.0000    0.0000          FOYL00GBR  FOYL00GBR               
 FRA2 15538M002        001  2011 03 16 12 00 00  2021 07 22 15 00 00  TPS GB-500                                  999999  TPSPG_A1        NONE                        999999    0.0000    0.0000    0.0000          FRA200UKR  FRA200UKR               
 FRA2 15538M002        001  2021 07 22 15 00 00  2021 07 22 16 00 00  TPS GB-500                                  999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          FRA200UKR  FRA200UKR               
 FRA2 15538M002        001  2021 07 22 16 00 00                       TRIMBLE NETR9                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          FRA200UKR  FRA200UKR               
