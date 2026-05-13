@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             13-05-2026 09:04
+BSW 5.4 station information file for EPN processing             13-05-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -319,7 +319,7 @@ OBET 14208M004        001  2002 04 30 15 30 00  2005 05 09 00 00 00  OBET*      
 OLK2 10518M002        001  2014 01 29 12 00 00                       OLK2*                 olk200fin_20250307.log
 ONS1 10402M007        001  2012 01 28 00 00 00                       ONS1*                 ons100swe_20250821.log
 ONSA 10402M004        001  1993 07 01 00 00 00                       ONSA*                 onsa00swe_20260331.log
-ORID 15601M001        001  2000 07 20 00 00 00                       ORID*                 orid00mkd_20260512.log
+ORID 15601M001        001  2000 07 20 00 00 00                       ORID*                 orid00mkd_20260513.log
 ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*                 oriv00fin_20250307.log
 OROS 11207M001        001  2001 09 20 00 00 00                       OROS*                 oros00hun_20221118.log
 ORTE 14602M001        001  2019 07 30 11 30 00                       ORTE*                 orte00ita_20260316.log
