@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             15-05-2026 16:04
+BSW 5.4 station information file for EPN processing             16-05-2026 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -344,6 +344,7 @@ PFA2 11005M003        001  2007 11 29 12 00 00                       PFA2*      
 PFA3 11005M004        001  2015 11 12 09 00 00                       PFA3*                 pfa300aut_20250916.log
 PFAN 11005S002        001  1997 04 10 00 00 00  2007 11 29 12 00 00  PFAN*                 pfan00aut_20230427.log
 PINS 14808M001        001  2011 04 20 10 58 00                       PINS*                 pins00blr_20240808.log
+PLN2 12111M003        001  2023 11 12 00 00 00                       PLN2*                 pln200srb_20260515.log
 PLND 12111M001        001  2011 01 18 12 00 00  2023 08 30 12 00 00  PLND*                 plnd00srb_20231225.log
 PLYM 13229S001        001  2002 01 23 00 00 00  2004 02 12 23 59 00  PLYM*                 plym00gbr_20250811.log
 PMTH 13229M001        001  2004 02 13 00 00 00                       PMTH*                 pmth00gbr_20251111.log
@@ -5060,6 +5061,7 @@ PINS 14808M001        001  2021 07 28 08 57 00  2022 01 03 16 29 00  LEICA GR30 
 PINS 14808M001        001  2022 01 03 16 29 00  2022 03 01 00 50 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.4110          PINS00BLR  PINS00BLR               
 PINS 14808M001        001  2022 03 01 00 50 00  2022 03 10 12 41 00  LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.4110          PINS00BLR  PINS00BLR               
 PINS 14808M001        001  2022 03 10 12 41 00                       LEICA GR30                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.4110          PINS00BLR  PINS00BLR               
+PLN2 12111M003        001  2023 11 12 00 00 00                       TRIMBLE NETR9                               999999  TRM115000.00    NONE                        999999    0.0000    0.0000    0.0000   355.0  PLN200SRB  PLN200SRB               
 PLND 12111M001        001  2011 01 18 12 00 00  2011 01 18 12 00 00  TRIMBLE 5700                                999999  TRM57971.00     TZGD                        999999    0.0000    0.0000    0.0000          PLND00SRB  PLND00SRB               
 PLND 12111M001        001  2011 01 18 12 00 00  2017 08 31 13 00 00  TRIMBLE NETR9                               999999  TRM57971.00     TZGD                        999999    0.0000    0.0000    0.0000          PLND00SRB  PLND00SRB               
 PLND 12111M001        001  2017 08 31 13 00 00  2019 04 02 14 00 00  TRIMBLE NETR9                               999999  TRM115000.00    TZGD                        999999    0.0000    0.0000    0.0000    95.0  PLND00SRB  PLND00SRB               
