@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          18-05-2026 13:04
+Station information file for Bernese GNSS Software 5.2          18-05-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -142,7 +142,7 @@ FOYL 13241M001        001  2006 09 01 12 00 00                       FOYL*      
 FRA2 15538M002        001  2011 03 16 12 00 00                       FRA2*                 fra200ukr_20250811.log
 FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*                 frne00ita_20260312.log
 FUN1 13911M002        001  2026 03 16 09 08 00                       FUN1*                 fun100prt_20260507.log
-FUNC 13911S001        001  2006 07 21 00 00 00                       FUNC*                 func00prt_20260218.log
+FUNC 13911S001        001  2006 07 21 00 00 00  2026 05 14 11 00 00  FUNC*                 func00prt_20260518.log
 GAIA 13902M001        001  2000 01 02 14 35 00                       GAIA*                 gaia00prt_20250414.log
 GALH 18490M001        001  2018 05 24 00 00 00                       GALH*                 galh00ita_20260312.log
 GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp00svk_20260507.log
@@ -2356,7 +2356,7 @@ FUNC 13911S001        001  2020 11 25 13 05 00  2021 01 23 09 18 00  TRIMBLE ALL
 FUNC 13911S001        001  2021 01 23 09 18 00  2022 11 09 15 37 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000  FUNC00PRT               
 FUNC 13911S001        001  2022 11 09 15 37 00  2024 02 19 14 43 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000  FUNC00PRT               
 FUNC 13911S001        001  2024 02 19 14 43 00  2025 04 14 16 50 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000  FUNC00PRT               
-FUNC 13911S001        001  2025 04 14 16 50 00                       TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000  FUNC00PRT               
+FUNC 13911S001        001  2025 04 14 16 50 00  2026 05 14 11 00 00  TRIMBLE ALLOY                               999999  TRM159900.00    NONE                        999999    0.0000    0.0000    0.0000  FUNC00PRT               
 GAIA 13902M001        001  2000 01 02 14 35 00  2002 06 20 16 00 00  LEICA CRS1000                               999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000  GAIA00PRT               
 GAIA 13902M001        001  2002 06 20 16 00 00  2002 07 25 16 00 00  LEICA CRS1000                               999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000  GAIA00PRT               
 GAIA 13902M001        001  2002 07 25 16 00 00  2003 01 12 00 00 00  LEICA RS500                                 999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000  GAIA00PRT               
