@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             20-05-2026 04:04
+BSW 5.4 station information file for EPN processing             20-05-2026 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -278,10 +278,10 @@ MDVO 12309M002        001  1995 07 05 00 00 00  2003 05 11 00 00 00  MDVO*      
 MEDI 12711M003        001  1995 07 28 00 00 00                       MEDI*                 medi00ita_20260515.log
 MELI 19379M001        001  2011 12 14 12 00 00                       MELI*                 meli00esp_20240319.log
 MERS 20814M001        001  2000 09 12 00 00 00                       MERS*                 mers00tur_20250724.log
-MET3 10503M010        001  2013 12 19 12 00 00                       MET3*                 met300fin_20250307.log
+MET3 10503M010        001  2013 12 19 12 00 00                       MET3*                 met300fin_20260520.log
 METG 10503M002        001  2012 07 03 00 00 00                       METG*                 metg00fin_20250826.log
 METS 10503S011        001  1992 04 30 12 00 00  2024 06 25 08 15 00  METS*                 mets00fin_20240626.log
-MIK3 10526M001        001  2013 12 19 12 00 00                       MIK3*                 mik300fin_20250515.log
+MIK3 10526M001        001  2013 12 19 12 00 00                       MIK3*                 mik300fin_20260520.log
 MIKL 12335M001        001  2002 04 20 20 00 00                       MIKL*                 mikl00ukr_20250613.log
 MILO 12758M001        001  2001 10 05 00 00 00  2012 03 22 00 00 00  MILO*                 milo00ita_20240718.log
 MKRS 15599M001        001  2008 11 30 00 00 00  2024 12 04 08 55 00  MKRS*                 mkrs00ukr_20241205.log
@@ -317,11 +317,11 @@ OBE2 14208M003        001  2001 07 28 00 00 00  2008 02 12 00 00 00  OBE2*      
 OBE4 14208M007        001  2012 09 28 12 00 00                       OBE4*                 obe400deu_20250206.log
 OBER 14208M001        001  1996 10 11 00 00 00  2001 07 28 00 00 00  OBER*                 ober00deu_20250206.log
 OBET 14208M004        001  2002 04 30 15 30 00  2005 05 09 00 00 00  OBET*                 obet00deu_20230601.log
-OLK2 10518M002        001  2014 01 29 12 00 00                       OLK2*                 olk200fin_20250307.log
+OLK2 10518M002        001  2014 01 29 12 00 00                       OLK2*                 olk200fin_20260520.log
 ONS1 10402M007        001  2012 01 28 00 00 00                       ONS1*                 ons100swe_20250821.log
 ONSA 10402M004        001  1993 07 01 00 00 00                       ONSA*                 onsa00swe_20260331.log
 ORID 15601M001        001  2000 07 20 00 00 00                       ORID*                 orid00mkd_20260513.log
-ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*                 oriv00fin_20250307.log
+ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*                 oriv00fin_20260520.log
 OROS 11207M001        001  2001 09 20 00 00 00                       OROS*                 oros00hun_20221118.log
 ORTE 14602M001        001  2019 07 30 11 30 00                       ORTE*                 orte00ita_20260316.log
 OSJE 11902M001        001  2000 09 18 00 00 00  2013 04 05 00 00 00  OSJE*                 osje00hrv_20250622.log
@@ -329,7 +329,7 @@ OSK6 10435M002        001  2011 06 18 00 00 00                       OSK6*      
 OSLO 10307M001        001  1995 10 05 00 00 00  2000 05 16 13 15 00  OSLO*                 oslo00nor_20241018.log
 OSLS 10307M001        001  1995 10 05 00 00 00                       OSLS*                 osls00nor_20251208.log
 OST6 10436M002        001  2011 07 08 00 00 00                       OST6*                 ost600swe_20250410.log
-OUL2 10519M002        001  2013 12 19 12 00 00                       OUL2*                 oul200fin_20250911.log
+OUL2 10519M002        001  2013 12 19 12 00 00                       OUL2*                 oul200fin_20260520.log
 OVE6 10437M002        001  2011 08 11 00 00 00                       OVE6*                 ove600swe_20250826.log
 PAD1 12750M003        001  2025 04 30 14 49 00                       PAD1*                 pad100ita_20251111.log
 PADO 12750S001        001  2001 11 21 13 00 00  2025 04 30 11 46 00  PADO*                 pado00ita_20250430.log
@@ -364,7 +364,7 @@ PTBB 14234M001        001  2000 03 29 00 00 00                       PTBB*      
 PULA 11903S001        001  2001 03 25 00 00 00  2003 02 09 00 00 00  PULA*                 pula00hrv_20250724.log
 PULK 12305M001        001  2002 04 22 00 00 00                       PULK*                 pulk00rus_20230622.log
 PUYV 10065M001        001  2004 08 26 12 00 00                       PUYV*                 puyv00fra_20251208.log
-PYHA 10528M001        001  2014 08 22 12 00 00                       PYHA*                 pyha00fin_20250714.log
+PYHA 10528M001        001  2014 08 22 12 00 00                       PYHA*                 pyha00fin_20260520.log
 PZA2 14506M002        001  2015 06 05 12 00 00                       PZA2*                 pza200svn_20250821.log
 QAQ1 43007M001        001  2001 10 15 00 00 00                       QAQ1*                 qaq100grl_20260327.log
 RABT 35001M002        001  2000 05 17 00 00 00                       RABT*                 rabt00mar_20250219.log
@@ -379,7 +379,7 @@ RIGA 12302M002        001  1995 12 05 04 00 00                       RIGA*      
 RIO1 13448M002        001  2012 01 31 12 00 00                       RIO1*                 rio100esp_20250226.log
 RIOJ 13448M001        001  2001 04 26 00 00 00  2012 04 08 00 00 00  RIOJ*                 rioj00esp_20220907.log
 RIVO 14611M001        001  2019 09 12 15 00 00                       RIVO*                 rivo00ita_20260316.log
-ROM2 10520M002        001  2014 01 29 12 00 00                       ROM2*                 rom200fin_20250609.log
+ROM2 10520M002        001  2014 01 29 12 00 00                       ROM2*                 rom200fin_20260520.log
 ROVE 12774M001        001  2001 06 14 00 00 00                       ROVE*                 rove00ita_20260223.log
 RVNE 15542M003        001  2019 03 12 15 10 00                       RVNE*                 rvne00ukr_20250807.log
 SABA 12112M001        001  2011 01 20 00 00 00                       SABA*                 saba00srb_20230207.log
@@ -4267,7 +4267,8 @@ MET3 10503M010        001  2021 03 16 13 30 00  2021 11 19 07 25 00  JAVAD TRE_3
 MET3 10503M010        001  2021 11 19 07 25 00  2022 11 03 06 44 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MET300FIN  MET300FIN               
 MET3 10503M010        001  2022 11 03 06 44 00  2024 04 17 17 30 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MET300FIN  MET300FIN               
 MET3 10503M010        001  2024 04 17 17 30 00  2025 03 07 08 35 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MET300FIN  MET300FIN               
-MET3 10503M010        001  2025 03 07 08 35 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MET300FIN  MET300FIN               
+MET3 10503M010        001  2025 03 07 08 35 00  2026 05 20 07 20 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MET300FIN  MET300FIN               
+MET3 10503M010        001  2026 05 20 07 20 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MET300FIN  MET300FIN               
 METG 10503M002        001  2012 07 03 00 00 00  2014 06 04 16 03 00  TRIMBLE NETR9                               999999  TRM59800.00     SCIS                        999999    0.0046    0.0020    2.0352          METG00FIN  METG00FIN               
 METG 10503M002        001  2014 06 04 16 03 00  2015 06 23 08 10 00  TRIMBLE NETR9                               999999  TRM59800.00     SCIS                        999999    0.0046    0.0020    2.0352          METG00FIN  METG00FIN               
 METG 10503M002        001  2015 06 23 08 10 00  2015 10 21 12 27 00  TRIMBLE NETR9                               999999  TRM59800.00     SCIS                        999999    0.0046    0.0020    2.0352          METG00FIN  METG00FIN               
@@ -4326,7 +4327,8 @@ MIK3 10526M001        001  2021 03 16 13 35 00  2021 11 19 07 50 00  JAVAD TRE_3
 MIK3 10526M001        001  2021 11 19 07 50 00  2022 11 03 06 35 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MIK300FIN  MIK300FIN               
 MIK3 10526M001        001  2022 11 03 06 35 00  2024 04 17 17 40 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MIK300FIN  MIK300FIN               
 MIK3 10526M001        001  2024 04 17 17 40 00  2025 05 15 09 28 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MIK300FIN  MIK300FIN               
-MIK3 10526M001        001  2025 05 15 09 28 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MIK300FIN  MIK300FIN               
+MIK3 10526M001        001  2025 05 15 09 28 00  2026 05 20 06 15 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MIK300FIN  MIK300FIN               
+MIK3 10526M001        001  2026 05 20 06 15 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          MIK300FIN  MIK300FIN               
 MIKL 12335M001        001  2002 04 20 20 00 00  2015 07 20 10 00 00  TRIMBLE 4700                                999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.0237          MIKL00UKR  MIKL00UKR               
 MIKL 12335M001        001  2015 07 20 10 00 00  2016 02 11 10 30 00  TRIMBLE 4700                                999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.0237          MIKL00UKR  MIKL00UKR               
 MIKL 12335M001        001  2016 02 11 10 30 00  2016 03 23 15 18 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0237    45.0  MIKL00UKR  MIKL00UKR               
@@ -4709,7 +4711,8 @@ OLK2 10518M002        001  2021 03 16 13 40 00  2021 11 19 08 15 00  JAVAD TRE_3
 OLK2 10518M002        001  2021 11 19 08 15 00  2022 11 03 06 53 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OLK200FIN  OLK200FIN               
 OLK2 10518M002        001  2022 11 03 06 53 00  2024 04 17 17 44 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OLK200FIN  OLK200FIN               
 OLK2 10518M002        001  2024 04 17 17 44 00  2025 03 06 12 31 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OLK200FIN  OLK200FIN               
-OLK2 10518M002        001  2025 03 06 12 31 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OLK200FIN  OLK200FIN               
+OLK2 10518M002        001  2025 03 06 12 31 00  2026 05 20 06 10 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OLK200FIN  OLK200FIN               
+OLK2 10518M002        001  2026 05 20 06 10 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OLK200FIN  OLK200FIN               
 ONS1 10402M007        001  2012 01 28 00 00 00  2012 02 16 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ONS100SWE  ONS100SWE               
 ONS1 10402M007        001  2012 02 16 00 00 00  2012 06 14 13 30 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ONS100SWE  ONS100SWE               
 ONS1 10402M007        001  2012 06 14 13 30 00  2012 10 05 00 00 00  TRIMBLE NETR9                               999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          ONS100SWE  ONS100SWE               
@@ -4781,7 +4784,8 @@ ORIV 10527M001        001  2021 03 17 10 50 00  2021 11 19 08 33 00  JAVAD TRE_3
 ORIV 10527M001        001  2021 11 19 08 33 00  2022 11 03 07 46 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ORIV00FIN  ORIV00FIN               
 ORIV 10527M001        001  2022 11 03 07 46 00  2024 04 17 17 48 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ORIV00FIN  ORIV00FIN               
 ORIV 10527M001        001  2024 04 17 17 48 00  2025 03 06 15 32 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ORIV00FIN  ORIV00FIN               
-ORIV 10527M001        001  2025 03 06 15 32 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ORIV00FIN  ORIV00FIN               
+ORIV 10527M001        001  2025 03 06 15 32 00  2026 05 20 06 55 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ORIV00FIN  ORIV00FIN               
+ORIV 10527M001        001  2026 05 20 06 55 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ORIV00FIN  ORIV00FIN               
 OROS 11207M001        001  2001 09 20 00 00 00  2002 04 16 00 00 00  TRIMBLE 4000SSE                             999999  TRM14532.10     NONE                        999999    0.0000    0.0000    0.0000          OROS00HUN  OROS00HUN               
 OROS 11207M001        001  2002 04 16 00 00 00  2004 10 13 00 00 00  TRIMBLE 4000SSE                             999999  TRM14532.10     NONE                        999999    0.0000    0.0000    0.0000          OROS00HUN  OROS00HUN               
 OROS 11207M001        001  2004 10 13 00 00 00  2007 06 08 00 00 00  TRIMBLE 4000SSE                             999999  TRM14532.10     NONE                        999999    0.0000    0.0000    0.0000          OROS00HUN  OROS00HUN               
@@ -4888,7 +4892,8 @@ OUL2 10519M002        001  2022 11 03 08 01 00  2023 07 26 06 55 00  JAVAD TRE_3
 OUL2 10519M002        001  2023 07 26 06 55 00  2024 04 17 17 55 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
 OUL2 10519M002        001  2024 04 17 17 55 00  2025 07 15 07 00 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
 OUL2 10519M002        001  2025 07 15 07 00 00  2025 09 11 06 50 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
-OUL2 10519M002        001  2025 09 11 06 50 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
+OUL2 10519M002        001  2025 09 11 06 50 00  2026 05 20 07 02 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
+OUL2 10519M002        001  2026 05 20 07 02 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          OUL200FIN  OUL200FIN               
 OVE6 10437M002        001  2011 08 11 00 00 00  2011 11 29 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 OVE6 10437M002        001  2011 11 29 00 00 00  2013 12 13 09 35 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
 OVE6 10437M002        001  2013 12 13 09 35 00  2014 01 10 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030          OVE600SWE  OVE600SWE               
@@ -5297,7 +5302,8 @@ PYHA 10528M001        001  2021 03 17 11 00 00  2021 11 19 08 55 00  JAVAD TRE_3
 PYHA 10528M001        001  2021 11 19 08 55 00  2022 11 03 08 12 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          PYHA00FIN  PYHA00FIN               
 PYHA 10528M001        001  2022 11 03 08 12 00  2024 04 17 18 01 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          PYHA00FIN  PYHA00FIN               
 PYHA 10528M001        001  2024 04 17 18 01 00  2025 07 14 13 25 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          PYHA00FIN  PYHA00FIN               
-PYHA 10528M001        001  2025 07 14 13 25 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          PYHA00FIN  PYHA00FIN               
+PYHA 10528M001        001  2025 07 14 13 25 00  2026 05 20 07 08 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          PYHA00FIN  PYHA00FIN               
+PYHA 10528M001        001  2026 05 20 07 08 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          PYHA00FIN  PYHA00FIN               
 PZA2 14506M002        001  2015 06 05 12 00 00  2016 09 23 14 00 00  LEICA GRX1200PRO                            999999  LEIAR20         LEIM                        999999   -0.0003    0.0001    0.0800     1.0  PZA200SVN  PZA200SVN               
 PZA2 14506M002        001  2016 09 23 14 00 00  2019 07 19 16 02 00  LEICA GRX1200PRO                            999999  LEIAR20         LEIM                        999999   -0.0003    0.0001    0.0800     1.0  PZA200SVN  PZA200SVN               
 PZA2 14506M002        001  2019 07 19 16 02 00  2020 06 26 12 00 00  LEICA GRX1200PRO                            999999  LEIAR20         LEIM                        999999   -0.0003    0.0001    0.0800     1.0  PZA200SVN  PZA200SVN               
@@ -5512,7 +5518,8 @@ ROM2 10520M002        001  2021 03 17 11 05 00  2021 11 19 09 25 00  JAVAD TRE_3
 ROM2 10520M002        001  2021 11 19 09 25 00  2022 11 03 08 21 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
 ROM2 10520M002        001  2022 11 03 08 21 00  2024 04 18 05 49 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
 ROM2 10520M002        001  2024 04 18 05 49 00  2025 06 09 07 29 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
-ROM2 10520M002        001  2025 06 09 07 29 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
+ROM2 10520M002        001  2025 06 09 07 29 00  2026 05 20 07 13 00  JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
+ROM2 10520M002        001  2026 05 20 07 13 00                       JAVAD TRE_3 DELTA                           999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          ROM200FIN  ROM200FIN               
 ROVE 12774M001        001  2001 06 14 00 00 00  2006 09 16 00 00 00  LEICA RS500                                 999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0940          ROVE00ITA  ROVE00ITA               
 ROVE 12774M001        001  2006 09 16 00 00 00  2009 10 28 00 00 00  LEICA RS500                                 999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0940          ROVE00ITA  ROVE00ITA               
 ROVE 12774M001        001  2009 10 28 00 00 00  2009 10 29 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0940          ROVE00ITA  ROVE00ITA               
