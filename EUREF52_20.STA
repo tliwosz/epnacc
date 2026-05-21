@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          21-05-2026 09:04
+Station information file for Bernese GNSS Software 5.2          21-05-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -201,7 +201,7 @@ IZMI 20817M001        001  2008 08 10 00 00 00                       IZMI*      
 IZRS 18115M002        001  2016 05 27 07 34 00  2022 03 01 07 00 00  IZRS*                 izrs00ukr_20240202.log
 JATE 14601M001        001  2019 07 18 12 30 00                       JATE*                 jate00ita_20260316.log
 JOE2 10512M002        001  2014 01 29 12 00 00                       JOE2*                 joe200fin_20260520.log
-JOEN 10512M001        001  1995 06 15 00 00 00                       JOEN*                 joen00fin_20250514.log
+JOEN 10512M001        001  1995 06 15 00 00 00                       JOEN*                 joen00fin_20260521.log
 JON6 10430M002        001  2011 06 16 00 00 00                       JON6*                 jon600swe_20250320.log
 JOZ2 12204M002        001  2002 01 03 00 00 00                       JOZ2*                 joz200pol_20210730.log
 JOZE 12204M001        001  1993 08 08 00 00 00                       JOZE*                 joze00pol_20240730.log
@@ -407,7 +407,7 @@ SNEC 11519M001        001  2001 10 23 12 00 00  2009 06 10 00 00 00  SNEC*      
 SNEO 19135M002        001  2009 05 13 13 00 00                       SNEO*                 sneo00gbr_20251111.log
 SNIK 14661M001        001  2021 10 24 09 00 00                       SNIK*                 snik00ita_20240318.log
 SOD3 10513M002        001  2013 12 19 12 00 00                       SOD3*                 sod300fin_20260520.log
-SODA 10513M001        001  1994 08 15 00 00 00                       SODA*                 soda00fin_20250716.log
+SODA 10513M001        001  1994 08 15 00 00 00                       SODA*                 soda00fin_20260521.log
 SOFI 11101M002        001  1997 05 19 10 00 00                       SOFI*                 sofi00bgr_20250307.log
 SONS 13446M001        001  2000 12 15 00 00 00                       SONS*                 sons00esp_20240319.log
 SPRN 11227M001        001  2006 11 01 12 00 00                       SPRN*                 sprn00hun_20220622.log
@@ -479,7 +479,7 @@ USAL 19527M001        001  2010 02 24 00 00 00                       USAL*      
 USDL 12229M001        001  2007 12 03 00 00 00                       USDL*                 usdl00pol_20260512.log
 UZHL 12301M001        001  1999 02 05 00 00 00                       UZHL*                 uzhl00ukr_20250428.log
 VAA2 10511M002        001  2014 01 02 12 00 00                       VAA2*                 vaa200fin_20260520.log
-VAAS 10511M001        001  1995 04 07 00 00 00                       VAAS*                 vaas00fin_20250410.log
+VAAS 10511M001        001  1995 04 07 00 00 00                       VAAS*                 vaas00fin_20260521.log
 VACO 11516M001        001  2004 10 20 12 00 00                       VACO*                 vaco00cze_20200219.log
 VAE6 10443M002        001  2011 08 25 00 00 00                       VAE6*                 vae600swe_20250407.log
 VAIN 10736M001        001  2015 10 13 00 00 00                       VAIN*                 vain00lva_20240202.log
@@ -3163,7 +3163,8 @@ JOEN 10512M001        001  2019 10 25 09 13 00  2021 11 19 13 06 00  JAVAD TRE_3
 JOEN 10512M001        001  2021 11 19 13 06 00  2022 11 03 10 57 00  JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000  JOEN00FIN               
 JOEN 10512M001        001  2022 11 03 10 57 00  2024 04 18 06 58 00  JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000  JOEN00FIN               
 JOEN 10512M001        001  2024 04 18 06 58 00  2025 05 14 14 10 00  JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000  JOEN00FIN               
-JOEN 10512M001        001  2025 05 14 14 10 00                       JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000  JOEN00FIN               
+JOEN 10512M001        001  2025 05 14 14 10 00  2026 05 21 07 25 00  JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000  JOEN00FIN               
+JOEN 10512M001        001  2026 05 21 07 25 00                       JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000  JOEN00FIN               
 JON6 10430M002        001  2011 06 16 00 00 00  2011 08 18 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  JON600SWE               
 JON6 10430M002        001  2011 08 18 00 00 00  2011 11 29 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  JON600SWE               
 JON6 10430M002        001  2011 11 29 00 00 00  2012 04 05 00 00 00  JAVAD TRE_G3TH DELTA                        999999  LEIAR25.R3      LEIT                        999999    0.0000    0.0000    0.0030  JON600SWE               
@@ -5895,7 +5896,8 @@ SODA 10513M001        001  2019 10 28 10 35 00  2021 11 19 14 30 00  JAVAD TRE_3
 SODA 10513M001        001  2021 11 19 14 30 00  2022 11 03 10 38 00  JAVAD TRE_3 DELTA                           999999  AOAD/M_T        DUTD                        999999    0.0000    0.0000    0.0000  SODA00FIN               
 SODA 10513M001        001  2022 11 03 10 38 00  2024 04 18 07 20 00  JAVAD TRE_3 DELTA                           999999  AOAD/M_T        DUTD                        999999    0.0000    0.0000    0.0000  SODA00FIN               
 SODA 10513M001        001  2024 04 18 07 20 00  2025 07 16 07 50 00  JAVAD TRE_3 DELTA                           999999  AOAD/M_T        DUTD                        999999    0.0000    0.0000    0.0000  SODA00FIN               
-SODA 10513M001        001  2025 07 16 07 50 00                       JAVAD TRE_3 DELTA                           999999  AOAD/M_T        DUTD                        999999    0.0000    0.0000    0.0000  SODA00FIN               
+SODA 10513M001        001  2025 07 16 07 50 00  2026 05 21 08 05 00  JAVAD TRE_3 DELTA                           999999  AOAD/M_T        DUTD                        999999    0.0000    0.0000    0.0000  SODA00FIN               
+SODA 10513M001        001  2026 05 21 08 05 00                       JAVAD TRE_3 DELTA                           999999  AOAD/M_T        DUTD                        999999    0.0000    0.0000    0.0000  SODA00FIN               
 SOFI 11101M002        001  1997 05 19 10 00 00  1999 07 11 11 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.2200  SOFI00BGR               
 SOFI 11101M002        001  1999 07 11 11 00 00  2000 10 13 00 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.2200  SOFI00BGR               
 SOFI 11101M002        001  2000 10 13 00 00 00  2001 03 09 10 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.2203  SOFI00BGR               
@@ -6789,7 +6791,8 @@ VAAS 10511M001        001  2019 10 28 10 26 00  2021 11 19 13 25 00  JAVAD TRE_3
 VAAS 10511M001        001  2021 11 19 13 25 00  2022 11 03 10 49 00  JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000  VAAS00FIN               
 VAAS 10511M001        001  2022 11 03 10 49 00  2024 04 18 07 25 00  JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000  VAAS00FIN               
 VAAS 10511M001        001  2024 04 18 07 25 00  2025 04 10 11 31 00  JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000  VAAS00FIN               
-VAAS 10511M001        001  2025 04 10 11 31 00                       JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000  VAAS00FIN               
+VAAS 10511M001        001  2025 04 10 11 31 00  2026 05 21 07 40 00  JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000  VAAS00FIN               
+VAAS 10511M001        001  2026 05 21 07 40 00                       JAVAD TRE_3 DELTA                           999999  ASH700936A_M    SNOW                        999999    0.0000    0.0000    0.0000  VAAS00FIN               
 VACO 11516M001        001  2004 10 20 12 00 00  2012 11 02 12 00 00  ASHTECH Z18                                 999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0770  VACO00CZE               
 VACO 11516M001        001  2012 11 02 12 00 00  2015 08 17 12 00 00  ASHTECH Z-XII3                              999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0770  VACO00CZE               
 VACO 11516M001        001  2015 08 17 12 00 00  2018 09 04 00 00 00  TPS NETG3                                   999999  ASH701946.2     SNOW                        999999    0.0000    0.0000    0.0770  VACO00CZE               
