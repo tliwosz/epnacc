@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             10-06-2026 13:04
+BSW 5.4 station information file for EPN processing             10-06-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -512,7 +512,7 @@ WETT 14201M009        001  1994 06 07 00 00 00  1996 08 31 00 00 00  WETT*      
 WRLG 14201M024        001  2015 03 17 12 40 00                       WRLG*                 wrlg00deu_20230509.log
 WROC 12217M001        001  1996 11 28 00 00 00                       WROC*                 wroc00pol_20240812.log
 WSRT 13506M005        001  1997 06 01 12 00 00                       WSRT*                 wsrt00nld_20260416.log
-WT21 14201M021        001  2003 10 14 07 00 00                       WT21*                 wt2100deu_20260311.log
+WT21 14201M021        001  2003 10 14 07 00 00                       WT21*                 wt2100deu_20260610.log
 WTZA 14201M013        001  1997 11 25 00 00 00                       WTZA*                 wtza00deu_20260310.log
 WTZR 14201M010        001  1995 02 09 00 00 00                       WTZR*                 wtzr00deu_20231030.log
 WTZS 14201M015        001  2005 07 27 15 00 00                       WTZS*                 wtzs00deu_20250414.log
@@ -7301,7 +7301,8 @@ WT21 14201M021        001  2023 01 24 14 00 00  2023 02 08 09 06 00  JAVAD TRE_3
 WT21 14201M021        001  2023 02 08 09 06 00  2024 02 15 07 43 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.5160          WT2100DEU  WT2100DEU               
 WT21 14201M021        001  2024 02 15 07 43 00  2025 05 05 07 45 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.5160          WT2100DEU  WT2100DEU               
 WT21 14201M021        001  2025 05 05 07 45 00  2026 03 11 08 34 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.5160          WT2100DEU  WT2100DEU               
-WT21 14201M021        001  2026 03 11 08 34 00                       JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.5160          WT2100DEU  WT2100DEU               
+WT21 14201M021        001  2026 03 11 08 34 00  2026 06 10 12 47 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.5160          WT2100DEU  WT2100DEU               
+WT21 14201M021        001  2026 06 10 12 47 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.5160          WT2100DEU  WT2100DEU               
 WTZA 14201M013        001  1997 11 25 00 00 00  1999 01 27 00 00 00  ASHTECH Z-XII3                              999999  ASH700936C_M    SNOW                        999999    0.0000    0.0000    0.0780          WTZA00DEU  WTZA00DEU               
 WTZA 14201M013        001  1999 01 27 00 00 00  1999 10 24 00 00 00  ASHTECH Z-XII3                              999999  ASH700936C_M    SNOW                        999999    0.0000    0.0000    0.0780          WTZA00DEU  WTZA00DEU               
 WTZA 14201M013        001  1999 10 24 00 00 00  1999 11 04 00 00 00  ASHTECH Z-XII3                              999999  ASH700936C_M    SNOW                        999999    0.0000    0.0000    0.0780          WTZA00DEU  WTZA00DEU               
