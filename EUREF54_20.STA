@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             10-06-2026 09:04
+BSW 5.4 station information file for EPN processing             10-06-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -445,7 +445,7 @@ TLLG 13630M001        001  2007 03 06 00 00 00  2019 01 03 00 00 00  TLLG*      
 TLMF 10003M010        001  2002 06 18 00 00 00                       TLMF*                 tlmf00fra_20251209.log
 TLSE 10003M009        001  2001 01 04 00 00 00                       TLSE*                 tlse00fra_20250820.log
 TLSG 10003M034        001  2014 02 12 00 00 00                       TLSG*                 tlsg00fra_20250826.log
-TOIL 10605S001        001  2007 11 22 10 45 00                       TOIL*                 toil00est_20250612.log
+TOIL 10605S001        001  2007 11 22 10 45 00  2026 06 10 11 00 00  TOIL*                 toil00est_20260610.log
 TOPP 14604M001        001  2019 07 23 10 00 00                       TOPP*                 topp00ita_20260316.log
 TOR1 17018M001        001  2015 01 15 00 00 00                       TOR1*                 tor100esp_20260310.log
 TOR2 10602M001        001  2011 07 27 13 00 00  2022 08 31 07 00 00  TOR2*                 tor200est_20220831.log
@@ -6442,7 +6442,7 @@ TOIL 10605S001        001  2022 08 09 12 00 00  2023 01 05 12 00 00  LEICA GR25 
 TOIL 10605S001        001  2023 01 05 12 00 00  2023 07 26 07 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOIL00EST  TOIL00EST               
 TOIL 10605S001        001  2023 07 26 07 00 00  2024 05 23 12 30 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOIL00EST  TOIL00EST               
 TOIL 10605S001        001  2024 05 23 12 30 00  2025 06 10 11 00 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOIL00EST  TOIL00EST               
-TOIL 10605S001        001  2025 06 10 11 00 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOIL00EST  TOIL00EST               
+TOIL 10605S001        001  2025 06 10 11 00 00  2026 06 10 11 00 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOIL00EST  TOIL00EST               
 TOPP 14604M001        001  2019 07 23 10 00 00  2023 11 17 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          TOPP00ITA  TOPP00ITA               
 TOPP 14604M001        001  2023 11 17 00 00 00  2024 03 01 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          TOPP00ITA  TOPP00ITA               
 TOPP 14604M001        001  2024 03 01 00 00 00  2026 03 16 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          TOPP00ITA  TOPP00ITA               
