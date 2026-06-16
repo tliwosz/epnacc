@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             16-06-2026 04:04
+BSW 5.4 station information file for EPN processing             16-06-2026 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -421,7 +421,7 @@ SUL5 10113M002        001  2011 06 28 00 00 00                       SUL5*      
 SULD 10113M001        001  1998 09 01 00 00 00                       SULD*                 suld00dnk_20260126.log
 SULP 12366M001        001  2001 06 10 00 00 00                       SULP*                 sulp00ukr_20250415.log
 SUN6 10440M002        001  2011 09 27 00 00 00                       SUN6*                 sun600swe_20260324.log
-SUR4 10601M002        001  2011 09 21 11 27 00                       SUR4*                 sur400est_20250612.log
+SUR4 10601M002        001  2011 09 21 11 27 00                       SUR4*                 sur400est_20260616.log
 SUUR 10601M001        001  1998 09 27 00 00 00  2011 09 21 12 00 00  SUUR*                 suur00est_20230516.log
 SVE6 10441M002        001  2011 07 08 00 00 00                       SVE6*                 sve600swe_20250827.log
 SVLL 18492M001        001  2018 06 04 00 00 00                       SVLL*                 svll00ita_20260414.log
@@ -449,7 +449,7 @@ TOIL 10605S001        001  2007 11 22 10 45 00  2026 06 10 11 00 00  TOIL*      
 TOPP 14604M001        001  2019 07 23 10 00 00                       TOPP*                 topp00ita_20260316.log
 TOR1 17018M001        001  2015 01 15 00 00 00                       TOR1*                 tor100esp_20260310.log
 TOR2 10602M001        001  2011 07 27 13 00 00  2022 08 31 07 00 00  TOR2*                 tor200est_20220831.log
-TOR3 10602M002        001  2022 10 07 09 00 00                       TOR3*                 tor300est_20250617.log
+TOR3 10602M002        001  2022 10 07 09 00 00                       TOR3*                 tor300est_20260616.log
 TORA 10602S001        001  2007 11 08 12 00 00  2011 07 27 12 00 00  TORA*                 tora00est_20220810.log
 TORI 12724M002        001  1996 06 15 00 00 00                       TORI*                 tori00ita_20240318.log
 TORN 10530M001        001  2014 01 02 12 00 00                       TORN*                 torn00fin_20260520.log
@@ -6130,7 +6130,8 @@ SUR4 10601M002        001  2022 08 09 12 00 00  2023 01 05 12 00 00  LEICA GR25 
 SUR4 10601M002        001  2023 01 05 12 00 00  2023 07 26 07 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          SUR400EST  SUR400EST               
 SUR4 10601M002        001  2023 07 26 07 00 00  2024 05 15 07 30 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          SUR400EST  SUR400EST               
 SUR4 10601M002        001  2024 05 15 07 30 00  2025 06 12 10 00 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          SUR400EST  SUR400EST               
-SUR4 10601M002        001  2025 06 12 10 00 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          SUR400EST  SUR400EST               
+SUR4 10601M002        001  2025 06 12 10 00 00  2026 06 16 07 30 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          SUR400EST  SUR400EST               
+SUR4 10601M002        001  2026 06 16 07 30 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          SUR400EST  SUR400EST               
 SUUR 10601M001        001  1998 09 27 00 00 00  1998 10 16 00 00 00  ASHTECH Z-XII3                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0000          SUUR00EST  SUUR00EST               
 SUUR 10601M001        001  1998 10 16 00 00 00  1999 08 18 00 00 00  ASHTECH Z-XII3                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0000          SUUR00EST  SUUR00EST               
 SUUR 10601M001        001  1999 08 18 00 00 00  1999 10 04 00 00 00  ASHTECH Z-XII3                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0000          SUUR00EST  SUUR00EST               
@@ -6486,7 +6487,8 @@ TOR3 10602M002        001  2022 10 14 08 00 00  2023 01 05 12 00 00  LEICA GR25 
 TOR3 10602M002        001  2023 01 05 12 00 00  2023 07 26 07 00 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOR300EST  TOR300EST               
 TOR3 10602M002        001  2023 07 26 07 00 00  2024 06 06 05 30 00  LEICA GR25                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOR300EST  TOR300EST               
 TOR3 10602M002        001  2024 06 06 05 30 00  2025 06 11 12 00 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOR300EST  TOR300EST               
-TOR3 10602M002        001  2025 06 11 12 00 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOR300EST  TOR300EST               
+TOR3 10602M002        001  2025 06 11 12 00 00  2026 06 16 07 30 00  LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOR300EST  TOR300EST               
+TOR3 10602M002        001  2026 06 16 07 30 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TOR300EST  TOR300EST               
 TORA 10602S001        001  2007 11 08 12 00 00  2008 05 26 09 36 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TORA00EST  TORA00EST               
 TORA 10602S001        001  2008 05 26 09 36 00  2009 06 11 06 52 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TORA00EST  TORA00EST               
 TORA 10602S001        001  2009 06 11 06 52 00  2010 05 04 08 48 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TORA00EST  TORA00EST               
