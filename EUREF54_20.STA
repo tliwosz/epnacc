@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             24-06-2026 09:04
+BSW 5.4 station information file for EPN processing             24-06-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -198,7 +198,7 @@ ISTA 20807M001        001  1999 12 11 00 00 00                       ISTA*      
 IZAN 31309M002        001  2008 05 16 00 00 00                       IZAN*                 izan00esp_20240411.log
 IZMI 20817M001        001  2008 08 10 00 00 00                       IZMI*                 izmi00tur_20250211.log
 IZRS 18115M002        001  2016 05 27 07 34 00  2022 03 01 07 00 00  IZRS*                 izrs00ukr_20240202.log
-JATE 14601M001        001  2019 07 18 12 30 00                       JATE*                 jate00ita_20260316.log
+JATE 14601M001        001  2019 07 18 12 30 00                       JATE*                 jate00ita_20260624.log
 JOE2 10512M002        001  2014 01 29 12 00 00                       JOE2*                 joe200fin_20260520.log
 JOEN 10512M001        001  1995 06 15 00 00 00                       JOEN*                 joen00fin_20260521.log
 JON6 10430M002        001  2011 06 16 00 00 00                       JON6*                 jon600swe_20250320.log
@@ -3137,7 +3137,8 @@ IZRS 18115M002        001  2018 11 02 10 40 00  2022 03 01 07 00 00  NOV OEMV3  
 JATE 14601M001        001  2019 07 18 12 30 00  2023 11 21 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          JATE00ITA  JATE00ITA               
 JATE 14601M001        001  2023 11 21 00 00 00  2024 02 27 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          JATE00ITA  JATE00ITA               
 JATE 14601M001        001  2024 02 27 00 00 00  2026 03 16 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          JATE00ITA  JATE00ITA               
-JATE 14601M001        001  2026 03 16 00 00 00                       LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          JATE00ITA  JATE00ITA               
+JATE 14601M001        001  2026 03 16 00 00 00  2026 06 24 00 00 00  LEICA GR30                                  999999  LEIAR20         NONE                        999999    0.0000    0.0000    0.0000          JATE00ITA  JATE00ITA               
+JATE 14601M001        001  2026 06 24 00 00 00                       LEICA GR30                                  999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0000          JATE00ITA  JATE00ITA               
 JOE2 10512M002        001  2014 01 29 12 00 00  2015 03 12 13 00 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          JOE200FIN  JOE200FIN               
 JOE2 10512M002        001  2015 03 12 13 00 00  2016 12 12 10 15 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          JOE200FIN  JOE200FIN               
 JOE2 10512M002        001  2016 12 12 10 15 00  2017 04 24 06 17 00  JAVAD TRE_G3TH DELTA                        999999  JAVRINGANT_DM   SCIS                        999999    0.0000    0.0000    0.0000          JOE200FIN  JOE200FIN               
