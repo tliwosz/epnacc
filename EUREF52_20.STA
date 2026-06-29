@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          27-06-2026 09:04
+Station information file for Bernese GNSS Software 5.2          29-06-2026 16:00
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -80,7 +80,7 @@ CAME 12754M001        001  2000 04 19 00 00 00  2009 12 13 00 00 00  CAME*      
 CANT 13438M001        001  2000 03 11 12 00 00                       CANT*                 cant00esp_20250624.log
 CARG 19412M001        001  2014 05 23 12 00 00                       CARG*                 carg00esp_20241021.log
 CASB 13619M002        001  2014 07 29 12 00 00  2019 12 05 00 00 00  CASB*                 casb00irl_20260413.log
-CASC 13909S001        001  1997 03 25 00 00 00                       CASC*                 casc00prt_20250723.log
+CASC 13909S001        001  1997 03 25 00 00 00                       CASC*                 casc00prt_20260629.log
 CASE 13494M001        001  2005 09 28 00 00 00                       CASE*                 case00esp_20240909.log
 CEBR 13408M001        001  2005 08 29 00 00 00                       CEBR*                 cebr00esp_20251110.log
 CEU1 13449M002        001  2007 05 25 00 00 00                       CEU1*                 ceu100esp_20230831.log
