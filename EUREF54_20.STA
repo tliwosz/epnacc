@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             22-07-2026 13:04
+BSW 5.4 station information file for EPN processing             22-07-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -324,7 +324,7 @@ ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*      
 OROS 11207M001        001  2001 09 20 00 00 00                       OROS*                 oros00hun_20221118.log
 ORTE 14602M001        001  2019 07 30 11 30 00                       ORTE*                 orte00ita_20260316.log
 OSJE 11902M001        001  2000 09 18 00 00 00  2013 04 05 00 00 00  OSJE*                 osje00hrv_20250622.log
-OSK6 10435M002        001  2011 06 18 00 00 00                       OSK6*                 osk600swe_20250416.log
+OSK6 10435M002        001  2011 06 18 00 00 00                       OSK6*                 osk600swe_20260722.log
 OSLO 10307M001        001  1995 10 05 00 00 00  2000 05 16 13 15 00  OSLO*                 oslo00nor_20241018.log
 OSLS 10307M001        001  1995 10 05 00 00 00                       OSLS*                 osls00nor_20260612.log
 OST6 10436M002        001  2011 07 08 00 00 00                       OST6*                 ost600swe_20260716.log
@@ -480,7 +480,7 @@ UZHL 12301M001        001  1999 02 05 00 00 00                       UZHL*      
 VAA2 10511M002        001  2014 01 02 12 00 00                       VAA2*                 vaa200fin_20260520.log
 VAAS 10511M001        001  1995 04 07 00 00 00                       VAAS*                 vaas00fin_20260521.log
 VACO 11516M001        001  2004 10 20 12 00 00                       VACO*                 vaco00cze_20200219.log
-VAE6 10443M002        001  2011 08 25 00 00 00                       VAE6*                 vae600swe_20250407.log
+VAE6 10443M002        001  2011 08 25 00 00 00                       VAE6*                 vae600swe_20260722.log
 VAIN 10736M001        001  2015 10 13 00 00 00                       VAIN*                 vain00lva_20240202.log
 VALA 13463M002        001  2007 10 30 00 00 00                       VALA*                 vala00esp_20240229.log
 VALE 13439M001        001  1999 12 16 12 00 00                       VALE*                 vale00esp_20241008.log
