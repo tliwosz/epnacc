@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             24-07-2026 04:04
+BSW 5.4 station information file for EPN processing             24-07-2026 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -165,7 +165,7 @@ GSR1 14501M001        001  2000 02 01 12 00 00                       GSR1*      
 GUIP 10004M501        001  2002 10 18 00 00 00                       GUIP*                 guip00fra_20251209.log
 GVDG 12618M003        001  2023 09 21 00 00 00                       GVDG*                 gvdg00grc_20250826.log
 GWWL 12225M001        001  2007 12 10 00 00 00                       GWWL*                 gwwl00pol_20251024.log
-HAS6 10429M002        001  2011 06 15 00 00 00                       HAS6*                 has600swe_20250320.log
+HAS6 10429M002        001  2011 06 15 00 00 00                       HAS6*                 has600swe_20260724.log
 HEL2 14264M002        001  2005 09 08 12 00 00                       HEL2*                 hel200deu_20260527.log
 HELG 14264M001        001  1999 11 09 00 00 00                       HELG*                 helg00deu_20260417.log
 HERS 13212M007        001  1992 03 24 00 00 00                       HERS*                 hers00gbr_20260604.log
