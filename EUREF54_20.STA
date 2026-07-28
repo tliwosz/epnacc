@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             28-07-2026 04:04
+BSW 5.4 station information file for EPN processing             28-07-2026 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -50,7 +50,7 @@ BOGI 12207M003        001  2001 10 01 00 00 00                       BOGI*      
 BOGO 12207M002        001  1996 06 08 00 00 00                       BOGO*                 bogo00pol_20250317.log
 BOLG 12771M001        001  1999 05 14 00 00 00                       BOLG*                 bolg00ita_20230628.log
 BOR1 12205M002        001  1994 01 10 00 00 00                       BOR1*                 bor100pol_20250403.log
-BORJ 14268M002        001  2005 06 09 10 00 00                       BORJ*                 borj00deu_20260311.log
+BORJ 14268M002        001  2005 06 09 10 00 00                       BORJ*                 borj00deu_20260728.log
 BORK 14268M001        001  2000 09 29 00 00 00  2007 06 04 00 00 00  BORK*                 bork00deu_20230601.log
 BORR 13480M001        001  2005 04 27 16 15 00                       BORR*                 borr00esp_20260727.log
 BPDL 12223M001        001  2007 12 04 12 00 00                       BPDL*                 bpdl00pol_20251024.log
@@ -152,7 +152,7 @@ GELL 10908M001        001  2007 11 07 14 00 00                       GELL*      
 GENO 12712M002        001  1998 07 23 00 00 00                       GENO*                 geno00ita_20260312.log
 GJML 12121M001        001  2010 01 15 12 43 00                       GJML*                 gjml00srb_20230221.log
 GLSV 12356M001        001  1997 12 16 00 00 00                       GLSV*                 glsv00ukr_20200508.log
-GOET 10906M001        001  2006 12 12 08 00 00                       GOET*                 goet00deu_20260311.log
+GOET 10906M001        001  2006 12 12 08 00 00                       GOET*                 goet00deu_20260728.log
 GOML 14803M001        001  2010 07 12 00 00 00                       GOML*                 goml00blr_20240808.log
 GOP6 11502M006        001  2011 12 21 00 00 00                       GOP6*                 gop600cze_20260331.log
 GOPE 11502M002        001  1995 05 13 00 00 00                       GOPE*                 gope00cze_20260331.log
@@ -2523,7 +2523,8 @@ GOET 10906M001        001  2023 02 08 09 10 00  2024 02 15 08 01 00  JAVAD TRE_3
 GOET 10906M001        001  2024 02 15 08 01 00  2024 07 10 08 00 00  JAVAD TRE_3 DELTA                           999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0456          GOET00DEU  GOET00DEU               
 GOET 10906M001        001  2024 07 10 08 00 00  2025 05 02 09 10 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0456          GOET00DEU  GOET00DEU               
 GOET 10906M001        001  2025 05 02 09 10 00  2026 03 11 10 46 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0456          GOET00DEU  GOET00DEU               
-GOET 10906M001        001  2026 03 11 10 46 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0456          GOET00DEU  GOET00DEU               
+GOET 10906M001        001  2026 03 11 10 46 00  2026 07 14 12 00 00  JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0456          GOET00DEU  GOET00DEU               
+GOET 10906M001        001  2026 07 14 12 00 00                       JAVAD TRE_3S DELTA                          999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0456          GOET00DEU  GOET00DEU               
 GOML 14803M001        001  2010 07 12 00 00 00  2014 07 23 09 00 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3040          GOML00BLR  GOML00BLR               
 GOML 14803M001        001  2014 07 23 09 00 00  2015 09 16 10 00 00  LEICA GR10                                  999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3040          GOML00BLR  GOML00BLR               
 GOML 14803M001        001  2015 09 16 10 00 00  2019 01 17 09 58 00  LEICA GRX1200+GNSS                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.3040          GOML00BLR  GOML00BLR               
