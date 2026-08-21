@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             21-08-2026 04:04
+BSW 5.4 station information file for EPN processing             21-08-2026 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -447,7 +447,7 @@ TLSE 10003M009        001  2001 01 04 00 00 00                       TLSE*      
 TLSG 10003M034        001  2014 02 12 00 00 00                       TLSG*                 tlsg00fra_20250826.log
 TOIL 10605S001        001  2007 11 22 10 45 00  2026 06 10 11 00 00  TOIL*                 toil00est_20260817.log
 TOPP 14604M001        001  2019 07 23 10 00 00                       TOPP*                 topp00ita_20260316.log
-TOR1 17018M001        001  2015 01 15 00 00 00                       TOR1*                 tor100esp_20260814.log
+TOR1 17018M001        001  2015 01 15 00 00 00                       TOR1*                 tor100esp_20260817.log
 TOR2 10602M001        001  2011 07 27 13 00 00  2022 08 31 07 00 00  TOR2*                 tor200est_20260817.log
 TOR3 10602M002        001  2022 10 07 09 00 00                       TOR3*                 tor300est_20260817.log
 TORA 10602S001        001  2007 11 08 12 00 00  2011 07 27 12 00 00  TORA*                 tora00est_20260817.log
