@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             02-09-2026 16:04
+BSW 5.4 station information file for EPN processing             03-09-2026 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -145,7 +145,7 @@ FUN1 13911M002        001  2026 03 16 09 08 00                       FUN1*      
 FUNC 13911S001        001  2006 07 21 00 00 00  2026 05 14 11 00 00  FUNC*                 func00prt_20260630.log
 GAIA 13902M001        001  2000 01 02 14 35 00                       GAIA*                 gaia00prt_20260629.log
 GALH 18490M001        001  2018 05 24 00 00 00                       GALH*                 galh00ita_20260611.log
-GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp00svk_20260818.log
+GANP 11515M001        001  2003 07 01 15 35 00                       GANP*                 ganp00svk_20260820.log
 GARI 19517M001        001  2009 04 01 00 00 00                       GARI*                 gari00ita_20260819.log
 GDRS 15595M001        001  2014 11 28 10 55 00  2024 07 18 07 20 00  GDRS*                 gdrs00ukr_20240724.log
 GELL 10908M001        001  2007 11 07 14 00 00                       GELL*                 gell00deu_20260311.log
@@ -208,7 +208,7 @@ KAD6 10431M002        001  2011 06 15 00 00 00                       KAD6*      
 KARL 14216M001        001  1997 03 20 00 00 00                       KARL*                 karl00deu_20260311.log
 KATO 12219S001        001  2003 01 30 00 00 00                       KATO*                 kato00pol_20260421.log
 KDA2 14504M002        001  2016 01 02 10 00 00                       KDA2*                 kda200svn_20251105.log
-KELY 43005M002        001  1995 07 23 00 00 00                       KELY*                 kely00grl_20260808.log
+KELY 43005M002        001  1995 07 23 00 00 00                       KELY*                 kely00grl_20260820.log
 KEV2 10515M002        001  2014 01 29 12 00 00                       KEV2*                 kev200fin_20260520.log
 KHAR 12314M001        001  2002 11 25 13 00 00                       KHAR*                 khar00ukr_20171011.log
 KILP 10525M001        001  2014 01 29 12 00 00                       KILP*                 kilp00fin_20260520.log
@@ -319,7 +319,7 @@ OBET 14208M004        001  2002 04 30 15 30 00  2005 05 09 00 00 00  OBET*      
 OLK2 10518M002        001  2014 01 29 12 00 00                       OLK2*                 olk200fin_20260520.log
 ONS1 10402M007        001  2012 01 28 00 00 00                       ONS1*                 ons100swe_20260715.log
 ONSA 10402M004        001  1993 07 01 00 00 00                       ONSA*                 onsa00swe_20260715.log
-ORID 15601M001        001  2000 07 20 00 00 00                       ORID*                 orid00mkd_20260813.log
+ORID 15601M001        001  2000 07 20 00 00 00                       ORID*                 orid00mkd_20260820.log
 ORIV 10527M001        001  2014 01 02 12 00 00                       ORIV*                 oriv00fin_20260520.log
 OROS 11207M001        001  2001 09 20 00 00 00                       OROS*                 oros00hun_20221118.log
 ORTE 14602M001        001  2019 07 30 11 30 00                       ORTE*                 orte00ita_20260316.log
