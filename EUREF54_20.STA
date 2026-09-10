@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             09-09-2026 16:04
+BSW 5.4 station information file for EPN processing             10-09-2026 04:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -159,8 +159,8 @@ GOPE 11502M002        001  1995 05 13 00 00 00                       GOPE*      
 GOR2 14115M002        001  2008 04 15 12 00 00                       GOR2*                 gor200deu_20260311.log
 GRAC 10002M010        001  1998 11 27 10 00 00                       GRAC*                 grac00fra_20251208.log
 GRAS 10002M006        001  1995 02 22 00 00 00                       GRAS*                 gras00fra_20230713.log
-GRAZ 11001M002        001  1992 06 12 12 00 00                       GRAZ*                 graz00aut_20260212.log
-GRZ2 11001S003        001  2026 05 11 10 00 00                       GRZ2*                 grz200aut_20260903.log
+GRAZ 11001M002        001  1992 06 12 12 00 00  2026 09 08 09 00 00  GRAZ*                 graz00aut_20260909.log
+GRZ2 11001S003        001  2026 05 11 11 15 00                       GRZ2*                 grz200aut_20260909.log
 GSR1 14501M001        001  2000 02 01 12 00 00                       GSR1*                 gsr100svn_20250905.log
 GUIP 10004M501        001  2002 10 18 00 00 00                       GUIP*                 guip00fra_20251209.log
 GVDG 12618M003        001  2023 09 21 00 00 00                       GVDG*                 gvdg00grc_20250826.log
@@ -434,7 +434,7 @@ TARS 12773S001        001  2004 05 05 12 00 00  2005 04 13 00 00 00  TARS*      
 TEOS 14671M001        001  2021 06 18 10 00 00                       TEOS*                 teos00ita_20260316.log
 TER2 15541M002        001  2013 07 16 11 00 00                       TER2*                 ter200ukr_20250811.log
 TERC 31909M001        001  2008 09 18 16 10 00                       TERC*                 terc00prt_20240711.log
-TERS 13534M001        001  1996 10 30 14 00 00                       TERS*                 ters00nld_20230417.log
+TERS 13534M001        001  1996 10 30 14 00 00                       TERS*                 ters00nld_20260909.log
 TERU 13487M001        001  2008 03 06 00 00 00                       TERU*                 teru00esp_20240607.log
 THU1 43001M001        001  1995 05 02 00 00 00  2003 01 12 00 00 00  THU1*                 thu100grl_20210505.log
 THU2 43001M002        001  1998 10 26 00 00 00                       THU2*                 thu200grl_20260327.log
@@ -2692,8 +2692,9 @@ GRAZ 11001M002        001  2021 11 03 07 24 00  2022 09 20 06 19 00  SEPT POLARX
 GRAZ 11001M002        001  2022 09 20 06 19 00  2025 04 17 00 00 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    1.9640          GRAZ00AUT  GRAZ00AUT               
 GRAZ 11001M002        001  2025 04 17 00 00 00  2025 09 11 06 37 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    1.9640          GRAZ00AUT  GRAZ00AUT               
 GRAZ 11001M002        001  2025 09 11 06 37 00  2026 02 12 07 32 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    1.9640          GRAZ00AUT  GRAZ00AUT               
-GRAZ 11001M002        001  2026 02 12 07 32 00                       SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    1.9640          GRAZ00AUT  GRAZ00AUT               
-GRZ2 11001S003        001  2026 05 11 10 00 00                       LEICA GR30                                  999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0500          GRZ200AUT  GRZ200AUT               
+GRAZ 11001M002        001  2026 02 12 07 32 00  2026 09 08 09 00 00  SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    1.9640          GRAZ00AUT  GRAZ00AUT               
+GRZ2 11001S003        001  2026 05 11 11 15 00  2026 09 08 09 05 00  LEICA GR30                                  999999  TPSCR.G3        TPSH                        999999    0.0000    0.0000    0.0500          GRZ200AUT  GRZ200AUT               
+GRZ2 11001S003        001  2026 09 08 09 05 00                       SEPT POLARX5                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0500          GRZ200AUT  GRZ200AUT               
 GSR1 14501M001        001  2000 02 01 12 00 00  2001 04 25 12 35 00  LEICA SR9500                                999999  LEIAT303        LEIC                        999999    0.0000    0.0000    0.0700     1.0  GSR100SVN  GSR100SVN               
 GSR1 14501M001        001  2001 04 25 12 35 00  2001 12 22 10 00 00  LEICA SR9500                                999999  LEIAT302-GP     NONE                        999999    0.0000    0.0000    0.0650     1.0  GSR100SVN  GSR100SVN               
 GSR1 14501M001        001  2001 12 22 10 00 00  2008 09 19 17 00 00  LEICA RS500                                 999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0650     1.0  GSR100SVN  GSR100SVN               
@@ -6284,7 +6285,8 @@ TERS 13534M001        001  2017 08 07 12 27 00  2018 12 17 12 40 00  SEPT POLARX
 TERS 13534M001        001  2018 12 17 12 40 00  2020 06 10 08 25 00  SEPT POLARX4                                999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TERS00NLD  TERS00NLD               
 TERS 13534M001        001  2020 06 10 08 25 00  2020 11 20 14 30 00  SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TERS00NLD  TERS00NLD               
 TERS 13534M001        001  2020 11 20 14 30 00  2022 11 25 14 45 00  SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TERS00NLD  TERS00NLD               
-TERS 13534M001        001  2022 11 25 14 45 00                       SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TERS00NLD  TERS00NLD               
+TERS 13534M001        001  2022 11 25 14 45 00  2026 09 09 17 05 00  SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TERS00NLD  TERS00NLD               
+TERS 13534M001        001  2026 09 09 17 05 00                       SEPT POLARX5E                               999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0000          TERS00NLD  TERS00NLD               
 TERU 13487M001        001  2008 03 06 00 00 00  2008 11 27 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0600          TERU00ESP  TERU00ESP               
 TERU 13487M001        001  2008 11 27 00 00 00  2009 04 23 00 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0600          TERU00ESP  TERU00ESP               
 TERU 13487M001        001  2009 04 23 00 00 00  2009 07 22 10 00 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0600          TERU00ESP  TERU00ESP               
