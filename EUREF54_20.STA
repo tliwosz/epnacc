@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             10-09-2026 13:04
+BSW 5.4 station information file for EPN processing             10-09-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -346,7 +346,7 @@ PINS 14808M001        001  2011 04 20 10 58 00                       PINS*      
 PLN2 12111M003        001  2023 11 12 00 00 00                       PLN2*                 pln200srb_20260515.log
 PLND 12111M001        001  2011 01 18 12 00 00  2023 08 30 12 00 00  PLND*                 plnd00srb_20231225.log
 PLYM 13229S001        001  2002 01 23 00 00 00  2004 02 12 23 59 00  PLYM*                 plym00gbr_20250811.log
-PMTH 13229M001        001  2004 02 13 00 00 00                       PMTH*                 pmth00gbr_20251111.log
+PMTH 13229M001        001  2004 02 13 00 00 00                       PMTH*                 pmth00gbr_20260910.log
 POLV 12336M001        001  2001 04 26 16 45 00                       POLV*                 polv00ukr_20250613.log
 POPI 14670M001        001  2021 07 01 10 00 00                       POPI*                 popi00ita_20260316.log
 PORE 11907M001        001  2008 12 09 00 00 00                       PORE*                 pore00hrv_20260226.log
@@ -5134,7 +5134,8 @@ PMTH 13229M001        001  2021 02 04 14 50 00  2021 02 05 00 00 00  SEPT POLARX
 PMTH 13229M001        001  2021 02 05 00 00 00  2021 04 27 00 00 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          PMTH00GBR  PMTH00GBR               
 PMTH 13229M001        001  2021 04 27 00 00 00  2022 09 02 08 30 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          PMTH00GBR  PMTH00GBR               
 PMTH 13229M001        001  2022 09 02 08 30 00  2025 11 11 11 41 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          PMTH00GBR  PMTH00GBR               
-PMTH 13229M001        001  2025 11 11 11 41 00                       SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          PMTH00GBR  PMTH00GBR               
+PMTH 13229M001        001  2025 11 11 11 41 00  2026 09 10 14 27 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          PMTH00GBR  PMTH00GBR               
+PMTH 13229M001        001  2026 09 10 14 27 00                       SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.0000          PMTH00GBR  PMTH00GBR               
 POLV 12336M001        001  2001 04 26 16 45 00  2013 02 13 11 00 00  TRIMBLE 4700                                999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0000   120.0  POLV00UKR  POLV00UKR               
 POLV 12336M001        001  2013 02 13 11 00 00  2013 02 18 10 07 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0700          POLV00UKR  POLV00UKR               
 POLV 12336M001        001  2013 02 18 10 07 00  2013 06 11 10 16 00  LEICA GR10                                  999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0700          POLV00UKR  POLV00UKR               
