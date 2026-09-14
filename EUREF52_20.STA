@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          14-09-2026 13:04
+Station information file for Bernese GNSS Software 5.2          14-09-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -403,7 +403,7 @@ SMID 10114M001        001  1998 11 18 00 00 00  2022 08 10 08 00 00  SMID*      
 SMLA 15503M001        001  2008 11 20 08 30 00                       SMLA*                 smla00ukr_20250613.log
 SMNE 10001M007        001  2000 11 16 00 00 00  2022 03 01 10 00 00  SMNE*                 smne00fra_20220301.log
 SNEC 11519M001        001  2001 10 23 12 00 00  2009 06 10 00 00 00  SNEC*                 snec00cze_20250724.log
-SNEO 19135M002        001  2009 05 13 13 00 00                       SNEO*                 sneo00gbr_20251111.log
+SNEO 19135M002        001  2009 05 13 13 00 00                       SNEO*                 sneo00gbr_20260914.log
 SNIK 14661M001        001  2021 10 24 09 00 00                       SNIK*                 snik00ita_20240318.log
 SOD3 10513M002        001  2013 12 19 12 00 00                       SOD3*                 sod300fin_20260526.log
 SODA 10513M001        001  1994 08 15 00 00 00                       SODA*                 soda00fin_20260521.log
@@ -5890,7 +5890,8 @@ SNEO 19135M002        001  2021 02 05 00 00 00  2021 02 08 16 25 00  SEPT POLARX
 SNEO 19135M002        001  2021 02 08 16 25 00  2021 03 13 00 00 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.8742  SNEO00GBR               
 SNEO 19135M002        001  2021 03 13 00 00 00  2022 09 02 10 30 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.8742  SNEO00GBR               
 SNEO 19135M002        001  2022 09 02 10 30 00  2025 11 11 12 18 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.8742  SNEO00GBR               
-SNEO 19135M002        001  2025 11 11 12 18 00                       SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.8742  SNEO00GBR               
+SNEO 19135M002        001  2025 11 11 12 18 00  2026 09 14 11 24 00  SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.8742  SNEO00GBR               
+SNEO 19135M002        001  2026 09 14 11 24 00                       SEPT POLARX5                                999999  LEIAR25         LEIT                        999999    0.0000    0.0000    0.8742  SNEO00GBR               
 SNIK 14661M001        001  2021 10 24 09 00 00  2023 04 26 07 50 00  STONEX SC2200                               999999  STXSA1500       STXG                        999999    0.0000    0.0000    0.0000  SNIK00ITA               
 SNIK 14661M001        001  2023 04 26 07 50 00  2024 03 05 08 49 00  STONEX SC2200                               999999  STXSA1500       STXG                        999999    0.0000    0.0000    0.0000  SNIK00ITA               
 SNIK 14661M001        001  2024 03 05 08 49 00                       STONEX SC2200                               999999  STXSA1500       STXG                        999999    0.0000    0.0000    0.0000  SNIK00ITA               
