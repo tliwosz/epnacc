@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             15-09-2026 13:04
+BSW 5.4 station information file for EPN processing             15-09-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -38,7 +38,7 @@ BADH 14288M001        001  2005 02 28 12 00 00                       BADH*      
 BAIA 11406M001        001  2005 06 10 12 00 00                       BAIA*                 baia00rou_20260428.log
 BAUT 14102M001        001  2018 09 26 10 00 00                       BAUT*                 baut00deu_20260730.log
 BBYS 11514M001        001  2001 04 01 06 00 00                       BBYS*                 bbys00svk_20260818.log
-BCLN 13412M001        001  2012 01 31 12 00 00                       BCLN*                 bcln00esp_20230720.log
+BCLN 13412M001        001  2012 01 31 12 00 00                       BCLN*                 bcln00esp_20260915.log
 BELF 13240M001        001  2000 11 07 00 00 00  2016 04 07 00 00 00  BELF*                 belf00gbr_20241112.log
 BELL 13431M001        001  1997 05 13 00 00 00                       BELL*                 bell00esp_20240909.log
 BFST 15202M001        001  2019 05 15 15 00 00                       BFST*                 bfst00gbr_20260821.log
@@ -933,7 +933,8 @@ BCLN 13412M001        001  2020 03 25 12 00 00  2021 04 07 00 00 00  LEICA GR10 
 BCLN 13412M001        001  2021 04 07 00 00 00  2023 06 12 13 00 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0776          BCLN00ESP  BCLN00ESP               
 BCLN 13412M001        001  2023 06 12 13 00 00  2023 06 21 12 00 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0776          BCLN00ESP  BCLN00ESP               
 BCLN 13412M001        001  2023 06 21 12 00 00  2023 07 18 12 00 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0776          BCLN00ESP  BCLN00ESP               
-BCLN 13412M001        001  2023 07 18 12 00 00                       LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0776          BCLN00ESP  BCLN00ESP               
+BCLN 13412M001        001  2023 07 18 12 00 00  2026 09 15 18 00 00  LEICA GR10                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0776          BCLN00ESP  BCLN00ESP               
+BCLN 13412M001        001  2026 09 15 18 00 00                       LEICA GR50                                  999999  LEIAR25.R4      LEIT                        999999    0.0000    0.0000    0.0776          BCLN00ESP  BCLN00ESP               
 BELF 13240M001        001  2000 11 07 00 00 00  2002 09 26 00 00 00  LEICA CRS1000                               999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000          BELF00GBR  BELF00GBR               
 BELF 13240M001        001  2002 09 26 00 00 00  2003 06 09 00 00 00  LEICA RS500                                 999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000          BELF00GBR  BELF00GBR               
 BELF 13240M001        001  2003 06 09 00 00 00  2004 08 04 00 00 00  LEICA RS500                                 999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0000          BELF00GBR  BELF00GBR               
