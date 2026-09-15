@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          15-09-2026 04:04
+Station information file for Bernese GNSS Software 5.2          15-09-2026 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -98,7 +98,7 @@ COST 11407M001        001  2004 08 28 12 00 00                       COST*      
 CPAR 11527M001        001  2005 01 11 00 00 00                       CPAR*                 cpar00cze_20250218.log
 CRAK 11528M001        001  2005 04 19 00 00 00                       CRAK*                 crak00cze_20250724.log
 CREI 10016M001        001  2003 07 07 00 00 00  2018 03 01 09 00 00  CREI*                 crei00fra_20241014.log
-CREU 13432M001        001  1997 06 18 00 00 00                       CREU*                 creu00esp_20240913.log
+CREU 13432M001        001  1997 06 18 00 00 00                       CREU*                 creu00esp_20260915.log
 CTAB 11529M001        001  2005 01 14 00 00 00                       CTAB*                 ctab00cze_20250218.log
 CUGA 18494M001        001  2018 09 27 00 00 00                       CUGA*                 cuga00ita_20260611.log
 DARE 13208S001        001  2000 04 10 00 00 00                       DARE*                 dare00gbr_20260604.log
@@ -1724,7 +1724,8 @@ CREU 13432M001        001  2018 05 31 12 49 00  2019 03 29 10 15 00  LEICA GR50 
 CREU 13432M001        001  2019 03 29 10 15 00  2022 12 14 13 21 00  LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770  CREU00ESP               
 CREU 13432M001        001  2022 12 14 13 21 00  2023 11 13 21 18 00  LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770  CREU00ESP               
 CREU 13432M001        001  2023 11 13 21 18 00  2024 09 13 01 16 00  LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770  CREU00ESP               
-CREU 13432M001        001  2024 09 13 01 16 00                       LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770  CREU00ESP               
+CREU 13432M001        001  2024 09 13 01 16 00  2026 09 14 12 35 00  LEICA GR50                                  999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770  CREU00ESP               
+CREU 13432M001        001  2026 09 14 12 35 00                       TRIMBLE NETR9                               999999  LEIAR25.R4      NONE                        999999    0.0000    0.0000    0.0770  CREU00ESP               
 CTAB 11529M001        001  2005 01 14 00 00 00  2005 08 04 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0688  CTAB00CZE               
 CTAB 11529M001        001  2005 08 04 00 00 00  2006 08 05 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0688  CTAB00CZE               
 CTAB 11529M001        001  2006 08 05 00 00 00  2007 07 31 00 00 00  LEICA GRX1200PRO                            999999  LEIAT504        LEIS                        999999    0.0000    0.0000    0.0688  CTAB00CZE               
