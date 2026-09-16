@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             16-09-2026 13:04
+BSW 5.4 station information file for EPN processing             16-09-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -389,7 +389,7 @@ SASS 14281M001        001  2002 12 12 12 00 00  2019 02 28 23 59 00  SASS*      
 SAVU 10529M001        001  2014 01 29 12 00 00                       SAVU*                 savu00fin_20260520.log
 SBG2 11031M002        001  2008 01 29 12 50 00                       SBG2*                 sbg200aut_20260907.log
 SBGZ 11031S001        001  1998 12 21 12 00 00  2008 01 29 12 50 00  SBGZ*                 sbgz00aut_20230421.log
-SCIL 19201M001        001  2010 08 18 10 00 00                       SCIL*                 scil00gbr_20251111.log
+SCIL 19201M001        001  2010 08 18 10 00 00                       SCIL*                 scil00gbr_20260916.log
 SCOA 10088M002        001  2005 12 14 12 00 00                       SCOA*                 scoa00fra_20251209.log
 SCOR 43006M002        001  2004 09 12 00 00 00                       SCOR*                 scor00grl_20260327.log
 SFER 13402M004        001  1995 12 18 00 00 00                       SFER*                 sfer00esp_20250811.log
@@ -5680,7 +5680,8 @@ SCIL 19201M001        001  2021 02 05 23 59 00  2021 02 08 16 10 00  SEPT POLARX
 SCIL 19201M001        001  2021 02 08 16 10 00  2021 03 13 00 00 00  SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0500  -130.0  SCIL00GBR  SCIL00GBR               
 SCIL 19201M001        001  2021 03 13 00 00 00  2022 09 02 10 00 00  SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0500  -130.0  SCIL00GBR  SCIL00GBR               
 SCIL 19201M001        001  2022 09 02 10 00 00  2025 11 11 12 12 00  SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0500  -130.0  SCIL00GBR  SCIL00GBR               
-SCIL 19201M001        001  2025 11 11 12 12 00                       SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0500  -130.0  SCIL00GBR  SCIL00GBR               
+SCIL 19201M001        001  2025 11 11 12 12 00  2026 09 16 09 08 00  SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0500  -130.0  SCIL00GBR  SCIL00GBR               
+SCIL 19201M001        001  2026 09 16 09 08 00                       SEPT POLARX5                                999999  LEIAR10         NONE                        999999    0.0000    0.0000    0.0500  -130.0  SCIL00GBR  SCIL00GBR               
 SCOA 10088M002        001  2005 12 14 12 00 00  2009 09 08 12 00 00  ASHTECH UZ-12                               999999  LEIAT504        NONE                        999999    0.0000    0.0000    0.0000          SCOA00FRA  SCOA00FRA               
 SCOA 10088M002        001  2009 09 08 12 00 00  2011 03 24 07 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SCOA00FRA  SCOA00FRA               
 SCOA 10088M002        001  2011 03 24 07 00 00  2011 08 29 05 00 00  TRIMBLE NETR5                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SCOA00FRA  SCOA00FRA               
