@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             23-09-2026 04:04
+BSW 5.4 station information file for EPN processing             23-09-2026 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -153,7 +153,7 @@ GENO 12712M002        001  1998 07 23 00 00 00                       GENO*      
 GJML 12121M001        001  2010 01 15 12 43 00                       GJML*                 gjml00srb_20230221.log
 GLSV 12356M001        001  1997 12 16 00 00 00                       GLSV*                 glsv00ukr_20200508.log
 GOET 10906M001        001  2006 12 12 08 00 00                       GOET*                 goet00deu_20260728.log
-GOML 14803M001        001  2010 07 12 00 00 00                       GOML*                 goml00blr_20240808.log
+GOML 14803M001        001  2010 07 12 00 00 00                       GOML*                 goml00blr_20260923.log
 GOP6 11502M006        001  2011 12 21 00 00 00                       GOP6*                 gop600cze_20260827.log
 GOPE 11502M002        001  1995 05 13 00 00 00                       GOPE*                 gope00cze_20260827.log
 GOR2 14115M002        001  2008 04 15 12 00 00                       GOR2*                 gor200deu_20260311.log
@@ -447,7 +447,7 @@ TLSE 10003M009        001  2001 01 04 00 00 00                       TLSE*      
 TLSG 10003M034        001  2014 02 12 00 00 00                       TLSG*                 tlsg00fra_20250826.log
 TOIL 10605S001        001  2007 11 22 10 45 00  2026 06 10 11 00 00  TOIL*                 toil00est_20260817.log
 TOPP 14604M001        001  2019 07 23 10 00 00                       TOPP*                 topp00ita_20260316.log
-TOR1 17018M001        001  2015 01 15 00 00 00                       TOR1*                 tor100esp_20260817.log
+TOR1 17018M001        001  2015 01 15 00 00 00                       TOR1*                 tor100esp_20260923.log
 TOR2 10602M001        001  2011 07 27 13 00 00  2022 08 31 07 00 00  TOR2*                 tor200est_20260817.log
 TOR3 10602M002        001  2022 10 07 09 00 00                       TOR3*                 tor300est_20260817.log
 TORA 10602S001        001  2007 11 08 12 00 00  2011 07 27 12 00 00  TORA*                 tora00est_20260817.log
@@ -6499,7 +6499,8 @@ TOR1 17018M001        001  2022 03 29 00 00 00  2023 06 02 00 00 00  SEPT ASTERX
 TOR1 17018M001        001  2023 06 02 00 00 00  2024 06 25 00 00 00  SEPT ASTERX-M3                              999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          TOR100ESP  TOR100ESP               
 TOR1 17018M001        001  2024 06 25 00 00 00  2026 03 10 11 00 00  SEPT ASTERX-M3                              999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          TOR100ESP  TOR100ESP               
 TOR1 17018M001        001  2026 03 10 11 00 00  2026 08 14 09 30 00  SEPT ASTERX-M3                              999999  NOV702GG        NONE                        999999    0.0000    0.0000    0.0000          TOR100ESP  TOR100ESP               
-TOR1 17018M001        001  2026 08 14 09 30 00                       SEPT ASTERX-M3                              999999  SEPPOLANT_X_MF  NONE                        999999    0.0000    0.0000    0.0000          TOR100ESP  TOR100ESP               
+TOR1 17018M001        001  2026 08 14 09 30 00  2026 09 09 12 00 00  SEPT ASTERX-M3                              999999  SEPPOLANT_X_MF  NONE                        999999    0.0000    0.0000    0.0000          TOR100ESP  TOR100ESP               
+TOR1 17018M001        001  2026 09 09 12 00 00                       SEPT ASTERX-M3                              999999  SEPPOLANT_X_MF  NONE                        999999    0.0000    0.0000    0.0000          TOR100ESP  TOR100ESP               
 TOR2 10602M001        001  2011 07 27 13 00 00  2011 08 04 07 15 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TOR200EST  TOR200EST               
 TOR2 10602M001        001  2011 08 04 07 15 00  2011 08 29 07 32 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TOR200EST  TOR200EST               
 TOR2 10602M001        001  2011 08 29 07 32 00  2011 09 27 13 29 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          TOR200EST  TOR200EST               
