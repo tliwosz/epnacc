@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          29-09-2026 13:04
+Station information file for Bernese GNSS Software 5.2          29-09-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -3875,7 +3875,8 @@ LINZ 11033S001        001  2021 05 07 08 15 00  2021 11 04 09 01 00  TRIMBLE NET
 LINZ 11033S001        001  2021 11 04 09 01 00  2023 06 19 09 00 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  LINZ00AUT               
 LINZ 11033S001        001  2023 06 19 09 00 00  2023 06 19 09 01 00  TRIMBLE NETR9                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  LINZ00AUT               
 LINZ 11033S001        001  2023 06 19 09 01 00  2025 08 21 09 05 00  TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  LINZ00AUT               
-LINZ 11033S001        001  2025 08 21 09 05 00                       TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  LINZ00AUT               
+LINZ 11033S001        001  2025 08 21 09 05 00  2026 09 29 11 30 00  TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  LINZ00AUT               
+LINZ 11033S001        001  2026 09 29 11 30 00                       TRIMBLE ALLOY                               999999  TRM59900.00     SCIS                        999999    0.0000    0.0000    0.0000  LINZ00AUT               
 LLIV 13436M001        001  1999 05 04 14 00 00  1999 11 09 13 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0540  LLIV00ESP               
 LLIV 13436M001        001  1999 11 09 13 00 00  2001 04 26 14 00 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0540  LLIV00ESP               
 LLIV 13436M001        001  2001 04 26 14 00 00  2001 05 09 10 07 00  TRIMBLE 4000SSI                             999999  TRM29659.00     NONE                        999999    0.0000    0.0000    0.0540  LLIV00ESP               
