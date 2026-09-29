@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             29-09-2026 04:04
+BSW 5.4 station information file for EPN processing             29-09-2026 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -180,7 +180,7 @@ HOFJ 14289M001        001  2007 03 07 10 00 00                       HOFJ*      
 HOFN 10204M002        001  1997 05 27 00 00 00                       HOFN*                 hofn00isl_20250224.log
 HUEL 13451M001        001  2001 12 01 00 00 00                       HUEL*                 huel00esp_20240411.log
 IAVH 35001M001        001  1998 02 12 00 00 00  1998 12 28 00 00 00  IAVH*                 iavh00mar_19991115.log
-IBIZ 13454S001        001  2004 10 14 12 00 00                       IBIZ*                 ibiz00esp_20251223.log
+IBIZ 13454S001        001  2004 10 14 12 00 00                       IBIZ*                 ibiz00esp_20260929.log
 IENG 12724S001        001  2001 10 04 09 00 00                       IENG*                 ieng00ita_20230704.log
 IGD1 12605M001        001  2004 07 21 00 00 00  2005 06 18 00 00 00  IGD1*                 igd100grc_20050316.log
 IGEO 15101M001        001  2007 07 03 11 00 00                       IGEO*                 igeo00mda_20250929.log
@@ -2989,7 +2989,8 @@ IBIZ 13454S001        001  2017 02 20 14 00 00  2017 02 23 12 00 00  LEICA GR25 
 IBIZ 13454S001        001  2017 02 23 12 00 00  2020 03 24 13 00 00  LEICA GR25                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1000          IBIZ00ESP  IBIZ00ESP               
 IBIZ 13454S001        001  2020 03 24 13 00 00  2021 04 07 00 00 00  LEICA GR25                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1000          IBIZ00ESP  IBIZ00ESP               
 IBIZ 13454S001        001  2021 04 07 00 00 00  2025 12 11 12 00 00  LEICA GR25                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1000          IBIZ00ESP  IBIZ00ESP               
-IBIZ 13454S001        001  2025 12 11 12 00 00                       LEICA GR25                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1000          IBIZ00ESP  IBIZ00ESP               
+IBIZ 13454S001        001  2025 12 11 12 00 00  2026 08 27 00 00 00  LEICA GR25                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1000          IBIZ00ESP  IBIZ00ESP               
+IBIZ 13454S001        001  2026 08 27 00 00 00                       LEICA GR25                                  999999  TPSCR3_GGD      CONE                        999999    0.0000    0.0000    0.1000          IBIZ00ESP  IBIZ00ESP               
 IENG 12724S001        001  2001 10 04 09 00 00  2016 02 15 17 00 00  ASHTECH Z-XII3T                             999999  ASH701945C_M    NONE                        999999    0.0000    0.0000    0.0000          IENG00ITA  IENG00ITA               
 IENG 12724S001        001  2016 02 15 17 00 00  2018 03 28 00 00 00  ASHTECH Z-XII3T                             999999  ASH701945C_M    NONE                        999999    0.0000    0.0000    0.0000          IENG00ITA  IENG00ITA               
 IENG 12724S001        001  2018 03 28 00 00 00  2019 04 11 07 05 00  SEPT POLARX4TR                              999999  ASH701945C_M    NONE                        999999    0.0000    0.0000    0.0000          IENG00ITA  IENG00ITA               
