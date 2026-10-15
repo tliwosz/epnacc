@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             15-10-2026 09:04
+BSW 5.4 station information file for EPN processing             15-10-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -138,7 +138,7 @@ FFMJ 14279M001        001  2002 02 18 12 00 00                       FFMJ*      
 FINS 10523M001        001  2014 11 13 12 00 00                       FINS*                 fins00fin_20260520.log
 FLRS 31907M001        001  2008 04 09 17 00 00                       FLRS*                 flrs00prt_20260630.log
 FOCS 11443M001        001  2007 03 12 12 00 00                       FOCS*                 focs00rou_20260428.log
-FOYL 13241M001        001  2006 09 01 12 00 00  2026 06 12 09 57 00  FOYL*                 foyl00gbr_20260821.log
+FOYL 13241M001        001  2006 09 01 12 00 00  2026 06 12 09 57 00  FOYL*                 foyl00gbr_20261015.log
 FRA2 15538M002        001  2011 03 16 12 00 00                       FRA2*                 fra200ukr_20250811.log
 FRNE 14607M001        001  2019 07 24 14 30 00                       FRNE*                 frne00ita_20260312.log
 FUN1 13911M002        001  2026 03 16 09 08 00                       FUN1*                 fun100prt_20260507.log
