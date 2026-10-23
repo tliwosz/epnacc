@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             23-10-2026 09:04
+BSW 5.4 station information file for EPN processing             23-10-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -13,7 +13,7 @@ AAER 17916M001        001  2025 01 30 16 00 00                       AAER*      
 ACOR 13434M001        001  1998 12 06 10 10 00                       ACOR*                 acor00esp_20250128.log
 ADAR 19161M001        001  2009 03 04 12 00 00                       ADAR*                 adar00gbr_20260827.log
 AGRN 19584M002        001  2018 05 25 00 00 00                       AGRN*                 agrn00ita_20260312.log
-AJAC 10077M005        001  2000 01 22 00 00 00                       AJAC*                 ajac00fra_20251208.log
+AJAC 10077M005        001  2000 01 22 00 00 00                       AJAC*                 ajac00fra_20261023.log
 ALAC 13433M001        001  1998 03 06 10 10 00                       ALAC*                 alac00esp_20240501.log
 ALBA 13452M001        001  2002 06 20 00 00 00                       ALBA*                 alba00esp_20240315.log
 ALCI 12371S001        001  2003 11 29 10 40 00  2014 07 12 07 00 00  ALCI*                 alci00ukr_20220504.log
