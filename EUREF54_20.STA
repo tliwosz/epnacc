@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             28-10-2026 13:04
+BSW 5.4 station information file for EPN processing             28-10-2026 16:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -181,7 +181,7 @@ HOFN 10204M002        001  1997 05 27 00 00 00                       HOFN*      
 HUEL 13451M001        001  2001 12 01 00 00 00                       HUEL*                 huel00esp_20240411.log
 IAVH 35001M001        001  1998 02 12 00 00 00  1998 12 28 00 00 00  IAVH*                 iavh00mar_19991115.log
 IBIZ 13454S001        001  2004 10 14 12 00 00                       IBIZ*                 ibiz00esp_20260929.log
-IENG 12724S001        001  2001 10 04 09 00 00                       IENG*                 ieng00ita_20230704.log
+IENG 12724S001        001  2001 10 04 09 00 00                       IENG*                 ieng00ita_20261028.log
 IGD1 12605M001        001  2004 07 21 00 00 00  2005 06 18 00 00 00  IGD1*                 igd100grc_20050316.log
 IGEO 15101M001        001  2007 07 03 11 00 00                       IGEO*                 igeo00mda_20250929.log
 IGM2 12701M005        001  2016 12 13 12 00 00                       IGM2*                 igm200ita_20260130.log
@@ -393,7 +393,7 @@ SCIL 19201M001        001  2010 08 18 10 00 00                       SCIL*      
 SCOA 10088M002        001  2005 12 14 12 00 00                       SCOA*                 scoa00fra_20251209.log
 SCOR 43006M002        001  2004 09 12 00 00 00                       SCOR*                 scor00grl_20260921.log
 SFER 13402M004        001  1995 12 18 00 00 00                       SFER*                 sfer00esp_20250811.log
-SHOE 19197M001        001  2005 08 18 00 00 00                       SHOE*                 shoe00gbr_20260622.log
+SHOE 19197M001        001  2005 08 18 00 00 00                       SHOE*                 shoe00gbr_20261028.log
 SID0 12132M001        001  2008 04 01 00 00 00                       SID0*                 sid000srb_20231020.log
 SJDV 10090M001        001  1997 10 14 10 32 00  2022 05 31 09 16 00  SJDV*                 sjdv00fra_20250904.log
 SKE0 10426M001        001  1993 08 01 00 00 00                       SKE0*                 ske000swe_20260721.log
@@ -420,7 +420,7 @@ SUBO 12116M001        001  2009 01 29 07 50 00                       SUBO*      
 SUL5 10113M002        001  2011 06 28 00 00 00                       SUL5*                 sul500dnk_20260126.log
 SULD 10113M001        001  1998 09 01 00 00 00                       SULD*                 suld00dnk_20260126.log
 SULP 12366M001        001  2001 06 10 00 00 00                       SULP*                 sulp00ukr_20250415.log
-SUN6 10440M002        001  2011 09 27 00 00 00                       SUN6*                 sun600swe_20261021.log
+SUN6 10440M002        001  2011 09 27 00 00 00                       SUN6*                 sun600swe_20261028.log
 SUR4 10601M002        001  2011 09 21 11 27 00                       SUR4*                 sur400est_20260817.log
 SUUR 10601M001        001  1998 09 27 00 00 00  2011 09 21 12 00 00  SUUR*                 suur00est_20260817.log
 SVE6 10441M002        001  2011 07 08 00 00 00                       SVE6*                 sve600swe_20261021.log
@@ -5785,7 +5785,8 @@ SHOE 19197M001        001  2023 09 04 14 50 00  2024 03 26 08 45 00  TRIMBLE ALL
 SHOE 19197M001        001  2024 03 26 08 45 00  2025 05 13 09 35 00  TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SHOE00GBR  SHOE00GBR               
 SHOE 19197M001        001  2025 05 13 09 35 00  2026 06 01 12 42 00  TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SHOE00GBR  SHOE00GBR               
 SHOE 19197M001        001  2026 06 01 12 42 00  2026 06 18 10 20 00  TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SHOE00GBR  SHOE00GBR               
-SHOE 19197M001        001  2026 06 18 10 20 00                       TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SHOE00GBR  SHOE00GBR               
+SHOE 19197M001        001  2026 06 18 10 20 00  2026 10 28 15 30 00  TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SHOE00GBR  SHOE00GBR               
+SHOE 19197M001        001  2026 10 28 15 30 00                       TRIMBLE ALLOY                               999999  TRM55971.00     NONE                        999999    0.0000    0.0000    0.0000          SHOE00GBR  SHOE00GBR               
 SID0 12132M001        001  2008 04 01 00 00 00  2009 01 29 00 00 00  TRIMBLE 5700                                999999  TRM41249.00     NONE                        999999    0.0000    0.0000    0.0000          SID000SRB  SID000SRB               
 SID0 12132M001        001  2009 01 29 00 00 00  2011 07 01 00 00 00  TRIMBLE 5700                                999999  TRM39105.00     NONE                        999999    0.0000    0.0000    0.0000          SID000SRB  SID000SRB               
 SID0 12132M001        001  2011 07 01 00 00 00  2017 10 04 12 45 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          SID000SRB  SID000SRB               
@@ -6170,7 +6171,8 @@ SUN6 10440M002        001  2020 06 16 14 00 00  2022 11 08 10 00 00  TRIMBLE NET
 SUN6 10440M002        001  2022 11 08 10 00 00  2025 04 10 14 20 00  TRIMBLE ALLOY                               999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
 SUN6 10440M002        001  2025 04 10 14 20 00  2026 03 24 12 00 00  TRIMBLE ALLOY                               999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
 SUN6 10440M002        001  2026 03 24 12 00 00  2026 10 21 12 00 00  TRIMBLE ALLOY                               999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
-SUN6 10440M002        001  2026 10 21 12 00 00                       TRIMBLE ALLOY                               999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
+SUN6 10440M002        001  2026 10 21 12 00 00  2026 10 28 12 30 00  TRIMBLE ALLOY                               999999  LEIAR20         LEIM                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
+SUN6 10440M002        001  2026 10 28 12 30 00                       TRIMBLE ALLOY                               999999  TPSCR.G5        OSOS                        999999    0.0000    0.0000    0.0030          SUN600SWE  SUN600SWE               
 SUR4 10601M002        001  2011 09 21 11 27 00  2011 10 04 10 15 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          SUR400EST  SUR400EST               
 SUR4 10601M002        001  2011 10 04 10 15 00  2011 10 06 08 03 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          SUR400EST  SUR400EST               
 SUR4 10601M002        001  2011 10 06 08 03 00  2011 11 17 09 34 00  LEICA GRX1200GGPRO                          999999  LEIAT504GG      LEIS                        999999    0.0000    0.0000    0.0000          SUR400EST  SUR400EST               
