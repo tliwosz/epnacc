@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             06-11-2026 09:04
+BSW 5.4 station information file for EPN processing             06-11-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -236,7 +236,7 @@ LAMA 12209M001        001  1994 12 01 00 00 00                       LAMA*      
 LAMP 12706M002        001  1999 03 25 00 00 00                       LAMP*                 lamp00ita_20260313.log
 LARM 12610M002        001  2011 01 15 00 00 00                       LARM*                 larm00grc_20201009.log
 LCRA 18491M001        001  2018 06 22 00 00 00                       LCRA*                 lcra00ita_20260316.log
-LDB2 14114M002        001  2005 10 25 10 00 00                       LDB2*                 ldb200deu_20261022.log
+LDB2 14114M002        001  2005 10 25 10 00 00                       LDB2*                 ldb200deu_20261106.log
 LEIJ 14267M001        001  2001 07 03 12 00 00                       LEIJ*                 leij00deu_20261022.log
 LEK6 10433M002        001  2011 06 15 00 00 00                       LEK6*                 lek600swe_20261020.log
 LEON 13475M001        001  2007 03 26 00 00 00                       LEON*                 leon00esp_20240318.log
