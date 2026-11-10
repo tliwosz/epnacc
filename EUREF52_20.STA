@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          10-11-2026 09:04
+Station information file for Bernese GNSS Software 5.2          10-11-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -349,7 +349,7 @@ PLYM 13229S001        001  2002 01 23 00 00 00  2004 02 12 23 59 00  PLYM*      
 PMTH 13229M001        001  2004 02 13 00 00 00                       PMTH*                 pmth00gbr_20260910.log
 POLV 12336M001        001  2001 04 26 16 45 00                       POLV*                 polv00ukr_20250613.log
 POPI 14670M001        001  2021 07 01 10 00 00                       POPI*                 popi00ita_20260316.log
-PORE 11907M001        001  2008 12 09 00 00 00                       PORE*                 pore00hrv_20260226.log
+PORE 11907M001        001  2008 12 09 00 00 00                       PORE*                 pore00hrv_20261110.log
 POTS 14106M003        001  1994 10 28 00 00 00                       POTS*                 pots00deu_20250321.log
 POUS 11518M001        001  2003 10 20 12 00 00                       POUS*                 pous00cze_20200219.log
 POZE 11908M001        001  2008 12 09 00 00 00                       POZE*                 poze00hrv_20261110.log
@@ -5204,7 +5204,8 @@ PORE 11907M001        001  2020 11 20 00 00 00  2021 04 15 09 00 00  TRIMBLE ALL
 PORE 11907M001        001  2021 04 15 09 00 00  2024 03 17 20 30 00  TRIMBLE ALLOY                               999999  TRM115000.00    TZGD                        999999    0.0000    0.0000    0.0000  PORE00HRV               
 PORE 11907M001        001  2024 03 17 20 30 00  2025 04 28 19 00 00  TRIMBLE ALLOY                               999999  TRM115000.00    TZGD                        999999    0.0000    0.0000    0.0000  PORE00HRV               
 PORE 11907M001        001  2025 04 28 19 00 00  2026 02 23 19 00 00  TRIMBLE ALLOY                               999999  TRM115000.00    TZGD                        999999    0.0000    0.0000    0.0000  PORE00HRV               
-PORE 11907M001        001  2026 02 23 19 00 00                       TRIMBLE ALLOY                               999999  TRM115000.00    TZGD                        999999    0.0000    0.0000    0.0000  PORE00HRV               
+PORE 11907M001        001  2026 02 23 19 00 00  2026 11 09 20 40 00  TRIMBLE ALLOY                               999999  TRM115000.00    TZGD                        999999    0.0000    0.0000    0.0000  PORE00HRV               
+PORE 11907M001        001  2026 11 09 20 40 00                       TRIMBLE ALLOY                               999999  TRM115000.00    TZGD                        999999    0.0000    0.0000    0.0000  PORE00HRV               
 POTS 14106M003        001  1994 10 28 00 00 00  1995 10 03 08 00 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0460  POTS00DEU               
 POTS 14106M003        001  1995 10 03 08 00 00  1996 01 16 13 48 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0460  POTS00DEU               
 POTS 14106M003        001  1996 01 16 13 48 00  1996 05 30 08 01 00  ROGUE SNR-8000                              999999  AOAD/M_T        NONE                        999999    0.0000    0.0000    0.0460  POTS00DEU               
