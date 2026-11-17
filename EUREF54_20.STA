@@ -1,4 +1,4 @@
-BSW 5.4 station information file for EPN processing             17-11-2026 04:04
+BSW 5.4 station information file for EPN processing             17-11-2026 09:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.03
@@ -287,7 +287,7 @@ MKRS 15599M001        001  2008 11 30 00 00 00  2024 12 04 08 55 00  MKRS*      
 MLHD 13640M001        001  2020 11 06 12 30 00                       MLHD*                 mlhd00irl_20260413.log
 MLVL 10092M001        001  2000 01 22 00 00 00                       MLVL*                 mlvl00fra_20251208.log
 MMET 14681M001        001  2004 05 24 00 00 00                       MMET*                 mmet00ita_20260316.log
-MNKW 14802M002        001  2010 02 01 00 00 00                       MNKW*                 mnkw00blr_20240808.log
+MNKW 14802M002        001  2010 02 01 00 00 00                       MNKW*                 mnkw00blr_20261117.log
 MNSK 14802M001        001  2002 02 07 08 20 00  2026 10 20 00 00 00  MNSK*                 mnsk00blr_20261020.log
 MOGI 14807M001        001  2011 06 01 00 00 00  2026 10 20 00 00 00  MOGI*                 mogi00blr_20261020.log
 MOP2 11507M002        001  2007 12 05 15 00 00                       MOP2*                 mop200svk_20260818.log
