@@ -1,4 +1,4 @@
-Station information file for Bernese GNSS Software 5.2          27-11-2026 09:04
+Station information file for Bernese GNSS Software 5.2          27-11-2026 13:04
 --------------------------------------------------------------------------------
 
 FORMAT VERSION: 1.01
@@ -444,7 +444,7 @@ TLL1 13630M002        001  2017 10 27 15 00 00                       TLL1*      
 TLLG 13630M001        001  2007 03 06 00 00 00  2019 01 03 00 00 00  TLLG*                 tllg00irl_20260413.log
 TLMF 10003M010        001  2002 06 18 00 00 00                       TLMF*                 tlmf00fra_20251209.log
 TLSE 10003M009        001  2001 01 04 00 00 00                       TLSE*                 tlse00fra_20250820.log
-TLSG 10003M034        001  2014 02 12 00 00 00                       TLSG*                 tlsg00fra_20250826.log
+TLSG 10003M034        001  2014 02 12 00 00 00                       TLSG*                 tlsg00fra_20261127.log
 TOIL 10605S001        001  2007 11 22 10 45 00  2026 06 10 11 00 00  TOIL*                 toil00est_20260817.log
 TOPP 14604M001        001  2019 07 23 10 00 00                       TOPP*                 topp00ita_20260316.log
 TOR1 17018M001        001  2015 01 15 00 00 00                       TOR1*                 tor100esp_20261020.log
